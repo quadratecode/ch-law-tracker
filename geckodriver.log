@@ -1,0 +1,13 @@
+1635585110768	geckodriver	INFO	Listening on 127.0.0.1:50939
+1635585110772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "53263" "-no-remote" "-profile" "/tmp/rust_mozprofile445C91"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1635585113160	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile445C91/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53263/devtools/browser/98f754ee-8a0f-444b-b0ff-b2f65a64da32
+1635585115729	Marionette	INFO	Listening on port 36873
+1635585115819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

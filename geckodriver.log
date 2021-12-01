@@ -76,3 +76,16 @@ DevTools listening on ws://localhost:49243/devtools/browser/608721fd-c2df-4b30-b
 1638148105358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638341443279	geckodriver	INFO	Listening on 127.0.0.1:46487
+1638341443283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "55221" "-no-remote" "-profile" "/tmp/rust_mozprofileUufYPI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1638341446593	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUufYPI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55221/devtools/browser/33652a01-dd91-4ae8-9b7e-c2624421fa50
+1638341449838	Marionette	INFO	Listening on port 38787
+1638341449976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

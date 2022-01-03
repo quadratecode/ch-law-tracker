@@ -25,7 +25,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 # Swiss Civil Code
 
-of 10 December 1907 (Status as of 1 January 2021) 
+of 10 December 1907 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -34,9 +34,9 @@ and having considered the Dispatch of the Federal Council dated 28 May 1904,
 
 decrees:
 
-# [Introduction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410)
+# [Introduction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0)
 
-## [A. Application of the law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_A)
+## [A. Application of the law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_A)
 
 [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_1) 
 
@@ -46,9 +46,9 @@ decrees:
 
 [3] In doing so, the court shall follow established doctrine and case law.
 
-## [B. Scope and limits of legal relationships](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_B)
+## [B. Scope and limits of legal relationships](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_B)
 
-### [I. Acting in good faith](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_B/lvl_I)
+### [I. Acting in good faith](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_B/lvl_I)
 
 [**Art. 2**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_2) 
 
@@ -56,7 +56,7 @@ decrees:
 
 [2] The manifest abuse of a right is not protected by law.
 
-### [II. Good faith](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_B/lvl_I_I)
+### [II. Good faith](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_B/lvl_I_I)
 
 [**Art. 3**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_3) 
 
@@ -64,15 +64,15 @@ decrees:
 
 [2] No person may invoke the presumption of good faith if he or she has failed exercise the diligence required by the circumstances.
 
-### [III. Judicial](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_B/lvl_II_I) [discretion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_B/lvl_II_I)
+### [III. Judicial](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_B/lvl_II_I) [discretion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_B/lvl_II_I)
 
 [**Art. 4**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_4) 
 
 Where the law confers discretion on the court or makes reference to an assessment of the circumstances or to good cause, the court must reach its decision in accordance with the principles of justice and equity.
 
-## [C. Federal law and cantonal law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_C)
+## [C. Federal law and cantonal law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_C)
 
-### [I. Cantonal civil law and local custom](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_C/lvl_I)
+### [I. Cantonal civil law and local custom](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_C/lvl_I)
 
 [**Art. 5**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_5) 
 
@@ -80,7 +80,7 @@ Where the law confers discretion on the court or makes reference to an assessmen
 
 [2] Where the law makes reference to practice or local custom, the existing cantonal law is deemed a valid expression thereof, provided no divergent practice is shown to exist.
 
-### [II. Cantonal public law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_C/lvl_I_I)
+### [II. Cantonal public law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_C/lvl_I_I)
 
 [**Art. 6**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_6) 
 
@@ -88,21 +88,21 @@ Where the law confers discretion on the court or makes reference to an assessmen
 
 [2] The cantons are entitled within the limits of their sovereignty to restrict or prohibit the trade in certain goods or to declare transactions involving such goods legally invalid.
 
-## [D. General provisions of the Code of Obligations](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_D)
+## [D. General provisions of the Code of Obligations](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_D)
 
 [**Art. 7**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_7) 
 
 The general provisions of the Code of Obligations concerning the formation, performance and termination of contracts also apply to other civil law matters.
 
-## [E. Rules of evidence](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_E)
+## [E. Rules of evidence](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_E)
 
-### [I. Burden of proof](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_E/lvl_I)
+### [I. Burden of proof](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_E/lvl_I)
 
 [**Art. 8**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_8) 
 
 Unless the law provides otherwise, the burden of proving the existence of an alleged fact shall rest on the person who derives rights from that fact.
 
-### [II. Proof by public document](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e6410/lvl_E/lvl_I_I)
+### [II. Proof by public document](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_0/lvl_E/lvl_I_I)
 
 [**Art. 9**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_9) 
 
@@ -340,9 +340,21 @@ Adults subject to a general deputyship are domiciled at the location of the adul
 
 [4] The cantons shall designate an authority which in urgent cases may order the immediate expulsion of the offending party from the joint dwelling and shall enact rules governing the procedure.
 
+###### [c. Electronic monitoring](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_2/lvl_c)
+
+[**Art. 28***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_c)
+
+[1] The court that issues an injunction pursuant to the provision on violence, threats or harassment, and the enforcement court, may on the applicant's request order the use of an electronic device that is securely attached to the offending party and which can continuously ascertain and record his or her location.
+
+[2] The measure may be ordered for a maximum of six months. It may be extended by a maximum of six months at a time. As a precautionary measure, the measure may be ordered for a maximum period of six months.
+
+[3] The cantons shall designate an authority that is responsible for enforcing the measure, and shall regulate the enforcement procedure. They shall ensure that the data recorded on the persons concerned are used only to enforce the injunction and are deleted twelve months at the latest after termination of the measure.
+
+[4] The applicant must not incur any costs from the enforcement of the measure. The person monitored may be charged the costs of the measure.
+
 ###### [3. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_3)
 
-[**Art. 28***c–***28***f*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28)
+[**Art. 28***d–***28***f*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28) 
 
 ###### [4. Right of reply](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4)
 
@@ -417,6 +429,23 @@ Adults subject to a general deputyship are domiciled at the location of the adul
 [**Art. 30***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_30_a)
 
 A person whose spouse dies may, if that person changed his or her surname on marriage, at any time declare before the civil registrar the wish to revert to the name by which he or she was known prior to the marriage.
+
+##### [IV. In relation to gender](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_V)
+
+[**Art. 30***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_30_b)
+
+[1] Any person who is firmly convinced that they are not of the gender entered in their respect in the civil register may declare to the civil registrar that they wish to have the entry changed.
+
+[2] The person making the declaration may have one or more new first names entered in the civil register.
+
+[3] The declaration has no legal effect on family relationships.
+
+[4] The consent of the legal representative is required if:
+
+
+|    1. the person making the declaration is under the age of 16;  
+|    2. the person making the declaration is subject to a general deputyship; or  
+|    3. the adult protection authority has so ordered.
 
 #### [C. Beginning and end of personality rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_C)
 
@@ -1171,8 +1200,9 @@ Having heard the board of trustees, the supervisory authority may make minor ame
 |    3*b*. the provisional continuation of insurance and of the entitlement to benefits on the reduction or termination of the invalidity pension (Art. 26*a*);  
 |    4. the adjustment of plan benefits to inflation (Art. 36 para. 2–4);  
 |    4*a*. the agreement on a lump sum payment (Art. 37*a*);   
+|    4*b*. the measures in the case of neglect of maintenance obligations (Art. 40);  
 |    5. the prescription of claims and the safekeeping of insurance documents (Art. 41);  
-|    5*a*.  the use, processing and disclosure of the OASI number for the Old Age and Survivors’ Insurance (Art. 48 para. 4, Art. 85*a* lit. f and Art. 86*a* para. 2 lit. bbis);  
+|    5*a*.  the use, processing and disclosure of the OASI number (Art. 48 para. 4, Art. 85*a* lit. f and Art. 86*a* para. 2 lit. bbis);  
 |    6. liability (Art. 52);  
 |    7. the licensing and duties of the supervisory bodies   
 (Art. 52*a*–52*e*);  
@@ -7690,7 +7720,7 @@ The costs of any structures required for the exercise of rights under the law of
 
 [**Art. 699**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_699) 
 
-[1] Any person has the right to enter woodlands and meadows and to gather wild berries, fungi and the like to the extent permitted by local custom except where the competent authority enacts specific limited prohibitions in the interests of conservation.
+[1] Any person has the right to enter woodlands and meadows and to gather wild berries, fungi and the like to the extent permitted by local custom except where the competent authority enacts specific limited injunctions in the interests of conservation.
 
 [2] Cantonal law may enact more detailed regulations on access to land owned by others for the purposes of hunting and fishing.
 
@@ -10642,14 +10672,14 @@ The land register may delete an entry *ex officio* if the entry:
 
 [3] The land registrar may correct typographical errors of his or her own accord in accordance with regulations to be issued by the Federal Council.
 
-# [Final Title: Commencement and Implementing Provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857)
+# [Final Title: Commencement and Implementing Provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862)
 
 
-## [Chapter One: Application of Former and New Law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1)
+## [Chapter One: Application of Former and New Law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1)
 
-### [A. General provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_A)
+### [A. General provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_A)
 
-#### [I. General rule of non-retroactive effect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_A/lvl_I)
+#### [I. General rule of non-retroactive effect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_A/lvl_I)
 
 [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_1) 
 
@@ -10659,9 +10689,9 @@ The land register may delete an entry *ex officio* if the entry:
 
 [3] However, circumstances occurring after the commencement hereof are subject to the new law, unless this Code provides otherwise.
 
-#### [II. Retroactive effect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_A/lvl_I_I)
+#### [II. Retroactive effect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_A/lvl_I_I)
 
-##### [1. Public policy and good morals](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_A/lvl_I_I/lvl_1)
+##### [1. Public policy and good morals](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_A/lvl_I_I/lvl_1)
 
 [**Art. 2**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_2) 
 
@@ -10669,21 +10699,21 @@ The land register may delete an entry *ex officio* if the entry:
 
 [2] Accordingly, provisions of the previous law which under the new law are deemed to contravene public policy and good morals cease to apply when the new law comes into force.
 
-##### [2. Relationships defined by law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_A/lvl_I_I/lvl_2)
+##### [2. Relationships defined by law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_A/lvl_I_I/lvl_2)
 
 [**Art. 3**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_3) 
 
 When this Code comes into force, legal relationships whose content is defined by law irrespective of the will of the parties concerned are subject to the new law, even if previously such relationships were valid.
 
-##### [3. Non-vested rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_A/lvl_I_I/lvl_3)
+##### [3. Non-vested rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_A/lvl_I_I/lvl_3)
 
 [**Art. 4**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_4) 
 
 The legal effects of circumstances which occurred while the previous law was still in force and which enjoy no protection under the new law are subject to the latter once it has come into force.
 
-### [B. Law of persons](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_B)
+### [B. Law of persons](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_B)
 
-#### [I. Capacity to act](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_B/lvl_I)
+#### [I. Capacity to act](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_B/lvl_I)
 
 [**Art. 5**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_5) 
 
@@ -10691,7 +10721,7 @@ The legal effects of circumstances which occurred while the previous law was sti
 
 [2] However, any person who has the capacity to act under the previous law when this Code comes into force but who would not have the capacity to act under the new law will also be recognised as having the capacity to act when this Code comes into force.
 
-#### [II. Presumed death](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_B/lvl_I_I)
+#### [II. Presumed death](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_B/lvl_I_I)
 
 [**Art. 6**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_6) 
 
@@ -10701,7 +10731,7 @@ The legal effects of circumstances which occurred while the previous law was sti
 
 3 Proceedings ongoing when the new law comes into force shall be restarted in accordance with the provisions of this Code, taking account of the time that has elapsed, or, if requested by the parties, concluded in accordance with the previous procedure, respecting the previous deadlines.
 
-#### [II*a*. Central civil register database](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_B/lvl_II_a)
+#### [II*a*. Central civil register database](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_B/lvl_II_a)
 
 [**Art. 6***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_6_a)
 
@@ -10709,9 +10739,9 @@ The legal effects of circumstances which occurred while the previous law was sti
 
 [2] The Confederation assumes the capital investment costs up to an amount of 5 million francs.
 
-#### [III. Legal entities](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_B/lvl_II_I)
+#### [III. Legal entities](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_B/lvl_II_I)
 
-##### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_B/lvl_II_I/lvl_1)
+##### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_B/lvl_II_I/lvl_1)
 
 [**Art. 6***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_6_b)
 
@@ -10723,21 +10753,21 @@ The legal effects of circumstances which occurred while the previous law was sti
 
 [3] The status of the legal personality of all legal entities is determined by the new law as soon as this Code comes into force.
 
-##### [2. Accounting and auditors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_B/lvl_II_I/lvl_2)
+##### [2. Accounting and auditors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_B/lvl_II_I/lvl_2)
 
 [**Art. 6***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_6_c)
 
 The provisions of the Amendment of 16 December 2005 relating to accounting and auditors apply from first financial year that begins on or after the commencement of this Code.
 
-#### [IV. Protection of the individual against violence, threats or stalking](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_B/lvl_I_V)
+#### [IV. Protection of the individual against violence, threats or stalking](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_B/lvl_I_V)
 
 [**Art. 6***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_6_d)
 
 The new law applies to proceedings that are already pending when the amendment of 14 December  2018 comes into force.
 
-### [C. Family law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C)
+### [C. Family law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C)
 
-#### [I. Marriage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I)
+#### [I. Marriage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I)
 
 [**Art. 7**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_7)
 
@@ -10745,9 +10775,9 @@ The new law applies to proceedings that are already pending when the amendment o
 
 [2] Marriages subject to grounds for annulment under the previous law may, once the new law has come into force, only be annulled under the new law. However the period that has lapsed before this date will be taken into account in determining time limits.
 
-#### [I[bis]. Divorce](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_bis)
+#### [I[bis]. Divorce](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_bis)
 
-##### [1. Principle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_bis/lvl_1)
+##### [1. Principle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_bis/lvl_1)
 
 [**Art. 7***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_7_a)
 
@@ -10757,7 +10787,7 @@ The new law applies to proceedings that are already pending when the amendment o
 
 [3] Any amendment of the divorce decree is carried out in accordance with the previous law with the exception of the provisions on children and procedural matters.
 
-##### [2. Pending divorce proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_bis/lvl_2)
+##### [2. Pending divorce proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_bis/lvl_2)
 
 [**Art. 7***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_7_b)
 
@@ -10767,13 +10797,13 @@ The new law applies to proceedings that are already pending when the amendment o
 
 [3] The Federal Supreme Court decides in accordance with the previous law in cases where the contested judgment was issued before the commencement of the Federal Act of 26 June 1998; this also applies if the case is referred back to the cantonal authority.
 
-##### [3. Period of separation for pending divorce proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_bis/lvl_3)
+##### [3. Period of separation for pending divorce proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_bis/lvl_3)
 
 [**Art. 7***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_7_c)
 
 For divorce proceedings that are pending on commencement of the Amendment of 19 December 2003 and must be judged by a cantonal authority, the period of separation under the new law applies.
 
-##### [4. Occupational pension](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_bis/lvl_4)
+##### [4. Occupational pension](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_bis/lvl_4)
 
 [**Art. 7***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_7_d)
 
@@ -10783,7 +10813,7 @@ For divorce proceedings that are pending on commencement of the Amendment of 19�
 
 [3] When the contested decision was made before the amendment of 19 June 2015 came into force, the Federal Supreme Court shall decide under previous law; this also applies when a case is referred back to the cantonal court.
 
-##### [5. Conversion of existing pensions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_bis/lvl_5)
+##### [5. Conversion of existing pensions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_bis/lvl_5)
 
 [**Art. 7***e*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_7_e)
 
@@ -10793,35 +10823,35 @@ For divorce proceedings that are pending on commencement of the Amendment of 19�
 
 [3] Any pension payments already made under previous law are considered part of the pension awarded.
 
-#### [I[ter]. Effects the marriage in general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_ter)
+#### [I[ter]. Effects the marriage in general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_ter)
 
-##### [1. Principle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_ter/lvl_1)
+##### [1. Principle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_ter/lvl_1)
 
 [**Art. 8**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_8)
 
 For the effects of the marriage in general, the new law applies as soon as the Federal Act of 5 October 1984 has come into force.
 
-##### [2. Surname](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_ter/lvl_2)
+##### [2. Surname](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_ter/lvl_2)
 
 [**Art. 8***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_8_a)
 
 A spouse who changed his or her name on marriage before the amendment to this Code of 30 September 2011 came into force may declare to the civil registrar at any time that he or she wishes to use his or her name before marriage again.
 
-##### [3. Citizenship](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_ter/lvl_3)
+##### [3. Citizenship](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_ter/lvl_3)
 
 [**Art. 8***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_8_b)
 
 A Swiss woman who married under the previous law may within one year of the new law coming into force declare to the competent authority of her former canton of origin that she wishes to retain the citizenship that she held as a single woman.
 
-#### [II. Marital property law applicable to marriages contracted before 1 January 1912](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_I)
+#### [II. Marital property law applicable to marriages contracted before 1 January 1912](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_I)
 
 [**Art. 9**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_9)
 
 The legal effects on marital property of marriages contracted before 1 January 1912 are governed by the provisions of the Civil Code on the application of the previous and new law that came into force on that day.
 
-#### [II[bis]. Marital property law applicable to marriages contracted after 1 January 1912](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis)
+#### [II[bis]. Marital property law applicable to marriages contracted after 1 January 1912](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis)
 
-##### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_1)
+##### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_1)
 
 [**Art. 9***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_9_a)
 
@@ -10829,9 +10859,9 @@ The legal effects on marital property of marriages contracted before 1 January 1
 
 [2] The legal effects on marital property of marriages that were dissolved before the Federal Act of 5 October 1984 came into force are governed by the previous law.
 
-##### [2. Change from a union of property to participation in acquired property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_2)
+##### [2. Change from a union of property to participation in acquired property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_2)
 
-###### [a. Change to the bodies of assets](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_a)
+###### [a. Change to the bodies of assets](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_a)
 
 [**Art. 9***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_9_b)
 
@@ -10841,13 +10871,13 @@ The legal effects on marital property of marriages contracted before 1 January 1
 
 [3] The wife reclaims the property she brought into the marriage that became her husband's property or makes a claim for compensation.
 
-###### [b. Preferential right](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_b)
+###### [b. Preferential right](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_b)
 
 [**Art. 9***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_9_c)
 
 In the event of the husband's bankruptcy and the distraint of his assets, the previous provisions on the wife's right to compensation in respect of property that she has brought into the marriage and which is no longer available continue to apply for ten years after the new law comes into force.
 
-###### [c. Division of marital property under the new law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_c)
+###### [c. Division of marital property under the new law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_c)
 
 [**Art. 9***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_9_d)
 
@@ -10857,7 +10887,7 @@ In the event of the husband's bankruptcy and the distraint of his assets, the pr
 
 [3] If the marital property regime is dissolved because an action filed before the new law comes into force is upheld, the division of marital property is governed by the previous law.
 
-##### [3. Retention of the union of property regime](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_3)
+##### [3. Retention of the union of property regime](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_3)
 
 [**Art. 9***e*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_9_e)
 
@@ -10867,15 +10897,26 @@ In the event of the husband's bankruptcy and the distraint of his assets, the pr
 
 [3] The new regulations on the separation of property apply in future to the spouses' separate property.
 
-##### [4. Retention of separation of property by operation of law or by court order](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_4)
+##### [4. Retention of separation of property by operation of law or by court order](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_4)
 
 [**Art. 9***f*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_9_f)
 
 In the case of a separation of property established by operation of the law or by court order, the spouses are subject to the new provisions on the separation of property.
 
-##### [5. Marital agreement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_5)
+##### [4*a*. Marital property law applicable to same-sex marriages contracted abroad before the full entry into force of the Amendment of 18 December 2020](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_4_a)
 
-###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_a)
+
+[**Art. 9***g*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_9_g)
+
+[1 …]
+
+[2] Before this Amendment enters into force in full, either spouse may give written notice to the other that the current marital property regime will be maintained in accordance with Article 18 of the Same-Sex Partnership Act of 18 June 2004 (SSPA) until the date of full entry into force.
+
+[3] and [4] ...
+
+##### [5. Marital agreement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_5)
+
+###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_a)
 
 [**Art. 10**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_10)
 
@@ -10885,7 +10926,7 @@ In the case of a separation of property established by operation of the law or b
 
 [3] Agreements on participation in a surplus or deficit in the case of a union of property regime must not adversely affect the statutory inheritance entitlements of children who are not the common issue of the spouses or those of the issue of such children.
 
-###### [b. Legal effect in relation to third parties](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_b)
+###### [b. Legal effect in relation to third parties](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_b)
 
 [**Art. 10***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_10_a)
 
@@ -10893,7 +10934,7 @@ In the case of a separation of property established by operation of the law or b
 
 [2] If the marital property agreement has no legal effect in relation to third parties, the provisions on participation in acquired property apply from now on in relation to such parties.
 
-###### [c. Application of the new law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_c)
+###### [c. Application of the new law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_c)
 
 [**Art. 10***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_10_b)
 
@@ -10901,19 +10942,19 @@ In the case of a separation of property established by operation of the law or b
 
 [2] In this event, contractual participation in the surplus shall in future apply to the total amount of the surplus of both spouses, unless a marital property agreement provides otherwise.
 
-###### [d. Contractual separation of property according to previous law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_d)
+###### [d. Contractual separation of property according to previous law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_d)
 
 [**Art. 10***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_10_c)
 
 If the spouses agreed to a separation of property under the previous law, they are subject in future to the new provisions on the separation of property.
 
-###### [e. Marital agreements concluded with a view to the new law coming into force](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_e)
+###### [e. Marital agreements concluded with a view to the new law coming into force](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_e)
 
 [**Art. 10***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_10_d)
 
 Marital agreements concluded before the Federal Act of 5 October 1984 comes into force but which are intended to take effect only under the new law do not require the approval of the child protection authority.
 
-###### [f. Register of marital property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_f)
+###### [f. Register of marital property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_f)
 
 [**Art. 10***e*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_10_e)
 
@@ -10921,19 +10962,19 @@ Marital agreements concluded before the Federal Act of 5 October 1984 comes int
 
 [2] The right to inspect the register continues to apply.
 
-##### [6. Repayment of debts in the case of separation of assets under the law of marital property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_6)
+##### [6. Repayment of debts in the case of separation of assets under the law of marital property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_6)
 
 [**Art. 11**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_11)
 
 If a separation of assets under the law of marital property in connection with the new law coming into force causes serious difficulties for a spouse who is liable to pay debts or the replace property that is due, he or she may request additional time to pay; the debt must be secured if this is justified by the circumstances.
 
-##### [7. Protection of creditors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_bis/lvl_7)
+##### [7. Protection of creditors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_bis/lvl_7)
 
 [**Art. 11***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_11_a)
 
 If the marital property rights change when the Federal Act of 5 October 1984 comes into force, the provisions on the protection the creditors in the event of a change in the marital property regime govern liability.
 
-#### [III. The parent-child relationship in general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_II_I)
+#### [III. The parent-child relationship in general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_II_I)
 
 [**Art. 12**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_12)
 
@@ -10947,9 +10988,9 @@ If the marital property rights change when the Federal Act of 5 October 1984 com
 
 [5] A parent whose parental responsibility is revoked on divorce may file a request with the competent court only if the divorce was decreed less than five years before the Amendment of 21 June 2013 comes into force.
 
-#### [III[bis]. Adoption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_III_bis)
+#### [III[bis]. Adoption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_III_bis)
 
-##### [1. Continuation of the previous law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_III_bis/lvl_1)
+##### [1. Continuation of the previous law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_III_bis/lvl_1)
 
 [**Art. 12***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_12_a)
 
@@ -10957,13 +10998,13 @@ If the marital property rights change when the Federal Act of 5 October 1984 com
 
 [2] Persons who are not yet 20 years old when the Federal Act of 7 October 1994 comes into force may still be adopted in accordance with the provisions on minority after attaining majority provided the application is filed within two years of the Federal Act coming into force and of their 20th birthday.
 
-##### [2. Pending proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_III_bis/lvl_2)
+##### [2. Pending proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_III_bis/lvl_2)
 
 [**Art. 12***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_12_b)
 
 The new law applies to adoption procedures pending at the time the amendment of 17 June 2016 comes into force.
 
-##### [3. Application of the new law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_III_bis/lvl_3)
+##### [3. Application of the new law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_III_bis/lvl_3)
 
 [**Art. 12***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_12_c)
 
@@ -10971,15 +11012,15 @@ The provisions of the amendment of 17 June 2016 on the confidentiality of adopti
 
 [**Art. 12***c*[bis]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_12_c_bis)
 
-#### [III[ter].[]Contesting a declaration of legitimacy](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_III_ter)
+#### [III[ter].[]Contesting a declaration of legitimacy](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_III_ter)
 
 [**Art. 12***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_12_d)
 
 The contesting of a declaration of legitimacy made under the previous law is governed by analogy by the provisions of the new laws on the contesting of recognition following the parents' marriage.
 
-#### [IV. Paternity actions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_V)
+#### [IV. Paternity actions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_V)
 
-##### [1. Pending actions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_V/lvl_1)
+##### [1. Pending actions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_V/lvl_1)
 
 [**Art. 13**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_13)
 
@@ -10987,7 +11028,7 @@ The contesting of a declaration of legitimacy made under the previous law is gov
 
 [2] The effects until the new law comes into force are determined by the previous law.
 
-##### [2. New actions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_I_V/lvl_2)
+##### [2. New actions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_I_V/lvl_2)
 
 [**Art. 13***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_13_a)
 
@@ -10995,17 +11036,17 @@ The contesting of a declaration of legitimacy made under the previous law is gov
 
 [2] If the Defendant proves that he or she is not the father or is less likely to be the father than another person, the right to claim future maintenance lapses.
 
-#### [IV[bis]. Time limit for declaring or challenging the parent-child relationship](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_IV_bis)
+#### [IV[bis]. Time limit for declaring or challenging the parent-child relationship](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_IV_bis)
 
 [**Art. 13***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_13_b)
 
 Any person who attains majority due to the Federal Act of 7 October 1994 coming into force may in any case file an action within one year to declare or challenge the parent-child relationship.
 
-#### [IV[ter]. Maintenance contributions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_IV_ter)
+#### [IV[ter]. Maintenance contributions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_IV_ter)
 
-##### [1. Existing maintenance titles](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_IV_ter/lvl_1)
+##### [1. Existing maintenance titles](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_IV_ter/lvl_1)
 
-##### [2. Pending proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_IV_ter/lvl_2)
+##### [2. Pending proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_IV_ter/lvl_2)
 
 [**Art. 13***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_13_c)
 
@@ -11017,7 +11058,7 @@ The child may apply for the revision of any maintenance payments set in an appro
 
 [2] When the contested decision was made before the amendment of 20 March 2015 came into force, the Federal Supreme Court shall decide under the previous law; this also applies when a case is referred back to the cantonal court.
 
-#### [IV[quater]. Name of the child](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_IV_quater)
+#### [IV[quater]. Name of the child](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_IV_quater)
 
 [**Art. 13***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_13_d)
 
@@ -11027,9 +11068,9 @@ The child may apply for the revision of any maintenance payments set in an appro
 
 [3] In accordance with Article 270*b*, this shall be subject to the child's consent.
 
-#### [V. Adult protection](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_V)
+#### [V. Adult protection](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_V)
 
-##### [1. Existing measures](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_V/lvl_1)
+##### [1. Existing measures](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_V/lvl_1)
 
 [**Art. 14**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_14)
 
@@ -11041,7 +11082,7 @@ The child may apply for the revision of any maintenance payments set in an appro
 
 [4] Where a doctor based on Article 397*b* paragraph 2 in its version of 1 January 1981 ordered the care-related detention of a mentally ill person, this measure shall continue to apply. The relevant institution shall notify the adult protection authority six months at the latest after the new law comes into force whether it regarded the requirements for hospitalisation to be met. The adult protection authority shall carry out the required enquiries in accordance with the provisions on regular review and if applicable confirm the hospitalisation decision.
 
-##### [2. Pending proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_C/lvl_V/lvl_2)
+##### [2. Pending proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_C/lvl_V/lvl_2)
 
 [**Art. 14***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_14_a)
 
@@ -11051,9 +11092,9 @@ The child may apply for the revision of any maintenance payments set in an appro
 
 [3] The authority shall decide whether and to what extent the previous proceedings require to be amended.
 
-### [D. Succession law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_D)
+### [D. Succession law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_D)
 
-#### [I. Heirs and succession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_D/lvl_I)
+#### [I. Heirs and succession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_D/lvl_I)
 
 [**Art. 15**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_15) 
 
@@ -11061,7 +11102,7 @@ The child may apply for the revision of any maintenance payments set in an appro
 
 [2] The foregoing applies both to heirs and to succession.
 
-#### [II. Testamentary dispositions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_D/lvl_I_I)
+#### [II. Testamentary dispositions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_D/lvl_I_I)
 
 [**Art. 16**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_16) 
 
@@ -11071,9 +11112,9 @@ The child may apply for the revision of any maintenance payments set in an appro
 
 [3] The contesting of a disposition on the grounds that the testator exceeded his or her testamentary freedom or due to the nature of the disposition is governed in the case of all testamentary dispositions by the provisions of the new law if the deceased died after the commencement of this Code.
 
-### [E. Property law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E)
+### [E. Property law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E)
 
-#### [I. Rights in rem in general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_I)
+#### [I. Rights in rem in general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_I)
 
 [**Art. 17**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_17) 
 
@@ -11083,7 +11124,7 @@ The child may apply for the revision of any maintenance payments set in an appro
 
 [3] Rights that can no longer be created under the new law remain subject to the previous law.
 
-#### [II. Right to entry in the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_I_I)
+#### [II. Right to entry in the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_I_I)
 
 [**Art. 18**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_18) 
 
@@ -11093,7 +11134,7 @@ The child may apply for the revision of any maintenance payments set in an appro
 
 [3] The scope of a right in rem established before this Code comes into force by a legal transaction remains recognised under the new law, provided it is compatible with the same.
 
-#### [III. Adverse possession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_II_I)
+#### [III. Adverse possession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_II_I)
 
 [**Art. 19**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_19) 
 
@@ -11101,9 +11142,9 @@ The child may apply for the revision of any maintenance payments set in an appro
 
 [2] If however adverse possession recognised under the new law has begun under the previous law, the time that elapsed before this Code comes into force is taken into account in the calculating the period of adverse possession.
 
-#### [IV. Special rights of ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_I_V)
+#### [IV. Special rights of ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_I_V)
 
-##### [1. Trees on another person's land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_I_V/lvl_1)
+##### [1. Trees on another person's land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_I_V/lvl_1)
 
 [**Art. 20**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_20)
 
@@ -11111,15 +11152,15 @@ The child may apply for the revision of any maintenance payments set in an appro
 
 [2] The cantons shall have the power to limit or revoke these conditions.
 
-##### [2. Condominium](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_I_V/lvl_2)
+##### [2. Condominium](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_I_V/lvl_2)
 
-###### [a. Original](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_a)
+###### [a. Original](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_a)
 
 [**Art. 20**[bis]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_20_bis)
 
 Condominium governed by the former cantonal law is subject to the new provisions of this Code even if the storeys or parts of storeys are not divided into self-contained dwellings or business units.
 
-###### [b. Converted](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_b)
+###### [b. Converted](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_b)
 
 [**Art. 20**[ter]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_20_ter)
 
@@ -11127,13 +11168,13 @@ Condominium governed by the former cantonal law is subject to the new provisions
 
 [2] The new law becomes effective when the corresponding amendment is made to the entries in the land register.
 
-###### [c. Correction of the land registers](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_c)
+###### [c. Correction of the land registers](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_c)
 
 [**Art. 20**[quater]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_20_quater)
 
 In order to make the converted condominium subject to the new regulations and to register existing condominium, the cantons may order the correction of the land registers and issue special procedural regulations for this purpose.
 
-#### [V. Easements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V)
+#### [V. Easements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V)
 
 [**Art. 21**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_21) 
 
@@ -11141,9 +11182,9 @@ In order to make the converted condominium subject to the new regulations and to
 
 [2] Obligations ancillary to easements that were established before the amendment of 11 December 2009 came into force and which are based solely on land register supporting documents may continue to be cited in opposition to third parties who rely on the land register in good faith.
 
-#### [VI. Mortgage rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I)
+#### [VI. Mortgage rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I)
 
-##### [1. Recognition of the existing document of title](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_1)
+##### [1. Recognition of the existing document of title](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_1)
 
 [**Art. 22**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_22) 
 
@@ -11151,7 +11192,7 @@ In order to make the converted condominium subject to the new regulations and to
 
 [2] The cantons have the right to require new versions of existing documents of title to be drawn up on the basis of the new law within specific time limits.
 
-##### [2. Creation of liens](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_2)
+##### [2. Creation of liens](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_2)
 
 [**Art. 23**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_23) 
 
@@ -11159,7 +11200,7 @@ In order to make the converted condominium subject to the new regulations and to
 
 [2]Until the introduction of the land register, the previous cantonal legal forms for their creation remain valid.
 
-##### [3. Repayment of securities](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_3)
+##### [3. Repayment of securities](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_3)
 
 [**Art. 24**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_24) 
 
@@ -11167,7 +11208,7 @@ In order to make the converted condominium subject to the new regulations and to
 
 [2] However, until the introduction of the land register, the forms are governed by cantonal law.
 
-##### [4. Extent of liability under the lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_4)
+##### [4. Extent of liability under the lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_4)
 
 [**Art. 25**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_25) 
 
@@ -11175,9 +11216,9 @@ In order to make the converted condominium subject to the new regulations and to
 
 [2] However, if by virtue of a special agreement the creditor has validly received certain objects with the property pledged, the lien continues to apply to these objects even if they could not be pledged under the new law.
 
-##### [5. Rights and obligations from the mortgage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_5)
+##### [5. Rights and obligations from the mortgage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_5)
 
-###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_a)
+###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_a)
 
 [**Art. 26**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_26) 
 
@@ -11187,19 +11228,19 @@ In order to make the converted condominium subject to the new regulations and to
 
 [3] If the lien applies to two or more parcels of land, liability under the lien continues to be governed by the previous law.
 
-###### [b. Rights to security](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_b)
+###### [b. Rights to security](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_b)
 
 [**Art. 27**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_27) 
 
 The rights of the lien creditor during the existing legal relationship, such as rights to security, and the rights of the debtor are governed by the new law in relation to all liens from the time at which this Code comes into force.
 
-###### [c. Termination, transfer](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_c)
+###### [c. Termination, transfer](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_c)
 
 [**Art. 28**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28) 
 
 For liens existing when this Code comes into force, the termination of the secured debts and the transfer the document of title are governed by the previous law, subject to the reservation of the mandatory provisions of the new law.
 
-##### [6. Ranking](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_6)
+##### [6. Ranking](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_6)
 
 [**Art. 29**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_29) 
 
@@ -11207,7 +11248,7 @@ For liens existing when this Code comes into force, the termination of the secur
 
 [2] Following the introduction of the land register, the ranking of creditors is governed by the land register law contained in this Code.
 
-##### [7. Ranking positions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_7)
+##### [7. Ranking positions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_7)
 
 [**Art. 30**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_30) 
 
@@ -11215,11 +11256,11 @@ For liens existing when this Code comes into force, the termination of the secur
 
 [2] The cantons may enact further transitional provisions.
 
-##### [8. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_8)
+##### [8. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_8)
 
 [**Art. 31**and **32**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_31)
 
-##### [9. Equal status of previous forms of lien with those under the new law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_9)
+##### [9. Equal status of previous forms of lien with those under the new law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_9)
 
 [**Art. 33**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_33) 
 
@@ -11229,7 +11270,7 @@ For liens existing when this Code comes into force, the termination of the secur
 
 [3] ...
 
-##### [10. Continued application of previous law to existing forms of lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_10)
+##### [10. Continued application of previous law to existing forms of lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_10)
 
 [**Art. 33***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_33_a)
 
@@ -11239,15 +11280,15 @@ For liens existing when this Code comes into force, the termination of the secur
 
 [3] Cantonal law may provide for the conversion of land charge certificates created under federal law or earlier law into forms of lien under the current law. Conversion may also involve the introduction of personal liability for the owner of the mortgaged property for minor sums.
 
-##### [11. Conversion the form of the mortgage certificate](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_V_I/lvl_11)
+##### [11. Conversion the form of the mortgage certificate](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_V_I/lvl_11)
 
 [**Art. 33***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_33_b)
 
 The landowner and the mortgage certificate creditors may jointly request in writing that a mortgage certificate on paper recorded before the amendment of 11 December 2009 comes into force be converted into a register mortgage certificate.
 
-#### [VII. Charges on chattels](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_VI_I)
+#### [VII. Charges on chattels](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_VI_I)
 
-##### [1. Provisions on form](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_VI_I/lvl_1)
+##### [1. Provisions on form](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_VI_I/lvl_1)
 
 [**Art. 34**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_34) 
 
@@ -11255,7 +11296,7 @@ The landowner and the mortgage certificate creditors may jointly request in writ
 
 [2] Where a charge on chattels has been created in another form before this time, it is extinguished after a period of six months which begins to run if the debt is due for payment from the date on which the new law comes into force and in other cases from the date on which it becomes due for payment or when termination is permitted.
 
-##### [2. Effect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_VI_I/lvl_2)
+##### [2. Effect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_VI_I/lvl_2)
 
 [**Art. 35**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_35) 
 
@@ -11263,7 +11304,7 @@ The landowner and the mortgage certificate creditors may jointly request in writ
 
 [2] An agreement stipulating that the pledged chattel will become the property of the pledgee in the event of default on the part of the debtor that is concluded before this Code comes into force ceases to be valid from that date.
 
-#### [VIII. Special lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_VII_I)
+#### [VIII. Special lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_VII_I)
 
 [**Art. 36**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_36) 
 
@@ -11273,15 +11314,15 @@ The landowner and the mortgage certificate creditors may jointly request in writ
 
 [3] The effect of special liens originating at an earlier date is subject to the provisions of this Code.
 
-#### [IX. Possession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_I_X)
+#### [IX. Possession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_I_X)
 
 [**Art. 37**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_37) 
 
 When this Code comes into force, possession becomes subject to the new law.
 
-#### [X. Land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X)
+#### [X. Land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X)
 
-##### [1. Establishment of the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_1)
+##### [1. Establishment of the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_1)
 
 [**Art. 38**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_38) 
 
@@ -11289,13 +11330,13 @@ When this Code comes into force, possession becomes subject to the new law.
 
 [2] ...
 
-##### [2. Official cadastral survey](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_2)
+##### [2. Official cadastral survey](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_2)
 
-###### [a. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_2/lvl_a)
+###### [a. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_2/lvl_a)
 
 [**Art. 39**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_39)
 
-###### [b. Relation to the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_2/lvl_b)
+###### [b. Relation to the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_2/lvl_b)
 
 [**Art. 40**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_40) 
 
@@ -11303,7 +11344,7 @@ When this Code comes into force, possession becomes subject to the new law.
 
 [2] With consent of the Confederation, however, the land register may be established beforehand if adequate descriptions of the properties are available.
 
-###### [c. Time schedule](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_2/lvl_c)
+###### [c. Time schedule](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_2/lvl_c)
 
 [**Art. 41**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_41) 
 
@@ -11313,9 +11354,9 @@ When this Code comes into force, possession becomes subject to the new law.
 
 [**Art. 42**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_42)
 
-##### [3. Registration of rights in rem](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_3)
+##### [3. Registration of rights in rem](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_3)
 
-###### [a. Procedure](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_3/lvl_a)
+###### [a. Procedure](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_3/lvl_a)
 
 [**Art. 43**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_43) 
 
@@ -11325,7 +11366,7 @@ When this Code comes into force, possession becomes subject to the new law.
 
 [3] Rights in rem registered under the previous law in public books shall, provided they may be created under the new law, be entered *ex officio* in the land register.
 
-###### [b. Consequences of non-registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_3/lvl_b)
+###### [b. Consequences of non-registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_3/lvl_b)
 
 [**Art. 44**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_44) 
 
@@ -11335,7 +11376,7 @@ When this Code comes into force, possession becomes subject to the new law.
 
 [3] Unregistered public law real burdens and statutory liens under cantonal law created before the amendment of 11 December 2009 comes into force may for a period of ten years from the date on which the amendment comes into force be cited in opposition to third parties who rely on the land register in good faith.
 
-##### [4. Abolished rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_4)
+##### [4. Abolished rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_4)
 
 [**Art. 45**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_45)
 
@@ -11343,7 +11384,7 @@ When this Code comes into force, possession becomes subject to the new law.
 
 [2] If such rights have lapsed for whatever reason, they may not be re-established.
 
-##### [5. Postponement in the introduction of the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_5)
+##### [5. Postponement in the introduction of the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_5)
 
 [**Art. 46**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_46) 
 
@@ -11351,13 +11392,13 @@ When this Code comes into force, possession becomes subject to the new law.
 
 [2] The forms of notice under cantonal law that are intended to guarantee the effects required by the new law must be precisely specified.
 
-##### [6. Introduction of the property law before the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_6)
+##### [6. Introduction of the property law before the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_6)
 
 [**Art. 47**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_47) 
 
 The property law under this Code in general comes into force even if the land registers have not been established.
 
-##### [7. Effect of cantonal forms](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_E/lvl_X/lvl_7)
+##### [7. Effect of cantonal forms](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_E/lvl_X/lvl_7)
 
 [**Art. 48**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_48) 
 
@@ -11367,7 +11408,7 @@ The property law under this Code in general comes into force even if the land re
 
 [3] However, in the event that the land register itself is not introduced or another equivalent institution established, these procedures do not have the same effect as being recorded in the land register in relation to third parties relying thereon in good faith.
 
-### [F. Prescription](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_F)
+### [F. Prescription](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_F)
 
 [**Art. 49**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_49)
 
@@ -11379,23 +11420,23 @@ The property law under this Code in general comes into force even if the land re
 
 [4] Otherwise, the new law governs prescription from the time it comes into force.
 
-### [G. Forms of contract](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_1/lvl_G)
+### [G. Forms of contract](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_1/lvl_G)
 
 [**Art. 50**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_50) 
 
 Contracts concluded before this Code comes into force remain valid even if their form is not in accordance with the provisions of the new law.
 
-## [Chapter Two: Introductory and Transitional Provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2)
+## [Chapter Two: Introductory and Transitional Provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2)
 
-### [A. Repeal of cantonal civil law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_A)
+### [A. Repeal of cantonal civil law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_A)
 
 [**Art. 51**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_51) 
 
 On commencement of the Civil Code, cantonal civil law provisions are repealed unless federal law provides otherwise.
 
-### [B. Supplementary cantonal provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_B)
+### [B. Supplementary cantonal provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_B)
 
-#### [I. Rights and duties of the cantons](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_B/lvl_I)
+#### [I. Rights and duties of the cantons](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_B/lvl_I)
 
 [**Art. 52**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_52) 
 
@@ -11407,7 +11448,7 @@ On commencement of the Civil Code, cantonal civil law provisions are repealed un
 
 [4] Notice of cantonal provisions on other matters must be given to the Federal Office of Justice.
 
-#### [II. Substitute ordinances](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_B/lvl_I_I)
+#### [II. Substitute ordinances](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_B/lvl_I_I)
 
 [**Art. 53**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_53) 
 
@@ -11415,7 +11456,7 @@ On commencement of the Civil Code, cantonal civil law provisions are repealed un
 
 [2] Where a canton refrains from exercising its powers in respect of matters for which supplementary legislation is not indispensable, the provisions of the Civil Code remain applicable.
 
-### [C. Designation of competent authorities](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_C)
+### [C. Designation of competent authorities](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_C)
 
 [**Art. 54**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_54) 
 
@@ -11425,9 +11466,9 @@ On commencement of the Civil Code, cantonal civil law provisions are repealed un
 
 [3] Unless the Civil Procedure Code of 19 December 2008 applies, the cantons regulate proceedings.
 
-### [D. Public deeds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_D)
+### [D. Public deeds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_D)
 
-#### [I. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_D/lvl_I)
+#### [I. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_D/lvl_I)
 
 [**Art. 55**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_55) 
 
@@ -11435,7 +11476,7 @@ On commencement of the Civil Code, cantonal civil law provisions are repealed un
 
 [2] They enact provisions for the drawing up of public deeds in foreign languages.
 
-#### [II. Electronic copies and legalisations](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_D/lvl_I_I)
+#### [II. Electronic copies and legalisations](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_D/lvl_I_I)
 
 [**Art. 55***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_55_a)
 
@@ -11447,7 +11488,7 @@ On commencement of the Civil Code, cantonal civil law provisions are repealed un
 
 [4] The Federal Council shall issue implementing provisions that guarantee the interoperability of computer systems and the integrity, authenticity and security of the data.
 
-### [E. Allocation of water rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_E)
+### [E. Allocation of water rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_E)
 
 [**Art. 56**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_56)
 
@@ -11455,11 +11496,11 @@ Until such time as federal law regulates the allocation of water rights, the fol
 
 Rights to public waters may be recorded in the land register as distinct and permanent rights, provided they have been granted for at least 30 years or indefinitely and are not allocated to a dominant property in the form of an easement.
 
-### [F.–H. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_d16055e3093)
+### [F.–H. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_d4e3100)
 
 [**Art. 57**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_57)
 
-### [J. Debt enforcement and bankruptcy](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_J)
+### [J. Debt enforcement and bankruptcy](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_J)
 
 [**Art. 58**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_58)
 
@@ -11467,7 +11508,7 @@ When this Code comes into force, the Federal Act of 11 April 1889 on Debt enforc
 
 ...
 
-### [K. Application of Swiss and foreign law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_K)
+### [K. Application of Swiss and foreign law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_K)
 
 [**Art. 59**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_59)
 
@@ -11481,7 +11522,7 @@ Art. 7*a*–7*i*
 
 ...
 
-### [L. Repeal of federal civil law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_L)
+### [L. Repeal of federal civil law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_L)
 
 [**Art. 60**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_60)
 
@@ -11491,7 +11532,7 @@ Art. 7*a*–7*i*
 
 [3] The special acts concerning the railways, steamships, the post, telegraph and telephone services, the seizure and compulsory liquidation of railways, the laws relating to factory employment and liability arising from the operation of factories and other enterprises, and all federal laws on matters governed by the Code of Obligations which have been enacted to supplement the Federal Act of 14 June 1881 on the Code of Obligations, remain in force.
 
-### [M. Final Provision](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e2857/chap_2/lvl_M)
+### [M. Final Provision](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e2862/chap_2/lvl_M)
 
 [**Art. 61**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_61)
 
@@ -11499,7 +11540,7 @@ Art. 7*a*–7*i*
 
 [2] Subject to the Federal Assembly’s approval, the Federal Council is authorised to declare individual provisions effective at an earlier date.
 
-# [Text of the Previous Provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e3104) [of Title Six](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e3104)
+# [Text of the Previous Provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e3111) [of Title Six](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e3111)
 
-## [Title Six: Marital Property Law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d16055e3104/tit_6)
+## [Title Six: Marital Property Law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#lvl_d4e3111/tit_6)
 

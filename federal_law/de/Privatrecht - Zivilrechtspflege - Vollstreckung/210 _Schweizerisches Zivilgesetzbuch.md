@@ -23,7 +23,7 @@ IT: presente documento non è una pubblicazione ufficiale. Fa unicamente fede la
 
 # Schweizerisches Zivilgesetzbuch
 
-vom 10. Dezember 1907 (Stand am 1. Januar 2021)
+vom 10. Dezember 1907 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -32,9 +32,9 @@ nach Einsicht in eine Botschaft des Bundesrates vom 28. Mai 1904,
 
 beschliesst:
 
-# [Einleitung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410)
+# [Einleitung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0)
 
-## [A. Anwendung des Rechts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_A)
+## [A. Anwendung des Rechts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_A)
 
 [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_1) 
 
@@ -44,9 +44,9 @@ beschliesst:
 
 [3] Es folgt dabei bewährter Lehre und Überlieferung.
 
-## [B. Inhalt der Rechtsverhältnisse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_B)
+## [B. Inhalt der Rechtsverhältnisse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_B)
 
-### [I. Handeln nach Treu und Glau­ben](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_B/lvl_I)
+### [I. Handeln nach Treu und Glau­ben](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_B/lvl_I)
 
 [**Art. 2**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_2) 
 
@@ -54,7 +54,7 @@ beschliesst:
 
 [2] Der offenbare Missbrauch eines Rechtes findet keinen Rechts­schutz.
 
-### [II. Guter Glaube](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_B/lvl_I_I)
+### [II. Guter Glaube](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_B/lvl_I_I)
 
 [**Art. 3**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_3) 
 
@@ -62,15 +62,15 @@ beschliesst:
 
 [2] Wer bei der Aufmerksamkeit, wie sie nach den Umständen von ihm verlangt werden darf, nicht gutgläubig sein konnte, ist nicht berech­tigt, sich auf den guten Glauben zu berufen.
 
-### [III. Gericht­liches](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_B/lvl_II_I) [Ermessen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_B/lvl_II_I)
+### [III. Gericht­liches](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_B/lvl_II_I) [Ermessen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_B/lvl_II_I)
 
 [**Art. 4**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_4) 
 
 Wo das Gesetz das Gericht auf sein Ermessen oder auf die Würdi­gung der Um­stände oder auf wichtige Gründe verweist, hat es seine Ent­scheidung nach Recht und Billigkeit zu treffen.
 
-## [C. Verhältnis zu den Kantonen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_C)
+## [C. Verhältnis zu den Kantonen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_C)
 
-### [I. Kantonales Zivil­recht und Orts­übung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_C/lvl_I)
+### [I. Kantonales Zivil­recht und Orts­übung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_C/lvl_I)
 
 [**Art. 5**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_5) 
 
@@ -78,7 +78,7 @@ Wo das Gesetz das Gericht auf sein Ermessen oder auf die Würdi­gung der Um­st
 
 [2] Wo das Gesetz auf die Übung oder den Ortsgebrauch verweist, gilt das bisherige kantonale Recht als deren Ausdruck, solange nicht eine abweichende Übung nach­gewiesen ist.
 
-### [II. Öffentliches Recht der Kan­tone](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_C/lvl_I_I)
+### [II. Öffentliches Recht der Kan­tone](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_C/lvl_I_I)
 
 [**Art. 6**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_6) 
 
@@ -86,21 +86,21 @@ Wo das Gesetz das Gericht auf sein Ermessen oder auf die Würdi­gung der Um­st
 
 [2] Sie können in den Schranken ihrer Hoheit den Verkehr mit gewis­sen Arten von Sachen beschränken oder untersagen oder die Rechts­geschäfte über solche Sachen als ungültig bezeichnen.
 
-## [D. Allgemeine Be­stimmungen des Obligationen­rechtes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_D)
+## [D. Allgemeine Be­stimmungen des Obligationen­rechtes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_D)
 
 [**Art. 7**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_7) 
 
 Die allgemeinen Bestimmungen des Obligationenrechtes über die Entste­hung, Erfüllung und Aufhebung der Verträge finden auch Anwendung auf an­dere zivilrechtliche Verhältnisse.
 
-## [E. Beweisregeln](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_E)
+## [E. Beweisregeln](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_E)
 
-### [I. Beweislast](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_E/lvl_I)
+### [I. Beweislast](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_E/lvl_I)
 
 [**Art. 8**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_8) 
 
 Wo das Gesetz es nicht anders bestimmt, hat derjenige das Vorhan­den­sein ei­ner behaupteten Tatsache zu beweisen, der aus ihr Rechte ableitet.
 
-### [II. Beweis mit öf­fentlicher Urkunde](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e6410/lvl_E/lvl_I_I)
+### [II. Beweis mit öf­fentlicher Urkunde](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_0/lvl_E/lvl_I_I)
 
 [**Art. 9**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_9) 
 
@@ -148,7 +148,7 @@ Die Handlungsfähigkeit besitzt, wer volljährig und urteilsfähig ist.
 
 Volljährig ist, wer das 18. Lebensjahr zurückgelegt hat.
 
-###### [c. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_c)
+###### [c. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_c)
 
 [**Art. 15**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_15)
 
@@ -338,9 +338,21 @@ Volljährige unter umfassender Beistandschaft haben ihren Wohnsitz am Sitz der E
 
 [4] Die Kantone bezeichnen eine Stelle, die im Krisenfall die sofortige Ausweisung der verletzenden Person aus der gemeinsamen Wohnung verfügen kann, und regeln das Verfahren.
 
-###### [3. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_3)
+###### [c. Elektronische Über­wachung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_2/lvl_c)
 
-[**Art. 28***c–***28***f*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_28) 
+[**Art. 28***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_28_c)
+
+[1] Das Gericht, das ein Verbot nach der Bestimmung über Gewalt, Drohungen oder Nachstellungen anordnet, sowie das Vollstreckungs­gericht können auf Antrag der klagenden Person die Verwendung einer elektronischen Vorrichtung anordnen, die mit der verletzenden Person fest verbunden ist und mit der ihr Aufenthaltsort fortlaufend ermittelt und aufgezeichnet werden kann.
+
+[2] Die Massnahme kann für höchstens sechs Monate angeordnet wer­den. Sie kann um jeweils höchstens sechs Monate verlängert werden. Vorsorglich kann die Massnahme für höchstens sechs Monate ange­ordnet werden.
+
+[3] Die Kantone bezeichnen eine Stelle, die für den Vollzug der Mass­nahme zuständig ist, und regeln das Vollzugsverfahren. Sie sorgen dafür, dass die aufgezeichneten Daten über die beteiligten Personen nur zur Durchsetzung des Verbots verwendet und spätestens zwölf Monate nach Abschluss der Massnahme gelöscht werden.
+
+[4] Der klagenden Person dürfen aus dem Vollzug der Massnahme keine Kosten entstehen. Die Kosten der Massnahme können der überwachten Person auferlegt werden.
+
+###### [3. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_3)
+
+[**Art. 28***d–***28***f*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_28) 
 
 ###### [4. Recht auf Gegen­­darstellung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4)
 
@@ -384,9 +396,9 @@ Volljährige unter umfassender Beistandschaft haben ihren Wohnsitz am Sitz der E
 
 [1] Verhindert das Medienunternehmen die Ausübung des Gegendar­stel­lungs­rechts, verweigert es die Gegendarstellung oder veröffent­licht es die­se nicht korrekt, so kann der Betroffene das Gericht anru­fen.
 
-[2] ...
+[2] …
 
-[3] und [4] ...
+[3] und [4] …
 
 ##### [III. Recht auf den Namen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_B/lvl_II_I)
 
@@ -406,7 +418,7 @@ Volljährige unter umfassender Beistandschaft haben ihren Wohnsitz am Sitz der E
 
 [1] Die Regierung des Wohnsitzkantons kann einer Person die Änderung des Namens bewilligen, wenn achtenswerte Gründe vorliegen.
 
-[2] ...
+[2] …
 
 [3] Wer durch Namensänderung verletzt wird, kann sie binnen Jahres­frist, nachdem er von ihr Kenntnis erlangt hat, gerichtlich anfechten.
 
@@ -415,6 +427,24 @@ Volljährige unter umfassender Beistandschaft haben ihren Wohnsitz am Sitz der E
 [**Art. 30***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_30_a)
 
 Stirbt ein Ehegatte, so kann der andere, wenn er bei der Eheschliessung seinen Namen geändert hat, jederzeit gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten erklären, dass er wieder seinen Ledignamen tragen will.
+
+##### [IV. In Bezug auf das Geschlecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_B/lvl_I_V)
+
+
+[**Art. 30***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_30_b)
+
+[1] Jede Person, die innerlich fest davon überzeugt ist, nicht dem im Personenstandsregister eingetragenen Geschlecht zuzugehören, kann gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten erklären, dass sie den Eintrag ändern lassen will.
+
+[2] Die erklärende Person kann einen oder mehrere neue Vornamen in das Personenstandsregister eintragen lassen.
+
+[3] Die Erklärung hat keine Auswirkungen auf die familienrechtlichen Verhältnisse.
+
+[4] Die Zustimmung des gesetzlichen Vertreters ist erforderlich, wenn:
+
+
+|    1. die erklärende Person das 16. Altersjahr noch nicht vollendet hat;  
+|    2. die erklärende Person unter umfassender Beistandschaft steht; oder  
+|    3. die Erwachsenenschutzbehörde dies angeordnet hat.
 
 #### [C. Anfang und Ende der Persön­lich­keit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_C)
 
@@ -460,7 +490,7 @@ Der Tod einer Person kann, auch wenn niemand die Leiche gesehen hat, als erwie­
 
 [1] Ist der Tod einer Person höchst wahrscheinlich, weil sie in hoher Todesgefahr verschwunden oder seit langem nachrichtlos abwesend ist, so kann sie das Gericht auf das Gesuch derer, die aus ihrem Tode Rechte ableiten, für verschollen erklären.
 
-[2] ...
+[2] …
 
 ###### [2. Verfahren](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_1/lvl_C/lvl_II_I/lvl_2)
 
@@ -516,7 +546,7 @@ Meldet sich innerhalb der Frist der Verschwundene oder Abwesende, oder laufen Na
 
 [2] Er kann vorsehen, dass Verstösse gegen die Meldepflicht mit Busse geahndet werden.
 
-[3] ...
+[3] …
 
 ##### [III. Nachweis nicht streitiger Angaben](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_1/chap_2/lvl_A/lvl_II_I)
 
@@ -657,7 +687,7 @@ Die Zivilstandsbehörden beheben von Amtes wegen Fehler, die auf einem offensich
 
 
 |    1. die zu führenden Register und die einzutragenden Angaben;  
-|    2. die Verwendung der Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung zum Zweck des elektronischen Datenaustauschs zwischen amtlichen Personen­registern;  
+|    2. die Verwendung der AHV-Nummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung zum Zweck des elektronischen Datenaustauschs zwischen amtlichen Personen­registern;  
 |    3. die Registerführung;  
 |    4. die Aufsicht.
 
@@ -1153,7 +1183,7 @@ Die Aufsichtsbehörde kann nach Anhörung des obersten Stiftungs­organs unwesen
 
 [3] Leisten die Arbeitnehmer Beiträge an die Stiftung, so sind sie an der Verwaltung wenigstens nach Massgabe dieser Beiträge zu betei­ligen; soweit möglich haben die Arbeitnehmer ihre Vertretung aus dem Per­sonal des Arbeitgebers zu wählen.
 
-[4] ...
+[4] …
 
 [5] Die Begünstigten können auf Ausrichtung von Leistungen der Stif­tung klagen, wenn sie Beiträge an diese entrichtet haben oder wenn ihnen nach den Stiftungs­bestimmungen ein Rechtsanspruch auf Lei­s­tungen zusteht.
 
@@ -1167,8 +1197,9 @@ Die Aufsichtsbehörde kann nach Anhörung des obersten Stiftungs­organs unwesen
 |    3*b*. die provisorische Weiterversicherung und Aufrechterhaltung des Leistungs­anspruchs bei Herabsetzung oder Aufhebung der Rente der Invalidenver­sicherung (Art. 26*a*),  
 |    4. die Anpassung der reglementarischen Leistungen an die Preisentwicklung (Art. 36 Abs. 2–4),  
 |    4*a*. die Zustimmung bei Kapitalabfindung (Art. 37*a*),   
+|    4*b*. die Massnahmen bei Vernachlässigung der Unterhaltspflicht (Art. 40);  
 |    5. die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen (Art. 41),  
-|    5*a*. die Verwendung, Bearbeitung und Bekanntgabe der Ver­sichertennummer der Alters- und Hinterlassenenversicherung (Art. 48 Abs. 4, Art. 85*a* Bst. f und Art. 86*a* Abs. 2 Bst. b[bis]),   
+|    5*a*. die Verwendung, Bearbeitung und Bekanntgabe der AHV-Nummer (Art. 48 Abs. 4, Art. 85*a* Bst. f und Art. 86*a* Abs. 2 Bst. b[bis]),   
 |    6. die Verantwortlichkeit (Art. 52),  
 |    7. die Zulassung und die Aufgaben der Kontrollorgane (Art. 52*a*–52*e*),  
 |    8. die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessenkonflikte (Art. 51*b*, 51*c* und 53*a*),  
@@ -1176,7 +1207,7 @@ Die Aufsichtsbehörde kann nach Anhörung des obersten Stiftungs­organs unwesen
 |    10.  die Auflösung von Verträgen (Art. 53*e* und 53*f*),  
 |    11. den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und Abs. 2–5, Art. 56*a*, 57 und 59),  
 |    12. die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*c*),  
-|    13. ...  
+|    13. …  
 |    14. die finanzielle Sicherheit (Art. 65 Abs. 1, 3 und 4, Art. 66 Abs. 4, Art. 67 und Art. 72*a*–72*g*),  
 |    15. die Transparenz (Art. 65*a*),  
 |    16. die Rückstellungen (Art. 65*b*),  
@@ -1192,7 +1223,7 @@ Die Aufsichtsbehörde kann nach Anhörung des obersten Stiftungs­organs unwesen
 
 
 |    1. die Unterstellung der Personen unter die AHV (Art. 5 Abs. 1);  
-|    2. die Verwendung, Bearbeitung und Bekanntgabe der Ver­sichertennummer der AHV (Art. 48 Abs. 4, 85*a* Bst. f und 86*a* Abs. 2 Bst. b[bis]);  
+|    2. die Verwendung, Bearbeitung und Bekanntgabe der AHV-Nummer (Art. 48 Abs. 4, 85*a* Bst. f und 86*a* Abs. 2 Bst. b[bis]);  
 |    3. die Verantwortlichkeit (Art. 52);  
 |    4. die Zulassung und die Aufgaben der Revisionsstelle (Art. 52*a*, 52*b* und 52*c* Abs. 1 Bst. a–d und g, 2 und 3);  
 |    5. die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessen­konflikte (Art. 51*b*, 51*c* und 53*a*);  
@@ -1277,7 +1308,7 @@ Die Ansprüche aus dem Verlöbnis verjähren mit Ablauf eines Jahres nach der Au
 
 [1] Um die Ehe eingehen zu können, müssen die Brautleute das 18. Altersjahr zurückgelegt haben und urteilsfähig sein.
 
-[2] ...
+[2] …
 
 ##### [B. Ehe­­hindernisse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_1/tit_3/chap_2/lvl_B)
 
@@ -1428,7 +1459,7 @@ Ein Ehegatte kann verlangen, dass die Ehe für ungültig erklärt wird, wenn er:
 |    1. bei der Trauung aus einem vorübergehenden Grund nicht urteilsfähig war;  
 |    2. sich aus Irrtum hat trauen lassen, sei es, dass er die Ehe selbst oder die Trauung mit der betreffenden Person nicht gewollt hat;  
 |    3. die Ehe geschlossen hat, weil er über wesentliche persönliche Eigenschaften des anderen absichtlich getäuscht worden ist;  
-|    4. ...
+|    4. …
 
 ###### [II. Klage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_1/tit_3/chap_4/lvl_C/lvl_I_I)
 
@@ -1472,7 +1503,7 @@ Ein Ehegatte kann verlangen, dass die Ehe für ungültig erklärt wird, wenn er:
 
 [2] Das Gericht hört sie wie bei der umfassenden Einigung zum Schei­dungsbegehren, zu den Scheidungsfolgen, über die sie sich geeinigt haben, sowie zur Erklärung, dass die übrigen Folgen gerichtlich zu beurteilen sind, an.
 
-[3] ...
+[3] …
 
 [**Art. 113**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_113)
 
@@ -1500,7 +1531,7 @@ Vor Ablauf der zweijährigen Frist kann ein Ehegatte die Scheidung verlangen, we
 
 [1] Die Ehegatten können die Trennung unter den gleichen Vorausset­zungen wie bei der Scheidung verlangen.
 
-[2] ...
+[2] …
 
 [3] Das Recht, die Scheidung zu verlangen, wird durch das Trennungs­urteil nicht berührt.
 
@@ -2012,7 +2043,7 @@ Der Ehevertrag muss öffentlich beurkundet und von den vertrag­schlie­ssenden 
 
 [3] Ist ein Ehegatte dauernd urteilsunfähig, so kann sein gesetzlicher Vertreter auch aus diesem Grund die Anordnung der Gütertrennung verlangen.
 
-###### [2. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I/lvl_2)
+###### [2. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I/lvl_2)
 
 [**Art. 186**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_186)
 
@@ -2047,7 +2078,7 @@ Ist ein Ehegatte, der in Gütergemeinschaft lebt, für eine Eigenschuld betriebe
 
 [1] Das Begehren richtet sich gegen beide Ehegatten.
 
-[2] ...
+[2] …
 
 ###### [3. Aufhebung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I_I/lvl_3)
 
@@ -2072,7 +2103,7 @@ Tritt Gütertrennung ein, so gelten für die güterrechtliche Auseinan­der­set
 
 [2] Ist ein solches Vermögen auf einen Ehegatten übergegangen, so hat er die Schul­den zu bezahlen, kann sich aber von dieser Haftung so weit befreien, als er nach­weist, dass das empfangene Vermögen hiezu nicht ausreicht.
 
-##### [E. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_1/tit_6/chap_1/lvl_E)
+##### [E. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_1/tit_6/chap_1/lvl_E)
 
 [**Art. 194**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_194)
 
@@ -2226,7 +2257,7 @@ Jeder Ehegatte haftet für seine Schulden mit seinem gesamten Ver­mö­gen.
 |    1. unentgeltliche Zuwendungen, die ein Ehegatte während der letz­ten fünf Jahre vor Auflösung des Güterstandes ohne Zustim­mung des andern Ehegatten ge­macht hat, ausgenommen die üb­lichen Gelegenheitsgeschenke;  
 |    2. Vermögensentäusserungen, die ein Ehegatte während der Dauer des Güter­standes vorgenommen hat, um den Beteili­gungsan­spruch des andern zu schmälern.
 
-[2] ...
+[2] …
 
 ###### [3. Ersatz­forderungen zwischen Errungen­schaft und Eigengut](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_1/tit_6/chap_2/lvl_E/lvl_II_I/lvl_3)
 
@@ -2624,7 +2655,7 @@ Steht ein Vermögenswert im Miteigentum und weist ein Ehegatte ein überwiegen­
 
 [3] Ausserdem entsteht das Kindesverhältnis durch Adoption.
 
-##### [B. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_2/tit_7/chap_1/lvl_B)
+##### [B. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_2/tit_7/chap_1/lvl_B)
 
 [**Art. 253**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_253)
 
@@ -2901,7 +2932,7 @@ Von der Zustimmung eines Elternteils kann abgesehen werden, wenn er unbekannt, m
 
 [2] In den andern Fällen ist hierüber anlässlich der Adoption zu ent­scheiden.
 
-[3] ...
+[3] …
 
 ##### [B. Adoption einer volljährigen Person](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_2/tit_7/chap_4/lvl_B)
 
@@ -2975,7 +3006,7 @@ Das Bürgerrecht des minderjährigen Kindes bestimmt sich nach den Bestimmungen 
 
 [2] Namentlich sind die Persönlichkeit und die Gesundheit der adoptionswilligen Personen und des Kindes, ihre gegenseitige Beziehung, die erzieherische Eignung, die wirtschaftliche Lage, die Beweggründe und die Familienverhältnisse der adoptionswilligen Personen sowie die Entwicklung des Pflegeverhältnisses abzuklären.
 
-[3] ...
+[3] …
 
 ###### [III. Anhörung des Kindes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_2/tit_7/chap_4/lvl_D/lvl_II_I)
 
@@ -3090,7 +3121,7 @@ Die Klage ist binnen sechs Monaten seit Entdeckung des Anfech­tungsgrundes und 
 
 [3] Der Bundesrat erlässt die Ausführungsbestimmungen und regelt die Mitwirkung der für die Aufnahme von Kindern zum Zweck späterer Adoption zuständigen kantonalen Behörde bei der Abklärung der Bewilligungsvoraussetzungen und bei der Aufsicht.
 
-[4] ...
+[4] …
 
 ### [Achter Titel: Die Wirkungen des Kindesverhältnisses](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_2/tit_8)
 
@@ -3240,9 +3271,9 @@ Eltern und Kinder sind einander allen Beistand, alle Rücksicht und Achtung schu
 
 [1] Das Kind kann gegen den Vater oder die Mutter oder gegen beide klagen auf Leistung des Unterhalts für die Zukunft und für ein Jahr vor Klageerhebung.
 
-[2–3] ...
+[2–3] …
 
-###### [II. und III. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_2/tit_8/chap_2/lvl_D/lvl_I_I)
+###### [II. und III. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_2/part_2/tit_8/chap_2/lvl_D/lvl_I_I)
 
 [**Art. 280**–**284**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_280__284_)
 
@@ -5350,7 +5381,7 @@ Mit dem Stamm der Grosseltern hört die Erbberechtigung der Ver­wandten auf.
 
 [**Art. 463–464**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_463__464_)
 
-#### [C. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_3/part_1/tit_13/lvl_C)
+#### [C. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_3/part_1/tit_13/lvl_C)
 
 [**Art. 465**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_465)
 
@@ -5411,7 +5442,7 @@ Der Pflichtteil beträgt:
 |    2. für jedes der Eltern die Hälfte;  
 |    3. für den überlebenden Ehegatten, die eingetragene Partnerin oder den eingetragenen Partner die Hälfte.
 
-###### [III. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_3/part_1/tit_14/chap_2/lvl_A/lvl_II_I)
+###### [III. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_3/part_1/tit_14/chap_2/lvl_A/lvl_II_I)
 
 [**Art. 472**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_472)
 
@@ -6044,7 +6075,7 @@ Wird der Verzichtende auf Grund der Herabsetzung zu einer Rück­leistung an die
 
 [1] Die Eröffnung des Erbganges erfolgt für die Gesamtheit des Ver­mögens am letz­ten Wohnsitze des Erblassers.
 
-[2] ...
+[2] …
 
 #### [C. Voraus­set­zungen auf Seite des Erben](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_3/part_2/tit_15/lvl_C)
 
@@ -6180,7 +6211,7 @@ Wird der Verzichtende auf Grund der Herabsetzung zu einer Rück­leistung an die
 
 [2] Solche Massregeln sind insbesondere in den vom Gesetze vorgese­henen Fällen die Siegelung der Erbschaft, die Aufnahme des Inven­tars, die Anordnung der Erb­schaftsverwaltung und die Eröffnung der letzt­willigen Verfügungen.
 
-[3] ...
+[3] …
 
 ##### [B. Siegelung der Erbschaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_3/part_2/tit_16/chap_1/lvl_B)
 
@@ -6282,7 +6313,7 @@ Die Siegelung der Erbschaft wird in den Fällen angeordnet, für die das kanto­
 
 [3] Der Erwerb der eingesetzten Erben wird auf den Zeitpunkt der Er­öff­nung des Erbganges zurückbezogen, und es haben die gesetzlichen Erben ihnen die Erbschaft nach den Besitzesregeln herauszugeben.
 
-###### [II. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_3/part_2/tit_16/chap_2/lvl_A/lvl_I_I)
+###### [II. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_3/part_2/tit_16/chap_2/lvl_A/lvl_I_I)
 
 [**Art. 561**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_561)
 
@@ -6509,7 +6540,7 @@ Schlägt ein Vermächtnisnehmer das Vermächtnis aus, so fällt es zugunsten des
 
 [1] Die Betreibung für die Schulden des Erblassers ist während der Dauer des Inventars ausgeschlossen.
 
-[2] ...
+[2] …
 
 [3] Prozesse können mit Ausnahme von dringenden Fällen weder fort­gesetzt noch angehoben werden.
 
@@ -6623,7 +6654,7 @@ Ist die Erbschaft überschuldet, so erfolgt die Liquidation durch das Konkursamt
 
 [1] Wer auf eine Erbschaft oder auf Erbschaftssachen als gesetzlicher oder eingesetzter Erbe ein besseres Recht zu haben glaubt als der Besitzer, ist befugt, sein Recht mit der Erbschaftsklage geltend zu machen.
 
-[2] ...
+[2] …
 
 ##### [B. Wirkung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_3/part_2/tit_16/chap_5/lvl_B)
 
@@ -6820,7 +6851,7 @@ Grundstücke sind den Erben zum Verkehrswert anzurechnen, der ihnen im Zeitpunkt
 
 [1] Können sich die Erben über den Anrechnungswert nicht verstän­digen, so wird er durch amtlich bestellte Sachverständige geschätzt.
 
-[2] ...
+[2] …
 
 ###### [V. Landwirt­schaftliche Gewerbe und Grundstücke](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_3/part_2/tit_17/chap_2/lvl_D/lvl_V)
 
@@ -7556,7 +7587,7 @@ Fügt ein Grundeigentümer bei rechtmässiger Bewirtschaftung seines Grundstück
 
 [2] Ein Vorkaufsrecht gegenüber jedem Erwerber haben auch der Ei­gen­tümer eines Grundstückes, das mit einem selbständigen und dau­ernden Baurecht belastet ist, an diesem Recht und der Inhaber dieses Rechts am belasteten Grundstück, soweit dieses durch die Ausübung seines Rechtes in Anspruch genommen wird.
 
-[3]...
+[3]…
 
 ###### [5. Vorkaufsrecht an landwirt­schaft­lichen Gewerben und Grundstücken](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_5)
 
@@ -8353,7 +8384,7 @@ Der Inhalt der Wegrechte, wie Fussweg, gebahnter Weg, Fahrweg, Zelgweg, Winterwe
 
 [2] Hiezu ist er auch dann befugt, wenn die Dienstbarkeit im Grund­buch auf eine bestimmte Stelle gelegt worden ist.
 
-[3] ...
+[3] …
 
 ###### [IV. TeilungeinesGrundstücks](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I_V)
 
@@ -8392,7 +8423,7 @@ Der Inhalt der Wegrechte, wie Fussweg, gebahnter Weg, Fahrweg, Zelgweg, Winterwe
 
 [2] Für den Erwerb bei beweglichen Sachen und bei Grundstücken sowie für die Eintragung gelten, soweit es nicht anders geordnet ist, die Bestimmungen über das Eigentum.
 
-###### [2. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_I/lvl_2)
+###### [2. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_I/lvl_2)
 
 [**Art. 747**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_747)
 
@@ -9922,9 +9953,9 @@ Der gewerbsmässige Kauf auf Rückkauf wird dem Versatzpfande gleichgestellt.
 
 [1] Die Kantone können zur Ordnung des Pfandleihgewerbes weitere Vor­schriften aufstellen.
 
-[2] ...
+[2] …
 
-#### [Vierter Abschnitt: ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_2/tit_23/chap_4)
+#### [Vierter Abschnitt: …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_2/tit_23/chap_4)
 
 [**Art. 916**–**918**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_916__918_)
 
@@ -10177,7 +10208,7 @@ Der zur Ersitzung berechtigte Besitzer darf sich den Besitz seines Vor­gängers
 
 [2] Verwandelt sich ein aufgenommenes Grundstück in ein solches, das nicht aufzunehmen ist, so wird es vom Grundbuch ausgeschlossen.
 
-[3] ...
+[3] …
 
 ###### [3. Bücher](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_3)
 
@@ -10251,11 +10282,11 @@ Der zur Ersitzung berechtigte Besitzer darf sich den Besitz seines Vor­gängers
 
 [3] Das Eidgenössische Justiz- und Polizeidepartement sowie das Eidgenössi­sche Departement für Verteidigung, Bevölkerungsschutz und Sport legen für das Grundbuch und für die amtliche Vermessung Datenmodelle und ein­heitliche Schnittstellen fest.
 
-###### [4*a*. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4_a)
+###### [4*a*. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4_a)
 
 [**Art. 949***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_949_b)
 
-###### [4*b*. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4_b)
+###### [4*b*. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4_b)
 
 [**Art.** **949***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_949_c)
 
@@ -10667,15 +10698,15 @@ Das Grundbuchamt kann einen Eintrag von Amtes wegen löschen, wenn dieser:
 
 [3] Die Berichtigung blosser Schreibfehler erfolgt von Amtes wegen nach Massgabe einer hierüber vom Bundesrate zu erlassenden Ver­ord­nung.
 
-# [Schlusstitel: Anwendungs- und Einführungs­bestimmungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855)
+# [Schlusstitel: Anwendungs- und Einführungs­bestimmungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860)
 
 
-## [Erster Abschnitt: Die Anwendung bisherigen und neuen Rechts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1)
+## [Erster Abschnitt: Die Anwendung bisherigen und neuen Rechts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1)
 
 
-### [A. Allgemeine Be­stimmungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_A)
+### [A. Allgemeine Be­stimmungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_A)
 
-#### [I. Regel der Nicht­rück­wirkung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_A/lvl_I)
+#### [I. Regel der Nicht­rück­wirkung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_A/lvl_I)
 
 [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_1) 
 
@@ -10685,9 +10716,9 @@ Das Grundbuchamt kann einen Eintrag von Amtes wegen löschen, wenn dieser:
 
 [3] Die nach diesem Zeitpunkte eingetretenen Tatsachen dagegen wer­den, soweit das Gesetz eine Ausnahme nicht vorgesehen hat, nach dem neuen Recht beurteilt.
 
-#### [II. Rückwirkung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_A/lvl_I_I)
+#### [II. Rückwirkung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_A/lvl_I_I)
 
-##### [1. Öffentliche Ord­nung und Sitt­lichkeit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_A/lvl_I_I/lvl_1)
+##### [1. Öffentliche Ord­nung und Sitt­lichkeit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_A/lvl_I_I/lvl_1)
 
 [**Art. 2**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_2) 
 
@@ -10695,21 +10726,21 @@ Das Grundbuchamt kann einen Eintrag von Amtes wegen löschen, wenn dieser:
 
 [2] Demgemäss finden Vorschriften des bisherigen Rechtes, die nach der Auffassung des neuen Rechtes der öffentlichen Ordnung oder Sitt­lich­keit widersprechen, nach dessen Inkrafttreten keine Anwen­dung mehr.
 
-##### [2. Inhalt der Rechts­ver­hält­nisse kraft Ge­setzes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_A/lvl_I_I/lvl_2)
+##### [2. Inhalt der Rechts­ver­hält­nisse kraft Ge­setzes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_A/lvl_I_I/lvl_2)
 
 [**Art. 3**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_3) 
 
 Rechtsverhältnisse, deren Inhalt unabhängig vom Willen der Beteilig­ten durch das Gesetz umschrieben wird, sind nach dem In­krafttreten dieses Gesetzes nach dem neuen Recht zu beurteilen, auch wenn sie vor diesem Zeitpunkte begründet worden sind.
 
-##### [3. Nicht erworbene Rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_A/lvl_I_I/lvl_3)
+##### [3. Nicht erworbene Rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_A/lvl_I_I/lvl_3)
 
 [**Art. 4**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_4) 
 
 Tatsachen, die zwar unter der Herrschaft des bisherigen Rechtes ein­getreten sind, durch die aber zur Zeit des Inkrafttretens des neuen Rechtes ein rechtlich geschützter Anspruch nicht begründet gewesen ist, stehen nach diesem Zeitpunkt in Bezug auf ihre Wirkung unter dem neuen Recht.
 
-### [B. Personenrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_B)
+### [B. Personenrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_B)
 
-#### [I. Handlungs­fähig­keit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_B/lvl_I)
+#### [I. Handlungs­fähig­keit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_B/lvl_I)
 
 [**Art. 5**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_5) 
 
@@ -10717,7 +10748,7 @@ Tatsachen, die zwar unter der Herrschaft des bisherigen Rechtes ein­getreten si
 
 [2] Wer indessen nach dem bisherigen Recht zur Zeit des Inkrafttre­tens dieses Gesetzes handlungsfähig gewesen ist, nach den Be­stimmungen des neuen Rechtes aber nicht handlungsfähig wäre, wird auch nach diesem Zeitpunkte als handlungsfähig an­erkannt.
 
-#### [II. Verschollen­heit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_B/lvl_I_I)
+#### [II. Verschollen­heit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_B/lvl_I_I)
 
 [**Art. 6**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_6) 
 
@@ -10727,7 +10758,7 @@ Tatsachen, die zwar unter der Herrschaft des bisherigen Rechtes ein­getreten si
 
 [3] Ein zur Zeit des Inkrafttretens des neuen Rechtes schwebendes Ver­fahren wird unter Anrechnung der abgelaufenen Zeit nach den Bestimmungen dieses Gesetzes neu begonnen oder auf Antrag der Be­teiligten nach dem bisherigen Verfahren und unter Beobachtung der bis­herigen Fristen zu Ende geführt.
 
-#### [II*a*. Zentrale Daten­bank im Zi­vil­standswesen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_B/lvl_II_a)
+#### [II*a*. Zentrale Daten­bank im Zi­vil­standswesen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_B/lvl_II_a)
 
 [**Art. 6***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_6_a)
 
@@ -10735,9 +10766,9 @@ Tatsachen, die zwar unter der Herrschaft des bisherigen Rechtes ein­getreten si
 
 [2] Der Bund übernimmt die Investitionskosten bis zu 5 Millionen Fran­ken.
 
-#### [III. Juristische Personen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_B/lvl_II_I)
+#### [III. Juristische Personen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_B/lvl_II_I)
 
-##### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_B/lvl_II_I/lvl_1)
+##### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_B/lvl_II_I/lvl_1)
 
 [**Art. 6***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_6_b)
 
@@ -10749,21 +10780,21 @@ Tatsachen, die zwar unter der Herrschaft des bisherigen Rechtes ein­getreten si
 
 [3] Der Inhalt der Persönlichkeit bestimmt sich für alle juristischen Per­sonen, sobald dieses Gesetz in Kraft getreten ist, nach dem neuen Recht.
 
-##### [2. Buchführung und Revisions­stelle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_B/lvl_II_I/lvl_2)
+##### [2. Buchführung und Revisions­stelle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_B/lvl_II_I/lvl_2)
 
 [**Art. 6***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_6_c)
 
 Die Bestimmungen der Änderung vom 16. Dezember 2005 betreffend die Buchführung und die Revisionsstelle gelten vom ersten Geschäftsjahr an, das mit dem Inkrafttreten dieses Gesetzes oder danach beginnt.
 
-#### [IV. Schutz der Persönlichkeit vor Gewalt, Drohungen oder Nachstellungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_B/lvl_I_V)
+#### [IV. Schutz der Persönlichkeit vor Gewalt, Drohungen oder Nachstellungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_B/lvl_I_V)
 
 [**Art. 6***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_6_d)
 
 Auf Verfahren, die beim Inkrafttreten der Änderung vom 14. Dezember 2018 rechts­hängig sind, findet das neue Recht Anwendung.
 
-### [C. Familienrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C)
+### [C. Familienrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C)
 
-#### [I. Ehe­schliessung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I)
+#### [I. Ehe­schliessung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I)
 
 [**Art. 7**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_7)
 
@@ -10771,9 +10802,9 @@ Auf Verfahren, die beim Inkrafttreten der Änderung vom 14. Dezember 2018 rechts
 
 [2] Ehen, für die nach dem bisherigen Recht ein Ungültigkeitsgrund vorliegt, können, sobald das neue Recht in Kraft getreten ist, nur nach dessen Bestimmungen für ungültig erklärt werden, wobei jedoch die vor diesem Zeitpunkt abgelaufene Zeit bei der Fristbestimmung ange­rechnet wird.
 
-#### [I[bis]. Scheidung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_bis)
+#### [I[bis]. Scheidung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_bis)
 
-##### [1. Grundsatz](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_bis/lvl_1)
+##### [1. Grundsatz](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_bis/lvl_1)
 
 [**Art. 7***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_7_a)
 
@@ -10783,7 +10814,7 @@ Auf Verfahren, die beim Inkrafttreten der Änderung vom 14. Dezember 2018 rechts
 
 [3] Die Abänderung des Scheidungsurteils erfolgt nach den Vorschriften des früheren Rechts unter Vorbehalt der Bestimmungen über die Kin­der und das Verfahren.
 
-##### [2. Rechtshängige Scheidungs­prozesse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_bis/lvl_2)
+##### [2. Rechtshängige Scheidungs­prozesse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_bis/lvl_2)
 
 
 [**Art. 7***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_7_b)
@@ -10794,13 +10825,13 @@ Auf Verfahren, die beim Inkrafttreten der Änderung vom 14. Dezember 2018 rechts
 
 [3] Das Bundesgericht entscheidet nach bisherigem Recht, wenn der angefochtene Entscheid vor dem Inkrafttreten des Bundesgesetzes vom 26. Juni 1998 ergangen ist; dies gilt auch bei einer allfälligen Rück­weisung an die kantonale Instanz.
 
-##### [3. Trennungsfrist bei rechts­hängigen Scheidungs­prozessen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_bis/lvl_3)
+##### [3. Trennungsfrist bei rechts­hängigen Scheidungs­prozessen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_bis/lvl_3)
 
 [**Art. 7***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_7_c)
 
 Für Scheidungsprozesse, die beim Inkrafttreten der Änderung vom 19. Dezember 2003 rechtshängig und die von einer kantonalen Instanz zu beurteilen sind, gilt die Trennungsfrist nach dem neuen Recht.
 
-##### [4. Berufliche Vorsorge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_bis/lvl_4)
+##### [4. Berufliche Vorsorge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_bis/lvl_4)
 
 [**Art. 7***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_7_d)
 
@@ -10810,7 +10841,7 @@ Für Scheidungsprozesse, die beim Inkrafttreten der Änderung vom 19. Dezember 
 
 [3] Das Bundesgericht entscheidet nach bisherigem Recht, wenn der angefochtene Entscheid vor dem Inkrafttreten der Änderung vom 19. Juni 2015 ergangen ist; dies gilt auch bei einer allfälligen Rückweisung an die kantonale Instanz.
 
-##### [5. Umwandlung bestehender Renten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_bis/lvl_5)
+##### [5. Umwandlung bestehender Renten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_bis/lvl_5)
 
 [**Art. 7***e*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_7_e)
 
@@ -10820,36 +10851,36 @@ Für Scheidungsprozesse, die beim Inkrafttreten der Änderung vom 19. Dezember 
 
 [3] Die Rente nach bisherigem Recht gilt als zugesprochener Renten­anteil.
 
-#### [I[ter]. Wirkungen der Ehe im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_ter)
+#### [I[ter]. Wirkungen der Ehe im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_ter)
 
-##### [1. Grundsatz](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_ter/lvl_1)
+##### [1. Grundsatz](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_ter/lvl_1)
 
 [**Art. 8**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_8)
 
 Für die Wirkungen der Ehe im Allgemeinen gilt das neue Recht, sobald das Bundesgesetz vom 5. Oktober 1984 in Kraft getreten ist.
 
-##### [2. Name](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_ter/lvl_2)
+##### [2. Name](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_ter/lvl_2)
 
 [**Art. 8***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_8_a)
 
 Der Ehegatte, der vor dem Inkrafttreten der Änderung vom 30. September 2011 dieses Gesetzes seinen Namen bei der Eheschliessung geändert hat, kann jederzeit gegenüber der Zivilstandsbeamtin oder dem Zivil­standsbeamten erklären, dass er wieder seinen Ledignamen tragen will.
 
-##### [3. Bürgerrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_ter/lvl_3)
+##### [3. Bürgerrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_ter/lvl_3)
 
 [**Art. 8***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_8_b)
 
 Die Schweizerin, die sich unter dem bisherigen Recht verheiratet hat, kann binnen Jahresfrist seit Inkrafttreten des neuen Rechts gegenüber der zuständigen Behörde ihres ehemaligen Heimatkantons erklären, sie nehme das Bürgerrecht, das sie als ledig hatte, wieder an.
 
-#### [II. Güterrecht der vor 1. Januar 1912 geschlos­senen Ehen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_I)
+#### [II. Güterrecht der vor 1. Januar 1912 geschlos­senen Ehen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_I)
 
 [**Art. 9**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_9)
 
 Für die güterrechtlichen Wirkungen der Ehen, die vor dem 1. Januar 1912 geschlossen worden sind, gelten die an diesem Tag in Kraft getretenen Bestimmungen des Zivilgesetzbuches über die Anwendung bisherigen und neuen Rechts.
 
-#### [II[bis]. Güterrecht der nach 1. Ja­nuar 1912](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis) [ge­schlos­senen Ehen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis)
+#### [II[bis]. Güterrecht der nach 1. Ja­nuar 1912](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis) [ge­schlos­senen Ehen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis)
 
 
-##### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_1)
+##### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_1)
 
 [**Art. 9***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_9_a)
 
@@ -10857,9 +10888,9 @@ Für die güterrechtlichen Wirkungen der Ehen, die vor dem 1. Januar 1912 geschl
 
 [2] Für die güterrechtlichen Wirkungen der Ehen, die vor Inkrafttreten des Bundesgesetzes vom 5. Oktober 1984 aufgelöst worden sind, gilt das bisherige Recht.
 
-##### [2. Wechsel von der Güterverbindung zur Errun­genschaftsbeteiligung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_2)
+##### [2. Wechsel von der Güterverbindung zur Errun­genschaftsbeteiligung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_2)
 
-###### [a. Änderung der Vermögens­massen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_a)
+###### [a. Änderung der Vermögens­massen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_a)
 
 [**Art. 9***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_9_b)
 
@@ -10869,13 +10900,13 @@ Für die güterrechtlichen Wirkungen der Ehen, die vor dem 1. Januar 1912 geschl
 
 [3] Die Frau nimmt ihr eingebrachtes Gut, das ins Eigentum des Mannes übergegangen ist, in ihr Eigentum zurück oder macht hierfür eine Ersatzforderung geltend.
 
-###### [b. Vorrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_b)
+###### [b. Vorrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_b)
 
 [**Art. 9***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_9_c)
 
 Die bisherigen Bestimmungen über die Ersatzforderungen der Ehe­frau für das eingebrachte und nicht mehr vorhandene Frauengut bei Kon­kurs und Pfändung von Vermögenswerten des Ehemannes blei­ben nach Inkrafttreten des neuen Rechts noch zehn Jahre anwendbar.
 
-###### [c. Güterrecht­liche Auseinan­der­setzung un­ter dem neuen Recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_c)
+###### [c. Güterrecht­liche Auseinan­der­setzung un­ter dem neuen Recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_2/lvl_c)
 
 [**Art. 9***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_9_d)
 
@@ -10885,7 +10916,7 @@ Die bisherigen Bestimmungen über die Ersatzforderungen der Ehe­frau für das e
 
 [3] Wird der Güterstand aufgelöst, weil eine vor dem Inkrafttreten des neuen Rechts erhobene Klage gutgeheissen worden ist, so richtet sich die güterrechtliche Auseinandersetzung nach dem bisherigen Recht.
 
-##### [3. Beibehaltung der Güter­verbindung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_3)
+##### [3. Beibehaltung der Güter­verbindung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_3)
 
 
 [**Art. 9***e*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_9_e)
@@ -10896,7 +10927,7 @@ Die bisherigen Bestimmungen über die Ersatzforderungen der Ehe­frau für das e
 
 [3] Für das Sondergut der Ehegatten gelten inskünftig die neuen Vor­schriften über die Gütertrennung.
 
-##### [4. Beibehaltung der gesetzlichen oder gericht­lichen Güter­trennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_4)
+##### [4. Beibehaltung der gesetzlichen oder gericht­lichen Güter­trennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_4)
 
 
 
@@ -10904,9 +10935,20 @@ Die bisherigen Bestimmungen über die Ersatzforderungen der Ehe­frau für das e
 
 Ist von Gesetzes wegen oder auf Anordnung des Richters Gütertren­nung eingetreten, so gelten für die Ehegatten die neuen Bestimmun­gen über die Gütertrennung.
 
-##### [5. Ehevertrag](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_5)
+##### [4*a*. Güterrecht der vor der abschliessenden Inkraftsetzung der Änderung vom 18. Dezember 2020 im Ausland geschlossenen Ehen zwischen Personen gleichen Geschlechts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_4_a)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_a)
+
+[**Art. 9***g*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_9_g)
+
+[1] …
+
+[2] Vor der abschliessenden Inkraftsetzung dieser Änderung kann jeder Ehegatte dem andern schriftlich bekannt geben, dass der bisherige Güterstand nach Artikel 18 des Partnerschaftsgesetzes vom 18. Juni 2004 (PartG) bis zu diesem Zeitpunkt beibehalten wird.
+
+[3] und [4] …
+
+##### [5. Ehevertrag](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_5)
+
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_a)
 
 [**Art. 10**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_10)
 
@@ -10916,7 +10958,7 @@ Ist von Gesetzes wegen oder auf Anordnung des Richters Gütertren­nung eingetre
 
 [3] Vereinbarungen über die Vor- und Rückschlagsbeteiligung bei der Güterverbindung dürfen die Pflichtteilsansprüche der nicht­gemein­samen Kinder und deren Nachkommen nicht beein­träch­tigen.
 
-###### [b. Rechtskraft geg­enüber Dritten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_b)
+###### [b. Rechtskraft geg­enüber Dritten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_b)
 
 [**Art. 10***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_10_a)
 
@@ -10924,7 +10966,7 @@ Ist von Gesetzes wegen oder auf Anordnung des Richters Gütertren­nung eingetre
 
 [2] Hat der Ehevertrag keine Rechtskraft gegenüber Dritten, so gelten im Verhältnis zu ihnen fortan die Bestimmungen über die Errungen­schaftsbeteiligung.
 
-###### [c. Unterstellung unter das neue Recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_c)
+###### [c. Unterstellung unter das neue Recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_c)
 
 [**Art. 10***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_10_b)
 
@@ -10932,20 +10974,20 @@ Ist von Gesetzes wegen oder auf Anordnung des Richters Gütertren­nung eingetre
 
 [2] In diesem Falle gilt die vertragliche Beteiligung am Vorschlag ins­künftig für die Gesamtsumme des Vorschlages beider Ehegatten, sofern nicht durch Ehevertrag etwas anderes vereinbart wird.
 
-###### [d. Vertragliche Gü­tertrennung nach bisherigem Recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_d)
+###### [d. Vertragliche Gü­tertrennung nach bisherigem Recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_d)
 
 [**Art. 10***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_10_c)
 
 Haben die Ehegatten unter dem bisherigen Recht Gütertrennung ver­einbart, so gelten für sie inskünftig die neuen Bestimmungen über die Gütertrennung.
 
-###### [e. Im Hin­blick auf das Inkraft­treten des neuen Rechts abge­schlossene Ehe­verträge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_e)
+###### [e. Im Hin­blick auf das Inkraft­treten des neuen Rechts abge­schlossene Ehe­verträge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_e)
 
 
 [**Art. 10***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_10_d)
 
 Eheverträge, die vor dem Inkrafttreten des Bundesgesetzes vom 5. Oktober 1984 geschlossen werden, aber erst unter dem neuen Recht ihre Wirkungen entfalten sollen, bedürfen nicht der Genehmigung der Vormundschaftsbehörde.
 
-###### [f. Güterrechts­register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_f)
+###### [f. Güterrechts­register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_5/lvl_f)
 
 [**Art. 10***e*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_10_e)
 
@@ -10953,19 +10995,19 @@ Eheverträge, die vor dem Inkrafttreten des Bundesgesetzes vom 5. Oktober 1984 
 
 [2] Das Recht, ins Register Einsicht zu nehmen, bleibt gewahrt.
 
-##### [6. Tilgung von Schulden bei der güterrechtlichen Auseinander­setzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_6)
+##### [6. Tilgung von Schulden bei der güterrechtlichen Auseinander­setzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_6)
 
 [**Art. 11**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_11)
 
 Bereitet bei einer güterrechtlichen Auseinandersetzung im Zusam­men­hang mit dem Inkrafttreten des neuen Rechts die Zahlung von Geld­schulden oder die Erstattung geschuldeter Sachen dem verpflich­teten Ehegatten ernstliche Schwierigkeiten, so kann er verlangen, dass ihm Zahlungsfristen eingeräumt werden; die Forderung ist sicherzu­stellen, wenn es die Umstände rechtfertigen.
 
-##### [7. Schutz der Gläubiger](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_bis/lvl_7)
+##### [7. Schutz der Gläubiger](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_bis/lvl_7)
 
 [**Art. 11***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_11_a)
 
 Ändert sich das eheliche Güterrecht mit dem Inkrafttreten des Bun­des­gesetzes vom 5. Oktober 1984, so gelten für die Haftung die Be­stim­mungen über den Schutz der Gläubiger bei Änderung des Güter­standes.
 
-#### [III. Das Kindes­verhältnis im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_II_I)
+#### [III. Das Kindes­verhältnis im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_II_I)
 
 [**Art. 12**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_12)
 
@@ -10979,9 +11021,9 @@ Bereitet bei einer güterrechtlichen Auseinandersetzung im Zusam­men­hang mit 
 
 [5] Der Elternteil, dem bei einer Scheidung die elterliche Sorge entzogen wurde, kann sich nur dann allein an das zuständige Gericht wenden, wenn die Scheidung im Zeitpunkt des Inkrafttretens der Änderung vom 21. Juni 2013 weniger als fünf Jahre zurückliegt.
 
-#### [III[bis]. Adoption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_III_bis)
+#### [III[bis]. Adoption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_III_bis)
 
-##### [1. Fortdauer des bisherigen Rechts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_III_bis/lvl_1)
+##### [1. Fortdauer des bisherigen Rechts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_III_bis/lvl_1)
 
 [**Art. 12***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_12_a)
 
@@ -10989,13 +11031,13 @@ Bereitet bei einer güterrechtlichen Auseinandersetzung im Zusam­men­hang mit 
 
 [2] Personen, die beim Inkrafttreten des Bundesgesetzes vom 7. Oktober 1994 noch nicht 20 Jahre alt sind, können auch nach Eintritt der Mün­digkeit noch nach den Bestimmungen über die Unmündigen ad­optiert werden, sofern das Gesuch innerhalb von zwei Jahren seit Inkraft­treten des Bundesgesetzes und vor dem 20. Geburtstag einge­reicht wird.
 
-##### [2. Hängige Verfahren](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_III_bis/lvl_2)
+##### [2. Hängige Verfahren](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_III_bis/lvl_2)
 
 [**Art. 12***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_12_b)
 
 Für Adoptionsverfahren, die im Zeitpunkt des Inkrafttretens der Änderung vom 17. Juni 2016 hängig sind, gilt das neue Recht.
 
-##### [3. Unterstellung unter das neue Recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_III_bis/lvl_3)
+##### [3. Unterstellung unter das neue Recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_III_bis/lvl_3)
 
 [**Art. 12***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_12_c)
 
@@ -11003,15 +11045,15 @@ Die Bestimmungen der Änderung vom 17. Juni 2016 über das Adoptionsgeheimnis, d
 
 [**Art. 12***c*[bis]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_12_c_bis)
 
-#### [III[ter].[]Anfechtung der Ehelich­erklärung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_III_ter)
+#### [III[ter].[]Anfechtung der Ehelich­erklärung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_III_ter)
 
 [**Art. 12***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_12_d)
 
 Für die Anfechtung einer unter dem bisherigen Recht erfolgten Ehe­licherklärung gelten sinngemäss die Bestimmungen des neuen Rechts über die Anfechtung einer Anerkennung nach der Heirat der Eltern.
 
-#### [IV. Vaterschafts­klage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_V)
+#### [IV. Vaterschafts­klage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_V)
 
-##### [1. Hängige Klagen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_V/lvl_1)
+##### [1. Hängige Klagen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_V/lvl_1)
 
 [**Art. 13**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_13)
 
@@ -11019,7 +11061,7 @@ Für die Anfechtung einer unter dem bisherigen Recht erfolgten Ehe­licherkläru
 
 [2] Die Wirkungen bis zum Inkrafttreten des neuen Rechts bestimmen sich nach dem bisherigen Recht.
 
-##### [2. Neue Klagen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_I_V/lvl_2)
+##### [2. Neue Klagen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_I_V/lvl_2)
 
 [**Art. 13***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_13_a)
 
@@ -11027,21 +11069,21 @@ Für die Anfechtung einer unter dem bisherigen Recht erfolgten Ehe­licherkläru
 
 [2] Beweist der Beklagte, dass seine Vaterschaft ausgeschlossen oder weniger wahrscheinlich ist als diejenige eines Dritten, so erlischt der Anspruch auf künftigen Unterhalt.
 
-#### [IV[bis]. Frist für die Feststellung und die Anfech­tung des Kin­des­ver­hältnisses](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_IV_bis)
+#### [IV[bis]. Frist für die Feststellung und die Anfech­tung des Kin­des­ver­hältnisses](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_IV_bis)
 
 [**Art. 13***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_13_b)
 
 Wer durch das Inkrafttreten des Bundesgesetzes vom 7. Oktober 1994 mündig wird, kann in jedem Fall noch während eines Jahres eine Klage auf Feststellung oder Anfechtung des Kindesverhältnisses ein­reichen.
 
-#### [IV[ter]. Unterhalts­beiträge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_IV_ter)
+#### [IV[ter]. Unterhalts­beiträge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_IV_ter)
 
-##### [1. Bestehende Unterhaltstitel](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_IV_ter/lvl_1)
+##### [1. Bestehende Unterhaltstitel](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_IV_ter/lvl_1)
 
 [**Art. 13***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_13_c)
 
 Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20. März 2015 in einem genehmigten Unterhaltsvertrag oder in einem Entscheid festgelegt worden sind, werden auf Gesuch des Kindes neu festgelegt. Sofern sie gleichzeitig mit Unterhalts­beiträgen an den Elternteil festgelegt worden sind, ist ihre Anpassung nur bei einer erheblichen Veränderung der Verhältnisse zulässig.
 
-##### [2. Rechtshängige Verfahren](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_IV_ter/lvl_2)
+##### [2. Rechtshängige Verfahren](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_IV_ter/lvl_2)
 
 [**Art. 13***c*[bis]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_13_c_bis) 
 
@@ -11049,7 +11091,7 @@ Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20.
 
 [2] Das Bundesgericht entscheidet nach bisherigem Recht, wenn der angefochtene Entscheid vor dem Inkrafttreten der Änderung vom 20. März 2015 ergangen ist; dies gilt auch bei einer allfälligen Rück­weisung an die kantonale Instanz.
 
-#### [IV[quater]. Name des Kindes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_IV_quater)
+#### [IV[quater]. Name des Kindes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_IV_quater)
 
 [**Art. 13***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_13_d)
 
@@ -11059,9 +11101,9 @@ Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20.
 
 [3] Die Zustimmung des Kindes ist gestützt auf Artikel 270*b* vorbe­halten.
 
-#### [V. Erwachsenenschutz](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_V)
+#### [V. Erwachsenenschutz](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_V)
 
-##### [1. Bestehende Massnahmen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_V/lvl_1)
+##### [1. Bestehende Massnahmen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_V/lvl_1)
 
 [**Art. 14**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_14)
 
@@ -11073,7 +11115,7 @@ Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20.
 
 [4] Hat ein Arzt gestützt auf Artikel 397*b* Absatz 2 in der Fassung vom 1. Januar 1981 für eine psychisch kranke Person eine unbefristete fürsorgerische Freiheitsentziehung angeordnet, so bleibt diese Massnahme bestehen. Die Einrichtung teilt der Erwachsenenschutzbehörde spätestens sechs Monate nach dem Inkrafttreten des neuen Rechts mit, ob sie die Voraussetzungen der Unterbringung weiterhin für erfüllt erachtet. Die Erwachsenenschutzbehörde nimmt nach den Bestimmungen über die periodische Überprüfung die erforderlichen Abklärungen vor und bestätigt gegebenenfalls den Unterbringungsentscheid.
 
-##### [2. Hängige Verfahren](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_C/lvl_V/lvl_2)
+##### [2. Hängige Verfahren](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_C/lvl_V/lvl_2)
 
 [**Art. 14***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_14_a)
 
@@ -11083,9 +11125,9 @@ Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20.
 
 [3] Die Behörde entscheidet darüber, ob und wieweit das bisherige Verfahren ergänzt werden muss.
 
-### [D. Erbrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_D)
+### [D. Erbrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_D)
 
-#### [I. Erbe und Erbgang](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_D/lvl_I)
+#### [I. Erbe und Erbgang](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_D/lvl_I)
 
 [**Art. 15**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_15) 
 
@@ -11093,7 +11135,7 @@ Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20.
 
 [2] Diese Vorschrift bezieht sich sowohl auf die Erben als auf den Erb­gang.
 
-#### [II. Verfügungen von Todes wegen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_D/lvl_I_I)
+#### [II. Verfügungen von Todes wegen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_D/lvl_I_I)
 
 [**Art. 16**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_16) 
 
@@ -11103,9 +11145,9 @@ Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20.
 
 [3] Die Anfechtung wegen Überschreitung der Verfügungsfreiheit oder wegen der Art der Verfügung richtet sich bei allen Verfügungen von Todes wegen nach den Bestimmungen des neuen Rechtes, wenn der Erblasser nach dessen Inkrafttreten gestorben ist.
 
-### [E. Sachenrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E)
+### [E. Sachenrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E)
 
-#### [I. Dingliche Rechte im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_I)
+#### [I. Dingliche Rechte im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_I)
 
 [**Art. 17**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_17) 
 
@@ -11115,7 +11157,7 @@ Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20.
 
 [3] Wäre ihre Errichtung nach dem neuen Rechte nicht mehr möglich, so bleiben sie unter dem bisherigen Recht.
 
-#### [II. Anspruch auf Eintragung im Grundbuch](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_I_I)
+#### [II. Anspruch auf Eintragung im Grundbuch](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_I_I)
 
 [**Art. 18**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_18) 
 
@@ -11125,7 +11167,7 @@ Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20.
 
 [3] Der vor dem Inkrafttreten dieses Gesetzes durch Rechtsgeschäft fest­ge­setzte Inhalt eines dinglichen Verhältnisses bleibt auch unter dem neuen Recht anerkannt, soweit er nicht mit diesem unverträglich ist.
 
-#### [III. Ersitzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_II_I)
+#### [III. Ersitzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_II_I)
 
 [**Art. 19**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_19) 
 
@@ -11133,9 +11175,9 @@ Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20.
 
 [2] Hat jedoch eine Ersitzung, die auch dem neuen Recht entspricht, unter dem bisherigen Recht begonnen, so wird die bis zum Inkrafttre­ten dieses Gesetzes abgelaufene Zeit an die Ersitzungsfrist verhält­nis­mässig angerechnet.
 
-#### [IV. Besondere Ei­gentumsrech­te](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_I_V)
+#### [IV. Besondere Ei­gentumsrech­te](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_I_V)
 
-##### [1. Bäume auf fremdem Boden](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_I_V/lvl_1)
+##### [1. Bäume auf fremdem Boden](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_I_V/lvl_1)
 
 [**Art. 20**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_20)
 
@@ -11143,15 +11185,15 @@ Unterhaltsbeiträge an das Kind, die vor dem Inkrafttreten der Änderung vom 20.
 
 [2] Die Kantone sind befugt, diese Verhältnisse zu beschränken oder aufzuheben.
 
-##### [2. Stockwerk­eigen­tum](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_I_V/lvl_2)
+##### [2. Stockwerk­eigen­tum](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_I_V/lvl_2)
 
-###### [a. Ursprüng­liches](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_a)
+###### [a. Ursprüng­liches](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_a)
 
 [**Art. 20**[bis]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_20_bis)
 
 Das vom früheren kantonalen Recht beherrschte Stockwerkeigentum ist den neuen Vorschriften dieses Gesetzes unterstellt, auch wenn die Stockwerke oder Stockwerkteile nicht als Wohnungen oder Ge­schäfts­raumeinheiten in sich abgeschlossen sind.
 
-###### [b. Umgewandeltes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_b)
+###### [b. Umgewandeltes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_b)
 
 [**Art. 20**[ter]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_20_ter)
 
@@ -11159,13 +11201,13 @@ Das vom früheren kantonalen Recht beherrschte Stockwerkeigentum ist den neuen V
 
 [2] Die Unterstellung wird wirksam mit der entsprechenden Änderung der Einträge im Grundbuch.
 
-###### [c. Bereinigung der Grundbücher](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_c)
+###### [c. Bereinigung der Grundbücher](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_I_V/lvl_2/lvl_c)
 
 [**Art. 20**[quater]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_20_quater)
 
 Die Kantone können zur Durchführung der Unterstellung des umge­wandelten Stockwerkeigentums unter die neuen Vorschriften und zur Eintragung des bestehenden eigentlichen Stockwerkeigentums die Bereinigung der Grundbücher anordnen und dafür besondere Verfah­rensvorschriften erlassen.
 
-#### [V. Grund­dienst­barkeiten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V)
+#### [V. Grund­dienst­barkeiten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V)
 
 [**Art. 21**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_21) 
 
@@ -11173,9 +11215,9 @@ Die Kantone können zur Durchführung der Unterstellung des umge­wandelten Stoc
 
 [2] Mit Dienstbarkeiten nebensächlich verbundene Verpflichtungen, die vor dem Inkrafttreten der Änderung vom 11. Dezember 2009 begründet wurden und sich nur aus den Grundbuchbelegen ergeben, können Dritten, die sich in gutem Glauben auf das Grundbuch verlassen, weiterhin entgegengehalten werden.
 
-#### [VI. Grundpfand­rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I)
+#### [VI. Grundpfand­rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I)
 
-##### [1. Anerkennung der beste­henden Pfandtitel](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_1)
+##### [1. Anerkennung der beste­henden Pfandtitel](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_1)
 
 [**Art. 22**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_22) 
 
@@ -11183,7 +11225,7 @@ Die Kantone können zur Durchführung der Unterstellung des umge­wandelten Stoc
 
 [2] Den Kantonen bleibt es jedoch vorbehalten, eine Neuausfertigung der bestehenden Pfandtitel auf der Grundlage des neuen Rechtes mit bestimmten Fristen vorzuschreiben.
 
-##### [2. Errichtung von Pfand­rechten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_2)
+##### [2. Errichtung von Pfand­rechten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_2)
 
 [**Art. 23**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_23) 
 
@@ -11191,7 +11233,7 @@ Die Kantone können zur Durchführung der Unterstellung des umge­wandelten Stoc
 
 [2] Für deren Errichtung bleiben bis zur Einführung des Grundbuches die bisherigen kantonal-rechtlichen Formen in Kraft.
 
-##### [3. Tilgung von Titeln](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_3)
+##### [3. Tilgung von Titeln](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_3)
 
 [**Art. 24**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_24) 
 
@@ -11199,7 +11241,7 @@ Die Kantone können zur Durchführung der Unterstellung des umge­wandelten Stoc
 
 [2] Bis zur Einführung des Grundbuches bestimmen sich jedoch die Formen nach kantonalem Recht.
 
-##### [4. Umfang der Pfandhaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_4)
+##### [4. Umfang der Pfandhaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_4)
 
 [**Art. 25**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_25) 
 
@@ -11207,9 +11249,9 @@ Die Kantone können zur Durchführung der Unterstellung des umge­wandelten Stoc
 
 [2] Hat jedoch der Gläubiger vermöge besonderer Abrede gewisse Gegenstände in rechtsgültiger Weise mit dem Grundstück verpfändet er­halten, so bleibt das Pfandrecht an diesen in Kraft, auch wenn sie nach dem neuen Recht nicht mitverpfändet sein würden.
 
-##### [5. Rechte und Pflichten aus dem Grundpfand](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_5)
+##### [5. Rechte und Pflichten aus dem Grundpfand](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_5)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_a)
 
 [**Art. 26**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_26) 
 
@@ -11219,19 +11261,19 @@ Die Kantone können zur Durchführung der Unterstellung des umge­wandelten Stoc
 
 [3] Erstreckt sich das Pfandrecht auf mehrere Grundstücke, so bleibt die Pfandhaft nach bisherigem Recht bestehen.
 
-###### [b. Sicherungs­rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_b)
+###### [b. Sicherungs­rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_b)
 
 [**Art. 27**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_27) 
 
 Die Rechte des Pfandgläubigers während des bestehenden Verhältnis­ses, wie namentlich die Sicherungsrechte und ebenso die Rechte des Schuldners stehen für alle Pfandrechte vom Zeitpunkte des Inkrafttre­tens dieses Gesetzes an unter dem neuen Recht.
 
-###### [c. Kündigung, Übertragung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_c)
+###### [c. Kündigung, Übertragung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_5/lvl_c)
 
 [**Art. 28**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_28) 
 
 Die Kündbarkeit der Pfandforderungen und die Übertragung der Pfandtitel werden bei den Pfandrechten, die zur Zeit des Inkrafttretens dieses Gesetzes bereits errichtet sind, nach dem bisherigen Recht beurteilt, unter Vorbehalt der zwingenden Vorschriften des neuen Rech­tes.
 
-##### [6. Rang](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_6)
+##### [6. Rang](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_6)
 
 [**Art. 29**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_29) 
 
@@ -11239,7 +11281,7 @@ Die Kündbarkeit der Pfandforderungen und die Übertragung der Pfandtitel werden
 
 [2] Vom Zeitpunkte der Einführung des Grundbuches an richtet sich der Rang der Gläubiger nach dem Grundbuchrechte dieses Gesetzes.
 
-##### [7. Pfandstelle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_7)
+##### [7. Pfandstelle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_7)
 
 [**Art. 30**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_30) 
 
@@ -11247,11 +11289,11 @@ Die Kündbarkeit der Pfandforderungen und die Übertragung der Pfandtitel werden
 
 [2] Die Kantone können weitere Übergangsbestimmungen auf­stellen.
 
-##### [8. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_8)
+##### [8. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_8)
 
 [**Art. 31** und **32**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_31)
 
-##### [9. Gleichstellung bisheriger Pfandarten mit sol­chen des neuen Rechtes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_9)
+##### [9. Gleichstellung bisheriger Pfandarten mit sol­chen des neuen Rechtes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_9)
 
 [**Art. 33**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_33) 
 
@@ -11259,9 +11301,9 @@ Die Kündbarkeit der Pfandforderungen und die Übertragung der Pfandtitel werden
 
 [2] Soweit dies geschieht, finden die Bestimmungen dieses Gesetzes mit dessen Inkrafttreten auch Anwendung auf solche kantonale Pfand­rechte.
 
-[3] ...
+[3] …
 
-##### [10. Fortdauer des bisherigen Rechts für bisherige Pfandarten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_10)
+##### [10. Fortdauer des bisherigen Rechts für bisherige Pfandarten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_10)
 
 [**Art. 33***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_33_a)
 
@@ -11271,15 +11313,15 @@ Die Kündbarkeit der Pfandforderungen und die Übertragung der Pfandtitel werden
 
 [3] Das kantonale Recht kann die Umwandlung von Gülten, die gestützt auf Bundesrecht oder früheres Recht errichtet wurden, in Pfandarten nach geltendem Recht vorsehen. Die Umwandlung kann für gering­fügige Beträge auch die Einführung einer persönlichen Haftung des Eigentümers des verpfändeten Grundstücks beinhalten.
 
-##### [11. Umwandlung der Art des Schuldbriefs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_V_I/lvl_11)
+##### [11. Umwandlung der Art des Schuldbriefs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_V_I/lvl_11)
 
 [**Art. 33***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_33_b)
 
 Der Grundeigentümer und die am Schuldbrief Berechtigten können gemeinsam schriftlich verlangen, dass ein vor dem Inkrafttreten der Änderung vom 11. Dezember 2009 eingetragener Papier-Schuld­brief in einen Register-Schuldbrief umgewandelt wird.
 
-#### [VII. Fahrnis­pfand­rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_VI_I)
+#### [VII. Fahrnis­pfand­rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_VI_I)
 
-##### [1. Form­vor­schriften](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_VI_I/lvl_1)
+##### [1. Form­vor­schriften](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_VI_I/lvl_1)
 
 [**Art. 34**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_34) 
 
@@ -11287,7 +11329,7 @@ Der Grundeigentümer und die am Schuldbrief Berechtigten können gemeinsam schri
 
 [2] Soweit vor diesem Zeitpunkt ein Fahrnispfand in anderer Form errichtet worden ist, erlischt es mit Ablauf von sechs Monaten, die bei Fälligkeit der Forderung mit dem Inkrafttreten des neuen Rechtes und bei späterer Fälligkeit mit deren Eintritt oder mit dem Zeitpunkte zu laufen beginnen, auf den die Kündigung zulässig ist.
 
-##### [2. Wirkung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_VI_I/lvl_2)
+##### [2. Wirkung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_VI_I/lvl_2)
 
 [**Art. 35**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_35) 
 
@@ -11295,7 +11337,7 @@ Der Grundeigentümer und die am Schuldbrief Berechtigten können gemeinsam schri
 
 [2] Ein vor dem Inkrafttreten dieses Gesetzes geschlossener Verfallsver­trag verliert mit diesem Zeitpunkte seine Gültigkeit.
 
-#### [VIII. Reten­tions­recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_VII_I)
+#### [VIII. Reten­tions­recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_VII_I)
 
 [**Art. 36**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_36) 
 
@@ -11305,31 +11347,31 @@ Der Grundeigentümer und die am Schuldbrief Berechtigten können gemeinsam schri
 
 [3] Früher entstandene Retentionsrechte unterliegen bezüglich ihrer Wirksamkeit den Bestimmungen dieses Gesetzes.
 
-#### [IX. Besitz](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_I_X)
+#### [IX. Besitz](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_I_X)
 
 [**Art. 37**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_37) 
 
 Der Besitz steht mit dem Inkrafttreten dieses Gesetzes unter dem neuen Recht.
 
-#### [X. Grundbuch](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X)
+#### [X. Grundbuch](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X)
 
-##### [1. Anlegung des Grundbuches](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_1)
+##### [1. Anlegung des Grundbuches](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_1)
 
 [**Art. 38**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_38) 
 
 [1] Der Bundesrat legt nach Anhörung der Kantone die Einführungs­planung für das Grundbuch fest. Er kann diese Zuständigkeit an das zuständige Departement oder Amt übertragen.
 
-[2] ...
+[2] …
 
-##### [2. Amtliche Vermessung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_2)
+##### [2. Amtliche Vermessung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_2)
 
-###### [a. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_2/lvl_a)
+###### [a. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_2/lvl_a)
 
 [**Art. 39**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_39)
 
-...
+…
 
-###### [b. Verhältnis zum Grundbuch](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_2/lvl_b)
+###### [b. Verhältnis zum Grundbuch](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_2/lvl_b)
 
 [**Art. 40**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_40) 
 
@@ -11337,19 +11379,19 @@ Der Besitz steht mit dem Inkrafttreten dieses Gesetzes unter dem neuen Recht.
 
 [2] Mit Einwilligung des Bundes kann jedoch das Grundbuch schon vorher angelegt werden, wenn genügende Liegenschaftsverzeichnisse vorhanden sind.
 
-###### [c. Zeit der Durch­führung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_2/lvl_c)
+###### [c. Zeit der Durch­führung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_2/lvl_c)
 
 [**Art. 41**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_41) 
 
-[1] ...
+[1] …
 
 [2] Die Vermessung und die Einführung des Grundbuches kann für die einzelnen Bezirke eines Kantons nacheinander erfolgen.
 
 [**Art. 42**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_42)
 
-##### [3. Eintragung der dinglichen Rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_3)
+##### [3. Eintragung der dinglichen Rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_3)
 
-###### [a. Verfahren](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_3/lvl_a)
+###### [a. Verfahren](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_3/lvl_a)
 
 [**Art. 43**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_43) 
 
@@ -11359,7 +11401,7 @@ Der Besitz steht mit dem Inkrafttreten dieses Gesetzes unter dem neuen Recht.
 
 [3] Die nach bisherigem Recht in öffentlichen Büchern eingetragenen dinglichen Rechte werden, soweit sie nach neuem Recht begründet werden können, von Amtes wegen in das Grundbuch eingetragen.
 
-###### [b. Folge der Nichteintragung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_3/lvl_b)
+###### [b. Folge der Nichteintragung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_3/lvl_b)
 
 [**Art. 44**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_44) 
 
@@ -11369,7 +11411,7 @@ Der Besitz steht mit dem Inkrafttreten dieses Gesetzes unter dem neuen Recht.
 
 [3] Vor dem Inkrafttreten der Änderung vom 11. Dezember 2009 entstandene, nicht eingetragene öffentlich-rechtliche Grundlasten und gesetzliche Pfandrechte des kantonalen Rechts können Dritten, die sich in gutem Glauben auf das Grundbuch verlassen, noch während zehn Jahren nach dem Inkrafttreten entgegengehalten werden.
 
-##### [4. Behandlung aufgehobener Rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_4)
+##### [4. Behandlung aufgehobener Rechte](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_4)
 
 [**Art. 45**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_45)
 
@@ -11377,7 +11419,7 @@ Der Besitz steht mit dem Inkrafttreten dieses Gesetzes unter dem neuen Recht.
 
 [2] Sind sie aus irgendwelchem Grunde untergegangen, so können sie nicht neu begründet werden.
 
-##### [5. Verschiebung der Ein­führung des Grundbuches](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_5)
+##### [5. Verschiebung der Ein­führung des Grundbuches](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_5)
 
 [**Art. 46**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_46) 
 
@@ -11385,13 +11427,13 @@ Der Besitz steht mit dem Inkrafttreten dieses Gesetzes unter dem neuen Recht.
 
 [2] Dabei ist genau festzustellen, mit welchen Formen des kantonalen Rechtes die vom neuen Recht angeordneten Wirkungen verbunden sein sollen.
 
-##### [6. Einführung des Sachen­rechtes vor dem Grundbuch](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_6)
+##### [6. Einführung des Sachen­rechtes vor dem Grundbuch](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_6)
 
 [**Art. 47**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_47) 
 
 Das Sachenrecht dieses Gesetzes tritt im Allgemeinen in Kraft, auch ohne dass die Grundbücher angelegt worden sind.
 
-##### [7. Wirkung kan­to­naler Formen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_E/lvl_X/lvl_7)
+##### [7. Wirkung kan­to­naler Formen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_E/lvl_X/lvl_7)
 
 [**Art. 48**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_48) 
 
@@ -11401,7 +11443,7 @@ Das Sachenrecht dieses Gesetzes tritt im Allgemeinen in Kraft, auch ohne dass di
 
 [3] Dagegen besteht, solange nicht das Grundbuch selbst eingeführt oder eine andere Einrichtung ihm gleichgestellt ist, eine Grundbuch­wir­kung zugunsten des gutgläubigen Dritten nicht.
 
-### [F. Verjährung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_F)
+### [F. Verjährung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_F)
 
 [**Art. 49**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_49)
 
@@ -11413,24 +11455,24 @@ Das Sachenrecht dieses Gesetzes tritt im Allgemeinen in Kraft, auch ohne dass di
 
 [4] Im Übrigen gilt das neue Recht für die Verjährung ab dem Zeitpunkt seines Inkrafttretens.
 
-### [G. Vertrags­formen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_1/lvl_G)
+### [G. Vertrags­formen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_1/lvl_G)
 
 [**Art. 50**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_50) 
 
 Verträge, die vor dem Inkrafttreten dieses Gesetzes abgeschlossen worden sind, behalten ihre Gültigkeit, auch wenn ihre Form den Vorschriften des neuen Rechtes nicht entspricht.
 
-## [Zweiter Abschnitt: Einführungs- und Übergangsbestim­mungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2)
+## [Zweiter Abschnitt: Einführungs- und Übergangsbestim­mungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2)
 
 
-### [A. Aufhebung des kantonalen Zivilrechtes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_A)
+### [A. Aufhebung des kantonalen Zivilrechtes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_A)
 
 [**Art. 51**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_51) 
 
 Mit dem Inkrafttreten dieses Gesetzes sind die zivilrechtlichen Bestimmungen der Kantone aufgehoben, soweit nicht bundesrechtlich etwas anderes vorgesehen ist.
 
-### [B. Ergänzende kantonale An­ord­nungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_B)
+### [B. Ergänzende kantonale An­ord­nungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_B)
 
-#### [I. Recht und Pflicht der Kantone](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_B/lvl_I)
+#### [I. Recht und Pflicht der Kantone](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_B/lvl_I)
 
 [**Art. 52**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_52) 
 
@@ -11442,7 +11484,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind die zivilrechtlichen Bestimmungen der
 
 [4] Die übrigen kantonalen Anordnungen sind dem Bundesamt für Justiz zur Kenntnis zu bringen.
 
-#### [II. Ersatz­verordnungen des Bundes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_B/lvl_I_I)
+#### [II. Ersatz­verordnungen des Bundes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_B/lvl_I_I)
 
 [**Art. 53**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_53) 
 
@@ -11450,7 +11492,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind die zivilrechtlichen Bestimmungen der
 
 [2] Macht ein Kanton in einer Sache, die einer ergänzenden Verordnung nicht notwendig bedarf, von seiner Befugnis keinen Gebrauch, so ver­bleibt es bei den Vorschriften dieses Gesetzes.
 
-### [C. Bezeichnung der zu­ständigen Behör­den](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_C)
+### [C. Bezeichnung der zu­ständigen Behör­den](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_C)
 
 [**Art. 54**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_54) 
 
@@ -11460,9 +11502,9 @@ Mit dem Inkrafttreten dieses Gesetzes sind die zivilrechtlichen Bestimmungen der
 
 [3] Soweit nicht die Zivilprozessordnung vom 19. Dezember 2008 anwendbar ist, regeln die Kantone das Verfahren.
 
-### [D. Öffentliche Beurkundung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_D)
+### [D. Öffentliche Beurkundung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_D)
 
-#### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_D/lvl_I)
+#### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_D/lvl_I)
 
 [**Art. 55**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_55) 
 
@@ -11470,7 +11512,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind die zivilrechtlichen Bestimmungen der
 
 [2] Sie haben für die Errichtung von öffentlichen Urkunden in fremder Sprache ordnende Bestimmungen aufzustellen.
 
-#### [II. Elektronische Ausfertigungen und Beglaubigungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_D/lvl_I_I)
+#### [II. Elektronische Ausfertigungen und Beglaubigungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_D/lvl_I_I)
 
 [**Art. 55***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_55_a)
 
@@ -11482,7 +11524,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind die zivilrechtlichen Bestimmungen der
 
 [4] Der Bundesrat erlässt Ausführungsbestimmungen, welche die Inter­operabilität der Informatiksysteme sowie die Integrität, Authentizität und Sicherheit der Daten gewährleisten.
 
-### [E. Wasserrechts­verleihungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_E)
+### [E. Wasserrechts­verleihungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_E)
 
 [**Art. 56**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_56)
 
@@ -11490,32 +11532,32 @@ Bis zum Erlass einer bundesrechtlichen Ordnung gilt für die Wasser­rechtsverle
 
 Die Wasserrechtsverleihungen an öffentlichen Gewässern können, sobald sie auf wenigstens 30 Jahre oder auf unbestimmte Zeit ausge­stellt und nicht als Dienstbarkeit mit einem herrschenden Grundstück ver­bunden sind, als selbständige und dauernde Rechte in das Grund­buch aufgenommen werden.
 
-### [F.–H. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_d16055e3092)
+### [F.–H. …](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_d4e3099)
 
 [**Art. 57**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_57)
 
-### [J. Schuld­betreibung und Konkurs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_J)
+### [J. Schuld­betreibung und Konkurs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_J)
 
 [**Art. 58**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_58)
 
 Das Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs wird mit dem Inkrafttreten dieses Gesetzes abgeändert wie folgt:
 
-...
+…
 
-### [K. Anwendung schweizerischen und fremden Rech­tes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_K)
+### [K. Anwendung schweizerischen und fremden Rech­tes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_K)
 
 
 [**Art. 59**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_59)
 
 [1] Das Bundesgesetz vom 25. Juni 1891 betreffend die zivilrecht­lichen Verhältnisse der Niedergelassenen und Aufenthalter bleibt für die Rechtsverhältnisse der Schweizer im Auslande und der Ausländer in der Schweiz, und soweit kantonal verschiedenes Recht zur Anwen­dung kommt, in Kraft.
 
-[2] ...
+[2] …
 
 [3] Das Bundesgesetz vom 25. Juni 1891 erhält folgende Einfügung: Art. 7*a*–7*i*
 
-...
+…
 
-### [L. Aufhebung von Bundes­zivil­recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_L)
+### [L. Aufhebung von Bundes­zivil­recht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_L)
 
 [**Art. 60**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_60)
 
@@ -11528,7 +11570,7 @@ das Bundesgesetz vom 14. Juni 1881 über das Obligationenrecht.
 
 [3] In Geltung bleiben die Spezialgesetze betreffend das Eisenbahn-, Dampfschiff-, Post-, Telegraphen- und Telefonrecht, die Verpfän­dung und Zwangsliquidation der Eisenbahnen, diejenigen betreffend die Fabrikarbeit und die Haftbarkeit aus Fabrikbetrieb und aus andern Unternehmungen sowie alle Bundesgesetze über Gegenstände des Obligationenrechts, die neben dem Bundesgesetz vom 14. Juni 1881 über das Obligationenrecht erlassen worden sind.
 
-### [M. Schluss­bestimmung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e2855/chap_2/lvl_M)
+### [M. Schluss­bestimmung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e2860/chap_2/lvl_M)
 
 [**Art. 61**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_61)
 
@@ -11536,21 +11578,21 @@ das Bundesgesetz vom 14. Juni 1881 über das Obligationenrecht.
 
 [2] Der Bundesrat ist unter Zustimmung der Bundesversammlung befugt, einzelne Bestimmungen schon früher in Kraft zu setzen.
 
-# [Wortlaut der früheren Bestimmungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103) [des sechsten Titels](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103)
+# [Wortlaut der früheren Bestimmungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109) [des sechsten Titels](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109)
 
-## [Sechster Titel: Das Güterrecht der Ehegatten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6)
+## [Sechster Titel: Das Güterrecht der Ehegatten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6)
 
-### [Erster Abschnitt: Allgemeine Vorschriften](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1)
+### [Erster Abschnitt: Allgemeine Vorschriften](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1)
 
-#### [A. Ordentlicher Güterstand](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_A)
+#### [A. Ordentlicher Güterstand](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_A)
 
 [**Art. 178**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_178) 
 
 Die Ehegatten stehen unter den Vorschriften der Güterverbindung, insofern sie nicht durch Ehevertrag etwas anderes vereinbaren oder unter ihnen der ausserordentliche Güterstand eingetreten ist.
 
-#### [B. Güterstand des Ehevertrages](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_B)
+#### [B. Güterstand des Ehevertrages](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_B)
 
-##### [I. Inhalt des Vertrages](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_B/lvl_I)
+##### [I. Inhalt des Vertrages](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_B/lvl_I)
 
 [**Art. 179**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_179) 
 
@@ -11560,7 +11602,7 @@ Die Ehegatten stehen unter den Vorschriften der Güterverbindung, insofern sie n
 
 [3] Ein nach Eingehung der Ehe abgeschlossener Ehevertrag darf die bisherige Haftung des Vermögens gegenüber Dritten nicht beein­träch­tigen.
 
-##### [II. Vertrags­fähigkeit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_B/lvl_I_I)
+##### [II. Vertrags­fähigkeit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_B/lvl_I_I)
 
 [**Art. 180**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_180) 
 
@@ -11568,7 +11610,7 @@ Die Ehegatten stehen unter den Vorschriften der Güterverbindung, insofern sie n
 
 [2] Sind sie unmündig oder entmündigt, so ist die Zustimmung ihrer gesetzlichen Vertreter erforderlich.
 
-##### [III. Form des Vertrages](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_B/lvl_II_I)
+##### [III. Form des Vertrages](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_B/lvl_II_I)
 
 [**Art. 181**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_181) 
 
@@ -11578,9 +11620,9 @@ Die Ehegatten stehen unter den Vorschriften der Güterverbindung, insofern sie n
 
 [3] Der Ehevertrag erhält Rechtskraft gegenüber Dritten nach den Vor­schriften über das Güterrechtsregister.
 
-#### [C. Ausser­ordentli­cher Güterstand](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_C)
+#### [C. Ausser­ordentli­cher Güterstand](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_C)
 
-##### [I. Gesetzliche Gütertrennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_C/lvl_I)
+##### [I. Gesetzliche Gütertrennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_C/lvl_I)
 
 [**Art. 182**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_182) 
 
@@ -11588,9 +11630,9 @@ Die Ehegatten stehen unter den Vorschriften der Güterverbindung, insofern sie n
 
 [2] Sind zur Zeit der Eheschliessung Gläubiger vorhanden, die Verlust­scheine besitzen, so kann jedes der Brautleute die Gütertrennung dadurch begründen, dass es diesen Güterstand vor der Trauung in das Güterrechtsregister eintragen lässt.
 
-##### [II. Gerichtliche Gütertrennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_C/lvl_I_I)
+##### [II. Gerichtliche Gütertrennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_C/lvl_I_I)
 
-###### [1. Auf Begehren der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_C/lvl_I_I/lvl_1)
+###### [1. Auf Begehren der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_C/lvl_I_I/lvl_1)
 
 [**Art. 183**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_183) 
 
@@ -11601,7 +11643,7 @@ Der Richter hat auf Begehren der Ehefrau die Gütertrennung anzu­ordnen:
 |    2. wenn er die für das eingebrachte Frauengut verlangte Sicher­heit nicht leistet;  
 |    3. wenn der Ehemann oder das Gesamtgut überschuldet ist.
 
-###### [2. Auf Begehren des Ehemannes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_C/lvl_I_I/lvl_2)
+###### [2. Auf Begehren des Ehemannes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_C/lvl_I_I/lvl_2)
 
 [**Art. 184**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_184) 
 
@@ -11612,13 +11654,13 @@ Der Richter hat auf Begehren des Ehemannes die Gütertrennung an­zu­ordnen:
 |    2. wenn die Ehefrau in ungerechtfertigter Weise die nach Gesetz oder Güterstand erforderliche Zustimmung zu den Verfü­gun­gen des Ehemannes über das eheliche Vermögen verwei­gert;  
 |    3. wenn die Ehefrau die Sicherstellung des eingebrachten Frauen­­gu­tes verlangt hat.
 
-###### [3. Auf Begehren der Gläubiger](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_C/lvl_I_I/lvl_3)
+###### [3. Auf Begehren der Gläubiger](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_C/lvl_I_I/lvl_3)
 
 [**Art. 185**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_185) 
 
 Der Richter hat die Gütertrennung auf Begehren eines Gläubigers anzuordnen, wenn dieser bei der gegen einen Ehegatten durchgeführten Betreibung auf Pfändung zu Verlust gekommen ist.
 
-##### [III. Beginn der Gütertrennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_C/lvl_II_I)
+##### [III. Beginn der Gütertrennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_C/lvl_II_I)
 
 [**Art. 186**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_186) 
 
@@ -11628,7 +11670,7 @@ Der Richter hat die Gütertrennung auf Begehren eines Gläubigers anzuordnen, we
 
 [3] Der Eintritt der Gütertrennung wird im Falle des Konkurses oder des gerichtlichen Urteils zur Eintragung in das Güterrechtsregister von Amtes wegen angemeldet.
 
-##### [IV. Aufhebung der Güter­trennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_C/lvl_I_V)
+##### [IV. Aufhebung der Güter­trennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_C/lvl_I_V)
 
 [**Art. 187**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_187) 
 
@@ -11638,9 +11680,9 @@ Der Richter hat die Gütertrennung auf Begehren eines Gläubigers anzuordnen, we
 
 [3] Die Wiederherstellung ist zur Eintragung in das Güterrechtsregister von Amtes wegen anzumelden.
 
-#### [D. Wechsel des Güterstandes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_D)
+#### [D. Wechsel des Güterstandes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_D)
 
-##### [I. Haftung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_D/lvl_I)
+##### [I. Haftung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_D/lvl_I)
 
 [**Art. 188**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_188) 
 
@@ -11650,7 +11692,7 @@ Der Richter hat die Gütertrennung auf Begehren eines Gläubigers anzuordnen, we
 
 [3] Was die Ehefrau aus dem Konkurse des Ehemannes oder in einer Anschlusspfändung zurück erhält, bleibt den Gläubigern des Eheman­nes, soweit sie nicht auch Gläubiger der Ehefrau sind, entzo­gen.
 
-##### [II. Ausein­ander­set­zung bei Ein­tritt der Gü­ter­trennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_D/lvl_I_I)
+##### [II. Ausein­ander­set­zung bei Ein­tritt der Gü­ter­trennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_D/lvl_I_I)
 
 [**Art. 189**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_189) 
 
@@ -11660,11 +11702,11 @@ Der Richter hat die Gütertrennung auf Begehren eines Gläubigers anzuordnen, we
 
 [3] Behält der Ehemann während der Auseinandersetzung Frauengut in seiner Verfügungsgewalt, so hat er auf Verlangen der Ehefrau Sicher­heit zu leisten.
 
-#### [E. Sondergut](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_E)
+#### [E. Sondergut](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_E)
 
-##### [I. Entstehung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_E/lvl_I)
+##### [I. Entstehung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_E/lvl_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_E/lvl_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_E/lvl_I/lvl_1)
 
 [**Art. 190**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_190) 
 
@@ -11672,7 +11714,7 @@ Der Richter hat die Gütertrennung auf Begehren eines Gläubigers anzuordnen, we
 
 [2] Was ein Ehegatte als Pflichtteil von seinen Verwandten zu bean­spruchen hat, kann ihm nicht als Sondergut zugewendet werden.
 
-###### [2. Kraft Gesetzes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_E/lvl_I/lvl_2)
+###### [2. Kraft Gesetzes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_E/lvl_I/lvl_2)
 
 [**Art. 191**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_191) 
 
@@ -11683,7 +11725,7 @@ Kraft Gesetzes sind Sondergut:
 |    2. die Vermögenswerte des Frauengutes, mit denen die Ehefrau ei­nen Beruf oder ein Gewerbe betreibt;  
 |    3. der Erwerb der Ehefrau aus selbständiger Arbeit.
 
-##### [II. Wirkung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_E/lvl_I_I)
+##### [II. Wirkung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_E/lvl_I_I)
 
 [**Art. 192**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_192) 
 
@@ -11691,17 +11733,17 @@ Kraft Gesetzes sind Sondergut:
 
 [2] Die Ehefrau hat ihren Arbeitserwerb, soweit erforderlich, für die Bedürfnisse des Haushaltes zu verwenden.
 
-##### [III. Beweislast](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_1/lvl_E/lvl_II_I)
+##### [III. Beweislast](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_1/lvl_E/lvl_II_I)
 
 [**Art. 193**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_193) 
 
 Behauptet ein Ehegatte, dass ein Vermögenswert zum Sondergut gehöre, so ist er hiefür beweispflichtig.
 
-### [Zweiter Abschnitt: Die Güterverbindung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2)
+### [Zweiter Abschnitt: Die Güterverbindung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2)
 
-#### [A. Eigentums­ver­hältnisse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_A)
+#### [A. Eigentums­ver­hältnisse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_A)
 
-##### [I. Eheliches Vermögen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_A/lvl_I)
+##### [I. Eheliches Vermögen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_A/lvl_I)
 
 [**Art. 194**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_194) 
 
@@ -11709,7 +11751,7 @@ Behauptet ein Ehegatte, dass ein Vermögenswert zum Sondergut gehöre, so ist er
 
 [2] Ausgenommen hievon ist das Sondergut der Ehefrau.
 
-##### [II. Eigentum von Mann und Frau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_A/lvl_I_I)
+##### [II. Eigentum von Mann und Frau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_A/lvl_I_I)
 
 [**Art. 195**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_195) 
 
@@ -11719,7 +11761,7 @@ Behauptet ein Ehegatte, dass ein Vermögenswert zum Sondergut gehöre, so ist er
 
 [3] Die Einkünfte der Ehefrau und die natürlichen Früchte des Frauen­gutes werden unter Vorbehalt der Bestimmungen über das Sondergut auf den Zeitpunkt ihrer Fälligkeit oder Trennung Eigentum des Ehe­mannes.
 
-##### [III. Beweis](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_A/lvl_II_I)
+##### [III. Beweis](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_A/lvl_II_I)
 
 [**Art. 196**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_196) 
 
@@ -11727,9 +11769,9 @@ Behauptet ein Ehegatte, dass ein Vermögenswert zum Sondergut gehöre, so ist er
 
 [2] Werden während der Ehe zum Ersatz für Vermögenswerte der Ehe­frau Anschaffungen gemacht, so wird vermutet, dass sie zum Frauen­gute gehören.
 
-##### [IV. Inventar](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_A/lvl_I_V)
+##### [IV. Inventar](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_A/lvl_I_V)
 
-###### [1. Errichtung und Beweiskraft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_A/lvl_I_V/lvl_1)
+###### [1. Errichtung und Beweiskraft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_A/lvl_I_V/lvl_1)
 
 [**Art. 197**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_197) 
 
@@ -11737,7 +11779,7 @@ Behauptet ein Ehegatte, dass ein Vermögenswert zum Sondergut gehöre, so ist er
 
 [2] Ist ein solches Inventar binnen sechs Monaten nach der Einbringung errichtet worden, so wird es als richtig vermutet.
 
-###### [2. Bedeutung der Schätzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_A/lvl_I_V/lvl_2)
+###### [2. Bedeutung der Schätzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_A/lvl_I_V/lvl_2)
 
 [**Art. 198**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_198) 
 
@@ -11745,15 +11787,15 @@ Behauptet ein Ehegatte, dass ein Vermögenswert zum Sondergut gehöre, so ist er
 
 [2] Sind Gegenstände in guten Treuen während der Ehe unter dem Schätzungswerte veräussert worden, so tritt der Erlös an die Stelle der Schätzungssumme.
 
-##### [V. Eigentum des Ehemannes am Frauengut](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_A/lvl_V)
+##### [V. Eigentum des Ehemannes am Frauengut](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_A/lvl_V)
 
 [**Art. 199**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_199) 
 
 Mit der Schätzung kann unter Beobachtung der Vorschriften über den Ehevertrag binnen sechs Monaten nach der Einbringung des Frauen­gutes die Bestimmung verbunden werden, dass das Frauengut zum Schätzungsbetrag in das Eigentum des Ehemannes übergehen und die Frauengutsforderung unverändert bleiben soll.
 
-#### [B. Verwaltung, Nutzung, Verfügungs­befugnis](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_B)
+#### [B. Verwaltung, Nutzung, Verfügungs­befugnis](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_B)
 
-##### [I. Verwaltung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_B/lvl_I)
+##### [I. Verwaltung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_B/lvl_I)
 
 [**Art. 200**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_200) 
 
@@ -11763,7 +11805,7 @@ Mit der Schätzung kann unter Beobachtung der Vorschriften über den Ehevertrag 
 
 [3] Der Ehefrau steht die Verwaltung insoweit zu, als sie zur Vertretung der ehelichen Gemeinschaft berechtigt ist.
 
-##### [II. Nutzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_B/lvl_I_I)
+##### [II. Nutzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_B/lvl_I_I)
 
 [**Art. 201**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_201) 
 
@@ -11773,9 +11815,9 @@ Mit der Schätzung kann unter Beobachtung der Vorschriften über den Ehevertrag 
 
 [3] Bares Geld, andere vertretbare Sachen und Inhaberpapiere, die nur der Gattung nach bestimmt worden sind, gehen in das Eigentum des Ehemannes über, und die Ehefrau erhält für deren Wert eine Ersatz­forderung.
 
-##### [III. Ver­fü­gungs­befugnis](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_B/lvl_II_I)
+##### [III. Ver­fü­gungs­befugnis](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_B/lvl_II_I)
 
-###### [1. Des Ehe­mannes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_B/lvl_II_I/lvl_1)
+###### [1. Des Ehe­mannes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_B/lvl_II_I/lvl_1)
 
 [**Art. 202**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_202) 
 
@@ -11783,15 +11825,15 @@ Mit der Schätzung kann unter Beobachtung der Vorschriften über den Ehevertrag 
 
 [2] Dritte dürfen jedoch diese Einwilligung voraussetzen, sofern sie nicht wissen oder wissen sollten, dass sie mangelt, oder sofern die Vermögenswerte nicht für jedermann als der Ehefrau gehörig erkenn­bar sind.
 
-###### [2. Der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_B/lvl_II_I/lvl_2)
+###### [2. Der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_B/lvl_II_I/lvl_2)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_B/lvl_II_I/lvl_2/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_B/lvl_II_I/lvl_2/lvl_a)
 
 [**Art. 203**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_203) 
 
 Soweit die Vertretung der ehelichen Gemeinschaft es rechtfertigt, hat die Ehefrau die Verfügung über das eheliche Vermögen.
 
-###### [b. Ausschlagung von Erbschaften](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_B/lvl_II_I/lvl_2/lvl_b)
+###### [b. Ausschlagung von Erbschaften](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_B/lvl_II_I/lvl_2/lvl_b)
 
 [**Art. 204**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_204) 
 
@@ -11799,7 +11841,7 @@ Soweit die Vertretung der ehelichen Gemeinschaft es rechtfertigt, hat die Ehefra
 
 [2] Gegen die Verweigerung kann die Ehefrau die Entscheidung der Vormundschaftsbehörde anrufen.
 
-#### [C. Sicherung der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_C)
+#### [C. Sicherung der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_C)
 
 [**Art. 205**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_205) 
 
@@ -11809,9 +11851,9 @@ Soweit die Vertretung der ehelichen Gemeinschaft es rechtfertigt, hat die Ehefra
 
 [3] Die Anfechtungsklage nach dem Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs bleibt vorbehalten.
 
-#### [D. Haftung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_D)
+#### [D. Haftung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_D)
 
-##### [I. Haftung des Ehemannes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_D/lvl_I)
+##### [I. Haftung des Ehemannes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_D/lvl_I)
 
 [**Art. 206**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_206) 
 
@@ -11822,9 +11864,9 @@ Der Ehemann ist haftbar:
 |    2. für die Schulden, die er während der Ehe begründet;  
 |    3. für die Schulden, die sich aus der Vertretung der ehelichen Gemeinschaft durch die Ehefrau ergeben.
 
-##### [II. Haftung der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_D/lvl_I_I)
+##### [II. Haftung der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_D/lvl_I_I)
 
-###### [1. Mit dem ganzen Vermögen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_D/lvl_I_I/lvl_1)
+###### [1. Mit dem ganzen Vermögen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_D/lvl_I_I/lvl_1)
 
 [**Art. 207**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_207) 
 
@@ -11832,14 +11874,15 @@ Der Ehemann ist haftbar:
 
 
 |    1. für ihre vorehelichen Schulden;  
-|    2. für die Schulden, die sie mit Einwilligung des Ehemannes oder bei Verpflichtungen zu seinen Gunsten mit Zustimmung der Vormundschaftsbehörde begründet;  
+|    2. für die Schulden, die sie mit Einwilligung des Ehemannes   
+oder bei Verpflichtungen zu seinen Gunsten mit Zustimmung der Vormundschaftsbehörde begründet;  
 |    3. für die Schulden, die aus dem regelmässigen Betriebe ihres Beru­fes oder Gewerbes entstehen;  
 |    4. für die Schulden aus Erbschaften, die auf sie übergehen;  
 |    5. für die Schulden aus unerlaubten Handlungen.
 
 [2] Für die Schulden, die von ihr oder vom Ehemanne für den gemein­samen Haushalt eingegangen werden, haftet sie, soweit der Ehemann nicht zahlungsfähig ist.
 
-###### [2. Mit dem Sondergut](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_D/lvl_I_I/lvl_2)
+###### [2. Mit dem Sondergut](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_D/lvl_I_I/lvl_2)
 
 [**Art. 208**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_208) 
 
@@ -11852,9 +11895,9 @@ Der Ehemann ist haftbar:
 
 [2] Vorbehalten bleiben die Ansprüche aus ungerechtfertigter Bereiche­rung.
 
-#### [E. Ersatz­forderungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_E)
+#### [E. Ersatz­forderungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_E)
 
-##### [I. Fälligkeit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_E/lvl_I)
+##### [I. Fälligkeit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_E/lvl_I)
 
 [**Art. 209**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_209) 
 
@@ -11862,9 +11905,9 @@ Der Ehemann ist haftbar:
 
 [2] Sind Sondergutsschulden der Ehefrau aus dem ehelichen Vermögen oder Schulden, für die eheliches Vermögen haftet, aus dem Sonder­gute getilgt worden, so kann die Ausgleichung schon während der Ehe gefordert werden.
 
-##### [II. Konkurs des Ehemannes und Pfän­dung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_E/lvl_I_I)
+##### [II. Konkurs des Ehemannes und Pfän­dung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_E/lvl_I_I)
 
-###### [1. Anspruch der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_E/lvl_I_I/lvl_1)
+###### [1. Anspruch der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_E/lvl_I_I/lvl_1)
 
 [**Art. 210**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_210) 
 
@@ -11874,7 +11917,7 @@ Der Ehemann ist haftbar:
 
 [3] Die noch vorhandenen Vermögenswerte kann die Ehefrau als Eigen­tümerin an sich ziehen.
 
-###### [2. Vorrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_E/lvl_I_I/lvl_2)
+###### [2. Vorrecht](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_E/lvl_I_I/lvl_2)
 
 [**Art. 211**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_211) 
 
@@ -11882,9 +11925,9 @@ Der Ehemann ist haftbar:
 
 [2] Die Abtretung des Vorrechts sowie der Verzicht auf dasselbe zu­gun­sten einzelner Gläubiger sind ungültig.
 
-#### [F. Auflösung des ehelichen Vermögens](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_F)
+#### [F. Auflösung des ehelichen Vermögens](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_F)
 
-##### [I. Tod der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_F/lvl_I)
+##### [I. Tod der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_F/lvl_I)
 
 [**Art. 212**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_212) 
 
@@ -11892,13 +11935,13 @@ Der Ehemann ist haftbar:
 
 [2] Für das Fehlende hat der Ehemann, soweit er verantwortlich ist und unter Anrechnung dessen, was er von der Ehefrau zu fordern hat, Ersatz zu leisten.
 
-##### [II. Tod des Ehemannes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_F/lvl_I_I)
+##### [II. Tod des Ehemannes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_F/lvl_I_I)
 
 [**Art. 213**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_213) 
 
 Stirbt der Ehemann, so nimmt die Ehefrau das noch vorhandene ein­gebrachte Frauengut zurück und kann gegen die Erben für das Feh­lende die Ersatzforderung geltend machen.
 
-##### [III. Vor- und Rückschlag](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_2/lvl_F/lvl_II_I)
+##### [III. Vor- und Rückschlag](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_2/lvl_F/lvl_II_I)
 
 [**Art. 214**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_214) 
 
@@ -11908,11 +11951,11 @@ Stirbt der Ehemann, so nimmt die Ehefrau das noch vorhandene ein­gebrachte Frau
 
 [3] Durch Ehevertrag kann eine andere Beteiligung am Vorschlag oder Rückschlag verabredet werden.
 
-### [Dritter Abschnitt: Die Gütergemeinschaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3)
+### [Dritter Abschnitt: Die Gütergemeinschaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3)
 
-#### [A. Allgemeine Gü­tergemein­schaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A)
+#### [A. Allgemeine Gü­tergemein­schaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A)
 
-##### [I. Eheliches Vermögen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_I)
+##### [I. Eheliches Vermögen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_I)
 
 [**Art. 215**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_215) 
 
@@ -11922,9 +11965,9 @@ Stirbt der Ehemann, so nimmt die Ehefrau das noch vorhandene ein­gebrachte Frau
 
 [3] Behauptet ein Ehegatte, dass ein Vermögenswert nicht zum Gesamt­gute gehöre, so ist er hiefür beweispflichtig.
 
-##### [II. Verwaltung und Verfü­gungs­befug­nis](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_I_I)
+##### [II. Verwaltung und Verfü­gungs­befug­nis](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_I_I)
 
-###### [1. Verwaltung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_I_I/lvl_1)
+###### [1. Verwaltung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_I_I/lvl_1)
 
 [**Art. 216**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_216) 
 
@@ -11934,9 +11977,9 @@ Stirbt der Ehemann, so nimmt die Ehefrau das noch vorhandene ein­gebrachte Frau
 
 [3] Der Ehefrau steht die Verwaltung insoweit zu, als sie zur Vertretung der ehelichen Gemeinschaft berechtigt ist.
 
-###### [2. Verfügungs­befugnis](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_I_I/lvl_2)
+###### [2. Verfügungs­befugnis](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_I_I/lvl_2)
 
-###### [a. Verfügung über Gesamtgut](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_I_I/lvl_2/lvl_a)
+###### [a. Verfügung über Gesamtgut](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_I_I/lvl_2/lvl_a)
 
 [**Art. 217**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_217) 
 
@@ -11944,7 +11987,7 @@ Stirbt der Ehemann, so nimmt die Ehefrau das noch vorhandene ein­gebrachte Frau
 
 [2] Dritte dürfen jedoch diese Einwilligung voraussetzen, sofern sie nicht wissen oder wissen sollten, dass sie mangelt, oder sofern die Vermögenswerte nicht für jedermann als zum Gesamtgute gehörig erkennbar sind.
 
-###### [b. Ausschlagung von Erbschaften](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_I_I/lvl_2/lvl_b)
+###### [b. Ausschlagung von Erbschaften](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_I_I/lvl_2/lvl_b)
 
 [**Art. 218**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_218) 
 
@@ -11952,9 +11995,9 @@ Stirbt der Ehemann, so nimmt die Ehefrau das noch vorhandene ein­gebrachte Frau
 
 [2] Gegen die Verweigerung kann er die Entscheidung der Vormund­schaftsbehörde anrufen.
 
-##### [III. Haftung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_II_I)
+##### [III. Haftung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_II_I)
 
-###### [1. Schulden des Ehemannes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_II_I/lvl_1)
+###### [1. Schulden des Ehemannes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_II_I/lvl_1)
 
 [**Art. 219**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_219) 
 
@@ -11965,9 +12008,9 @@ Der Ehemann ist persönlich und mit dem Gesamtgute haftbar:
 |    2. für die Schulden, die sich aus der Vertretung der ehelichen Gemeinschaft durch die Ehefrau ergeben;  
 |    3. für alle andern Schulden, die während der Ehe durch ihn oder zu Lasten des Gesamtgutes durch die Ehefrau begründet wer­den.
 
-###### [2. Schulden der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_II_I/lvl_2)
+###### [2. Schulden der Ehefrau](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_II_I/lvl_2)
 
-###### [a. Der Ehefrau und des Gesamt­gu­tes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_II_I/lvl_2/lvl_a)
+###### [a. Der Ehefrau und des Gesamt­gu­tes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_II_I/lvl_2/lvl_a)
 
 [**Art. 220**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_220) 
 
@@ -11984,7 +12027,7 @@ Der Ehemann ist persönlich und mit dem Gesamtgute haftbar:
 
 [3] Für die andern Schulden des Gesamtgutes ist sie nicht persönlich haftbar.
 
-###### [b. Sonderguts­schulden](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_II_I/lvl_2/lvl_b)
+###### [b. Sonderguts­schulden](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_II_I/lvl_2/lvl_b)
 
 [**Art. 221**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_221) 
 
@@ -11997,15 +12040,15 @@ Der Ehemann ist persönlich und mit dem Gesamtgute haftbar:
 
 [2] Vorbehalten bleiben die Ansprüche aus ungerechtfertigter Bereiche­rung.
 
-###### [3. Zwangs­voll­streckung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_II_I/lvl_3)
+###### [3. Zwangs­voll­streckung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_II_I/lvl_3)
 
 [**Art. 222**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_222) 
 
 Während der Dauer der Gütergemeinschaft geht die Zwangsvollstre­ckung für die Schulden, für die das Gesamtgut haftet, gegen den Ehe­mann.
 
-##### [IV. Ersatz­forderungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_I_V)
+##### [IV. Ersatz­forderungen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_I_V)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_I_V/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_I_V/lvl_1)
 
 [**Art. 223**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_223) 
 
@@ -12013,7 +12056,7 @@ Während der Dauer der Gütergemeinschaft geht die Zwangsvollstre­ckung für di
 
 [2] Sind Gemeinschaftsschulden aus dem Sondergute oder Sonderguts­schulden aus dem Gesamtgute getilgt worden, so entsteht ein Anspruch auf Ausgleichung, der schon während der Ehe geltend gemacht werden kann.
 
-###### [2. Frauenguts­forderung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_I_V/lvl_2)
+###### [2. Frauenguts­forderung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_I_V/lvl_2)
 
 [**Art. 224**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_224) 
 
@@ -12021,11 +12064,11 @@ Während der Dauer der Gütergemeinschaft geht die Zwangsvollstre­ckung für di
 
 [2] Die Abtretung des Vorrechtes sowie der Verzicht auf dasselbe zugunsten einzelner Gläubiger sind ungültig.
 
-##### [V. Auflösung des ehelichen Ve­rmögens](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_V)
+##### [V. Auflösung des ehelichen Ve­rmögens](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_V)
 
-###### [1. Grösse der Anteile](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_V/lvl_1)
+###### [1. Grösse der Anteile](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_V/lvl_1)
 
-###### [a. Nach Gesetz](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_V/lvl_1/lvl_a)
+###### [a. Nach Gesetz](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_V/lvl_1/lvl_a)
 
 [**Art. 225**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_225) 
 
@@ -12035,7 +12078,7 @@ Während der Dauer der Gütergemeinschaft geht die Zwangsvollstre­ckung für di
 
 [3] Ist der überlebende Ehegatte erbunwürdig, so kann er aus der Güter­gemeinschaft in keinem Falle mehr beanspruchen, als ihm bei Schei­dung der Ehe zukommen würde.
 
-###### [b. Nach Vertrag](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_V/lvl_1/lvl_b)
+###### [b. Nach Vertrag](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_V/lvl_1/lvl_b)
 
 [**Art. 226**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_226) 
 
@@ -12043,7 +12086,7 @@ Während der Dauer der Gütergemeinschaft geht die Zwangsvollstre­ckung für di
 
 [2] Den Nachkommen des verstorbenen Ehegatten darf jedoch ein Vier­tel des bei seinem Tode vorhandenen Gesamtvermögens nicht ent­zogen werden.
 
-###### [2. Haftung des Überlebenden](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_V/lvl_2)
+###### [2. Haftung des Überlebenden](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_V/lvl_2)
 
 [**Art. 227**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_227) 
 
@@ -12053,15 +12096,15 @@ Während der Dauer der Gütergemeinschaft geht die Zwangsvollstre­ckung für di
 
 [3] Übernimmt sie ihren Anteil, so ist sie haftbar, kann sich aber von dieser Haftung in dem Masse befreien, als sie nachweist, dass das Empfangene zur Bezahlung jener Schuld nicht ausreicht.
 
-###### [3. Anrechnung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_A/lvl_V/lvl_3)
+###### [3. Anrechnung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_A/lvl_V/lvl_3)
 
 [**Art. 228**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_228) 
 
 Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnung diejenigen Vermögenswerte überlassen werden, die von ihm eingebracht worden sind.
 
-#### [B. Fortgesetzte Güter­ge­mein­schaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_B)
+#### [B. Fortgesetzte Güter­ge­mein­schaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_B)
 
-##### [I. Voraussetzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_B/lvl_I)
+##### [I. Voraussetzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_B/lvl_I)
 
 [**Art. 229**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_229) 
 
@@ -12071,7 +12114,7 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [3] Wird die Gütergemeinschaft fortgesetzt, so können bis zu ihrer Beendigung erbrechtliche Ansprüche nicht geltend gemacht werden.
 
-##### [II. Umfang](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_B/lvl_I_I)
+##### [II. Umfang](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_B/lvl_I_I)
 
 [**Art. 230**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_230) 
 
@@ -12081,7 +12124,7 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [3] Die Zwangsvollstreckung ist unter den Beteiligten in gleicher Weise beschränkt wie unter den Ehegatten.
 
-##### [III. Verwaltung und Ver­tretung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_B/lvl_II_I)
+##### [III. Verwaltung und Ver­tretung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_B/lvl_II_I)
 
 [**Art. 231**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_231) 
 
@@ -12089,9 +12132,9 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [2] Sind sie mündig, so kann durch Vereinbarung etwas anderes fest­gesetzt werden.
 
-##### [IV. Aufhebung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_B/lvl_I_V)
+##### [IV. Aufhebung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_B/lvl_I_V)
 
-###### [1. Durch Erklärung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_B/lvl_I_V/lvl_1)
+###### [1. Durch Erklärung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_B/lvl_I_V/lvl_1)
 
 [**Art. 232**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_232) 
 
@@ -12101,7 +12144,7 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [3] Für unmündige Kinder kann die Vormundschaftsbehörde den Aus­tritt erklären.
 
-###### [2. Von Gesetzes wegen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_B/lvl_I_V/lvl_2)
+###### [2. Von Gesetzes wegen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_B/lvl_I_V/lvl_2)
 
 [**Art. 233**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_233) 
 
@@ -12115,7 +12158,7 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [3] Im Konkurse des Vaters sowie bei der Pfändung von Vermögens­werten des Gesamtgutes treten die Kinder an die Stelle der verstorbe­nen Mutter.
 
-###### [3. Durch Urteil](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_B/lvl_I_V/lvl_3)
+###### [3. Durch Urteil](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_B/lvl_I_V/lvl_3)
 
 [**Art. 234**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_234) 
 
@@ -12123,7 +12166,7 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [2] Wird diese Aufhebung von dem Gläubiger eines Kindes gefordert, so können die übrigen Beteiligten verlangen, dass es ausscheide.
 
-###### [4. Durch Heirat oder Tod eines Kindes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_B/lvl_I_V/lvl_4)
+###### [4. Durch Heirat oder Tod eines Kindes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_B/lvl_I_V/lvl_4)
 
 [**Art. 235**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_235) 
 
@@ -12133,7 +12176,7 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [3] Stirbt ein Kind ohne Hinterlassung von Nachkommen, so verbleibt sein Anteil das Gesamtgut, unter Vorbehalt der Ansprüche nicht an der Gemeinschaft beteiligter Erben.
 
-###### [5. Teilungsart](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_B/lvl_I_V/lvl_5)
+###### [5. Teilungsart](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_B/lvl_I_V/lvl_5)
 
 [**Art. 236**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_236) 
 
@@ -12143,9 +12186,9 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [3] Die Auseinandersetzung darf nicht zur Unzeit vorgenommen wer­den.
 
-#### [C. Beschränkte Gütergemein­schaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_C)
+#### [C. Beschränkte Gütergemein­schaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_C)
 
-##### [I. Mit Güter­trennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_C/lvl_I)
+##### [I. Mit Güter­trennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_C/lvl_I)
 
 [**Art. 237**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_237) 
 
@@ -12153,7 +12196,7 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [2] Die ausgeschlossenen Vermögenswerte stehen unter den Regeln der Gütertrennung.
 
-##### [II. Mit Güter­verbindung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_C/lvl_I_I)
+##### [II. Mit Güter­verbindung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_C/lvl_I_I)
 
 [**Art. 238**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_238) 
 
@@ -12161,9 +12204,9 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [2] Eine solche Abrede wird angenommen, wenn die Ehefrau dieses Vermögen durch den Ehevertrag dem Ehemanne zur Verwaltung und Nutzung überlassen hat.
 
-##### [III. Errungen­schafts­gemein­schaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_C/lvl_II_I)
+##### [III. Errungen­schafts­gemein­schaft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_C/lvl_II_I)
 
-###### [1. Umfang](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_C/lvl_II_I/lvl_1)
+###### [1. Umfang](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_C/lvl_II_I/lvl_1)
 
 [**Art. 239**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_239) 
 
@@ -12173,7 +12216,7 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [3] Für das bei Eingehung oder während der Ehe von Mann und Frau eingebrachte Vermögen gelten die Regeln der Güterverbindung.
 
-###### [2. Beteiligung am Vor- und Rückschlag](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_3/lvl_C/lvl_II_I/lvl_2)
+###### [2. Beteiligung am Vor- und Rückschlag](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_3/lvl_C/lvl_II_I/lvl_2)
 
 [**Art. 240**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_240) 
 
@@ -12183,9 +12226,9 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [3] Durch Ehevertrag kann eine andere Beteiligung am Vorschlag oder Rückschlag verabredet werden.
 
-### [Vierter Abschnitt: Die Gütertrennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_4)
+### [Vierter Abschnitt: Die Gütertrennung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_4)
 
-#### [A. Ausdehnung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_4/lvl_A)
+#### [A. Ausdehnung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_4/lvl_A)
 
 [**Art. 241**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_241) 
 
@@ -12193,7 +12236,7 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [2] Wird sie durch Ehevertrag begründet, so erstreckt sie sich auf das ganze Vermögen, insoweit nicht im Vertrag besondere Ausnahmen aufgestellt sind.
 
-#### [B. Eigentum, Ver­waltung und Nutzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_4/lvl_B)
+#### [B. Eigentum, Ver­waltung und Nutzung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_4/lvl_B)
 
 [**Art. 242**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_242) 
 
@@ -12203,9 +12246,9 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [3] Ein Verzicht der Ehefrau auf das Recht, die Verwaltung jederzeit wieder an sich zu ziehen, ist nicht verbindlich.
 
-#### [C. Haftung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_4/lvl_C)
+#### [C. Haftung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_4/lvl_C)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_4/lvl_C/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_4/lvl_C/lvl_I)
 
 [**Art. 243**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_243) 
 
@@ -12215,7 +12258,7 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [3] Für die Schulden, die vom Ehemann oder von der Ehefrau für den gemeinsamen Haushalt eingegangen werden, haftet die Ehefrau im Falle der Zahlungsunfähigkeit des Ehemannes.
 
-##### [II. Konkurs des Ehemannes und Pfän­dung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_4/lvl_C/lvl_I_I)
+##### [II. Konkurs des Ehemannes und Pfän­dung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_4/lvl_C/lvl_I_I)
 
 [**Art. 244**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_244) 
 
@@ -12223,13 +12266,13 @@ Bei der Teilung kann der überlebende Ehegatte verlangen, dass ihm auf Anrechnun
 
 [2] Vorbehalten bleiben die Bestimmungen über die Ehesteuer.
 
-#### [D. Einkünfte und Erwerb](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_4/lvl_D)
+#### [D. Einkünfte und Erwerb](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_4/lvl_D)
 
 [**Art. 245**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_245) 
 
 Die Einkünfte und der Erwerb gehören dem Ehegatten, von dessen Vermögen oder Arbeit sie herrühren.
 
-#### [E. Tragung der ehelichen Lasten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_4/lvl_E)
+#### [E. Tragung der ehelichen Lasten](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_4/lvl_E)
 
 [**Art. 246**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_246) 
 
@@ -12239,7 +12282,7 @@ Die Einkünfte und der Erwerb gehören dem Ehegatten, von dessen Vermögen oder 
 
 [3] Für die Beiträge der Ehefrau wird der Ehemann nicht ersatz­pflich­tig.
 
-#### [F. Ehesteuer](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_4/lvl_F)
+#### [F. Ehesteuer](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_4/lvl_F)
 
 [**Art. 247**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_247) 
 
@@ -12247,9 +12290,9 @@ Die Einkünfte und der Erwerb gehören dem Ehegatten, von dessen Vermögen oder 
 
 [2] Was die Ehefrau derart dem Ehemann überlässt, steht, wenn es nicht anders vereinbart worden ist, unter den Regeln der Güterverbindung.
 
-### [Fünfter Abschnitt: Das Güterrechtsregister](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_5)
+### [Fünfter Abschnitt: Das Güterrechtsregister](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_5)
 
-#### [A. Rechtskraft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_5/lvl_A)
+#### [A. Rechtskraft](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_5/lvl_A)
 
 [**Art. 248**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_248) 
 
@@ -12257,9 +12300,9 @@ Die Einkünfte und der Erwerb gehören dem Ehegatten, von dessen Vermögen oder 
 
 [2] Die Erben des verstorbenen Ehegatten sind nicht als Dritte anzu­sehen.
 
-#### [B. Eintragung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_5/lvl_B)
+#### [B. Eintragung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_5/lvl_B)
 
-##### [I. Gegenstand](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_5/lvl_B/lvl_I)
+##### [I. Gegenstand](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_5/lvl_B/lvl_I)
 
 [**Art. 249**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_249) 
 
@@ -12267,7 +12310,7 @@ Die Einkünfte und der Erwerb gehören dem Ehegatten, von dessen Vermögen oder 
 
 [2] Die Eintragung erfolgt, wo das Gesetz es nicht anders bestimmt oder der Ehevertrag die Eintragung nicht ausdrücklich ausschliesst, auf das einseitige Begehren eines Ehegatten.
 
-##### [II. Ort der Eintra­gung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_5/lvl_B/lvl_I_I)
+##### [II. Ort der Eintra­gung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_5/lvl_B/lvl_I_I)
 
 [**Art. 250**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_250) 
 
@@ -12277,7 +12320,7 @@ Die Einkünfte und der Erwerb gehören dem Ehegatten, von dessen Vermögen oder 
 
 [3] Der Eintrag in dem Register des früheren Wohnsitzes verliert die rechtliche Wirkung nach Ablauf von drei Monaten, vom Wechsel des Wohnsitzes an gerechnet.
 
-#### [C. Register­führung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d16055e3103/tit_6/chap_5/lvl_C)
+#### [C. Register­führung](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#lvl_d4e3109/tit_6/chap_5/lvl_C)
 
 [**Art. 251**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_251) 
 

@@ -27,7 +27,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 ## (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 1 July 2021)
+of 30 March 1911 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -431,7 +431,9 @@ The special provisions governing the authority of agents and governing bodies of
 |    a. the supplier of the goods or services acted in a professional or commercial capacity; and  
 |    b. the consideration from the buyer exceeds 100 francs.
 
-[2] These provisions do not apply to insurance policies and to legal transactions that are entered into by financial institutions and banks within the framework of existing financial services contracts in accordance with the Federal Act of 15 June 2018.
+[2] These provisions do not apply to legal transactions that are entered into by financial institutions and banks within the framework of existing financial services contracts in accordance with the Financial Services Act of 15 June 2018.
+
+[2bis] For insurance policies, the provisions of the Insurance Policies Act of 2 April 1908 apply.
 
 [3] In the event of significant change to the purchasing power of the national currency, the Federal Council shall adjust the sum indicated in para. 1 let. b accordingly.
 
@@ -5260,187 +5262,104 @@ A canton issuing a standard employment contract pursuant to Article 360*a* must 
 
 [1] It is not permissible to derogate from the following provisions to the detriment of either the employer or the employee by individual agreement, standard employment contract or collective employment contract:
 
-Article 321*c*: paragraph 1 (overtime);
 
-Article 323: paragraph 4 (advances);
-
-Article 323*b*: paragraph 2 (set-off against countervailing claims);
-
-Article 325: paragraph 2 (assignment and pledge of salary claims);
-
-Article 326: paragraph 2 (allocation of work);
-
-Article 329*d*: paragraph 2 and 3 (holiday pay);
-
-Article 331: paragraphs 1 and 2 (employee benefits scheme contributions);
-
-Article 331*b*: (assignment and pledge of claims to occupational benefits);
-
-...
-
-Article 334: paragraph 3 (termination of long-term employment relationships);
-
-Article 335: (termination of employment relationships);
-
-Article 335*k*: (social plan during bankruptcy or composition proceedings)
-
-Article 336: paragraph 1 (wrongful termination);
-
-Article 336*a*: (compensation in the event of wrongful termination);
-
-Article 336*b*: (compensation procedure);
-
-Article 336*d*: (termination by the employee at an inopportune juncture);
-
-Article 337: paragraphs 1 and 2 (termination with immediate effect for good cause);
-
-Article 337*b*: paragraph 1 (consequences of justified termination);
-
-Article 337*d*: (consequences of failure to take up post or departure without just cause);
-
-Article 339: paragraph 1 (maturity of claims);
-
-Article 339*a*: (return);
-
-Article 340*b*: paragraph 1 and 2 (consequences of infringement of the prohibition of competition);
-
-Article 342: paragraph 2 (civil law effects of public law);
-
-...
-
-Article 346: (early termination of apprenticeship contract);
-
-Article 349*c*: paragraph 3 (prevention from travelling);
-
-Article 350: (termination in special cases);
-
-Article 350*a*: paragraph 2 (return).
+|    Article 321*c*: paragraph 1 (overtime);  
+|    Article 323: paragraph 4 (advances);  
+|    Article 323*b*: paragraph 2 (set-off against countervailing claims);  
+|    Article 325: paragraph 2 (assignment and pledge of salary claims);  
+|    Article 326: paragraph 2 (allocation of work);  
+|    Article 329*d*: paragraph 2 and 3 (holiday pay);  
+|    Article 331: paragraphs 1 and 2 (employee benefits scheme contributions);  
+|    Article 331*b*: (assignment and pledge of claims to occupational benefits);  
+|    ...   
+|    Article 334: paragraph 3 (termination of long-term employment relationships);  
+|    Article 335: (termination of employment relationships);  
+|    Article 335*k*: (social plan during bankruptcy or composition proceedings)  
+|    Article 336: paragraph 1 (wrongful termination);  
+|    Article 336*a*: (compensation in the event of wrongful termination);  
+|    Article 336*b*: (compensation procedure);  
+|    Article 336*d*: (termination by the employee at an inopportune juncture);  
+|    Article 337: paragraphs 1 and 2 (termination with immediate effect for good cause);  
+|    Article 337*b*: paragraph 1 (consequences of justified termination);  
+|    Article 337*d*: (consequences of failure to take up post or departure without just cause);  
+|    Article 339: paragraph 1 (maturity of claims);  
+|    Article 339*a*: (return);  
+|    Article 340*b*: paragraph 1 and 2 (consequences of infringement of the prohibition of competition);  
+|    Article 342: paragraph 2 (civil law effects of public law);  
+|    ...   
+|    Article 346: (early termination of apprenticeship contract);  
+|    Article 349*c*: paragraph 3 (prevention from travelling);  
+|    Article 350: (termination in special cases);  
+|    Article 350*a*: paragraph 2 (return).
 
 [2] Any agreement or clause of a standard employment contract or collective employment contract that derogates from the aforementioned provisions to the detriment of the employer or the employee is void.
 
 #### [B. Provisions from which no derogation is permissible to the detriment of the employee](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_4/lvl_B)
 
-##### [**Article 362**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_4/lvl_B/lvl_d20417e1415)
+##### [**Article 362**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_4/lvl_B/lvl_d4e1415)
 
 [1] It is not permissible to derogate from the following provisions to the detriment of the employee by individual agreement, standard employment contract or collective employment contract:
 
-Article 321*e*: (employee’s liability);
 
-Article 322*a*:paragraphs 2 and 3 (share in the business results);
-
-Article 322*b*:paragraphs 1 and 2 (entitlement to commission);
-
-Article 322*c*:(statement of commission);
-
-Article 323*b*:paragraph 1, second sentence (salary statement);
-
-Article 324:(salary where employer fails to accept work);
-
-Article 324*a*:paragraphs 1 and 3 (salary where employee is prevented from working);
-
-Article 324*b*:(salary where employee has compulsory insurance);
-
-Article 326: paragraphs 1, 3 and 4 (piece work);
-
-Article 326*a*: (piece work rates);
-
-Article 327*a*: paragraph 1 (reimbursement of expenses in general);
-
-Article 327*b*: paragraph 1 (reimbursement of expenses for motor vehicles);
-
-Article 327*c*: paragraph 2 (advances for expenses);
-
-Article 328: (protection of the employee’s personality rights in general);
-
-Article 328*a*: (protection of personality rights of employees living in the employer’s household);
-
-Article 328*b*: (protection when handling personal data);
-
-Article 329: paragraphs 1, 2 and 3 (days off work);
-
-Article 329*a*: paragraphs 1 and 3 (holiday entitlement);
-
-Article 329*b*: paragraphs 2 and 3 (reduction of holiday entitlement);
-
-Article 329*c*: (consecutive weeks and timing of holidays);
-
-Article 329*d*: paragraph 1 (holiday pay);
-
-Article 329*e*: paragraphs 1 and 3 (leave for youth work);
-
-Article 329*f*: (maternity leave);
-
-Article 329*g*: (paternity leave);
-
-Article 329*h*: (leave to care for family members);
-
-Article 329*i*: (Leave to care for a child whose health is seriously impaired by illness or accident)
-
-Article 330: paragraphs 1, 3 and 4 (security);
-
-Article 330*a*: (reference);
-
-Article 331: paragraphs 3 and 4 (contributions and information for employee benefits);
-
-Article 331*a*: (beginning and end of insurance cover);
-
-...
-
-Article 332: paragraph 4 (remuneration for inventions);
-
-Article 333: paragraph 3 (liability in the event of transfer of employment relationships);
-
-Article 335*c*: (notice periods)
-
-Article 335*i*: (duty to negotiate in order to conclude a social plan)
-
-Article 335*j*: (preparation of the social plan by an arbitral tribunal)
-
-Article 336: paragraph 2 (wrongful termination by the employer);
-
-Article 336*c*: (termination by the employer at an inopportune juncture);
-
-Article 337*a*: (termination with immediate effect because salary is at risk);
-
-Article 337*c*: paragraph 1 (consequences of termination without just cause);
-
-Article 338: (death of the employee);
-
-Article 338*a*: (death of the employer);
-
-Article. 339*b*: (Requirements for severance allowance);
-
-Article. 339*d*: (benefits in lieu);
-
-Article. 340: paragraph 1 (Requirements for prohibition of competition);
-
-Article. 340*a*: paragraph 1 (restrictions on prohibition of competition);
-
-Article. 340*c*: (extinction of prohibition of competition);
-
-Article. 341: paragraph 1 (no right of waiver);
-
-Article. 345*a*: (obligations of the master);
-
-Article. 346*a*: (certificate of apprenticeship);
-
-Article. 349*a*: paragraph 1 (commercial traveller’s salary);
-
-Article. 349*b*: paragraph 3 (payment of commission);
-
-Article. 349*c*: paragraph 1 (salary where prevented from travelling);
-
-Article. 349*e*: paragraph 1 (commercial traveller’s lien);
-
-Article. 350*a*: paragraph 1 (commission on termination of the employment relationship);
-
-Article. 352*a*: paragraph 3 (home worker’s liability);
-
-Article. 353: (acceptance of completed work);
-
-Article. 353*a*: (payment of salary);
-
-Article. 353*b*: paragraph 1 (salary where home worker is prevented from working).
+|    Article 321*e*: (employee’s liability);  
+|    Article 322*a*: paragraphs 2 and 3 (share in the business results);  
+|    Article 322*b*: paragraphs 1 and 2 (entitlement to commission);  
+|    Article 322*c*: (statement of commission);  
+|    Article 323*b*: paragraph 1, second sentence (salary statement);  
+|    Article 324: (salary where employer fails to accept work);  
+|    Article 324*a*: paragraphs 1 and 3 (salary where employee is prevented from working);  
+|    Article 324*b*: (salary where employee has compulsory insurance);  
+|    Article 326: paragraphs 1, 3 and 4 (piece work);  
+|    Article 326*a*: (piece work rates);  
+|    Article 327*a*: paragraph 1 (reimbursement of expenses in general);  
+|    Article 327*b*: paragraph 1 (reimbursement of expenses for motor vehicles);  
+|    Article 327*c*: paragraph 2 (advances for expenses);  
+|    Article 328: (protection of the employee’s personality rights in general);  
+|    Article 328*a*: (protection of personality rights of employees living in the employer’s household);  
+|    Article 328*b*: (protection when handling personal data);  
+|    Article 329: paragraphs 1, 2 and 3 (days off work);  
+|    Article 329*a*: paragraphs 1 and 3 (holiday entitlement);  
+|    Article 329*b*: paragraphs 2 and 3 (reduction of holiday entitlement);  
+|    Article 329*c*: (consecutive weeks and timing of holidays);  
+|    Article 329*d*: paragraph 1 (holiday pay);  
+|    Article 329*e*: paragraphs 1 and 3 (leave for youth work);  
+|    Article 329*f*: (maternity leave);  
+|    Article 329*g*: (paternity leave);  
+|    Article 329*h*: (leave to care for family members);  
+|    Article 329*i*: (Leave to care for a child whose health is seriously impaired by illness or accident)  
+|    Article 330: paragraphs 1, 3 and 4 (security);  
+|    Article 330*a*: (reference);  
+|    Article 331: paragraphs 3 and 4 (contributions and information for employee benefits);  
+|    Article 331*a*: (beginning and end of insurance cover);  
+|    ...   
+|    Article 332: paragraph 4 (remuneration for inventions);  
+|    Article 333: paragraph 3 (liability in the event of transfer of employment relationships);  
+|    Article 335*c*: (notice periods)  
+|    Article 335*i*: (duty to negotiate in order to conclude a social plan)  
+|    Article 335*j*: (preparation of the social plan by an arbitral tribunal)  
+|    Article 336: paragraph 2 (wrongful termination by the employer);  
+|    Article 336*c*: (termination by the employer at an inopportune juncture);  
+|    Article 337*a*: (termination with immediate effect because salary is at risk);  
+|    Article 337*c*: paragraph 1 (consequences of termination without just cause);  
+|    Article 338: (death of the employee);  
+|    Article 338*a*: (death of the employer);  
+|    Article. 339*b*: (Requirements for severance allowance);  
+|    Article. 339*d*: (benefits in lieu);  
+|    Article. 340: paragraph 1 (Requirements for prohibition of competition);  
+|    Article. 340*a*: paragraph 1 (restrictions on prohibition of competition);  
+|    Article. 340*c*: (extinction of prohibition of competition);  
+|    Article. 341: paragraph 1 (no right of waiver);  
+|    Article. 345*a*: (obligations of the master);  
+|    Article. 346*a*: (certificate of apprenticeship);  
+|    Article. 349*a*: paragraph 1 (commercial traveller’s salary);  
+|    Article. 349*b*: paragraph 3 (payment of commission);  
+|    Article. 349*c*: paragraph 1 (salary where prevented from travelling);  
+|    Article. 349*e*: paragraph 1 (commercial traveller’s lien);  
+|    Article. 350*a*: paragraph 1 (commission on termination of the employment relationship);  
+|    Article. 352*a*: paragraph 3 (home worker’s liability);  
+|    Article. 353: (acceptance of completed work);  
+|    Article. 353*a*: (payment of salary);  
+|    Article. 353*b*: paragraph 1 (salary where home worker is prevented from working).
 
 [2] Any agreement or clause of a standard employment contract or collective employment contract that derogates from the aforementioned provisions to the detriment of the employee is void.
 
@@ -7073,7 +6992,7 @@ The surety may require that the principal debtor furnish security and demand his
 
 ###### [b. Surety’s right of recourse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20/lvl_B/lvl_I_I/lvl_2/lvl_b)
 
-###### [aa. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20/lvl_B/lvl_I_I/lvl_2/lvl_d20417e1869)
+###### [aa. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20/lvl_B/lvl_I_I/lvl_2/lvl_d4e1869)
 
 [**Art. 507**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_507) 
 
@@ -7089,7 +7008,7 @@ The surety may require that the principal debtor furnish security and demand his
 
 [6] The surety has no right of recourse against the principal debtor for payment of any obligation that is not actionable or not binding on the principal debtor as a result of error or incapacity to make a contract. However, if he has assumed liability for a time-barred obligation at the behest of the principal debtor, the latter is liable to him pursuant to the provisions governing agency.
 
-###### [bb. Surety’s duty to notify](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20/lvl_B/lvl_I_I/lvl_2/lvl_d20417e1871)
+###### [bb. Surety’s duty to notify](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20/lvl_B/lvl_I_I/lvl_2/lvl_d4e1871)
 
 [**Art. 508**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_508) 
 
@@ -9737,7 +9656,7 @@ Any member of the board of directors may request that the chairman convene a mee
 
 [1] The persons with authority to represent the company may carry out any legal acts on behalf of the company that are consistent with the company’s objects.
 
-[2] A restriction of such authority has no effect as against bona fide third parties; any provisions governing exclusive representation of the head office or a branch office or governing joint representation of the company that are entered in the commercial register are exceptions to this rule.
+[2] A restriction of such authority has no effect as against bona fide third parties; any provisions governing exclusive representation of the principal place of business or a branch office or governing joint representation of the company that are entered in the commercial register are exceptions to this rule.
 
 ###### [3. Contracts between the company and its representative](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_3)
 
@@ -10118,7 +10037,7 @@ Unless each gender makes up at least 30 per cent of the board of directors and 2
 |    1. the reasons why genders are not represented as required; and  
 |    2. the measures being taken to increase representation of the less well represented gender.
 
-#### [D. Reduction in the case of negative net worth](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4/lvl_E)
+#### [D. Reduction in the case of negative net worth](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4/lvl_d4e10962)
 
 [**Art. 735**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_735) 
 
@@ -10249,7 +10168,7 @@ On completion of the liquidation process, the liquidators apply to the commercia
 
 ##### [I. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_C/lvl_I)
 
-[**Art. 748**─**750**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_C/lvl_I/lvl_d20417e2680)
+[**Art. 748**─**750**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_C/lvl_I/lvl_d4e2680)
 
 ##### [II. Takeover by a public sector corporation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_C/lvl_I_I)
 
@@ -12041,7 +11960,7 @@ The articles of association may delegate some of the duties and powers of the bo
 
 [1] The persons with authority to represent the cooperative may carry out in its name any transactions conducive to the achievement of the cooperative’s objects.
 
-[2] Any restriction of such authority has no effect in relation to bona fide third parties, subject to any provisions entered in the commercial register that govern exclusive representation of the head office or a branch office or joint management of the society.
+[2] Any restriction of such authority has no effect in relation to bona fide third parties, subject to any provisions entered in the commercial register that govern exclusive representation of the principal place of business or a branch office or joint management of the society.
 
 [3] The cooperative is liable for any damage resulting from unauthorised acts carried out in the exercise of his function by a person authorised to manage the cooperative’s business or to represent it.
 
@@ -12341,7 +12260,7 @@ Accession to a cooperative union may not bring with it any obligations for the m
 
 [4] The Confederationis responsible for the security of the information systems and the legality of the data processing.
 
-### [D. OASI number and personal number](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30/lvl_D)
+### [D. OASI number](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30/lvl_D) [and personal number](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30/lvl_D)
 
 [**Art. 928***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_928_c) 
 
@@ -12415,7 +12334,7 @@ The legal entities recorded in the commercial register registered are assigned a
 
 [1] If a sole proprietorship no longer has a domicile, then if there is no response to a request published three times in the Swiss Official Commercial Gazette, it shall be deleted from the commercial register.
 
-[2] If a branch office with a head office in Switzerland no longer has a domicile, the branch office shall be deleted by the commercial register office if there is no response to a request made to the head office.
+[2] If a branch office with a principal place of business in Switzerland no longer has a domicile, the branch office shall be deleted by the commercial register office if there is no response to a request made to the principal place of business.
 
 #### [VI. Reinstatement](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30/lvl_E/lvl_V_I)
 
@@ -12485,7 +12404,7 @@ The commercial register authorities shall verify whether the legal requirements 
 
 [**Art. 939**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_939) 
 
-[1] If the commercial register office identifies defects in the organisational aspects required by law of trading companies, cooperatives, associations, foundations not subject to supervision or branch offices with head office abroad that are recorded in the commercial register, it shall request the legal entity concerned to rectify the defect, and fix a deadline for doing so.
+[1] If the commercial register office identifies defects in the organisational aspects required by law of trading companies, cooperatives, associations, foundations not subject to supervision or branch offices with principal place of business abroad that are recorded in the commercial register, it shall request the legal entity concerned to rectify the defect, and fix a deadline for doing so.
 
 [2] If the defect is not rectified not within the deadline, the office shall refer the matter to the court. The court shall take the required measures.
 
@@ -12602,9 +12521,9 @@ The business names of a commercial enterprise or a cooperatives must be clearly 
 
 [**Art. 952**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_952) 
 
-[1] A branch office must have the same business name as the head office; however, it may append a special addition to its business name providing this applies only to that particular branch office.
+[1] A branch office must have the same business name as the principal place of business; however, it may append a special addition to its business name providing this applies only to that particular branch office.
 
-[2] The business name of the branch office of a company whose seat is outside Switzerland must also indicate the location of the head office, the location of the branch office and the express designation of branch office.
+[2] The business name of the branch office of a company whose seat is outside Switzerland must also indicate the location of the principal place of business, the location of the branch office and the express designation of branch office.
 
 #### [V. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_A/lvl_V)
 
@@ -12644,7 +12563,7 @@ The registration of a business name does not relieve the persons entitled to use
 
 [2] A party whose interests are injured by the unauthorised use of a business name may apply for an injunction banning further abuse of the business name and sue for damages if the unauthorised user is at fault.
 
-## [Title Thirty-Two:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32) [Commercial Accounting and Financial Reporting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32)
+## [Title Thirty-Two:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32) [Commercial Accounting, Financial Reporting, other Transparency and Due Diligence Obligations](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32)
 
 
 ### [Section One: General Provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_1)
@@ -13159,12 +13078,77 @@ The cash flow statement presents separately changes in cash and cash equivalents
 
 [**Art. 964**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964)
 
-### [Section Six](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6) [Transparency in Raw Material Companies](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6)
+### [Section Six](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6)[: Transparency on Non-Financial Matters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6)
 
 
 #### [A. Principle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6/lvl_A)
 
 [**Art. 964***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_a) 
+
+[1] Undertakings shall prepare a report on non-financial matters each year if:
+
+
+|    1. they are companies of public interest as defined in Article 2 letter c of the Auditor Oversight Act of 16 December 2005;   
+|    2. together with the Swiss or foreign undertakings that they control, they have at least 500 full-time equivalent positions on annual average in two successive financial years; and   
+|    3. together with the Swiss or foreign undertakings that they control, they exceed at least one of the following amounts in two successive financial years:   
+|    a. a balance sheet total of 20 million francs,  
+|    b. sales revenue of 40 million francs.
+
+
+
+[2] The foregoing requirement does not apply to undertakings that are controlled by another undertaking:
+
+
+|    1. to which paragraph 1 applies; or  
+|    2. that must prepare an equivalent report under foreign law.
+
+#### [B. Purpose and content of the report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6/lvl_B)
+
+[**Art. 964***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_b) 
+
+[1] The report on non-financial matters shall cover environmental matters, in particular the CO2 goals, social issues, employee-related issues, respect for human rights and combating corruption. The report shall contain the information required to understand the business performance, the business result, the state of the undertaking and the effects of its activity on these non-financial matters.
+
+[2] The report shall include in particular:
+
+
+|    1. a description of the business model;  
+|    2. a description of the policies adopted in relation to the matters referred to in paragraph 1, including the due diligence applied;  
+|    3. a presentation of the measures taken to implement these policies and an assessment of the effectiveness of these measures;  
+|    4. a description of the main risks related to the matters referred to in paragraph 1 and how the undertaking is dealing with these risks; in particular it shall cover risks:  
+|    a. that arise from the undertaking's own business operations, and  
+|    b. provided this is relevant and proportionate, that arise from its business relationships, products or services;
+
+
+|    5. the main performance indicators for the undertaking's activities in relation to the matters referred to in paragraph 1.
+
+[3] If the report is based on national, European or international regulations, such as the principles laid down by the Organisation for Economic Cooperation and Development (OECD) in particular, the regulations applied must be mentioned in the report. In applying such regulations, it must be ensured that all the requirements of this Article are met. If necessary, a supplementary report must be prepared.
+
+[4] If an undertaking has sole control or joint control with other company of one or more other Swiss or foreign undertakings, the report shall cover all these undertakings.
+
+[5] If the undertaking does not follow a policy with respect to one or more of the matters referred to in paragraph 1, it shall explain this clearly in the report, stating the reasons therefor.
+
+[6] The report shall be prepared in a national language or in English.
+
+#### [C. Approval, publication, keeping and retaining](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6/lvl_C)
+
+[**Art. 964***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_c) 
+
+[1] The report on non-financial matters requires the approval and signature of the supreme management or governing body and the approval of the governing body responsible for approving the annual accounts.
+
+[2] The supreme management or governing body shall ensure that the report:
+
+
+|    1. is published online immediately following approval;  
+|    2. remains publicly accessible for at least ten years.
+
+[3] Article 958*f* applies by analogy to keeping and retaining the reports.
+
+### [Section Seven:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_7) [Transparency in Raw Material Companies](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_7)
+
+
+#### [A. Principle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_7/lvl_A)
+
+[**Art. 964***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_d) 
 
 [1] Companies that are required by law to undergo an ordinary audit and which and which are either themselves or through a company that they control involved in the extraction of minerals, oil or natural gas or in the harvesting of timber in primary forests must produce a report each year on the payments they have made to state bodies.
 
@@ -13176,9 +13160,9 @@ The cash flow statement presents separately changes in cash and cash equivalents
 
 [5] State bodies are national, regional or local authorities in a third country together with the departments and businesses controlled by such authorities.
 
-#### [B. Forms of payment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6/lvl_B)
+#### [B. Forms of payment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_7/lvl_B)
 
-[**Art. 964***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_b) 
+[**Art. 964***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_e) 
 
 [1] The payments made to state bodies may comprise payments in cash or kind. They include in particular the following forms of payment:
 
@@ -13193,9 +13177,9 @@ The cash flow statement presents separately changes in cash and cash equivalents
 
 [2] In the case of a payment in kind, the subject matter, value, method of valuation and if applicable the extent must be indicated.
 
-#### [C. Form and content of the report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6/lvl_C)
+#### [C. Form and content of the report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_7/lvl_C)
 
-[**Art. 964***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_c) 
+[**Art. 964***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_f) 
 
 [1] The report on payments made to state bodies shall only cover payments related to business operations in the mineral, petroleum or natural gas extraction industry or to the harvesting of timber in primary forests.
 
@@ -13205,9 +13189,9 @@ The cash flow statement presents separately changes in cash and cash equivalents
 
 [4] The report must be written in a national language or in English and be approved by the highest management or administrative body.
 
-#### [D. Publication](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6/lvl_D)
+#### [D. Publication](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_7/lvl_D)
 
-[**Art. 964***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_d) 
+[**Art. 964***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_g) 
 
 [1] The report on payments made to state bodies must be published online within six months of the end of the financial year. 
 
@@ -13215,17 +13199,71 @@ The cash flow statement presents separately changes in cash and cash equivalents
 
 [3] The Federal Council may issue regulations on the structure of the data required in the report.
 
-#### [E. Keeping and retaining the report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6/lvl_E)
+#### [E. Keeping and retaining the report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_7/lvl_E)
 
-[**Art. 964***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_e) 
+[**Art. 964***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_h) 
 
 Article 958*f* applies to keeping and retaining the report on payments made to state bodies.
 
-#### [F. Extending the scope of application](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6/lvl_F)
+#### [F. Extending the scope of application](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_7/lvl_F)
 
-[**Art. 964***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_f) 
+[**Art. 964***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_i) 
 
 The Federal Council may stipulate as part of an internationally coordinated procedure that that the obligations in Articles 964*a*–964*e* shall also apply to companies trading in raw materials.
+
+### [Section Eight:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_8) [Due Diligence and Transparency in relation to Minerals and Metals from Conflict-Affected Areas and Child Labour](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_8)
+
+
+#### [A. Principle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_8/lvl_A)
+
+[**Art. 964***j*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_j) 
+
+[1] Undertakings whose seat, head office or principal place of business is located in Switzerland must comply with obligations of due diligence in the supply chain and report thereon if:
+
+
+|    1. they place in free circulation or process in Switzerland minerals containing tin, tantalum, tungsten or gold or metals from conflict-affected and high-risk areas; or  
+|    2. they offer products or services in relation to which there is a reasonable suspicion that they have been manufactured or provided using child labour.
+
+[2] The Federal Council shall specify annual import quantities of minerals and metals below which an undertaking is exempt from the due diligence and reporting obligation.
+
+[3] It shall specify the requirements by which small and medium-sized undertakings and undertakings with low child labour risks are not obliged to verify whether there is a reasonable suspicion of child labour.
+
+[4] It shall specify the requirements by which undertakings are exempt from the due diligence and reporting obligations if they comply with equivalent internationally recognised regulations, such as the principles laid down by the OECD in particular.
+
+#### [B. Due diligence](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_8/lvl_B)
+
+[**Art. 964***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_k) 
+
+[1] Undertakings shall maintain a management system and stipulate the following therein:
+
+
+|    1. the supply chain policy for minerals and metals that potentially originate from conflict-affected and high-risk areas;  
+|    2. the supply chain policy for products or services in relation to which there is a reasonable suspicion of child labour;  
+|    3. a system by which the supply chain can be traced.
+
+[2] They shall identify and assess the risks of harmful impacts in their supply chain. They shall draw up a risk management plan and take measures to minimise the risks identified.
+
+[3] They shall have their compliance with the due diligence obligations in relation to the minerals and metals audited by an independent specialist.
+
+[4] The Federal Council shall issue the detailed regulations; it shall base them on internationally recognised regulations, such as the OECD principles in particular.
+
+#### [C. Reporting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_8/lvl_C)
+
+[**Art. 964***l*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964_l) 
+
+[1] The supreme management or governing body shall prepare a report each year on compliance with the due diligence obligations.
+
+[2] The report shall be prepared in a national language or in English.
+
+[3] The supreme management or governing body shall ensure that the report:
+
+
+|    1. is published online within six months of the end of the financial year;  
+|    2. remains publicly accessible for at least ten years.
+
+[4] Article 958*f* applies by analogy to keeping and retaining the reports.
+
+[5] Undertakings that offer products and services from undertakings that have prepared a report are not themselves required to prepare a report for those products and services.
 
 # [Division Five:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5) [Negotiable Securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5)
 
@@ -14694,7 +14732,7 @@ A cheque contains:
 
 [2] Where no other specific place is mentioned, the place indicated together with the name of the drawee is deemed the place of payment. Where several places are indicated together with the name of the drawee, the cheque is payable at the place mentioned first.
 
-[3] A cheque containing no indication of place of issue is deemed payable at the place where the drawee has his head office.
+[3] A cheque containing no indication of place of issue is deemed payable at the place where the drawee has its principal place of business.
 
 [4] A cheque containing no indication of the place of issue is deemed issued at the place indicated together with the name of the issuer.
 
@@ -15224,7 +15262,7 @@ Documents of title to goods issued by a warehouse keeper or carrier as negotiabl
 
 [2] The issuer's signature is not required if the instrument can be unambiguously attributed to him or her in another manner. The further content of the instrument, including any charges, must be recorded in the securities ledger itself or in the associated accompanying data.
 
-#### [B. The warrant](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_7/lvl_C)
+#### [B. The warrant](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_7/lvl_B)
 
 [**Art. 1154**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1154) 
 
@@ -15855,7 +15893,7 @@ Articles 4–8 apply to companies that have no equity securities listed on a sto
 
 # [Transitional Provision to the Amendment of 19 June 2020](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10)
 
-## [A.–C. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/lvl_d20417e4038)
+## [A.–C. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/lvl_d4e4053)
 
 [**Art. 1–3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/art_1__3_)
 
@@ -15875,65 +15913,69 @@ Articles 4–8 apply to companies that have no equity securities listed on a sto
 
 [**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/art_7) 
 
-Articles 964*a*–964*e* apply for the first time to the financial year that begins one year after the new law comes into force.
+Articles 964*d*–964*h* apply for the first time to the financial year that begins one year after the new law comes into force.
 
-# [Final Provisions on Title Eight and Title Eight[bis]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11)
+# [Transitional provision to the Amendment of 19 June 2020](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11)
 
-[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11/art_1) 
+The provisions of Section 6 and Section 7 of Title 32 apply for the first time to the financial year that begins one year after the Amendment of 19 June 2020 comes into force.
+
+# [Final Provisions on Title Eight and Title Eight[bis]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12)
+
+[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_1) 
 
 The Federal Decree of 30 June 1972 on Measures against Abuses in Tenancy Law is repealed.
 
-[**Art. 2–4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11/art_2__4_) 
+[**Art. 2–4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_2__4_) 
 
 ...
 
-[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11/art_5) 
+[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_5) 
 
 [1] The provisions governing protection against termination in the renting and leasing of residential and commercial accommodation apply to all residential and commercial leases that are terminated following the commencement of this Act.
 
 [2] However, if notice is given of the termination of a residential or commercial lease prior to the commencement of this Act, but with effect from a date thereafter, the time limits for challenging the termination and the request for an extension (Art. 273) begin when this Act comes into force.
 
-[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11/art_6) 
+[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_6) 
 
 [1] This Act is subject to an optional referendum.
 
 [2] The Federal Council determines the commencement date.
 
-# [Final and Transitional Provisions on Title X](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12)
+# [Final and Transitional Provisions on Title X](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13)
 
-## [Amendment of the CO](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4053)
+## [Amendment of the CO](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_d4e4069)
 
-[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_1) 
-
-...
-
-## [Amendment of the CC](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4055)
-
-[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_2) 
+[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_1) 
 
 ...
 
-## [Amendment of the Insurance Contracts Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4057)
+## [Amendment of the CC](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_d4e4072)
 
-[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_3) 
-
-...
-
-## [Amendment of the Agriculture Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4060)
-
-[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_4) 
+[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_2) 
 
 ...
 
-## [Amendment of the Employment Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4062)
+## [Amendment of the Insurance Contracts Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_d4e4074)
 
-[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_5) 
+[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_3) 
 
 ...
 
-## [Repeal of federal law provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4064)
+## [Amendment of the Agriculture Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_d4e4076)
 
-[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_6) 
+[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_4) 
+
+...
+
+## [Amendment of the Employment Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_d4e4078)
+
+[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_5) 
+
+...
+
+## [Repeal of federal law provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_d4e4080)
+
+[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_6) 
 
 The following provisions are repealed on the commencement of this Act:
 
@@ -15951,25 +15993,25 @@ The following provisions are repealed on the commencement of this Act:
 |    11. Art. 20 paragraph 2 and 59 of the Federal Act of 20 September 1963 on Vocational Education and Training,  
 |    12. Art. 64 and 72 paragraph 2 letter *a* of the Employment Act of 13 March 1964.
 
-## [Amendment of legal relations governed by the old law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4066)
+## [Amendment of legal relations governed by the old law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_d4e4083)
 
-[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_7) 
+[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_7) 
 
 Contracts of employment in existence when this Act comes into force (individual contracts of employment, standard employment contracts and collective employment contracts) must be amended in accordance with the provisions hereof within one year; on expiry of this time limit, the provisions hereof apply to all contracts of employment.
 
 [2] Occupational benefits schemes in existence when this Act comes into force must amend their articles of association or regulations by 1 January 1977 at the latest taking account of the formal requirements of Articles 331 *a*, 331 *b* and 331*c* applicable to the amendment; from 1 January 1977, these provisions apply to all occupational benefits schemes.
 
-## [Commencement of the Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4068)
+## [Commencement of the Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_d4e4085)
 
-[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_8) 
+[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_8) 
 
 The Federal Council shall determine the commencement date of this Act.
 
-# [Final Provisions on the Fourth Section of Title XIII](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13)
+# [Final Provisions on the Fourth Section of Title XIII](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_14)
 
-## [A. Transitional law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_A)
+## [A. Transitional law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_14/lvl_A)
 
-[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_1) 
+[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_14/art_1) 
 
 [1] Articles 418*d* paragraph 1, 418*f* paragraph 1, 418*k* paragraph 2, 418*o*, 418*p*, 418*r* and 418*s* apply immediately to agency contracts already in existence when the new law comes into force.
 
@@ -15977,19 +16019,19 @@ The Federal Council shall determine the commencement date of this Act.
 
 [3] In the absence of an agreement to the contrary, on expiry of two years, the provisions this Section also apply to contracts already in existence when the new law comes into force relating to agents who act as such as a subsidiary occupation 
 
-## [B. Preferential payments on bankruptcy](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_B)
+## [B. Preferential payments on bankruptcy](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_14/lvl_B)
 
-[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_2) 
+[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_14/art_2) 
 
 ...
 
-## [C. Entry into force](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_C)
+## [C. Entry into force](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_14/lvl_C)
 
-[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_3) 
+[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_14/art_3) 
 
 The Federal Council determines the commencement date of this Act.
 
-# [Transitional provisions on Title XX](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_14)
+# [Transitional provisions on Title XX](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15)
 
 [1] The provisions of the new law apply to all contracts of surety entered into after this Act comes into force.
 
@@ -16007,19 +16049,19 @@ The Federal Council determines the commencement date of this Act.
 
 [4] The Federal Council determines the commencement date of this Act.
 
-# [Final and Transitional Provisions on Titles XXIV‑XXXIII](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15)
+# [Final and Transitional Provisions on Titles XXIV‑XXXIII](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16)
 
-## [A. Scope of application of the Final Title](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_A)
+## [A. Scope of application of the Final Title](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_A)
 
-[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_1) 
+[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_1) 
 
 The provisions of the Final Title of the Civil Code also apply to this Act.
 
-## [B. Adaptation of existing companies to the new law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_B)
+## [B. Adaptation of existing companies to the new law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B)
 
-### [I. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_B/lvl_I)
+### [I. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B/lvl_I)
 
-[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_2) 
+[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_2) 
 
 [1] Companies limited by shares, partnerships limited by shares and cooperatives that are entered in the commercial register when this Act comes into force, but which do not meet the statutory requirements, must amend their articles of association in accordance with the new provisions within five years.
 
@@ -16029,31 +16071,31 @@ The provisions of the Final Title of the Civil Code also apply to this Act.
 
 [4] The Federal Council may extend the application of the old law in the case of insurance and credit cooperatives on a case-by-case basis. Any application in relation thereto must be filed within three years of this Act coming into force.
 
-### [II. Welfare schemes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_B/lvl_I_I)
+### [II. Welfare schemes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B/lvl_I_I)
 
-[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_3) 
+[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_3) 
 
 Where companies limited by shares, partnerships limited by shares and cooperatives have prior to the entry into force of this Act clearly provided funds to establish and support welfare schemes for employees and for members, they must adapt these schemes within five years to the provisions of Articles 673 and 862.
 
-[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_4)
+[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_4)
 
-## [C. Balance sheet provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_C)
+## [C. Balance sheet provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_C)
 
-### [I. Exception for extraordinary circumstances](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_C/lvl_I)
+### [I. Exception for extraordinary circumstances](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_C/lvl_I)
 
-[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_5) 
+[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_5) 
 
 [1] The Federal Council is entitled where extraordinary economic circumstances so require to enact provisions that permit deviations from the requirements relating to balance sheets laid down in this Act. Any resolution of the Federal Council to this effect must be published.
 
 [2] If a Federal Council decree of this nature applies to the preparation of a balance sheet, this must be stated on the balance sheet.
 
-### [II. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_C/lvl_I_I)
+### [II. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_C/lvl_I_I)
 
-[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_6)
+[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_6)
 
-## [D. Conditions for liability of members](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_D)
+## [D. Conditions for liability of members](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_D)
 
-[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_7) 
+[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_7) 
 
 [1] The rights of creditors existing when this Act comes into force are not adversely affected by changes to the provisions of this law relating to the conditions for liability of members.
 
@@ -16061,27 +16103,27 @@ Where companies limited by shares, partnerships limited by shares and cooperativ
 
 [3] During this period, resolutions on the full or partial exclusion of personal liability or an express finding of liability may be passed in the general meeting by an absolute majority of the votes cast. Article 889 paragraph 2 on departure does not apply.
 
-## [E. Business names](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_E)
+## [E. Business names](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_E)
 
-[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_8) 
+[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_8) 
 
 [1] Business names in existence when this Act comes into force that do not comply with its provisions may continue to be used unchanged for a further two years.
 
 [2] If any change is made before the expiry of this deadline, the change must comply with the current law.
 
-## [F. Securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_F)
+## [F. Securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_F)
 
-### [I. Registered securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_F/lvl_I)
+### [I. Registered securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_F/lvl_I)
 
-[**Art. 9**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_9) 
+[**Art. 9**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_9) 
 
 Savings bank and deposit account books, and savings and deposit certificates issued before this Act comes into force as registered securities are subject to the provisions of Article 977 on the cancellation of debt instruments even if the borrower has not expressly reserved the right in the instrument not to make payment without sight of the debt instrument or and without cancellation.
 
-### [II. Shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_F/lvl_I_I)
+### [II. Shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_F/lvl_I_I)
 
-#### [1. Nominal value](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_F/lvl_I_I/lvl_1)
+#### [1. Nominal value](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_F/lvl_I_I/lvl_1)
 
-[**Art. 10**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_10) 
+[**Art. 10**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_10) 
 
 Shares that were issued before this Act comes into force may
 
@@ -16089,59 +16131,59 @@ Shares that were issued before this Act comes into force may
 |    1. continue to have a nominal value of less than 100 francs;  
 |    2. be reduced in nominal value to less than 100 francs in the event of a reduction in the basic capital within three years of this Act coming into force.
 
-#### [2. Bearer shares not fully paid up](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_F/lvl_I_I/lvl_2)
+#### [2. Bearer shares not fully paid up](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_F/lvl_I_I/lvl_2)
 
-[**Art. 11**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_11) 
+[**Art. 11**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_11) 
 
 [1] Bearer shares and interim certificates issued before this Act comes into force are not subject to Articles 683 and 688 paragraphs 1 and 3.
 
 [2] The legal relationship between the subscriber to and acquirer of these shares is governed by the previous law.
 
-### [III. Bills of exchange and cheques](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_F/lvl_II_I)
+### [III. Bills of exchange and cheques](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_F/lvl_II_I)
 
-[**Art. 12**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_12) 
+[**Art. 12**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_12) 
 
 Bills of exchange and cheques issued before this Act comes into force are governed by the previous law in all transactions.
 
-## [G. Community of creditors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_G)
+## [G. Community of creditors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_G)
 
-[**Art. 13**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_13) 
+[**Art. 13**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_13) 
 
 The Ordinance of 20 February 1918 relating to the community of bond creditors and the provisions of the supplementary Federal Council Decrees continue to apply to the cases to which they applied previously.
 
-## [H. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_H)
+## [H. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_H)
 
-[**Art. 14**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_14)
+[**Art. 14**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_14)
 
-## [J. Amendment of the Debt Collection and Bankruptcy Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_J)
+## [J. Amendment of the Debt Collection and Bankruptcy Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_J)
 
-[**Art. 15**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_15) 
+[**Art. 15**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_15) 
 
 ...
 
-## [K. Relationship to the Banking Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_K)
+## [K. Relationship to the Banking Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_K)
 
-### [I. General reservation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_K/lvl_I)
+### [I. General reservation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_K/lvl_I)
 
-[**Art. 16**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_16) 
+[**Art. 16**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_16) 
 
 The provisions of the Banking Act of 8 November 1934 are reserved.
 
-### [II. Amendment of individual provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_K/lvl_I_I)
+### [II. Amendment of individual provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_K/lvl_I_I)
 
-[**Art. 17**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_17) 
+[**Art. 17**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_17) 
 
 ...
 
-## [L. Repeal of federal private law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_L)
+## [L. Repeal of federal private law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_L)
 
-[**Art. 18**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_18) 
+[**Art. 18**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_18) 
 
 On the entry into force of this Act, the federal private law provisions that are inconsistent herewith, and in particular, the Third Division of the Code of Obligations entitled "Commercial Enterprises, Securities and Business Names" (Federal Act of 14 June 1881 on the Code of Obligations, Art. 552–715 and 720–880) are repealed.
 
-## [M. Commencement of this Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_M)
+## [M. Commencement of this Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_M)
 
-[**Art. 19**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_19) 
+[**Art. 19**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_19) 
 
 [1] This Act comes into force on 1 July 1937.
 
@@ -16149,19 +16191,19 @@ On the entry into force of this Act, the federal private law provisions that are
 
 [3] The Federal Council is responsible for the implementation of this Act.
 
-# [Final Provisions to the XXVI Title](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16)
+# [Final Provisions to the XXVI Title](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17)
 
-## [A. Final Title of the Civil Code](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_A)
+## [A. Final Title of the Civil Code](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_A)
 
-[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_1) 
+[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/art_1) 
 
 The Final Title of the Civil Code applies to this Act.
 
-## [B. Amendment in accordance with the new law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B)
+## [B. Amendment in accordance with the new law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_B)
 
-### [I. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B/lvl_I)
+### [I. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_B/lvl_I)
 
-[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_2) 
+[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/art_2) 
 
 [1] Companies limited by shares and partnerships limited by shares that are entered in the commercial register when this Act comes into force, but which do not comply with the new statutory provisions, must amend their articles of association to the new provisions within five years.
 
@@ -16169,11 +16211,11 @@ The Final Title of the Civil Code applies to this Act.
 
 [3] Other provisions of the articles of association that are incompatible with the new law remain in force until they are amended, but for five years at the most.
 
-### [II. Individual provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B/lvl_I_I)
+### [II. Individual provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_B/lvl_I_I)
 
-#### [1. Participation and dividend rights certificates](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B/lvl_I_I/lvl_1)
+#### [1. Participation and dividend rights certificates](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_B/lvl_I_I/lvl_1)
 
-[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_3) 
+[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/art_3) 
 
 [1] Articles 656*a*, 656*b* paragraphs 2 and 3, 656*c* and 656*d* as well as 656*g* apply to companies existing when this Act comes into force, including in cases where the articles of association or conditions of issue are contrary to the said articles. They apply to securities that are designated participation certificates or dividend rights certificates, have a nominal value and are recorded as liabilities on the balance sheet.
 
@@ -16181,43 +16223,43 @@ The Final Title of the Civil Code applies to this Act.
 
 [3] For securities other than those mentioned in paragraph 1 the new provisions governing the dividend rights certificates apply even if they are designated as participation certificates. Within five years, they must be designated in accordance with the new law and may no longer bear a nominal value. The articles of association must be amended accordingly. The right to convert them into participation certificates is reserved.
 
-#### [2. Refusal to accept registered shareholders](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B/lvl_I_I/lvl_2)
+#### [2. Refusal to accept registered shareholders](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_B/lvl_I_I/lvl_2)
 
-[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_4) 
+[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/art_4) 
 
 Further to Article 685*d* paragraph 1, the company may, on the basis of a provision of the articles of association, refuse to accept persons as acquirers of registered shares listed on the stock market, provided and for as long as their acceptance could prevent the company from providing evidence of the composition of the shareholder groups as required by federal legislation.
 
-#### [3. Shares with preferential voting rights](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B/lvl_I_I/lvl_3)
+#### [3. Shares with preferential voting rights](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_B/lvl_I_I/lvl_3)
 
-[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_5) 
+[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/art_5) 
 
 Companies that retain shares with preferential voting rights with a nominal value of under ten francs, in application of Article 10 of the Final and Transitional provisions of the Federal Act of 18 December 1936 on the Revision of Titles 24–33 of the Code of Obligations, as well as companies, where the nominal value the larger shares is more than ten times the nominal value of the smaller shares are not required to amend their articles of association in accordance with Article 693 paragraph 2 second sentence. However, they are not permitted to issue any new shares whose nominal value is more than ten times that of the smaller shares or less than ten per cent of the nominal value of the larger shares.
 
-#### [4. Qualified majorities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B/lvl_I_I/lvl_4)
+#### [4. Qualified majorities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_B/lvl_I_I/lvl_4)
 
-[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_6) 
+[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/art_6) 
 
 Where a company has adopted provisions in its articles of association governing qualified majorities for certain resolutions by simply reproducing provisions of the previous law, it may within one year of this Act coming into force resolve to amend such provisions in accordance by an absolute majority of the voting rights represented.
 
-## [C. Amendment of federal legislation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_C)
+## [C. Amendment of federal legislation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_C)
 
-[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_7) 
+[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/art_7) 
 
 ...
 
-## [D. Referendum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_D)
+## [D. Referendum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_D)
 
-[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_8) 
+[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/art_8) 
 
 This Act is subject to an optional referendum.
 
-## [E. Commencement](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_E)
+## [E. Commencement](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/lvl_E)
 
-[**Art. 9**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_9) 
+[**Art. 9**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17/art_9) 
 
 The Federal Council determines the commencement date.
 
-# [Final Provisions on the Second Section of Title XXXIV](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17)
+# [Final Provisions on the Second Section of Title XXXIV](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_18)
 
 
 |    1. ...  

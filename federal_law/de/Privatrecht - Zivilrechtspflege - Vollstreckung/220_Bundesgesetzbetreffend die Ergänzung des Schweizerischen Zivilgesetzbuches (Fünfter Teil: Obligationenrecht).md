@@ -23,7 +23,7 @@ IT: presente documento non è una pubblicazione ufficiale. Fa unicamente fede la
 
 # Bundesgesetzbetreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. Juli 2021)
+vom 30. März 1911 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -36,14 +36,14 @@ beschliesst:
 
 ## [Erster Titel: Die Entstehung der Obligationen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1)
 
-### [Erster Abschnitt: Die Entstehung durch Vertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1)
+### [Erster Abschnitt: Die Entstehung durch Vertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1)
 
-#### [A. Abschluss des Vertrages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A)
+#### [A. Abschluss des Vertrages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A)
 
 
-##### [I. Überein­stimmen­de Willens­äusserung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I)
+##### [I. Überein­stimmen­de Willens­äusserung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I/lvl_1)
 
 
 [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1) 
@@ -52,7 +52,7 @@ beschliesst:
 
 [2] Sie kann eine ausdrückliche oder stillschweigende sein.
 
-###### [2. Betreffend Ne­benpunkte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I/lvl_2)
+###### [2. Betreffend Ne­benpunkte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I/lvl_2)
 
 [**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_2) 
 
@@ -62,10 +62,10 @@ beschliesst:
 
 [3] Vorbehalten bleiben die Bestimmungen über die Form der Verträge.
 
-##### [II. Antrag und An­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I_I)
+##### [II. Antrag und An­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I_I)
 
 
-###### [1. Antrag mit An­nahmefrist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I_I/lvl_1)
+###### [1. Antrag mit An­nahmefrist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_1)
 
 
 [**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_3) 
@@ -74,9 +74,9 @@ beschliesst:
 
 [2] Er wird wieder frei, wenn eine Annahmeerklärung nicht vor Ablauf dieser Frist bei ihm eingetroffen ist.
 
-###### [2. Antrag ohne An­nahmefrist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I_I/lvl_2)
+###### [2. Antrag ohne An­nahmefrist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2)
 
-###### [a. Unter Anwe­senden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I_I/lvl_2/lvl_a)
+###### [a. Unter Anwe­senden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_a)
 
 
 [**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_4) 
@@ -85,7 +85,7 @@ beschliesst:
 
 [2] Wenn die Vertragschliessenden oder ihre Bevollmächtigten sich per­sönlich des Telefons bedienen, so gilt der Vertrag als unter Anwe­senden abgeschlossen.
 
-###### [b. Unter Abwe­senden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I_I/lvl_2/lvl_b)
+###### [b. Unter Abwe­senden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_b)
 
 
 [**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_5) 
@@ -96,13 +96,13 @@ beschliesst:
 
 [3] Trifft die rechtzeitig abgesandte Annahmeerklärung erst nach jenem Zeitpunkte bei dem Antragsteller ein, so ist dieser, wenn er nicht gebunden sein will, verpflichtet, ohne Verzug hievon Anzeige zu machen.
 
-###### [3. Still­schweigen­de Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I_I/lvl_3)
+###### [3. Still­schweigen­de Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_3)
 
 [**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_6) 
 
 Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine ausdrückliche Annahme nicht zu erwarten, so gilt der Vertrag als abgeschlossen, wenn der Antrag nicht binnen angemesse­ner Frist abgelehnt wird.
 
-###### [3*a*. Zusendung un­bestellter Sa­chen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I_I/lvl_3_a)
+###### [3*a*. Zusendung un­bestellter Sa­chen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_3_a)
 
 
 [**Art. 6***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_6_a)
@@ -113,7 +113,7 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 
 [3] Ist eine unbestellte Sache offensichtlich irrtümlich zugesandt wor­den, so muss der Empfänger den Absender benachrichtigen.
 
-###### [4. Antrag ohne Verbindlichkeit, Auskündung, Aus­lage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I_I/lvl_4)
+###### [4. Antrag ohne Verbindlichkeit, Auskündung, Aus­lage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_4)
 
 [**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_7) 
 
@@ -123,7 +123,7 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 
 [3] Dagegen gilt die Auslage von Waren mit Angabe des Preises in der Regel als Antrag.
 
-###### [5. Preisaus­schrei­ben und Auslo­bung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I_I/lvl_5)
+###### [5. Preisaus­schrei­ben und Auslo­bung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_5)
 
 [**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_8) 
 
@@ -131,7 +131,7 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 
 [2] Tritt er zurück, bevor die Leistung erfolgt ist, so hat er denjenigen, die auf Grund der Auskündung in guten Treuen Aufwendungen gemacht haben, hierfür bis höchstens zum Betrag der ausgesetzten Beloh­nung Ersatz zu leisten, sofern er nicht beweist, dass ihnen die Lei­stung doch nicht gelungen wäre.
 
-###### [6. Widerruf des An­trages und der An­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_I_I/lvl_6)
+###### [6. Widerruf des An­trages und der An­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_6)
 
 [**Art. 9**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_9) 
 
@@ -139,7 +139,7 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 
 [2] Dasselbe gilt für den Widerruf der Annahme.
 
-##### [III. Beginn der Wir­kungen ei­nes unter Abwe­sen­den ge­schlosse­nen Ver­tra­ges](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_A/lvl_II_I)
+##### [III. Beginn der Wir­kungen ei­nes unter Abwe­sen­den ge­schlosse­nen Ver­tra­ges](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_II_I)
 
 
 
@@ -150,10 +150,10 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 
 [2] Wenn eine ausdrückliche Annahme nicht erforderlich ist, so be­gin­nen die Wirkungen des Vertrages mit dem Empfange des An­trages.
 
-#### [B. Form der Ver­träge](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_B)
+#### [B. Form der Ver­träge](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_B)
 
 
-##### [I. Erfordernis und Bedeutung im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_B/lvl_I)
+##### [I. Erfordernis und Bedeutung im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_B/lvl_I)
 
 [**Art. 11**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_11) 
 
@@ -161,26 +161,26 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 
 [2] Ist über Bedeutung und Wirkung einer gesetzlich vorgeschriebenen Form nicht etwas anderes bestimmt, so hängt von deren Beobachtung die Gültigkeit des Vertrages ab.
 
-##### [II. Schriftlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_B/lvl_I_I)
+##### [II. Schriftlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_B/lvl_I_I)
 
-###### [1. Gesetzlich vor­geschriebene Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_B/lvl_I_I/lvl_1)
+###### [1. Gesetzlich vor­geschriebene Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_1)
 
 
-###### [a. Bedeutung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_B/lvl_I_I/lvl_1/lvl_a)
+###### [a. Bedeutung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_1/lvl_a)
 
 [**Art. 12**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_12) 
 
 Ist für einen Vertrag die schriftliche Form gesetzlich vorgeschrieben, so gilt diese Vorschrift auch für jede Abänderung, mit Ausnahme von ergänzenden Nebenbestimmungen, die mit der Urkunde nicht im Widerspruche stehen.
 
-###### [b. Erfordernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_B/lvl_I_I/lvl_1/lvl_b)
+###### [b. Erfordernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_1/lvl_b)
 
 [**Art. 13**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_13) 
 
 [1] Ein Vertrag, für den die schriftliche Form gesetzlich vorgeschrieben ist, muss die Unterschriften aller Personen tragen, die durch ihn ver­pflichtet werden sollen.
 
-[2] *...*
+[2] *…*
 
-###### [c. Unterschrift](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_B/lvl_I_I/lvl_1/lvl_c)
+###### [c. Unterschrift](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_1/lvl_c)
 
 [**Art. 14**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_14) 
 
@@ -192,14 +192,14 @@ Ist für einen Vertrag die schriftliche Form gesetzlich vorgeschrieben, so gilt 
 
 [3] Für den Blinden ist die Unterschrift nur dann verbindlich, wenn sie beglaubigt ist, oder wenn nachgewiesen wird, dass er zur Zeit der Unterzeichnung den Inhalt der Urkunde gekannt hat.
 
-###### [d. Ersatz der Un­terschrift](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_B/lvl_I_I/lvl_1/lvl_d)
+###### [d. Ersatz der Un­terschrift](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_1/lvl_d)
 
 
 [**Art. 15**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_15) 
 
 Kann eine Person nicht unterschreiben, so ist es, mit Vorbehalt der Bestimmungen über den Wechsel, gestattet, die Unterschrift durch ein beglaubigtes Handzeichen zu ersetzen oder durch eine öffentliche Beurkundung ersetzen zu lassen.
 
-###### [2. Vertraglich vor­behaltene Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_B/lvl_I_I/lvl_2)
+###### [2. Vertraglich vor­behaltene Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_2)
 
 [**Art. 16**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_16) 
 
@@ -207,13 +207,13 @@ Kann eine Person nicht unterschreiben, so ist es, mit Vorbehalt der Bestimmungen
 
 [2] Geht eine solche Abrede auf schriftliche Form ohne nähere Bezeich­nung, so gelten für deren Erfüllung die Erfordernisse der gesetzlich vorgeschriebenen Schriftlichkeit.
 
-#### [C. Verpflich­tungsgrund](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_C)
+#### [C. Verpflich­tungsgrund](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_C)
 
 [**Art. 17**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_17) 
 
 Ein Schuldbekenntnis ist gültig auch ohne die Angabe eines Ver­pflichtungsgrundes.
 
-#### [D. Auslegung der Verträge, Simula­tion](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_D)
+#### [D. Auslegung der Verträge, Simula­tion](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_D)
 
 
 [**Art. 18**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_18) 
@@ -222,10 +222,10 @@ Ein Schuldbekenntnis ist gültig auch ohne die Angabe eines Ver­pflichtungsgrun
 
 [2] Dem Dritten, der die Forderung im Vertrauen auf ein schriftliches Schuldbekenntnis erworben hat, kann der Schuldner die Einrede der Simulation nicht entgegensetzen.
 
-#### [E. Inhalt des Ver­trages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_E)
+#### [E. Inhalt des Ver­trages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_E)
 
 
-##### [I. Bestimmung des Inhaltes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_E/lvl_I)
+##### [I. Bestimmung des Inhaltes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_E/lvl_I)
 
 [**Art. 19**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_19) 
 
@@ -233,7 +233,7 @@ Ein Schuldbekenntnis ist gültig auch ohne die Angabe eines Ver­pflichtungsgrun
 
 [2] Von den gesetzlichen Vorschriften abweichende Vereinbarungen sind nur zulässig, wo das Gesetz nicht eine unabänderliche Vorschrift auf­stellt oder die Abweichung nicht einen Verstoss gegen die öffent­liche Ordnung, gegen die guten Sitten oder gegen das Recht der Per­sönlichkeit in sich schliesst.
 
-##### [II. Nichtigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_E/lvl_I_I)
+##### [II. Nichtigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_E/lvl_I_I)
 
 [**Art. 20**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_20) 
 
@@ -241,7 +241,7 @@ Ein Schuldbekenntnis ist gültig auch ohne die Angabe eines Ver­pflichtungsgrun
 
 [2] Betrifft aber der Mangel bloss einzelne Teile des Vertrages, so sind nur diese nichtig, sobald nicht anzunehmen ist, dass er ohne den nich­tigen Teil überhaupt nicht geschlossen worden wäre.
 
-##### [III. Über­vorteilung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_E/lvl_II_I)
+##### [III. Über­vorteilung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_E/lvl_II_I)
 
 [**Art. 21**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_21) 
 
@@ -249,7 +249,7 @@ Ein Schuldbekenntnis ist gültig auch ohne die Angabe eines Ver­pflichtungsgrun
 
 [2] Die Jahresfrist beginnt mit dem Abschluss des Vertrages.
 
-##### [IV. Vorvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_E/lvl_I_V)
+##### [IV. Vorvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_E/lvl_I_V)
 
 [**Art. 22**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_22) 
 
@@ -257,18 +257,18 @@ Ein Schuldbekenntnis ist gültig auch ohne die Angabe eines Ver­pflichtungsgrun
 
 [2] Wo das Gesetz zum Schutze der Vertragschliessenden für die Gül­tig­keit des künftigen Vertrages eine Form vorschreibt, gilt diese auch für den Vorvertrag.
 
-#### [F. Mängel des Vertrags­abschlusses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F)
+#### [F. Mängel des Vertrags­abschlusses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F)
 
 
-##### [I. Irrtum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_I)
+##### [I. Irrtum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_I)
 
-###### [1. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_I/lvl_1)
+###### [1. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_I/lvl_1)
 
 [**Art. 23**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_23) 
 
 Der Vertrag ist für denjenigen unverbindlich, der sich beim Abschluss in einem wesentlichen Irrtum befunden hat.
 
-###### [2. Fälle des Irrtums](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_I/lvl_2)
+###### [2. Fälle des Irrtums](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_I/lvl_2)
 
 
 [**Art. 24**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_24) 
@@ -285,7 +285,7 @@ Der Vertrag ist für denjenigen unverbindlich, der sich beim Abschluss in einem 
 
 [3] Blosse Rechnungsfehler hindern die Verbindlichkeit des Vertrages nicht, sind aber zu berichtigen.
 
-###### [3. Geltend­machung gegen Treu und Glau­ben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_I/lvl_3)
+###### [3. Geltend­machung gegen Treu und Glau­ben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_I/lvl_3)
 
 
 [**Art. 25**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_25) 
@@ -294,7 +294,7 @@ Der Vertrag ist für denjenigen unverbindlich, der sich beim Abschluss in einem 
 
 [2] Insbesondere muss der Irrende den Vertrag gelten lassen, wie er ihn verstanden hat, sobald der andere sich hierzu bereit erklärt.
 
-###### [4. Fahrlässiger Irr­tum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_I/lvl_4)
+###### [4. Fahrlässiger Irr­tum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_I/lvl_4)
 
 
 [**Art. 26**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_26) 
@@ -303,13 +303,13 @@ Der Vertrag ist für denjenigen unverbindlich, der sich beim Abschluss in einem 
 
 [2] Wo es der Billigkeit entspricht, kann der Richter auf Ersatz weiteren Schadens erkennen.
 
-###### [5. Unrichtige Übermittlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_I/lvl_5)
+###### [5. Unrichtige Übermittlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_I/lvl_5)
 
 [**Art. 27**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_27) 
 
 Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf andere Weise unrichtig übermittelt, so finden die Vor­schriften über den Irrtum entsprechende Anwendung.
 
-##### [II. Absichtliche Täu­schung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_I_I)
+##### [II. Absichtliche Täu­schung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_I_I)
 
 [**Art. 28**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_28) 
 
@@ -317,9 +317,9 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [2] Die von einem Dritten verübte absichtliche Täuschung hindert die Verbindlichkeit für den Getäuschten nur, wenn der andere zur Zeit des Vertragsabschlusses die Täuschung gekannt hat oder hätte kennen sollen.
 
-##### [III. Furcht­erregung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_II_I)
+##### [III. Furcht­erregung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_II_I)
 
-###### [1. Abschluss des Vertrages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_II_I/lvl_1)
+###### [1. Abschluss des Vertrages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_II_I/lvl_1)
 
 
 [**Art. 29**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_29) 
@@ -328,7 +328,7 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [2] Ist die Drohung von einem Dritten ausgegangen, so hat, wo es der Billigkeit entspricht, der Bedrohte, der den Vertrag nicht halten will, dem anderen, wenn dieser die Drohung weder gekannt hat noch hätte kennen sollen, Entschädigung zu leisten.
 
-###### [2. Gegründete Furcht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_II_I/lvl_2)
+###### [2. Gegründete Furcht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_II_I/lvl_2)
 
 [**Art. 30**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_30) 
 
@@ -336,7 +336,7 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [2] Die Furcht vor der Geltendmachung eines Rechtes wird nur dann berücksichtigt, wenn die Notlage des Bedrohten benutzt worden ist, um ihm die Einräumung übermässiger Vorteile abzunötigen.
 
-##### [IV. Aufhebung des Mangels durch Ge­nehmi­gung des Vertra­ges](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_F/lvl_I_V)
+##### [IV. Aufhebung des Mangels durch Ge­nehmi­gung des Vertra­ges](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_F/lvl_I_V)
 
 
 [**Art. 31**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_31) 
@@ -347,14 +347,14 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [3] Die Genehmigung eines wegen Täuschung oder Furcht unverbind­lichen Vertrages schliesst den Anspruch auf Schadenersatz nicht ohne weiteres aus.
 
-#### [G. Stell­vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G)
+#### [G. Stell­vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G)
 
-##### [I. Mit Ermächti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I)
+##### [I. Mit Ermächti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I/lvl_1)
 
 
-###### [a. Wirkung der Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I/lvl_1/lvl_a)
+###### [a. Wirkung der Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I/lvl_1/lvl_a)
 
 [**Art. 32**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_32) 
 
@@ -364,7 +364,7 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [3] Ist dies nicht der Fall, so bedarf es einer Abtretung der For­derung oder einer Schuldübernahme nach den hierfür geltenden Grund­sätzen.
 
-###### [b. Umfang der Er­mächtigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I/lvl_1/lvl_b)
+###### [b. Umfang der Er­mächtigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I/lvl_1/lvl_b)
 
 [**Art. 33**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_33) 
 
@@ -374,9 +374,9 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [3] Wird die Ermächtigung vom Vollmachtgeber einem Dritten mit­geteilt, so beurteilt sich ihr Umfang diesem gegenüber nach Massgabe der erfolgten Kundgebung.
 
-###### [2. Auf Grund von Rechts­geschäft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I/lvl_2)
+###### [2. Auf Grund von Rechts­geschäft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I/lvl_2)
 
-###### [a. Beschränkung und Widerruf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I/lvl_2/lvl_a)
+###### [a. Beschränkung und Widerruf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I/lvl_2/lvl_a)
 
 [**Art. 34**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_34) 
 
@@ -386,7 +386,7 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [3] Hat der Vertretene die Vollmacht ausdrücklich oder tatsächlich kund­gegeben, so kann er deren gänzlichen oder teilweisen Widerruf gutgläubigen Dritten nur dann entgegensetzen, wenn er ihnen auch diesen Widerruf mitgeteilt hat.
 
-###### [b. Einfluss von Tod, Handlungs­un­fähig­keit u.a.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I/lvl_2/lvl_b)
+###### [b. Einfluss von Tod, Handlungs­un­fähig­keit u.a.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I/lvl_2/lvl_b)
 
 [**Art. 35**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_35) 
 
@@ -396,7 +396,7 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [3] Die gegenseitigen persönlichen Ansprüche werden hievon nicht berührt.
 
-###### [c. Rückgabe der Vollmachts­urkunde](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I/lvl_2/lvl_c)
+###### [c. Rückgabe der Vollmachts­urkunde](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I/lvl_2/lvl_c)
 
 [**Art. 36**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_36) 
 
@@ -404,7 +404,7 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [2] Wird er von dem Vollmachtgeber oder seinen Rechtsnachfolgern hierzu nicht angehalten, so sind diese den gutgläubigen Dritten für den Schaden verantwortlich.
 
-###### [d. Zeitpunkt der Wirkung des Er­löschens der Vollmacht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I/lvl_2/lvl_d)
+###### [d. Zeitpunkt der Wirkung des Er­löschens der Vollmacht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I/lvl_2/lvl_d)
 
 
 [**Art. 37**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_37) 
@@ -413,10 +413,10 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [2] Ausgenommen sind die Fälle, in denen der Dritte vom Erlöschen der Vollmacht Kenntnis hatte.
 
-##### [II. Ohne Ermäch­tigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I_I)
+##### [II. Ohne Ermäch­tigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I_I)
 
 
-###### [1. Genehmigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I_I/lvl_1)
+###### [1. Genehmigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I_I/lvl_1)
 
 [**Art. 38**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_38) 
 
@@ -424,7 +424,7 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [2] Der andere ist berechtigt, von dem Vertretenen innerhalb einer angemessenen Frist eine Erklärung über die Genehmigung zu verlangen und ist nicht mehr gebunden, wenn der Vertretene nicht binnen dieser Frist die Genehmigung erklärt.
 
-###### [2. Nicht­genehmi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_I_I/lvl_2)
+###### [2. Nicht­genehmi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_I_I/lvl_2)
 
 [**Art. 39**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_39) 
 
@@ -434,7 +434,7 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 [3] In allen Fällen bleibt die Forderung aus ungerechtfertigter Bereiche­rung vorbehalten.
 
-##### [III. Vorbehalt be­sonderer Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_G/lvl_II_I)
+##### [III. Vorbehalt be­sonderer Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G/lvl_II_I)
 
 
 
@@ -442,10 +442,10 @@ Wird beim Vertragsabschluss Antrag oder Annahme durch einen Boten oder auf ander
 
 In Bezug auf die Vollmacht der Vertreter und Organe von Gesell­schaf­ten, der Prokuristen und anderer Handlungsbevollmächtigter blei­ben die besonderen Vorschriften vorbehalten.
 
-#### [H. Widerruf bei Haustür­geschäften und ähnli­chen Ver­trägen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_H)
+#### [H. Widerruf bei Haustür­geschäften und ähnli­chen Ver­trägen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_H)
 
 
-##### [I. Geltungs­bereich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_H/lvl_I)
+##### [I. Geltungs­bereich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_H/lvl_I)
 
 [**Art. 40***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_40_a)
 
@@ -455,11 +455,13 @@ In Bezug auf die Vollmacht der Vertreter und Organe von Gesell­schaf­ten, der 
 |    a. der Anbieter der Güter oder Dienstleistungen im Rahmen einer beruflichen oder gewerblichen Tätigkeit gehandelt hat und  
 |    b. die Leistung des Kunden 100 Franken übersteigt.
 
-[2] Die Bestimmungen gelten nicht für Versicherungsverträge und für Rechtsgeschäfte, die im Rahmen von bestehenden Finanzdienstleistungsverträgen gemäss Bundesgesetz vom 15. Juni 2018 über die Finanzdienstleistungen durch Finanzinstitute und Banken abgeschlossen werden.
+[2] Die Bestimmungen gelten nicht für Rechtsgeschäfte, die im Rahmen von bestehenden Finanzdienstleistungsverträgen gemäss Finanzdienstleistungsgesetz vom 15. Juni 2018 durch Finanzinstitute und Banken abgeschlossen werden.
+
+[2bis] Für Versicherungsverträge gelten die Bestimmungen des Versicherungsvertragsgesetzes vom 2. April 1908.
 
 [3] Bei wesentlicher Veränderung der Kaufkraft des Geldes passt der Bundesrat den in Absatz 1 Buchstabe b genannten Betrag entspre­chend an.
 
-##### [II. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_H/lvl_I_I)
+##### [II. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_H/lvl_I_I)
 
 [**Art. 40***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_40_b)
 
@@ -471,7 +473,7 @@ Der Kunde kann seinen Antrag zum Vertragsabschluss oder seine Annahmeerklärung 
 |    c. an einer Werbeveranstaltung, die mit einer Ausflugsfahrt oder ei­nem ähnlichen Anlass verbunden war;  
 |    d. am Telefon oder über vergleichbare Mittel der gleichzeitigen mündlichen Telekommunikation.
 
-##### [III. Ausnahmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_H/lvl_II_I)
+##### [III. Ausnahmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_H/lvl_II_I)
 
 [**Art. 40***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_40_c)
 
@@ -481,7 +483,7 @@ Der Kunde hat kein Widerrufsrecht, wenn er:
 |    a. die Vertragsverhandlungen ausdrücklich gewünscht hat;  
 |    b. seine Erklärung an einem Markt- oder Messestand abgegeben hat.
 
-##### [IV. Orientie­rungs­pflicht des Anbie­ters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_H/lvl_I_V)
+##### [IV. Orientie­rungs­pflicht des Anbie­ters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_H/lvl_I_V)
 
 [**Art. 40***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_40_d)
 
@@ -491,9 +493,9 @@ Der Kunde hat kein Widerrufsrecht, wenn er:
 
 [3] Sie sind dem Kunden so zu übermitteln, dass er sie kennt, wenn er den Vertrag beantragt oder annimmt.
 
-##### [V. Widerruf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_H/lvl_V)
+##### [V. Widerruf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_H/lvl_V)
 
-###### [1. Form und Frist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_H/lvl_V/lvl_1)
+###### [1. Form und Frist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_H/lvl_V/lvl_1)
 
 [**Art. 40***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_40_e)
 
@@ -509,7 +511,7 @@ Der Kunde hat kein Widerrufsrecht, wenn er:
 
 [4] Die Frist ist eingehalten, wenn der Kunde am letzten Tag der Widerrufsfrist dem Anbieter seinen Widerruf mitteilt oder seine Widerrufserklärung der Post übergibt.
 
-###### [2. Folgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_1/lvl_H/lvl_V/lvl_2)
+###### [2. Folgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_H/lvl_V/lvl_2)
 
 [**Art. 40***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_40_f)
 
@@ -523,12 +525,12 @@ Der Kunde hat kein Widerrufsrecht, wenn er:
 
 [**Art. 40***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_40_g)
 
-### [Zweiter Abschnitt: Die Entstehung durch unerlaubte Handlungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2)
+### [Zweiter Abschnitt: Die Entstehung durch unerlaubte Handlungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2)
 
 
-#### [A. Haftung im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A)
+#### [A. Haftung im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A)
 
-##### [I. Voraus­setzungen der Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_I)
+##### [I. Voraus­setzungen der Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_I)
 
 [**Art. 41**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_41) 
 
@@ -536,7 +538,7 @@ Der Kunde hat kein Widerrufsrecht, wenn er:
 
 [2] Ebenso ist zum Ersatze verpflichtet, wer einem andern in einer ge­gen die guten Sitten verstossenden Weise absichtlich Schaden zufügt.
 
-##### [II. Festsetzung des Schadens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_I_I)
+##### [II. Festsetzung des Schadens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_I_I)
 
 [**Art. 42**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_42) 
 
@@ -546,7 +548,7 @@ Der Kunde hat kein Widerrufsrecht, wenn er:
 
 [3] Bei Tieren, die im häuslichen Bereich und nicht zu Vermögens- oder Erwerbszwecken gehalten werden, können die Heilungskosten auch dann angemessen als Schaden geltend gemacht werden, wenn sie den Wert des Tie­res übersteigen.
 
-##### [III. Bestimmung des Ersatzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_II_I)
+##### [III. Bestimmung des Ersatzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_II_I)
 
 [**Art. 43**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_43) 
 
@@ -556,7 +558,7 @@ Der Kunde hat kein Widerrufsrecht, wenn er:
 
 [2] Wird Schadenersatz in Gestalt einer Rente zugesprochen, so ist der Schuldner gleichzeitig zur Sicherheitsleistung anzuhalten.
 
-##### [IV. Herab­setzungs­gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_I_V)
+##### [IV. Herab­setzungs­gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_I_V)
 
 [**Art. 44**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_44) 
 
@@ -564,12 +566,12 @@ Der Kunde hat kein Widerrufsrecht, wenn er:
 
 [2] Würde ein Ersatzpflichtiger, der den Schaden weder absichtlich noch grobfahrlässig verursacht hat, durch Leistung des Ersatzes in ei­ne Notlage versetzt, so kann der Richter auch aus diesem Grunde die Ersatzpflicht ermässigen.
 
-##### [V. Besondere Fäl­le](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_V)
+##### [V. Besondere Fäl­le](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_V)
 
 
-###### [1. Tötung und Kör­per­verletzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_V/lvl_1)
+###### [1. Tötung und Kör­per­verletzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_V/lvl_1)
 
-###### [a. Schadenersatz bei Tötung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_V/lvl_1/lvl_a)
+###### [a. Schadenersatz bei Tötung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_V/lvl_1/lvl_a)
 
 [**Art. 45**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_45) 
 
@@ -579,7 +581,7 @@ Der Kunde hat kein Widerrufsrecht, wenn er:
 
 [3] Haben andere Personen durch die Tötung ihren Versorger verloren, so ist auch für diesen Schaden Ersatz zu leisten.
 
-###### [b. Schadenersatz bei Körper­verletzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_V/lvl_1/lvl_b)
+###### [b. Schadenersatz bei Körper­verletzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_V/lvl_1/lvl_b)
 
 [**Art. 46**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_46) 
 
@@ -587,17 +589,17 @@ Der Kunde hat kein Widerrufsrecht, wenn er:
 
 [2] Sind im Zeitpunkte der Urteilsfällung die Folgen der Verletzung nicht mit hinreichender Sicherheit festzustellen, so kann der Richter bis auf zwei Jahre, vom Tage des Urteils an gerechnet, dessen Abän­de­rung vorbehalten.
 
-###### [c. Leistung von Ge­nugtuung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_V/lvl_1/lvl_c)
+###### [c. Leistung von Ge­nugtuung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_V/lvl_1/lvl_c)
 
 [**Art. 47**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_47) 
 
 Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdigung der besonderen Umstände dem Verletzten oder den Angehörigen des Getöteten eine angemessene Geldsumme als Genug­tuung zusprechen.
 
-###### [2. *...*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_V/lvl_2)
+###### [2. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_V/lvl_2)
 
 [**Art. 48**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_48)
 
-###### [3. Bei Ver­letzung der Per­sön­lichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_V/lvl_3)
+###### [3. Bei Ver­letzung der Per­sön­lichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_V/lvl_3)
 
 
 [**Art. 49**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_49)
@@ -606,10 +608,10 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Anstatt oder neben dieser Leistung kann der Richter auch auf eine andere Art der Genugtuung erkennen.
 
-##### [VI. Haftung meh­rerer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_V_I)
+##### [VI. Haftung meh­rerer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_V_I)
 
 
-###### [1. Bei unerlaub­ter Handlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_V_I/lvl_1)
+###### [1. Bei unerlaub­ter Handlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_V_I/lvl_1)
 
 [**Art. 50**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_50) 
 
@@ -619,7 +621,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [3] Der Begünstiger haftet nur dann und nur soweit für Ersatz, als er einen Anteil an dem Gewinn empfangen oder durch seine Beteiligung Schaden verursacht hat.
 
-###### [2. Bei ver­schiede­nen Rechts­grün­den](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_V_I/lvl_2)
+###### [2. Bei ver­schiede­nen Rechts­grün­den](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_V_I/lvl_2)
 
 
 [**Art. 51**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_51) 
@@ -628,7 +630,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Dabei trägt in der Regel derjenige in erster Linie den Schaden, der ihn durch unerlaubte Handlung verschuldet hat, und in letzter Linie derjenige, der ohne eigene Schuld und ohne vertragliche Verpflich­tung nach Gesetzesvorschrift haftbar ist.
 
-##### [VII. Haftung bei Notwehr, Not­stand und Selbst­hilfe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_VI_I)
+##### [VII. Haftung bei Notwehr, Not­stand und Selbst­hilfe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_VI_I)
 
 
 [**Art. 52**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_52) 
@@ -639,7 +641,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [3] Wer zum Zwecke der Sicherung eines berechtigten Anspruches sich selbst Schutz verschafft, ist dann nicht ersatzpflichtig, wenn nach den gegebenen Umständen amtliche Hilfe nicht rechtzeitig erlangt und nur durch Selbsthilfe eine Vereitelung des Anspruches oder eine wesent­liche Erschwerung seiner Geltendmachung verhindert werden konnte.
 
-##### [VIII. Verhältnis zum Strafrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_A/lvl_VII_I)
+##### [VIII. Verhältnis zum Strafrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_A/lvl_VII_I)
 
 [**Art. 53**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_53) 
 
@@ -647,7 +649,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Ebenso ist das strafgerichtliche Erkenntnis mit Bezug auf die Beur­teilung der Schuld und die Bestimmung des Schadens für den Zivil­richter nicht verbindlich.
 
-#### [B. Haftung ur­teil­sunfähiger Perso­nen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_B)
+#### [B. Haftung ur­teil­sunfähiger Perso­nen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_B)
 
 
 [**Art. 54**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_54) 
@@ -656,7 +658,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Hat jemand vorübergehend die Urteilsfähigkeit verloren und in die­sem Zustand Schaden angerichtet, so ist er hierfür ersatzpflichtig, wenn er nicht nachweist, dass dieser Zustand ohne sein Verschulden einge­treten ist.
 
-#### [C. Haftung des Ge­schäftsherrn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_C)
+#### [C. Haftung des Ge­schäftsherrn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_C)
 
 [**Art. 55**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_55) 
 
@@ -664,10 +666,10 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Der Geschäftsherr kann auf denjenigen, der den Schaden gestiftet hat, insoweit Rückgriff nehmen, als dieser selbst schadenersatzpflich­tig ist.
 
-#### [D. Haftung für Tiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_D)
+#### [D. Haftung für Tiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_D)
 
 
-##### [I. Ersatzpflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_D/lvl_I)
+##### [I. Ersatzpflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_D/lvl_I)
 
 [**Art. 56**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_56) 
 
@@ -675,9 +677,9 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Vorbehalten bleibt ihm der Rückgriff, wenn das Tier von einem andern oder durch das Tier eines andern gereizt worden ist.
 
-[3] *...*
+[3] *…*
 
-##### [II. Pfändung des Tieres](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_D/lvl_I_I)
+##### [II. Pfändung des Tieres](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_D/lvl_I_I)
 
 
 [**Art. 57**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_57) 
@@ -686,9 +688,9 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Er ist jedoch verpflichtet, ohne Verzug dem Eigentümer davon Kenntnis zu geben und, sofern ihm dieser nicht bekannt ist, zu dessen Ermittlung das Nötige vorzukehren.
 
-#### [E. Haftung des Werkeigen­tümers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_E)
+#### [E. Haftung des Werkeigen­tümers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_E)
 
-##### [I. Ersatzpflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_E/lvl_I)
+##### [I. Ersatzpflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_E/lvl_I)
 
 [**Art. 58**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_58) 
 
@@ -696,7 +698,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Vorbehalten bleibt ihm der Rückgriff auf andere, die ihm hierfür ver­antwortlich sind.
 
-##### [II. Sichernde Mass­regeln](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_E/lvl_I_I)
+##### [II. Sichernde Mass­regeln](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_E/lvl_I_I)
 
 [**Art. 59**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_59) 
 
@@ -704,7 +706,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Vorbehalten bleiben die Anordnungen der Polizei zum Schutze von Personen und Eigentum.
 
-#### [F. Haftung für kryptografische Schlüssel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_F)
+#### [F. Haftung für kryptografische Schlüssel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_F)
 
 [**Art. 59***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_59_a)
 
@@ -714,7 +716,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [3] Der Bundesrat umschreibt die Sicherheitsvorkehrungen im Sinne von Absatz 2.
 
-#### [G. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_G)
+#### [G. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_G)
 
 [**Art. 60**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_60) 
 
@@ -726,7 +728,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [3] Ist durch die unerlaubte Handlung gegen den Verletzten eine Forde­rung begründet worden, so kann dieser die Erfüllung auch dann ver­weigern, wenn sein Anspruch aus der unerlaubten Handlung verjährt ist.
 
-#### [H. Verantwort­lich­keit öffent­licher Beamter und An­ge­stell­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_2/lvl_H)
+#### [H. Verantwort­lich­keit öffent­licher Beamter und An­ge­stell­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2/lvl_H)
 
 [**Art. 61**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_61) 
 
@@ -734,12 +736,12 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Für gewerbliche Verrichtungen von öffentlichen Beamten oder Angestellten können jedoch die Bestimmungen dieses Abschnittes durch kantonale Gesetze nicht geändert werden.
 
-### [Dritter Abschnitt: Die Entstehung aus ungerechtfertigter Berei­cherung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_3)
+### [Dritter Abschnitt: Die Entstehung aus ungerechtfertigter Berei­cherung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_3)
 
 
-#### [A. Voraus­setzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_3/lvl_A)
+#### [A. Voraus­setzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_3/lvl_A)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_3/lvl_A/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_3/lvl_A/lvl_I)
 
 
 [**Art. 62**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_62) 
@@ -748,7 +750,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [2] Insbesondere tritt diese Verbindlichkeit dann ein, wenn jemand ohne jeden gültigen Grund oder aus einem nicht verwirklichten oder nach­träglich weggefallenen Grund eine Zuwendung erhalten hat.
 
-##### [II. Zahlung einer Nichtschuld](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_3/lvl_A/lvl_I_I)
+##### [II. Zahlung einer Nichtschuld](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_3/lvl_A/lvl_I_I)
 
 [**Art. 63**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_63) 
 
@@ -758,16 +760,16 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [3] Vorbehalten bleibt die Rückforderung einer bezahlten Nichtschuld nach Schuldbetreibungs- und Konkursrecht.
 
-#### [B. Umfang der Rückerstattung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_3/lvl_B)
+#### [B. Umfang der Rückerstattung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_3/lvl_B)
 
-##### [I. Pflicht des Be­reicherten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_3/lvl_B/lvl_I)
+##### [I. Pflicht des Be­reicherten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_3/lvl_B/lvl_I)
 
 
 [**Art. 64**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_64) 
 
 Die Rückerstattung kann insoweit nicht gefordert werden, als der Empfänger nachweisbar zur Zeit der Rückforderung nicht mehr berei­chert ist, es sei denn, dass er sich der Bereicherung entäusserte und hiebei nicht in gutem Glauben war oder doch mit der Rückerstattung rechnen musste.
 
-##### [II. Ansprüche aus Ver­wendungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_3/lvl_B/lvl_I_I)
+##### [II. Ansprüche aus Ver­wendungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_3/lvl_B/lvl_I_I)
 
 [**Art. 65**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_65) 
 
@@ -775,13 +777,13 @@ Die Rückerstattung kann insoweit nicht gefordert werden, als der Empfänger nac
 
 [2] Für andere Verwendungen kann er keinen Ersatz verlangen, darf aber, wenn ihm ein solcher nicht angeboten wird, vor der Rückgabe der Sache, was er verwendet hat, wieder wegnehmen, soweit dies oh­ne Beschädigung der Sache selbst geschehen kann.
 
-#### [C. Ausschluss der Rück­forderungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_3/lvl_C)
+#### [C. Ausschluss der Rück­forderungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_3/lvl_C)
 
 [**Art. 66**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_66) 
 
 Was in der Absicht, einen rechtswidrigen oder unsittlichen Erfolg her­beizuführen, gegeben worden ist, kann nicht zurückgefordert wer­den.
 
-#### [D. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/sec_3/lvl_D)
+#### [D. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_3/lvl_D)
 
 [**Art. 67**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_67) 
 
@@ -791,20 +793,20 @@ Was in der Absicht, einen rechtswidrigen oder unsittlichen Erfolg her­beizufüh
 
 ## [Zweiter Titel: Die Wirkung der Obligationen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2)
 
-### [Erster Abschnitt: Die Erfüllung der Obligationen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1)
+### [Erster Abschnitt: Die Erfüllung der Obligationen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1)
 
-#### [A. Allgemeine Grundsätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_A)
+#### [A. Allgemeine Grundsätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_A)
 
-##### [I. Persönliche Lei­stung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_A/lvl_I)
+##### [I. Persönliche Lei­stung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_A/lvl_I)
 
 
 [**Art. 68**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_68) 
 
 Der Schuldner ist nur dann verpflichtet, persönlich zu erfüllen, wenn es bei der Leistung auf seine Persönlichkeit ankommt.
 
-##### [II. Gegenstand der Erfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_A/lvl_I_I)
+##### [II. Gegenstand der Erfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_A/lvl_I_I)
 
-###### [1. Teilzahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_A/lvl_I_I/lvl_1)
+###### [1. Teilzahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_A/lvl_I_I/lvl_1)
 
 [**Art. 69**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_69) 
 
@@ -812,7 +814,7 @@ Der Schuldner ist nur dann verpflichtet, persönlich zu erfüllen, wenn es bei d
 
 [2] Will der Gläubiger eine Teilzahlung annehmen, so kann der Schuld­ner die Zahlung des von ihm anerkannten Teiles der Schuld nicht ver­weigern.
 
-###### [2. Unteilbare Lei­stung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_A/lvl_I_I/lvl_2)
+###### [2. Unteilbare Lei­stung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_A/lvl_I_I/lvl_2)
 
 
 [**Art. 70**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_70) 
@@ -823,7 +825,7 @@ Der Schuldner ist nur dann verpflichtet, persönlich zu erfüllen, wenn es bei d
 
 [3] Sofern sich aus den Umständen nicht etwas anderes ergibt, kann als­dann der Schuldner, der den Gläubiger befriedigt hat, von den übrigen Schuldnern verhältnismässigen Ersatz verlangen, und es gehen, so­weit ihm ein solcher Anspruch zusteht, die Rechte des befriedigten Gläubi­gers auf ihn über.
 
-###### [3. Bestimmung nach der Gattung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_A/lvl_I_I/lvl_3)
+###### [3. Bestimmung nach der Gattung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_A/lvl_I_I/lvl_3)
 
 [**Art. 71**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_71) 
 
@@ -831,13 +833,13 @@ Der Schuldner ist nur dann verpflichtet, persönlich zu erfüllen, wenn es bei d
 
 [2] Er darf jedoch nicht eine Sache unter mittlerer Qualität anbieten.
 
-###### [4. Wahl­obligation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_A/lvl_I_I/lvl_4)
+###### [4. Wahl­obligation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_A/lvl_I_I/lvl_4)
 
 [**Art. 72**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_72) 
 
 Ist die Schuldpflicht in der Weise auf mehrere Leistungen gerichtet, dass nur die eine oder die andere erfolgen soll, so steht die Wahl dem Schuldner zu, insofern sich aus dem Rechtsverhältnis nicht etwas anderes ergibt.
 
-###### [5. Zinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_A/lvl_I_I/lvl_5)
+###### [5. Zinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_A/lvl_I_I/lvl_5)
 
 [**Art. 73**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_73) 
 
@@ -845,7 +847,7 @@ Ist die Schuldpflicht in der Weise auf mehrere Leistungen gerichtet, dass nur di
 
 [2] Dem öffentlichen Rechte bleibt es vorbehalten, Bestimmungen ge­gen Missbräuche im Zinswesen aufzustellen.
 
-#### [B. Ort der Erfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_B)
+#### [B. Ort der Erfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_B)
 
 
 [**Art. 74**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_74) 
@@ -861,18 +863,18 @@ Ist die Schuldpflicht in der Weise auf mehrere Leistungen gerichtet, dass nur di
 
 [3] Wenn der Gläubiger seinen Wohnsitz, an dem er die Erfüllung for­dern kann, nach der Entstehung der Schuld ändert und dem Schuldner daraus eine erhebliche Belästigung erwächst, so ist dieser berechtigt, an dem ursprünglichen Wohnsitze zu erfüllen.
 
-#### [C. Zeit der Erfül­lung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C)
+#### [C. Zeit der Erfül­lung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C)
 
 
-##### [I. Unbefristete Ver­bindlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_I)
+##### [I. Unbefristete Ver­bindlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_I)
 
 [**Art. 75**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_75) 
 
 Ist die Zeit der Erfüllung weder durch Vertrag noch durch die Natur des Rechtsverhältnisses bestimmt, so kann die Erfüllung sogleich geleistet und gefordert werden.
 
-##### [II. Befristete Ver­bindlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_I_I)
+##### [II. Befristete Ver­bindlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_I_I)
 
-###### [1. Monatstermin](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_I_I/lvl_1)
+###### [1. Monatstermin](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_I_I/lvl_1)
 
 [**Art. 76**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_76) 
 
@@ -880,7 +882,7 @@ Ist die Zeit der Erfüllung weder durch Vertrag noch durch die Natur des Rechtsv
 
 [2] Ist die Zeit auf die Mitte eines Monates festgesetzt, so gilt der fünf­zehnte dieses Monates.
 
-###### [2. Andere Frist­be­stimmung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_I_I/lvl_2)
+###### [2. Andere Frist­be­stimmung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_I_I/lvl_2)
 
 [**Art. 77**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_77) 
 
@@ -897,7 +899,7 @@ Der Ausdruck «halber Monat» wird einem Zeitraume von 15 Tagen gleichgeachtet, 
 
 [3] Soll die Erfüllung innerhalb einer bestimmten Frist geschehen, so muss sie vor deren Ablauf erfolgen.
 
-###### [3. Sonn- und Feiertage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_I_I/lvl_3)
+###### [3. Sonn- und Feiertage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_I_I/lvl_3)
 
 
 [**Art. 78**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_78) 
@@ -906,19 +908,19 @@ Der Ausdruck «halber Monat» wird einem Zeitraume von 15 Tagen gleichgeachtet, 
 
 [2] Abweichende Vereinbarungen bleiben vorbehalten.
 
-##### [III. Erfüllung zur Geschäftszeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_II_I)
+##### [III. Erfüllung zur Geschäftszeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_II_I)
 
 [**Art. 79**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_79) 
 
 Die Erfüllung muss an dem festgesetzten Tage während der gewöhn­lichen Geschäftszeit vollzogen und angenommen werden.
 
-##### [IV. Frist­verlänge­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_I_V)
+##### [IV. Frist­verlänge­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_I_V)
 
 [**Art. 80**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_80) 
 
 Ist die vertragsmässige Frist verlängert worden, so beginnt die neue Frist, sofern sich aus dem Vertrage nicht etwas anderes ergibt, am ersten Tage nach Ablauf der alten Frist.
 
-##### [V. Vorzeitige Er­füllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_V)
+##### [V. Vorzeitige Er­füllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_V)
 
 
 [**Art. 81**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_81) 
@@ -927,16 +929,16 @@ Ist die vertragsmässige Frist verlängert worden, so beginnt die neue Frist, so
 
 [2] Er ist jedoch nicht berechtigt, einen Diskonto abzuziehen, es sei denn, dass Übereinkunft oder Übung einen solchen gestatten.
 
-##### [VI. Bei zwei­seiti­gen Verträgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_V_I)
+##### [VI. Bei zwei­seiti­gen Verträgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_V_I)
 
 
-###### [1. Ordnung in der Erfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_V_I/lvl_1)
+###### [1. Ordnung in der Erfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_V_I/lvl_1)
 
 [**Art. 82**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_82) 
 
 Wer bei einem zweiseitigen Vertrage den andern zur Erfüllung anhal­ten will, muss entweder bereits erfüllt haben oder die Erfüllung anbie­ten, es sei denn, dass er nach dem Inhalte oder der Natur des Vertra­ges erst später zu erfüllen hat.
 
-###### [2. Rücksicht auf ein­seitige Zah­lungs­unfähigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_C/lvl_V_I/lvl_2)
+###### [2. Rücksicht auf ein­seitige Zah­lungs­unfähigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_C/lvl_V_I/lvl_2)
 
 
 [**Art. 83**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_83) 
@@ -945,9 +947,9 @@ Wer bei einem zweiseitigen Vertrage den andern zur Erfüllung anhal­ten will, m
 
 [2] Wird er innerhalb einer angemessenen Frist auf sein Begehren nicht sichergestellt, so kann er vom Vertrage zurücktreten.
 
-#### [D. Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D)
+#### [D. Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D)
 
-##### [I. Landes­währung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D/lvl_I)
+##### [I. Landes­währung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D/lvl_I)
 
 [**Art. 84**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_84)
 
@@ -955,9 +957,9 @@ Wer bei einem zweiseitigen Vertrage den andern zur Erfüllung anhal­ten will, m
 
 [2] Lautet die Schuld auf eine Währung, die am Zahlungsort nicht Lan­deswährung ist, so kann die geschuldete Summe nach ihrem Wert zur Verfallzeit dennoch in Landeswährung bezahlt werden, sofern nicht durch den Gebrauch des Wortes «effektiv» oder eines ähnlichen Zusatzes die wortgetreue Erfüllung des Vertrags ausbedungen ist. 
 
-##### [II. Anrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D/lvl_I_I)
+##### [II. Anrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D/lvl_I_I)
 
-###### [1. Bei Teil­zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D/lvl_I_I/lvl_1)
+###### [1. Bei Teil­zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D/lvl_I_I/lvl_1)
 
 [**Art. 85**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_85) 
 
@@ -965,9 +967,9 @@ Wer bei einem zweiseitigen Vertrage den andern zur Erfüllung anhal­ten will, m
 
 [2] Sind dem Gläubiger für einen Teil seiner Forderung Bürgen gestellt, oder Pfänder oder andere Sicherheiten gegeben worden, so ist der Schuldner nicht berechtigt, eine Teilzahlung auf den gesicherten oder besser gesicherten Teil der Forderung anzurechnen.
 
-###### [2. Bei mehreren Schulden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D/lvl_I_I/lvl_2)
+###### [2. Bei mehreren Schulden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D/lvl_I_I/lvl_2)
 
-###### [a. Nach Erklä­rung des Schuld­ners oder des Gläubi­gers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D/lvl_I_I/lvl_2/lvl_a)
+###### [a. Nach Erklä­rung des Schuld­ners oder des Gläubi­gers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D/lvl_I_I/lvl_2/lvl_a)
 
 
 [**Art. 86**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_86) 
@@ -976,7 +978,7 @@ Wer bei einem zweiseitigen Vertrage den andern zur Erfüllung anhal­ten will, m
 
 [2] Mangelt eine solche Erklärung, so wird die Zahlung auf diejenige Schuld angerechnet, die der Gläubiger in seiner Quittung bezeichnet, vorausgesetzt, dass der Schuldner nicht sofort Widerspruch erhebt.
 
-###### [b. Nach Geset­zes­vorschrift](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D/lvl_I_I/lvl_2/lvl_b)
+###### [b. Nach Geset­zes­vorschrift](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D/lvl_I_I/lvl_2/lvl_b)
 
 
 [**Art. 87**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_87) 
@@ -987,9 +989,9 @@ Wer bei einem zweiseitigen Vertrage den andern zur Erfüllung anhal­ten will, m
 
 [3] Ist keine der mehreren Schulden verfallen, so wird die Zahlung auf die Schuld angerechnet, die dem Gläubiger am wenigsten Sicherheit darbietet.
 
-##### [III. Quittung und Rückgabe des Schuldscheines](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D/lvl_II_I)
+##### [III. Quittung und Rückgabe des Schuldscheines](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D/lvl_II_I)
 
-###### [1. Recht des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D/lvl_II_I/lvl_1)
+###### [1. Recht des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D/lvl_II_I/lvl_1)
 
 [**Art. 88**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_88) 
 
@@ -997,7 +999,7 @@ Wer bei einem zweiseitigen Vertrage den andern zur Erfüllung anhal­ten will, m
 
 [2] Ist die Zahlung keine vollständige oder sind in dem Schuldscheine auch andere Rechte des Gläubigers beurkundet, so kann der Schuld­ner ausser der Quittung nur die Vormerkung auf dem Schuldscheine ver­langen.
 
-###### [2. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D/lvl_II_I/lvl_2)
+###### [2. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D/lvl_II_I/lvl_2)
 
 [**Art. 89**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_89) 
 
@@ -1007,7 +1009,7 @@ Wer bei einem zweiseitigen Vertrage den andern zur Erfüllung anhal­ten will, m
 
 [3] Die Rückgabe des Schuldscheines an den Schuldner begründet die Vermutung, dass die Schuld getilgt sei.
 
-###### [3. Unmöglich­keit der Rück­gabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_D/lvl_II_I/lvl_3)
+###### [3. Unmöglich­keit der Rück­gabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_D/lvl_II_I/lvl_3)
 
 [**Art. 90**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_90) 
 
@@ -1015,19 +1017,19 @@ Wer bei einem zweiseitigen Vertrage den andern zur Erfüllung anhal­ten will, m
 
 [2] Vorbehalten bleiben die Bestimmungen über Kraftloserklärung von Wertpapieren.
 
-#### [E. Verzug des Gläubigers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_E)
+#### [E. Verzug des Gläubigers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_E)
 
-##### [I. Voraussetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_E/lvl_I)
+##### [I. Voraussetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_E/lvl_I)
 
 [**Art. 91**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_91) 
 
 Der Gläubiger kommt in Verzug, wenn er die Annahme der gehörig angebotenen Leistung oder die Vornahme der ihm obliegenden Vor­bereitungshandlungen, ohne die der Schuldner zu erfüllen nicht imstan­de ist, ungerechtfertigterweise verweigert.
 
-##### [II. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_E/lvl_I_I)
+##### [II. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_E/lvl_I_I)
 
-###### [1. Bei Sach­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_E/lvl_I_I/lvl_1)
+###### [1. Bei Sach­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_E/lvl_I_I/lvl_1)
 
-###### [a. Recht zur Hin­terlegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_E/lvl_I_I/lvl_1/lvl_a)
+###### [a. Recht zur Hin­terlegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_E/lvl_I_I/lvl_1/lvl_a)
 
 
 [**Art. 92**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_92) 
@@ -1036,7 +1038,7 @@ Der Gläubiger kommt in Verzug, wenn er die Annahme der gehörig angebotenen Lei
 
 [2] Den Ort der Hinterlegung hat der Richter zu bestimmen, jedoch kön­nen Waren auch ohne richterliche Bestimmung in einem Lagerhause hinterlegt werden.
 
-###### [b. Recht zum Verkauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_E/lvl_I_I/lvl_1/lvl_b)
+###### [b. Recht zum Verkauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_E/lvl_I_I/lvl_1/lvl_b)
 
 
 [**Art. 93**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_93) 
@@ -1045,7 +1047,7 @@ Der Gläubiger kommt in Verzug, wenn er die Annahme der gehörig angebotenen Lei
 
 [2] Hat die Sache einen Börsen- oder Marktpreis oder ist sie im Ver­hält­nis zu den Kosten von geringem Werte, so braucht der Verkauf kein öffentlicher zu sein und kann vom Richter auch ohne vorgängige Androhung gestattet werden.
 
-###### [c. Recht zur Rück­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_E/lvl_I_I/lvl_1/lvl_c)
+###### [c. Recht zur Rück­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_E/lvl_I_I/lvl_1/lvl_c)
 
 [**Art. 94**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_94) 
 
@@ -1053,27 +1055,27 @@ Der Gläubiger kommt in Verzug, wenn er die Annahme der gehörig angebotenen Lei
 
 [2] Mit dem Zeitpunkte der Rücknahme tritt die Forderung mit allen Nebenrechten wieder in Kraft.
 
-###### [2. Bei andern Lei­stungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_E/lvl_I_I/lvl_2)
+###### [2. Bei andern Lei­stungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_E/lvl_I_I/lvl_2)
 
 
 [**Art. 95**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_95) 
 
 Handelt es sich um die Verpflichtung zu einer andern als einer Sach­leistung, so kann der Schuldner beim Verzug des Gläubigers nach den Bestimmungen über den Verzug des Schuldners vom Vertrage zu­rück­treten.
 
-#### [F. Andere Ver­hin­derung der Er­füllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_1/lvl_F)
+#### [F. Andere Ver­hin­derung der Er­füllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_1/lvl_F)
 
 
 [**Art. 96**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_96) 
 
 Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des Gläubigers liegenden Grunde oder infolge einer unverschuldeten Ungewissheit über die Person des Gläubigers weder an diesen noch an einen Vertreter geschehen, so ist der Schuldner zur Hinterlegung oder zum Rücktritt berechtigt, wie beim Verzug des Gläubigers.
 
-### [Zweiter Abschnitt: Die Folgen der Nichterfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2)
+### [Zweiter Abschnitt: Die Folgen der Nichterfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2)
 
-#### [A. Ausbleiben der Erfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_A)
+#### [A. Ausbleiben der Erfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_A)
 
-##### [I. Ersatzpflicht des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_A/lvl_I)
+##### [I. Ersatzpflicht des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_A/lvl_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_A/lvl_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_A/lvl_I/lvl_1)
 
 
 [**Art. 97**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_97) 
@@ -1082,7 +1084,7 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [2] Für die Vollstreckung gelten die Bestimmungen des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs sowie der Zivilprozessordnung vom 19. Dezember 2008 (ZPO).
 
-###### [2. Bei Verbind­lichkeit zu ei­nem Tun oder Nicht­tun](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_A/lvl_I/lvl_2)
+###### [2. Bei Verbind­lichkeit zu ei­nem Tun oder Nicht­tun](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_A/lvl_I/lvl_2)
 
 [**Art. 98**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_98) 
 
@@ -1092,10 +1094,10 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [3] Überdies kann der Gläubiger die Beseitigung des rechtswidrigen Zustandes verlangen und sich ermächtigen lassen, diesen auf Kosten des Schuldners zu beseitigen.
 
-##### [II. Mass der Haf­tung und Um­fang des Schadenersatzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_A/lvl_I_I)
+##### [II. Mass der Haf­tung und Um­fang des Schadenersatzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_A/lvl_I_I)
 
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_A/lvl_I_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_A/lvl_I_I/lvl_1)
 
 
 [**Art. 99**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_99) 
@@ -1106,7 +1108,7 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [3] Im übrigen finden die Bestimmungen über das Mass der Haftung bei unerlaubten Handlungen auf das vertragswidrige Verhalten entspre­chende Anwendung.
 
-###### [2. Weg­bedingung der Haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_A/lvl_I_I/lvl_2)
+###### [2. Weg­bedingung der Haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_A/lvl_I_I/lvl_2)
 
 [**Art. 100**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_100) 
 
@@ -1116,7 +1118,7 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [3] Vorbehalten bleiben die besonderen Vorschriften über den Versiche­rungsvertrag.
 
-###### [3. Haftung für Hilfs­personen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_A/lvl_I_I/lvl_3)
+###### [3. Haftung für Hilfs­personen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_A/lvl_I_I/lvl_3)
 
 [**Art. 101**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_101) 
 
@@ -1126,10 +1128,10 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [3] Steht aber der Verzichtende im Dienst des andern oder folgt die Ver­antwortlichkeit aus dem Betriebe eines obrigkeitlich konzessio­nierten Gewerbes, so darf die Haftung höchstens für leichtes Ver­schulden wegbedungen werden.
 
-#### [B. Verzug des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B)
+#### [B. Verzug des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B)
 
 
-##### [I. Voraussetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I)
+##### [I. Voraussetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I)
 
 [**Art. 102**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_102) 
 
@@ -1137,9 +1139,9 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [2] Wurde für die Erfüllung ein bestimmter Verfalltag verabredet, oder ergibt sich ein solcher infolge einer vorbehaltenen und gehörig vorge­nommenen Kündigung, so kommt der Schuldner schon mit Ablauf dieses Tages in Verzug.
 
-##### [II. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I_I)
+##### [II. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I_I)
 
-###### [1. Haftung für Zu­fall](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I_I/lvl_1)
+###### [1. Haftung für Zu­fall](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I_I/lvl_1)
 
 
 [**Art. 103**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_103) 
@@ -1148,9 +1150,9 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [2] Er kann sich von dieser Haftung durch den Nachweis befreien, dass der Verzug ohne jedes Verschulden von seiner Seite eingetreten ist oder dass der Zufall auch bei rechtzeitiger Erfüllung den Gegenstand der Leistung zum Nachteile des Gläubigers betroffen hätte.
 
-###### [2. Verzugszinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I_I/lvl_2)
+###### [2. Verzugszinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I_I/lvl_2)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I_I/lvl_2/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I_I/lvl_2/lvl_a)
 
 
 [**Art. 104**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_104) 
@@ -1161,7 +1163,7 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [3] Unter Kaufleuten können für die Zeit, wo der übliche Bankdiskonto am Zahlungsorte fünf vom Hundert übersteigt, die Verzugszinse zu diesem höheren Zinsfusse berechnet werden.
 
-###### [b. Bei Zinsen, Ren­ten, Schen­kungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I_I/lvl_2/lvl_b)
+###### [b. Bei Zinsen, Ren­ten, Schen­kungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I_I/lvl_2/lvl_b)
 
 
 [**Art. 105**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_105) 
@@ -1172,7 +1174,7 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [3] Von Verzugszinsen dürfen keine Verzugszinse berechnet werden.
 
-###### [3. Weiterer Scha­den](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I_I/lvl_3)
+###### [3. Weiterer Scha­den](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I_I/lvl_3)
 
 
 [**Art. 106**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_106) 
@@ -1181,9 +1183,9 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [2] Lässt sich dieser grössere Schaden zum voraus abschätzen, so kann der Richter den Ersatz schon im Urteil über den Hauptanspruch fest­setzen.
 
-###### [4. Rücktritt und Schadenersatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I_I/lvl_4)
+###### [4. Rücktritt und Schadenersatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I_I/lvl_4)
 
-###### [a. Unter Frist­ansetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I_I/lvl_4/lvl_a)
+###### [a. Unter Frist­ansetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I_I/lvl_4/lvl_a)
 
 [**Art. 107**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_107) 
 
@@ -1191,7 +1193,7 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 [2] Wird auch bis zum Ablaufe dieser Frist nicht erfüllt, so kann der Gläubiger immer noch auf Erfüllung nebst Schadenersatz wegen Ver­spätung klagen, statt dessen aber auch, wenn er es unverzüglich erklärt, auf die nachträgliche Leistung verzichten und entweder Ersatz des aus der Nichterfüllung entstandenen Schadens verlangen oder vom Vertrage zurücktreten.
 
-###### [b. Ohne Frist­ansetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I_I/lvl_4/lvl_b)
+###### [b. Ohne Frist­ansetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I_I/lvl_4/lvl_b)
 
 [**Art. 108**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_108) 
 
@@ -1202,7 +1204,7 @@ Die Ansetzung einer Frist zur nachträglichen Erfüllung ist nicht erfor­derlic
 |    2. wenn infolge Verzuges des Schuldners die Leistung für den Gläubiger nutzlos geworden ist;  
 |    3. wenn sich aus dem Vertrage die Absicht der Parteien ergibt, dass die Leistung genau zu einer bestimmten oder bis zu einer be­stimmten Zeit erfolgen soll.
 
-###### [c. Wirkung des Rücktritts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_2/lvl_B/lvl_I_I/lvl_4/lvl_c)
+###### [c. Wirkung des Rücktritts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_2/lvl_B/lvl_I_I/lvl_4/lvl_c)
 
 
 [**Art. 109**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_109) 
@@ -1211,9 +1213,9 @@ Die Ansetzung einer Frist zur nachträglichen Erfüllung ist nicht erfor­derlic
 
 [2] Überdies hat er Anspruch auf Ersatz des aus dem Dahinfallen des Vertrages erwachsenen Schadens, sofern der Schuldner nicht nach­weist, dass ihm keinerlei Verschulden zur Last falle.
 
-### [Dritter Abschnitt: Beziehungen zu dritten Personen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_3)
+### [Dritter Abschnitt: Beziehungen zu dritten Personen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_3)
 
-#### [A. Eintritt eines Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_3/lvl_A)
+#### [A. Eintritt eines Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_3/lvl_A)
 
 
 [**Art. 110**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_110) 
@@ -1224,16 +1226,16 @@ Soweit ein Dritter den Gläubiger befriedigt, gehen dessen Rechte von Gesetzes w
 |    1. wenn er eine für eine fremde Schuld verpfändete Sache einlöst, an der ihm das Eigentum oder ein beschränktes dingliches Recht zusteht;  
 |    2. wenn der Schuldner dem Gläubiger anzeigt, dass der Zahlende an die Stelle des Gläubigers treten soll.
 
-#### [B. Vertrag zu La­sten eines Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_3/lvl_B)
+#### [B. Vertrag zu La­sten eines Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_3/lvl_B)
 
 [**Art. 111**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_111) 
 
 Wer einem andern die Leistung eines Dritten verspricht, ist, wenn sie nicht erfolgt, zum Ersatze des hieraus entstandenen Schadens ver­pflichtet.
 
-#### [C. Vertrag zu­gun­sten eines Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_3/lvl_C)
+#### [C. Vertrag zu­gun­sten eines Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_3/lvl_C)
 
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_3/lvl_C/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_3/lvl_C/lvl_I)
 
 
 [**Art. 112**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_112) 
@@ -1244,7 +1246,7 @@ Wer einem andern die Leistung eines Dritten verspricht, ist, wenn sie nicht erfo
 
 [3] In diesem Falle kann der Gläubiger den Schuldner nicht mehr ent­binden, sobald der Dritte dem letzteren erklärt hat, von seinem Rechte Gebrauch machen zu wollen.
 
-##### [II. Bei Haft­pflicht­versicherung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/sec_3/lvl_C/lvl_I_I)
+##### [II. Bei Haft­pflicht­versicherung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_2/chap_3/lvl_C/lvl_I_I)
 
 [**Art. 113**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_113) 
 
@@ -1543,11 +1545,11 @@ Der Richter darf die Verjährung nicht von Amtes wegen berücksichti­gen.
 
 ## [Vierter Titel: Besondere Verhältnisse bei Obligationen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4)
 
-### [Erster Abschnitt: Die Solidarität](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1)
+### [Erster Abschnitt: Die Solidarität](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1)
 
-#### [A. Solidarschuld](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A)
+#### [A. Solidarschuld](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A)
 
-##### [I. Entstehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A/lvl_I)
+##### [I. Entstehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A/lvl_I)
 
 [**Art. 143**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_143) 
 
@@ -1555,12 +1557,12 @@ Der Richter darf die Verjährung nicht von Amtes wegen berücksichti­gen.
 
 [2] Ohne solche Willenserklärung entsteht Solidarität nur in den vom Gesetze bestimmten Fällen.
 
-##### [II. Verhältnis zwi­schen Gläu­biger und Schuldner](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A/lvl_I_I)
+##### [II. Verhältnis zwi­schen Gläu­biger und Schuldner](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A/lvl_I_I)
 
 
-###### [1. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A/lvl_I_I/lvl_1)
+###### [1. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A/lvl_I_I/lvl_1)
 
-###### [a. Haftung der Schuldner](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A/lvl_I_I/lvl_1/lvl_a)
+###### [a. Haftung der Schuldner](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A/lvl_I_I/lvl_1/lvl_a)
 
 
 [**Art. 144**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_144) 
@@ -1569,7 +1571,7 @@ Der Richter darf die Verjährung nicht von Amtes wegen berücksichti­gen.
 
 [2] Sämtliche Schuldner bleiben so lange verpflichtet, bis die ganze For­derung getilgt ist.
 
-###### [b. Einreden der Schuldner](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A/lvl_I_I/lvl_1/lvl_b)
+###### [b. Einreden der Schuldner](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A/lvl_I_I/lvl_1/lvl_b)
 
 
 [**Art. 145**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_145) 
@@ -1578,13 +1580,13 @@ Der Richter darf die Verjährung nicht von Amtes wegen berücksichti­gen.
 
 [2] Jeder Solidarschuldner wird den andern gegenüber verantwortlich, wenn er diejenigen Einreden nicht geltend macht, die allen gemein­sam zustehen.
 
-###### [c. Persönliche Handlung des Ein­zelnen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A/lvl_I_I/lvl_1/lvl_c)
+###### [c. Persönliche Handlung des Ein­zelnen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A/lvl_I_I/lvl_1/lvl_c)
 
 [**Art. 146**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_146) 
 
 Ein Solidarschuldner kann, soweit es nicht anders bestimmt ist, durch seine persönliche Handlung die Lage der andern nicht erschweren.
 
-###### [2. Erlöschen der So­lidarschuld](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A/lvl_I_I/lvl_2)
+###### [2. Erlöschen der So­lidarschuld](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A/lvl_I_I/lvl_2)
 
 [**Art. 147**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_147) 
 
@@ -1592,10 +1594,10 @@ Ein Solidarschuldner kann, soweit es nicht anders bestimmt ist, durch seine pers
 
 [2] Wird ein Solidarschuldner ohne Befriedigung des Gläubigers befreit, so wirkt die Befreiung zugunsten der andern nur so weit, als die Umstände oder die Natur der Verbindlichkeit es rechtfertigen.
 
-##### [III. Verhältnis un­ter den Soli­dar­schuldnern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A/lvl_II_I)
+##### [III. Verhältnis un­ter den Soli­dar­schuldnern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A/lvl_II_I)
 
 
-###### [1. Beteiligung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A/lvl_II_I/lvl_1)
+###### [1. Beteiligung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A/lvl_II_I/lvl_1)
 
 [**Art. 148**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_148) 
 
@@ -1605,7 +1607,7 @@ Ein Solidarschuldner kann, soweit es nicht anders bestimmt ist, durch seine pers
 
 [3] Was von einem Mitschuldner nicht erhältlich ist, haben die übrigen gleichmässig zu tragen.
 
-###### [2. Übergang der Gläubigerrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_A/lvl_II_I/lvl_2)
+###### [2. Übergang der Gläubigerrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_A/lvl_II_I/lvl_2)
 
 [**Art. 149**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_149) 
 
@@ -1613,7 +1615,7 @@ Ein Solidarschuldner kann, soweit es nicht anders bestimmt ist, durch seine pers
 
 [2] Der Gläubiger ist dafür verantwortlich, dass er die rechtliche Lage des einen Solidarschuldners nicht zum Schaden der übrigen besser stelle.
 
-#### [B. Solidar­forderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_1/lvl_B)
+#### [B. Solidar­forderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_1/lvl_B)
 
 [**Art. 150**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_150) 
 
@@ -1623,11 +1625,11 @@ Ein Solidarschuldner kann, soweit es nicht anders bestimmt ist, durch seine pers
 
 [3] Der Schuldner hat die Wahl, an welchen Solidargläubiger er bezah­len will, solange er nicht von einem rechtlich belangt worden ist.
 
-### [Zweiter Abschnitt: Die Bedingungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_2)
+### [Zweiter Abschnitt: Die Bedingungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_2)
 
-#### [A. Auf­schiebende Bedin­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_2/lvl_A)
+#### [A. Auf­schiebende Bedin­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_2/lvl_A)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_2/lvl_A/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_2/lvl_A/lvl_I)
 
 
 [**Art. 151**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_151) 
@@ -1636,7 +1638,7 @@ Ein Solidarschuldner kann, soweit es nicht anders bestimmt ist, durch seine pers
 
 [2] Für den Beginn der Wirkungen ist der Zeitpunkt massgebend, in dem die Bedingung in Erfüllung geht, sofern nicht auf eine andere Absicht der Parteien geschlossen werden muss.
 
-##### [II. Zustand bei schwebender Be­dingung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_2/lvl_A/lvl_I_I)
+##### [II. Zustand bei schwebender Be­dingung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_2/lvl_A/lvl_I_I)
 
 
 [**Art. 152**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_152) 
@@ -1647,7 +1649,7 @@ Ein Solidarschuldner kann, soweit es nicht anders bestimmt ist, durch seine pers
 
 [3] Verfügungen während der Schwebezeit sind, wenn die Bedingung eintritt, insoweit hinfällig, als sie deren Wirkung beeinträchtigen.
 
-##### [III. Nutzen in der Zwischenzeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_2/lvl_A/lvl_II_I)
+##### [III. Nutzen in der Zwischenzeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_2/lvl_A/lvl_II_I)
 
 [**Art. 153**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_153) 
 
@@ -1655,7 +1657,7 @@ Ein Solidarschuldner kann, soweit es nicht anders bestimmt ist, durch seine pers
 
 [2] Wenn die Bedingung nicht eintritt, so hat er das Bezogene herauszu­geben.
 
-#### [B. Auflösende Be­dingung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_2/lvl_B)
+#### [B. Auflösende Be­dingung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_2/lvl_B)
 
 [**Art. 154**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_154) 
 
@@ -1663,30 +1665,30 @@ Ein Solidarschuldner kann, soweit es nicht anders bestimmt ist, durch seine pers
 
 [2] Eine Rückwirkung findet in der Regel nicht statt.
 
-#### [C. Gemeinsame Vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_2/lvl_C)
+#### [C. Gemeinsame Vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_2/lvl_C)
 
-##### [I. Erfüllung der Be­dingung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_2/lvl_C/lvl_I)
+##### [I. Erfüllung der Be­dingung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_2/lvl_C/lvl_I)
 
 [**Art. 155**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_155) 
 
 Ist die Bedingung auf eine Handlung eines der Vertragschliessenden gestellt, bei der es auf dessen Persönlichkeit nicht ankommt, so kann sie auch von seinen Erben erfüllt werden.
 
-##### [II. Verhinderung wi­der Treu und Glau­ben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_2/lvl_C/lvl_I_I)
+##### [II. Verhinderung wi­der Treu und Glau­ben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_2/lvl_C/lvl_I_I)
 
 [**Art. 156**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_156) 
 
 Eine Bedingung gilt als erfüllt, wenn ihr Eintritt von dem einen Teile wider Treu und Glauben verhindert worden ist.
 
-##### [III. Unzulässige Bedingungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_2/lvl_C/lvl_II_I)
+##### [III. Unzulässige Bedingungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_2/lvl_C/lvl_II_I)
 
 [**Art. 157**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_157) 
 
 Wird eine Bedingung in der Absicht beigefügt, eine widerrechtliche oder unsittliche Handlung oder Unterlassung zu befördern, so ist der bedingte Anspruch nichtig.
 
-### [Dritter Abschnitt: Haft- und Reugeld. Lohnabzüge. Konventional­strafe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_3)
+### [Dritter Abschnitt: Haft- und Reugeld. Lohnabzüge. Konventional­strafe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_3)
 
 
-#### [A. Haft- und Reu­geld](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_3/lvl_A)
+#### [A. Haft- und Reu­geld](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_3/lvl_A)
 
 [**Art. 158**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_158) 
 
@@ -1696,16 +1698,16 @@ Wird eine Bedingung in der Absicht beigefügt, eine widerrechtliche oder unsittl
 
 [3] Ist ein Reugeld verabredet worden, so kann der Geber gegen Zu­rück­lassung des bezahlten und der Empfänger gegen Erstattung des dop­pelten Betrages von dem Vertrage zurücktreten.
 
-#### [B. *...*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_3/lvl_B)
+#### [B. *…*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_3/lvl_B)
 
 [**Art. 159**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_159)
 
-#### [C. Konventio­nal­strafe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_3/lvl_C)
+#### [C. Konventio­nal­strafe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_3/lvl_C)
 
-##### [I. Recht des Gläu­bigers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_3/lvl_C/lvl_I)
+##### [I. Recht des Gläu­bigers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_3/lvl_C/lvl_I)
 
 
-###### [1. Verhältnis der Strafe zur Ver­tra­gserfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_3/lvl_C/lvl_I/lvl_1)
+###### [1. Verhältnis der Strafe zur Ver­tra­gserfüllung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_3/lvl_C/lvl_I/lvl_1)
 
 [**Art. 160**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_160) 
 
@@ -1715,7 +1717,7 @@ Wird eine Bedingung in der Absicht beigefügt, eine widerrechtliche oder unsittl
 
 [3] Dem Schuldner bleibt der Nachweis vorbehalten, dass ihm gegen Erlegung der Strafe der Rücktritt freistehen sollte.
 
-###### [2. Verhältnis der Strafe zum Scha­den](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_3/lvl_C/lvl_I/lvl_2)
+###### [2. Verhältnis der Strafe zum Scha­den](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_3/lvl_C/lvl_I/lvl_2)
 
 
 [**Art. 161**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_161) 
@@ -1724,15 +1726,15 @@ Wird eine Bedingung in der Absicht beigefügt, eine widerrechtliche oder unsittl
 
 [2] Übersteigt der erlittene Schaden den Betrag der Strafe, so kann der Gläubiger den Mehrbetrag nur so weit einfordern, als er ein Verschul­den nachweist.
 
-###### [3. Verfall von Teil­zahlungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_3/lvl_C/lvl_I/lvl_3)
+###### [3. Verfall von Teil­zahlungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_3/lvl_C/lvl_I/lvl_3)
 
 [**Art. 162**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_162) 
 
 [1] Die Abrede, dass Teilzahlungen im Falle des Rücktrittes dem Gläu­biger verbleiben sollen, ist nach den Vorschriften über die Konventio­nalstrafe zu beurteilen.
 
-[2] *...*
+[2] *…*
 
-##### [II. Höhe, Ungül­tig­keit und Her­ab­set­zung der Strafe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/sec_3/lvl_C/lvl_I_I)
+##### [II. Höhe, Ungül­tig­keit und Her­ab­set­zung der Strafe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_4/chap_3/lvl_C/lvl_I_I)
 
 
 [**Art. 163**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_163) 
@@ -1927,7 +1929,7 @@ Wo das Gesetz für die Übertragung von Forderungen besondere Bestimmungen aufst
 
 [4] Die Übernahme des Vermögens oder des Geschäfts von Handels­gesellschaften, Genossenschaften, Vereinen, Stiftungen und Einzel­unternehmen, die im Handelsregister eingetragen sind, richtet sich nach den Vorschriften des Fusionsgesetzes vom 3. Oktober 2003.
 
-#### [VI. *...*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_5/lvl_B/lvl_V_I)
+#### [VI. *…*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_5/lvl_B/lvl_V_I)
 
 [**Art. 182**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_182)
 
@@ -1941,9 +1943,9 @@ Die besondern Bestimmungen betreffend die Schuldübernahme bei Erbteilung und be
 
 ## [Sechster Titel: Kauf und Tausch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6)
 
-### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_1)
+### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_1)
 
-#### [A. Rechte und Pflichten im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_1/lvl_A)
+#### [A. Rechte und Pflichten im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_1/lvl_A)
 
 
 [**Art. 184**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_184) 
@@ -1954,7 +1956,7 @@ Die besondern Bestimmungen betreffend die Schuldübernahme bei Erbteilung und be
 
 [3] Der Preis ist genügend bestimmt, wenn er nach den Umständen bestimmbar ist.
 
-#### [B. Nutzen und Gefahr](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_1/lvl_B)
+#### [B. Nutzen und Gefahr](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_1/lvl_B)
 
 
 [**Art. 185**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_185) 
@@ -1965,7 +1967,7 @@ Die besondern Bestimmungen betreffend die Schuldübernahme bei Erbteilung und be
 
 [3] Bei Verträgen, die unter einer aufschiebenden Bedingung abge­schlossen sind, gehen Nutzen und Gefahr der veräusserten Sache erst mit dem Eintritte der Bedingung auf den Erwerber über.
 
-#### [C. Vorbehalt der kantonalen Gesetzgebung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_1/lvl_C)
+#### [C. Vorbehalt der kantonalen Gesetzgebung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_1/lvl_C)
 
 
 
@@ -1973,9 +1975,9 @@ Die besondern Bestimmungen betreffend die Schuldübernahme bei Erbteilung und be
 
 Der kantonalen Gesetzgebung bleibt es vorbehalten, die Klagbarkeit von Forderungen aus dem Kleinvertriebe geistiger Getränke, ein­schliesslich der Forderung für Wirtszeche, zu beschränken oder aus­zu­schliessen.
 
-### [Zweiter Abschnitt: Der Fahrniskauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2)
+### [Zweiter Abschnitt: Der Fahrniskauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2)
 
-#### [A. Gegenstand](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_A)
+#### [A. Gegenstand](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_A)
 
 [**Art. 187**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_187) 
 
@@ -1983,19 +1985,19 @@ Der kantonalen Gesetzgebung bleibt es vorbehalten, die Klagbarkeit von Forderung
 
 [2] Bestandteile eines Grundstückes, wie Früchte oder Material auf Abbruch oder aus Steinbrüchen, bilden den Gegenstand eines Fahrnis­kaufes, wenn sie nach ihrer Lostrennung auf den Erwerber als beweg­liche Sachen übergehen sollen.
 
-#### [B. Ver­pflichtungen des Verkäu­fers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B)
+#### [B. Ver­pflichtungen des Verkäu­fers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B)
 
 
-##### [I. Übergabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I)
+##### [I. Übergabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I)
 
-###### [1. Kosten der Übergabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I/lvl_1)
+###### [1. Kosten der Übergabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I/lvl_1)
 
 
 [**Art. 188**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_188) 
 
 Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkäufer die Kosten der Übergabe, insbesondere des Mes­sens und Wägens, der Käufer dagegen die der Beurkundung und der Abnahme.
 
-###### [2. Transport­kosten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I/lvl_2)
+###### [2. Transport­kosten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I/lvl_2)
 
 [**Art. 189**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_189) 
 
@@ -2005,10 +2007,10 @@ Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkä
 
 [3] Ist Franko- und zollfreie Lieferung verabredet, so gelten die Aus­gangs-, Durchgangs- und Eingangszölle, die während des Transportes, nicht aber die Verbrauchssteuern, die bei Empfang der Sache erhoben werden, als mitübernommen.
 
-###### [3. Verzug in der Übergabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I/lvl_3)
+###### [3. Verzug in der Übergabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I/lvl_3)
 
 
-###### [a. Rücktritt im kaufmännischen Verkehr](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I/lvl_3/lvl_a)
+###### [a. Rücktritt im kaufmännischen Verkehr](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I/lvl_3/lvl_a)
 
 [**Art. 190**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_190) 
 
@@ -2016,7 +2018,7 @@ Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkä
 
 [2] Zieht der Käufer vor, die Lieferung zu verlangen, so hat er es dem Verkäufer nach Ablauf des Termines unverzüglich anzuzeigen.
 
-###### [b. Schadener­satz­pflicht und Scha­den­berechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I/lvl_3/lvl_b)
+###### [b. Schadener­satz­pflicht und Scha­den­berechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I/lvl_3/lvl_b)
 
 [**Art. 191**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_191) 
 
@@ -2026,11 +2028,11 @@ Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkä
 
 [3] Bei Waren, die einen Markt- oder Börsenpreis haben, kann er, ohne sich den Ersatz anzuschaffen, die Differenz zwischen dem Vertrags­preise und dem Preise zur Erfüllungszeit als Schaden­er­satz verlangen.
 
-##### [II. Gewähr­leistung des ve­r­äusserten Rech­tes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I_I)
+##### [II. Gewähr­leistung des ve­r­äusserten Rech­tes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I_I)
 
 
 
-###### [1. Verpflichtung zur Gewähr­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I_I/lvl_1)
+###### [1. Verpflichtung zur Gewähr­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I_I/lvl_1)
 
 
 [**Art. 192**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_192) 
@@ -2041,9 +2043,9 @@ Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkä
 
 [3] Eine Vereinbarung über Aufhebung oder Beschränkung der Gewährspflicht ist ungültig, wenn der Verkäufer das Recht des Dritten absichtlich verschwiegen hat.
 
-###### [2. Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I_I/lvl_2)
+###### [2. Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I_I/lvl_2)
 
-###### [a. Streit­verkündung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I_I/lvl_2/lvl_a)
+###### [a. Streit­verkündung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I_I/lvl_2/lvl_a)
 
 [**Art. 193**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_193)
 
@@ -2051,7 +2053,7 @@ Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkä
 
 [2] Ist die Streitverkündung ohne Veranlassung des Verkäufers unter­blieben, so wird dieser von der Verpflichtung zur Gewährleistung insoweit befreit, als er zu beweisen vermag, dass bei rechtzeitig erfolgter Streitverkündung ein günstigeres Ergebnis des Prozesses zu erlangen gewesen wäre.
 
-###### [b. Herausgabe ohne richterliche Ent­scheidung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I_I/lvl_2/lvl_b)
+###### [b. Herausgabe ohne richterliche Ent­scheidung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I_I/lvl_2/lvl_b)
 
 [**Art. 194**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_194) 
 
@@ -2059,10 +2061,10 @@ Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkä
 
 [2] Ebenso besteht sie, wenn der Käufer beweist, dass er zur Heraus­gabe der Sache verpflichtet war.
 
-###### [3. Ansprüche des Käufers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I_I/lvl_3)
+###### [3. Ansprüche des Käufers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I_I/lvl_3)
 
 
-###### [a. Bei vollständi­ger Entwehrung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I_I/lvl_3/lvl_a)
+###### [a. Bei vollständi­ger Entwehrung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I_I/lvl_3/lvl_a)
 
 [**Art. 195**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_195) 
 
@@ -2076,7 +2078,7 @@ Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkä
 
 [2] Der Verkäufer ist verpflichtet, auch den weitern Schaden zu erset­zen, sofern er nicht beweist, dass ihm keinerlei Verschulden zur Last falle.
 
-###### [b. Bei teilweiser Entwehrung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I_I/lvl_3/lvl_b)
+###### [b. Bei teilweiser Entwehrung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I_I/lvl_3/lvl_b)
 
 [**Art. 196**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_196) 
 
@@ -2086,18 +2088,18 @@ Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkä
 
 [3] In diesem Falle muss er den Kaufgegenstand, soweit er nicht ent­wehrt worden ist, nebst dem inzwischen bezogenen Nutzen dem Ver­käufer zurückgeben.
 
-###### [c. Bei Kultur­gütern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_I_I/lvl_3/lvl_c)
+###### [c. Bei Kultur­gütern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I_I/lvl_3/lvl_c)
 
 [**Art. 196***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_196_a)
 
 Für Kulturgüter im Sinne von Artikel 2 Absatz 1 des Kulturgütertransfergesetzes vom 20. Juni 2003 verjährt die Klage auf Gewährleistung des veräusserten Rechts ein Jahr, nachdem der Käufer den Mangel entdeckt hat, in jedem Fall jedoch 30 Jahre nach dem Vertrags­abschluss.
 
-##### [III. Gewähr­leistung wegen Män­gel der Kauf­sache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I)
+##### [III. Gewähr­leistung wegen Män­gel der Kauf­sache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I)
 
 
-###### [1. Gegenstand der Gewähr­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_1)
+###### [1. Gegenstand der Gewähr­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_1)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_1/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_1/lvl_a)
 
 
 [**Art. 197**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_197) 
@@ -2106,19 +2108,19 @@ Für Kulturgüter im Sinne von Artikel 2 Absatz 1 des Kulturgütertransfergese
 
 [2] Er haftet auch dann, wenn er die Mängel nicht gekannt hat.
 
-###### [b. Beim Vieh­handel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_1/lvl_b)
+###### [b. Beim Vieh­handel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_1/lvl_b)
 
 [**Art. 198**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_198) 
 
 Beim Handel mit Vieh (Pferden, Eseln, Maultieren, Rindvieh, Scha­fen, Ziegen und Schweinen) besteht eine Pflicht zur Gewährleistung nur insoweit, als der Verkäufer sie dem Käufer schriftlich zugesichert oder den Käufer absichtlich getäuscht hat.
 
-###### [2. Weg­bedingung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_2)
+###### [2. Weg­bedingung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_2)
 
 [**Art. 199**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_199) 
 
 Eine Vereinbarung über Aufhebung oder Beschränkung der Gewährs­pflicht ist ungültig, wenn der Verkäufer dem Käufer die Gewährs­män­gel arglistig verschwiegen hat.
 
-###### [3. Vom Käufer ge­kannte Män­gel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_3)
+###### [3. Vom Käufer ge­kannte Män­gel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_3)
 
 [**Art. 200**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_200) 
 
@@ -2126,9 +2128,9 @@ Eine Vereinbarung über Aufhebung oder Beschränkung der Gewährs­pflicht ist u
 
 [2] Für Mängel, die der Käufer bei Anwendung gewöhnlicher Aufmerk­samkeit hätte kennen sollen, haftet der Verkäufer nur dann, wenn er deren Nichtvorhandensein zugesichert hat.
 
-###### [4. Mängelrüge](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_4)
+###### [4. Mängelrüge](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_4)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_4/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_4/lvl_a)
 
 
 [**Art. 201**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_201) 
@@ -2139,7 +2141,7 @@ Eine Vereinbarung über Aufhebung oder Beschränkung der Gewährs­pflicht ist u
 
 [3] Ergeben sich später solche Mängel, so muss die Anzeige sofort nach der Entdeckung erfolgen, widrigenfalls die Sache auch rücksichtlich dieser Mängel als genehmigt gilt.
 
-###### [b. Beim Vieh­handel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_4/lvl_b)
+###### [b. Beim Vieh­handel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_4/lvl_b)
 
 [**Art. 202**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_202) 
 
@@ -2149,13 +2151,13 @@ Eine Vereinbarung über Aufhebung oder Beschränkung der Gewährs­pflicht ist u
 
 [3] Im Übrigen wird das Verfahren durch eine Verordnung des Bundes­rates geregelt.
 
-###### [5. Absichtliche Täu­schung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_5)
+###### [5. Absichtliche Täu­schung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_5)
 
 [**Art. 203**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_203) 
 
 Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Beschränkung der Gewährleistung wegen versäumter Anzeige nicht statt.
 
-###### [6. Verfahren bei Übersendung von anderem Ort](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_6)
+###### [6. Verfahren bei Übersendung von anderem Ort](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_6)
 
 [**Art. 204**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_204) 
 
@@ -2165,11 +2167,11 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [3] Zeigt sich Gefahr, dass die übersandte Sache schnell in Verderbnis gerate, so ist der Käufer berechtigt und, soweit die Interessen des Ver­käufers es erfordern, verpflichtet, sie unter Mitwirkung der zu­ständi­gen Amtsstelle des Ortes, wo sich die Sache befindet, verkaufen zu lassen, hat aber bei Vermeidung von Schadenersatz den Verkäufer so zeitig als tunlich hievon zu benachrichtigen.
 
-###### [7. Inhalt der Klage des Käufers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_7)
+###### [7. Inhalt der Klage des Käufers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_7)
 
 
 
-###### [a. Wandelung oder Minderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_7/lvl_a)
+###### [a. Wandelung oder Minderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_7/lvl_a)
 
 [**Art. 205**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_205) 
 
@@ -2179,7 +2181,7 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [3] Erreicht der geforderte Minderwert den Betrag des Kaufpreises, so kann der Käufer nur die Wandelung verlangen.
 
-###### [b. Ersatzleistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_7/lvl_b)
+###### [b. Ersatzleistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_7/lvl_b)
 
 [**Art. 206**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_206) 
 
@@ -2187,7 +2189,7 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [2] Wenn die Sachen dem Käufer nicht von einem andern Orte her zu­ge­sandt worden sind, ist auch der Verkäufer berechtigt, sich durch so­for­tige Lieferung währhafter Ware derselben Gattung und Ersatz allen Schadens von jedem weiteren Anspruche des Käufers zu befreien.
 
-###### [c. Wandelung bei Untergang der Sa­che](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_7/lvl_c)
+###### [c. Wandelung bei Untergang der Sa­che](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_7/lvl_c)
 
 [**Art. 207**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_207) 
 
@@ -2197,9 +2199,9 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [3] Ist die Sache durch Verschulden des Käufers untergegangen, oder von diesem weiter veräussert oder umgestaltet worden, so kann er nur Ersatz des Minderwertes verlangen.
 
-###### [8. Durchführung der Wandelung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_8)
+###### [8. Durchführung der Wandelung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_8)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_8/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_8/lvl_a)
 
 
 [**Art. 208**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_208) 
@@ -2210,7 +2212,7 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [3] Der Verkäufer ist verpflichtet, den weitern Schaden zu ersetzen, sofern er nicht beweist, dass ihm keinerlei Verschulden zur Last falle.
 
-###### [b. Bei einer Mehr­heit von Kaufsa­chen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_8/lvl_b)
+###### [b. Bei einer Mehr­heit von Kaufsa­chen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_8/lvl_b)
 
 [**Art. 209**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_209) 
 
@@ -2220,7 +2222,7 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [3] Die Wandelung der Hauptsache zieht, selbst wenn für die Neben­sache ein besonderer Preis festgesetzt war, die Wandelung auch dieser, die Wandelung der Nebensache dagegen nicht auch die Wandelung der Hauptsache nach sich.
 
-###### [9. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_B/lvl_II_I/lvl_9)
+###### [9. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_9)
 
 [**Art. 210**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_210)
 
@@ -2241,9 +2243,9 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [6] Der Verkäufer kann die Verjährung nicht geltend machen, wenn ihm eine absichtliche Täuschung des Käufers nachgewiesen wird. Dies gilt nicht für die 30-jährige Frist gemäss Absatz 3.
 
-#### [C. Verpflichtun­gen des Käufers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_C)
+#### [C. Verpflichtun­gen des Käufers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_C)
 
-##### [I. Zahlung des Prei­ses und An­nahme der Kauf­sache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_C/lvl_I)
+##### [I. Zahlung des Prei­ses und An­nahme der Kauf­sache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_C/lvl_I)
 
 
 [**Art. 211**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_211) 
@@ -2252,7 +2254,7 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [2] Die Empfangnahme muss sofort geschehen, wenn nicht etwas ande­res vereinbart oder üblich ist.
 
-##### [II. Bestimmung des Kaufpreises](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_C/lvl_I_I)
+##### [II. Bestimmung des Kaufpreises](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_C/lvl_I_I)
 
 [**Art. 212**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_212) 
 
@@ -2262,7 +2264,7 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [3] Vorbehalten bleiben die besonderen kaufmännischen Übungen, nach denen bei einzelnen Handelsartikeln ein festbestimmter oder nach Pro­zenten berechneter Abzug vom Bruttogewicht erfolgt oder das ganze Bruttogewicht bei der Preisbestimmung angerechnet wird.
 
-##### [III. Fälligkeit und Verzinsung des Kaufpreises](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_C/lvl_II_I)
+##### [III. Fälligkeit und Verzinsung des Kaufpreises](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_C/lvl_II_I)
 
 [**Art. 213**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_213) 
 
@@ -2270,10 +2272,10 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [2] Abgesehen von der Vorschrift über den Verzug infolge Ablaufs ei­nes bestimmten Verfalltages wird der Kaufpreis ohne Mahnung ver­zins­lich, wenn die Übung es mit sich bringt, oder wenn der Käufer Früchte oder sonstige Erträgnisse des Kaufgegenstandes beziehen kann.
 
-##### [IV. Verzug des Käu­fers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_C/lvl_I_V)
+##### [IV. Verzug des Käu­fers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_C/lvl_I_V)
 
 
-###### [1. Rücktritts­recht des Ver­käufers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_C/lvl_I_V/lvl_1)
+###### [1. Rücktritts­recht des Ver­käufers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_C/lvl_I_V/lvl_1)
 
 [**Art. 214**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_214) 
 
@@ -2283,7 +2285,7 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [3] Ist der Kaufgegenstand vor der Zahlung in den Besitz des Käufers übergegangen, so kann der Verkäufer nur dann wegen Verzuges des Käufers von dem Vertrage zurücktreten und die übergebene Sache zurückfordern, wenn er sich dieses Recht ausdrücklich vorbehalten hat.
 
-###### [2. Schadenersatz und Schaden­berechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_2/lvl_C/lvl_I_V/lvl_2)
+###### [2. Schadenersatz und Schaden­berechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_C/lvl_I_V/lvl_2)
 
 [**Art. 215**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_215) 
 
@@ -2291,9 +2293,9 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [2] Bei Waren, die einen Markt- oder Börsenpreis haben, kann er ohne einen solchen Verkauf die Differenz zwischen dem Vertragspreis und dem Markt- und Börsenpreis zur Erfüllungszeit als Schadenersatz verlangen.
 
-### [Dritter Abschnitt: Der Grundstückkauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3)
+### [Dritter Abschnitt: Der Grundstückkauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3)
 
-#### [A. Formvor­schrif­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_A)
+#### [A. Formvor­schrif­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_A)
 
 [**Art. 216**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_216) 
 
@@ -2303,13 +2305,13 @@ Bei absichtlicher Täuschung des Käufers durch den Verkäufer findet eine Besch
 
 [3] Vorkaufsverträge, die den Kaufpreis nicht zum voraus bestimmen, sind in schriftlicher Form gültig.
 
-#### [A[bis]. Befristung und Vormerkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_A_bis)
+#### [A[bis]. Befristung und Vormerkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_A_bis)
 
 [**Art. 216***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_216_a)
 
 Vorkaufs- und Rückkaufsrechte dürfen für höchstens 25 Jahre, Kaufs­rechte für höchstens zehn Jahre vereinbart und im Grundbuch vorge­merkt werden.
 
-#### [A[ter]. Verer­b­lich­keit und Abtretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_A_ter)
+#### [A[ter]. Verer­b­lich­keit und Abtretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_A_ter)
 
 
 [**Art. 216***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_216_b)
@@ -2318,9 +2320,9 @@ Vorkaufs- und Rückkaufsrechte dürfen für höchstens 25 Jahre, Kaufs­rechte 
 
 [2] Ist die Abtretung nach Vertrag zulässig, so bedarf sie der gleichen Form wie die Begründung.
 
-#### [A[quater]. Vor­kaufsrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_A_quater)
+#### [A[quater]. Vor­kaufsrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_A_quater)
 
-##### [I. Vorkaufsfall](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_A_quater/lvl_I)
+##### [I. Vorkaufsfall](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_A_quater/lvl_I)
 
 [**Art. 216***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_216_c)
 
@@ -2328,7 +2330,7 @@ Vorkaufs- und Rückkaufsrechte dürfen für höchstens 25 Jahre, Kaufs­rechte 
 
 [2] Nicht als Vorkaufsfall gelten namentlich die Zuweisung an einen Erben in der Erbteilung, die Zwangsversteigerung und der Erwerb zur Erfüllung öffentlicher Aufgaben.
 
-##### [II. Wirkungen des Vorkaufs­falls, Bedin­gun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_A_quater/lvl_I_I)
+##### [II. Wirkungen des Vorkaufs­falls, Bedin­gun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_A_quater/lvl_I_I)
 
 
 
@@ -2340,14 +2342,14 @@ Vorkaufs- und Rückkaufsrechte dürfen für höchstens 25 Jahre, Kaufs­rechte 
 
 [3] Sieht der Vorkaufsvertrag nichts anderes vor, so kann der Vorkaufs­berechtigte das Grundstück zu den Bedingungen erwerben, die der Verkäufer mit dem Dritten vereinbart hat.
 
-##### [III. Ausübung, Verwirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_A_quater/lvl_II_I)
+##### [III. Ausübung, Verwirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_A_quater/lvl_II_I)
 
 
 [**Art. 216***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_216_e)
 
 Will der Vorkaufsberechtigte sein Vorkaufsrecht ausüben, so muss er es innert dreier Monate gegenüber dem Verkäufer oder, wenn es im Grundbuch vorgemerkt ist, gegenüber dem Eigentümer geltend machen. Die Frist beginnt mit Kenntnis von Abschluss und Inhalt des Vertrags.
 
-#### [B. Bedingter Kauf und Eigen­tums­vor­behalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_B)
+#### [B. Bedingter Kauf und Eigen­tums­vor­behalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_B)
 
 [**Art. 217**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_217) 
 
@@ -2355,13 +2357,13 @@ Will der Vorkaufsberechtigte sein Vorkaufsrecht ausüben, so muss er es innert d
 
 [2] Die Eintragung eines Eigentumsvorbehaltes ist ausgeschlossen.
 
-#### [C. Landwirt­schaftliche Grundstücke](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_C)
+#### [C. Landwirt­schaftliche Grundstücke](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_C)
 
 [**Art. 218**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_218)
 
 Für die Veräusserung von landwirtschaftlichen Grundstücken gilt zudem das Bundesgesetz vom 4. Oktober 1991 über das bäuerliche Bo­den­recht.
 
-#### [D. Gewähr­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_D)
+#### [D. Gewähr­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_D)
 
 [**Art. 219**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_219) 
 
@@ -2371,22 +2373,22 @@ Für die Veräusserung von landwirtschaftlichen Grundstücken gilt zudem das Bun
 
 [3] Die Pflicht zur Gewährleistung für die Mängel eines Gebäudes ver­jährt mit dem Ablauf von fünf Jahren, vom Erwerb des Eigentums an gerechnet.
 
-#### [E. Nutzen und Gefahr](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_E)
+#### [E. Nutzen und Gefahr](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_E)
 
 
 [**Art. 220**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_220) 
 
 Ist für die Übernahme des Grundstückes durch den Käufer ein bestimmter Zeitpunkt vertraglich festgestellt, so wird vermutet, dass Nut­zen und Gefahr erst mit diesem Zeitpunkt auf den Käufer über­gehen.
 
-#### [F. Verweisung auf den Fahrnis­kauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_3/lvl_F)
+#### [F. Verweisung auf den Fahrnis­kauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_3/lvl_F)
 
 [**Art. 221**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_221) 
 
 Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskauf entsprechende Anwendung.
 
-### [Vierter Abschnitt: Besondere Arten des Kaufes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4)
+### [Vierter Abschnitt: Besondere Arten des Kaufes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4)
 
-#### [A. Kauf nach Muster](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_A)
+#### [A. Kauf nach Muster](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_A)
 
 
 [**Art. 222**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_222) 
@@ -2397,11 +2399,11 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [3] Ist das Muster bei dem Käufer, wenn auch ohne dessen Verschulden, verdorben oder zu Grunde gegangen, so hat nicht der Verkäufer zu beweisen, dass die Sache mustergemäss sei, sondern der Käufer das Gegenteil.
 
-#### [B. Kauf auf Pro­be oder auf Be­sicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_B)
+#### [B. Kauf auf Pro­be oder auf Be­sicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_B)
 
 
 
-##### [I. Bedeutung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_B/lvl_I)
+##### [I. Bedeutung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_B/lvl_I)
 
 [**Art. 223**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_223) 
 
@@ -2409,7 +2411,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [2] Solange die Sache nicht genehmigt ist, bleibt sie im Eigentum des Ver­käufers, auch wenn sie in den Besitz des Käufers übergegangen ist.
 
-##### [II. Prüfung beim Verkäufer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_B/lvl_I_I)
+##### [II. Prüfung beim Verkäufer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_B/lvl_I_I)
 
 [**Art. 224**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_224) 
 
@@ -2417,7 +2419,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [2] In Ermangelung einer solchen Frist kann der Verkäufer nach Ablauf einer angemessenen Zeit den Käufer zur Erklärung über die Genehmi­gung auffordern und hört auf, gebunden zu sein, wenn der Käufer auf die Aufforderung hin sich nicht sofort erklärt.
 
-##### [III. Prüfung beim Käufer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_B/lvl_II_I)
+##### [III. Prüfung beim Käufer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_B/lvl_II_I)
 
 [**Art. 225**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_225) 
 
@@ -2427,7 +2429,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [**Art. 226**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_226)
 
-#### [C. *...*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_C)
+#### [C. *…*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_C)
 
 [**Art. 226***a*–**226***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_226)
 
@@ -2445,9 +2447,9 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [**Art. 228**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_228)
 
-#### [D. Versteigerung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_D)
+#### [D. Versteigerung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_D)
 
-##### [I. Abschluss des Kaufes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_D/lvl_I)
+##### [I. Abschluss des Kaufes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_D/lvl_I)
 
 [**Art. 229**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_229) 
 
@@ -2457,7 +2459,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [3] Solange kein anderer Wille des Veräusserers kundgegeben ist, gilt der Leitende als ermächtigt, an der Versteigerung auf das höchste Angebot den Zuschlag zu erklären.
 
-##### [II. Anfechtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_D/lvl_I_I)
+##### [II. Anfechtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_D/lvl_I_I)
 
 [**Art. 230**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_230) 
 
@@ -2465,10 +2467,10 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [2] Im Falle der Zwangsversteigerung ist die Anfechtung bei der Auf­sichtsbehörde, in den andern Fällen beim Richter anzubringen.
 
-##### [III. Gebunden­heit des Bieten­den](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_D/lvl_II_I)
+##### [III. Gebunden­heit des Bieten­den](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_D/lvl_II_I)
 
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_D/lvl_II_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_D/lvl_II_I/lvl_1)
 
 
 [**Art. 231**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_231) 
@@ -2477,7 +2479,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [2] Er wird, falls diese nichts anderes bestimmen, frei, wenn ein höheres Angebot erfolgt oder sein Angebot nicht sofort nach dem üblichen Aufruf angenommen wird.
 
-###### [2. Bei Grund­stücken](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_D/lvl_II_I/lvl_2)
+###### [2. Bei Grund­stücken](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_D/lvl_II_I/lvl_2)
 
 [**Art. 232**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_232) 
 
@@ -2485,7 +2487,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [2] Vorbehalte, durch die der Bietende über die Steigerungsverhandlung hinaus bei seinem Angebote behaftet wird, sind ungültig, soweit es sich nicht um Zwangsversteigerung oder um einen Fall handelt, wo der Verkauf der Genehmigung durch eine Behörde bedarf.
 
-##### [IV. Barzahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_D/lvl_I_V)
+##### [IV. Barzahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_D/lvl_I_V)
 
 [**Art. 233**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_233) 
 
@@ -2493,7 +2495,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [2] Der Veräusserer kann sofort vom Kauf zurücktreten, wenn nicht Zahlung in bar oder gemäss den Versteigerungsbedingungen geleistet wird.
 
-##### [V. Gewähr­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_D/lvl_V)
+##### [V. Gewähr­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_D/lvl_V)
 
 [**Art. 234**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_234) 
 
@@ -2503,7 +2505,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [3] Bei freiwilliger öffentlicher Versteigerung haftet der Veräusserer wie ein anderer Verkäufer, kann aber in den öffentlich kundgegebe­nen Versteigerungsbedingungen die Gewährleistung mit Ausnahme der Haftung für absichtliche Täuschung von sich ablehnen.
 
-##### [VI. Eigentums­über­gang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_D/lvl_V_I)
+##### [VI. Eigentums­über­gang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_D/lvl_V_I)
 
 [**Art. 235**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_235) 
 
@@ -2513,21 +2515,21 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [3] Vorbehalten bleiben die Vorschriften über den Eigentumserwerb bei Zwangsversteigerungen.
 
-##### [VII. Kantonale Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_4/lvl_D/lvl_VI_I)
+##### [VII. Kantonale Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_4/lvl_D/lvl_VI_I)
 
 [**Art. 236**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_236) 
 
 Die Kantone können in den Schranken der Bundesgesetzgebung wei­tere Vorschriften über die öffentliche Versteigerung aufstellen.
 
-### [Fünfter Abschnitt: Der Tauschvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_5)
+### [Fünfter Abschnitt: Der Tauschvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_5)
 
-#### [A. Verweisung auf den Kauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_5/lvl_A)
+#### [A. Verweisung auf den Kauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_5/lvl_A)
 
 [**Art. 237**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_237) 
 
 Auf den Tauschvertrag finden die Vorschriften über den Kaufvertrag in dem Sinne Anwendung, dass jede Vertragspartei mit Bezug auf die von ihr versprochene Sache als Verkäufer und mit Bezug auf die ihr zugesagte Sache als Käufer behandelt wird.
 
-#### [B. Gewähr­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/sec_5/lvl_B)
+#### [B. Gewähr­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_5/lvl_B)
 
 [**Art. 238**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_238) 
 
@@ -2557,7 +2559,7 @@ Wird die eingetauschte Sache entwehrt oder wegen ihrer Mängel zurückgegeben, s
 
 [2] Aus dem Vermögen eines Handlungsunfähigen dürfen nur übliche Gelegenheitsgeschenke ausgerichtet werden. Die Verantwortlichkeit des gesetzlichen Vertreters bleibt vorbehalten.
 
-[3] *...* 
+[3] *…* 
 
 #### [II. Des Be­schenk­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_7/lvl_B/lvl_I_I)
 
@@ -2678,19 +2680,19 @@ Hat sich der Schenker zu wiederkehrenden Leistungen verpflichtet, so erlischt di
 
 ## [Achter Titel:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8) [Die Miete](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8)
 
-### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1)
+### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1)
 
-#### [A. Begriff und Gel­tungsbereich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_A)
+#### [A. Begriff und Gel­tungsbereich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_A)
 
-##### [I. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_A/lvl_I)
+##### [I. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_A/lvl_I)
 
 [**Art. 253**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_253) 
 
 Durch den Mietvertrag verpflichtet sich der Vermieter, dem Mieter eine Sache zum Gebrauch zu überlassen, und der Mieter, dem Ver­mie­ter dafür einen Mietzins zu leisten.
 
-##### [II. Geltungs­bereich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_A/lvl_I_I)
+##### [II. Geltungs­bereich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_A/lvl_I_I)
 
-###### [1. Wohn- und Ge­schäftsräume](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_A/lvl_I_I/lvl_1)
+###### [1. Wohn- und Ge­schäftsräume](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_A/lvl_I_I/lvl_1)
 
 
 [**Art. 253***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_253_a) 
@@ -2701,7 +2703,7 @@ Durch den Mietvertrag verpflichtet sich der Vermieter, dem Mieter eine Sache zum
 
 [3] Der Bundesrat erlässt die Ausführungsvorschriften.
 
-###### [2. Bestimmun­gen über den Schutz vor miss­bräuchli­chen Mietzinsen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_A/lvl_I_I/lvl_2)
+###### [2. Bestimmun­gen über den Schutz vor miss­bräuchli­chen Mietzinsen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_A/lvl_I_I/lvl_2)
 
 [**Art. 253***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_253_b) 
 
@@ -2711,13 +2713,13 @@ Durch den Mietvertrag verpflichtet sich der Vermieter, dem Mieter eine Sache zum
 
 [3] Die Bestimmungen über die Anfechtung missbräuchlicher Mietzinse gelten nicht für Wohnräume, deren Bereitstellung von der öffentli­chen Hand gefördert wurde und deren Mietzinse durch eine Behörde kon­trolliert werden.
 
-#### [B. Koppelungs­ge­schäfte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_B)
+#### [B. Koppelungs­ge­schäfte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_B)
 
 [**Art. 254**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_254) 
 
 Ein Koppelungsgeschäft, das in Zusammenhang mit der Miete von Wohn- oder Geschäftsräumen steht, ist nichtig, wenn der Abschluss oder die Weiterführung des Mietvertrags davon abhängig gemacht wird und der Mieter dabei gegenüber dem Vermieter oder einem Drit­ten eine Verpflichtung übernimmt, die nicht unmittelbar mit dem Gebrauch der Mietsache zusammenhängt.
 
-#### [C. Dauer des Miet­verhältnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_C)
+#### [C. Dauer des Miet­verhältnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_C)
 
 
 [**Art. 255**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_255) 
@@ -2728,10 +2730,10 @@ Ein Koppelungsgeschäft, das in Zusammenhang mit der Miete von Wohn- oder Gesch�
 
 [3] Die übrigen Mietverhältnisse gelten als unbefristet.
 
-#### [D. Pflichten des Vermieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_D)
+#### [D. Pflichten des Vermieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_D)
 
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_D/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_D/lvl_I)
 
 
 [**Art. 256**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_256) 
@@ -2744,7 +2746,7 @@ Ein Koppelungsgeschäft, das in Zusammenhang mit der Miete von Wohn- oder Gesch�
 |    a. vorformulierten allgemeinen Geschäftsbedingungen;  
 |    b. Mietverträgen über Wohn- oder Geschäftsräume.
 
-##### [II. Auskunfts­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_D/lvl_I_I)
+##### [II. Auskunfts­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_D/lvl_I_I)
 
 [**Art. 256***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_256_a) 
 
@@ -2752,27 +2754,27 @@ Ein Koppelungsgeschäft, das in Zusammenhang mit der Miete von Wohn- oder Gesch�
 
 [2] Ebenso kann der Mieter verlangen, dass ihm die Höhe des Mietzin­ses des vorangegangenen Mietverhältnisses mitgeteilt wird.
 
-##### [III. Abgaben und Lasten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_D/lvl_II_I)
+##### [III. Abgaben und Lasten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_D/lvl_II_I)
 
 
 [**Art. 256***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_256_b) 
 
 Der Vermieter trägt die mit der Sache verbundenen Lasten und öf­fent­lichen Abgaben.
 
-#### [E. Pflichten des Mieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E)
+#### [E. Pflichten des Mieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E)
 
 
-##### [I. Zahlung des Mietzinses und der Nebenkosten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_I)
+##### [I. Zahlung des Mietzinses und der Nebenkosten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_I)
 
-###### [1. Mietzins](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_I/lvl_1)
+###### [1. Mietzins](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_I/lvl_1)
 
 [**Art. 257**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_257) 
 
 Der Mietzins ist das Entgelt, das der Mieter dem Vermieter für die Überlassung der Sache schuldet.
 
-###### [2. Nebenkosten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_I/lvl_2)
+###### [2. Nebenkosten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_I/lvl_2)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_I/lvl_2/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_I/lvl_2/lvl_a)
 
 
 [**Art. 257***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_257_a) 
@@ -2781,7 +2783,7 @@ Der Mietzins ist das Entgelt, das der Mieter dem Vermieter für die Überlassung
 
 [2] Der Mieter muss die Nebenkosten nur bezahlen, wenn er dies mit dem Vermieter besonders vereinbart hat.
 
-###### [b. Wohn- und Ge­schäftsräume](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_I/lvl_2/lvl_b)
+###### [b. Wohn- und Ge­schäftsräume](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_I/lvl_2/lvl_b)
 
 
 [**Art. 257***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_257_b) 
@@ -2790,13 +2792,13 @@ Der Mietzins ist das Entgelt, das der Mieter dem Vermieter für die Überlassung
 
 [2] Der Vermieter muss dem Mieter auf Verlangen Einsicht in die Bele­ge gewähren.
 
-###### [3. Zahlungs­termi­ne](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_I/lvl_3)
+###### [3. Zahlungs­termi­ne](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_I/lvl_3)
 
 [**Art. 257***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_257_c) 
 
 Der Mieter muss den Mietzins und allenfalls die Nebenkosten am Ende jedes Monats, spätestens aber am Ende der Mietzeit bezahlen, wenn kein anderer Zeitpunkt vereinbart oder ortsüblich ist.
 
-###### [4. Zahlungs­rück­stand des Mieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_I/lvl_4)
+###### [4. Zahlungs­rück­stand des Mieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_I/lvl_4)
 
 
 [**Art. 257***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_257_d) 
@@ -2805,7 +2807,7 @@ Der Mieter muss den Mietzins und allenfalls die Nebenkosten am Ende jedes Monats
 
 [2] Bezahlt der Mieter innert der gesetzten Frist nicht, so kann der Ver­mieter fristlos, bei Wohn- und Geschäftsräumen mit einer Frist von mindestens 30 Tagen auf Ende eines Monats kündigen.
 
-##### [II. Sicherheiten durch den Mieter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_I_I)
+##### [II. Sicherheiten durch den Mieter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_I_I)
 
 [**Art. 257***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_257_e) 
 
@@ -2817,7 +2819,7 @@ Der Mieter muss den Mietzins und allenfalls die Nebenkosten am Ende jedes Monats
 
 [4] Die Kantone können ergänzende Bestimmungen erlassen.
 
-##### [III. Sorgfalt und Rücksichtnahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_II_I)
+##### [III. Sorgfalt und Rücksichtnahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_II_I)
 
 [**Art. 257***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_257_f) 
 
@@ -2829,7 +2831,7 @@ Der Mieter muss den Mietzins und allenfalls die Nebenkosten am Ende jedes Monats
 
 [4] Der Vermieter von Wohn- oder Geschäftsräumen kann jedoch frist­los kündigen, wenn der Mieter vorsätzlich der Sache schweren Scha­den zufügt.
 
-##### [IV. Meldepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_I_V)
+##### [IV. Meldepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_I_V)
 
 [**Art. 257***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_257_g) 
 
@@ -2837,7 +2839,7 @@ Der Mieter muss den Mietzins und allenfalls die Nebenkosten am Ende jedes Monats
 
 [2] Unterlässt der Mieter die Meldung, so haftet er für den Schaden, der dem Vermieter daraus entsteht.
 
-##### [V. Duldungs­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_E/lvl_V)
+##### [V. Duldungs­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_E/lvl_V)
 
 [**Art. 257***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_257_h) 
 
@@ -2847,7 +2849,7 @@ Der Mieter muss den Mietzins und allenfalls die Nebenkosten am Ende jedes Monats
 
 [3] Der Vermieter muss dem Mieter Arbeiten und Besichtigungen recht­zeitig anzeigen und bei der Durchführung auf die Interessen des Mie­ters Rücksicht nehmen; allfällige Ansprüche des Mieters auf Herab­set­zung des Mietzinses (Art. 259*d*) und auf Schadenersatz (Art. 259*e*) bleiben vorbehalten.
 
-#### [F. Nichterfül­lung oder man­gel­hafte Er­fül­lung des Ver­trags bei Überga­be der Sache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_F)
+#### [F. Nichterfül­lung oder man­gel­hafte Er­fül­lung des Ver­trags bei Überga­be der Sache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_F)
 
 [**Art. 258**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_258) 
 
@@ -2861,10 +2863,10 @@ Der Mieter muss den Mietzins und allenfalls die Nebenkosten am Ende jedes Monats
 |    a. welche die Tauglichkeit zum vorausgesetzten Gebrauch zwar ver­mindern, aber weder ausschliessen noch erheblich beein­träch­tigen;  
 |    b. die der Mieter während der Mietdauer auf eigene Kosten be­sei­ti­gen müsste (Art. 259).
 
-#### [G. Mängel wäh­rend der Miet­dauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G)
+#### [G. Mängel wäh­rend der Miet­dauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G)
 
 
-##### [I. Pflicht des Mie­ters zu klei­nen Rei­nigun­gen und Aus­besse­rungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I)
+##### [I. Pflicht des Mie­ters zu klei­nen Rei­nigun­gen und Aus­besse­rungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I)
 
 
 
@@ -2872,10 +2874,10 @@ Der Mieter muss den Mietzins und allenfalls die Nebenkosten am Ende jedes Monats
 
 Der Mieter muss Mängel, die durch kleine, für den gewöhnlichen Unterhalt erforderliche Reinigungen oder Ausbesserungen behoben wer­den können, nach Ortsgebrauch auf eigene Kosten beseitigen.
 
-##### [II. Rechte des Mieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I)
+##### [II. Rechte des Mieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I)
 
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_1)
 
 
 [**Art. 259***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_259_a) 
@@ -2890,9 +2892,9 @@ Der Mieter muss Mängel, die durch kleine, für den gewöhnlichen Unterhalt erfo
 
 [2] Der Mieter einer unbeweglichen Sache kann zudem den Mietzins hinterlegen.
 
-###### [2. Beseitigung des Mangels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_2)
+###### [2. Beseitigung des Mangels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_2)
 
-###### [a. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_2/lvl_a)
+###### [a. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_2/lvl_a)
 
 [**Art. 259***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_259_b) 
 
@@ -2902,33 +2904,33 @@ Kennt der Vermieter einen Mangel und beseitigt er ihn nicht innert angemessener 
 |    a. fristlos kündigen, wenn der Mangel die Tauglichkeit einer unbe­weglichen Sache zum vorausgesetzten Gebrauch ausschliesst oder erheblich beeinträchtigt oder wenn der Mangel die Taug­lichkeit einer beweglichen Sache zum vorausgesetzten Ge­brauch vermindert;  
 |    b. auf Kosten des Vermieters den Mangel beseitigen lassen, wenn dieser die Tauglichkeit der Sache zum vorausgesetzten Gebrauch zwar vermindert, aber nicht erheblich beeinträchtigt.
 
-###### [b. Ausnahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_2/lvl_b)
+###### [b. Ausnahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_2/lvl_b)
 
 [**Art. 259***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_259_c) 
 
 Der Mieter hat keinen Anspruch auf Beseitigung des Mangels, wenn der Vermieter für die mangelhafte Sache innert angemessener Frist vollwertigen Ersatz leistet.
 
-###### [3. Herabsetzung des Mietzinses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_3)
+###### [3. Herabsetzung des Mietzinses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_3)
 
 [**Art. 259***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_259_d) 
 
 Wird die Tauglichkeit der Sache zum vorausgesetzten Gebrauch beeinträchtigt oder vermindert, so kann der Mieter vom Vermieter ver­langen, dass er den Mietzins vom Zeitpunkt, in dem er vom Mangel erfahren hat, bis zur Behebung des Mangels entsprechend herabsetzt.
 
-###### [4. Schadenersatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_4)
+###### [4. Schadenersatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_4)
 
 [**Art. 259***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_259_e) 
 
 Hat der Mieter durch den Mangel Schaden erlitten, so muss ihm der Vermieter dafür Ersatz leisten, wenn er nicht beweist, dass ihn kein Verschulden trifft.
 
-###### [5. Übernahme des Rechtsstreits](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_5)
+###### [5. Übernahme des Rechtsstreits](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_5)
 
 [**Art. 259***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_259_f) 
 
 Erhebt ein Dritter einen Anspruch auf die Sache, der sich mit den Rechten des Mieters nicht verträgt, so muss der Vermieter auf Anzei­ge des Mieters hin den Rechtsstreit übernehmen.
 
-###### [6. Hinterlegung des Mietzinses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_6)
+###### [6. Hinterlegung des Mietzinses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_6)
 
-###### [a. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_6/lvl_a)
+###### [a. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_6/lvl_a)
 
 [**Art. 259***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_259_g) 
 
@@ -2936,7 +2938,7 @@ Erhebt ein Dritter einen Anspruch auf die Sache, der sich mit den Rechten des Mi
 
 [2] Mit der Hinterlegung gelten die Mietzinse als bezahlt.
 
-###### [b. Herausgabe der hinterlegten Miet­zinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_6/lvl_b)
+###### [b. Herausgabe der hinterlegten Miet­zinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_6/lvl_b)
 
 [**Art. 259***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_259_h) 
 
@@ -2944,15 +2946,15 @@ Erhebt ein Dritter einen Anspruch auf die Sache, der sich mit den Rechten des Mi
 
 [2] Der Vermieter kann bei der Schlichtungsbehörde die Herausgabe der zu Unrecht hinterlegten Mietzinse verlangen, sobald ihm der Mieter die Hinterlegung angekündigt hat.
 
-###### [c. Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_G/lvl_I_I/lvl_6/lvl_c)
+###### [c. Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_6/lvl_c)
 
 [**Art. 259***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_259_i)
 
 Das Verfahren richtet sich nach der ZPO.
 
-#### [H. Erneuerungen und Änderungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_H)
+#### [H. Erneuerungen und Änderungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_H)
 
-##### [I. Durch den Ver­mieter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_H/lvl_I)
+##### [I. Durch den Ver­mieter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_H/lvl_I)
 
 
 [**Art. 260**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_260) 
@@ -2961,7 +2963,7 @@ Das Verfahren richtet sich nach der ZPO.
 
 [2] Der Vermieter muss bei der Ausführung der Arbeiten auf die Inter­es­sen des Mieters Rücksicht nehmen; allfällige Ansprüche des Mie­ters auf Herabsetzung des Mietzinses (Art. 259*d*) und auf Schadener­satz (Art. 259*e*) bleiben vorbehalten.
 
-##### [II. Durch den Mieter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_H/lvl_I_I)
+##### [II. Durch den Mieter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_H/lvl_I_I)
 
 
 [**Art. 260***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_260_a) 
@@ -2972,9 +2974,9 @@ Das Verfahren richtet sich nach der ZPO.
 
 [3] Weist die Sache bei Beendigung des Mietverhältnisses dank der Erneuerung oder Änderung, welcher der Vermieter zugestimmt hat, einen erheblichen Mehrwert auf, so kann der Mieter dafür eine entspre­chende Entschädigung verlangen; weitergehende schriftlich verein­bar­te Entschädigungsansprüche bleiben vorbehalten.
 
-#### [J. Wechsel des Ei­gentümers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_J)
+#### [J. Wechsel des Ei­gentümers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_J)
 
-##### [I. Veräusserung der Sache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_J/lvl_I)
+##### [I. Veräusserung der Sache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_J/lvl_I)
 
 [**Art. 261**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_261) 
 
@@ -2990,14 +2992,14 @@ Das Verfahren richtet sich nach der ZPO.
 
 [4] Vorbehalten bleiben die Bestimmungen über die Enteignung.
 
-##### [II. Einräumung be­schränkter ding­li­cher Rech­te](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_J/lvl_I_I)
+##### [II. Einräumung be­schränkter ding­li­cher Rech­te](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_J/lvl_I_I)
 
 
 [**Art. 261***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_261_a) 
 
 Die Bestimmungen über die Veräusserung der Sache sind sinngemäss anwendbar, wenn der Vermieter einem Dritten ein beschränktes ding­liches Recht einräumt und dies einem Eigentümerwechsel gleich­kommt.
 
-##### [III. Vormerkung im Grundbuch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_J/lvl_II_I)
+##### [III. Vormerkung im Grundbuch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_J/lvl_II_I)
 
 [**Art. 261***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_261_b) 
 
@@ -3005,7 +3007,7 @@ Die Bestimmungen über die Veräusserung der Sache sind sinngemäss anwendbar, w
 
 [2] Die Vormerkung bewirkt, dass jeder neue Eigentümer dem Mieter gestatten muss, das Grundstück entsprechend dem Mietvertrag zu gebrauchen.
 
-#### [K. Untermiete](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_K)
+#### [K. Untermiete](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_K)
 
 [**Art. 262**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_262) 
 
@@ -3020,7 +3022,7 @@ Die Bestimmungen über die Veräusserung der Sache sind sinngemäss anwendbar, w
 
 [3] Der Mieter haftet dem Vermieter dafür, dass der Untermieter die Sache nicht anders gebraucht, als es ihm selbst gestattet ist. Der Vermie­ter kann den Untermieter unmittelbar dazu anhalten.
 
-#### [L. Übertragung der Miete auf ei­nen Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_L)
+#### [L. Übertragung der Miete auf ei­nen Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_L)
 
 
 [**Art. 263**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_263) 
@@ -3033,7 +3035,7 @@ Die Bestimmungen über die Veräusserung der Sache sind sinngemäss anwendbar, w
 
 [4] Der Mieter ist von seinen Verpflichtungen gegenüber dem Vermie­ter befreit. Er haftet jedoch solidarisch mit dem Dritten bis zum Zeit­punkt, in dem das Mietverhältnis gemäss Vertrag oder Gesetz endet oder beendet werden kann, höchstens aber für zwei Jahre.
 
-#### [M. Vorzeitige Rück­gabe der Sa­che](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_M)
+#### [M. Vorzeitige Rück­gabe der Sa­che](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_M)
 
 
 [**Art. 264**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_264) 
@@ -3048,15 +3050,15 @@ Die Bestimmungen über die Veräusserung der Sache sind sinngemäss anwendbar, w
 |    a. an Auslagen erspart und  
 |    b. durch anderweitige Verwendung der Sache gewinnt oder absicht­lich zu gewinnen unterlassen hat.
 
-#### [N. Verrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_N)
+#### [N. Verrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_N)
 
 [**Art. 265**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_265) 
 
 Der Vermieter und der Mieter können nicht im Voraus auf das Recht verzichten, Forderungen und Schulden aus dem Mietverhältnis zu ver­rechnen.
 
-#### [O. Beendigung des Miet­verhältnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O)
+#### [O. Beendigung des Miet­verhältnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O)
 
-##### [I. Ablauf der ver­einbarten Dauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I)
+##### [I. Ablauf der ver­einbarten Dauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I)
 
 [**Art. 266**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266) 
 
@@ -3064,10 +3066,10 @@ Der Vermieter und der Mieter können nicht im Voraus auf das Recht verzichten, F
 
 [2] Setzen die Parteien das Mietverhältnis stillschweigend fort, so gilt es als unbefristetes Mietverhältnis.
 
-##### [II. Kündi­gungs­fri­sten und -termine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_I)
+##### [II. Kündi­gungs­fri­sten und -termine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_I)
 
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_I/lvl_1)
 
 
 [**Art. 266***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_a) 
@@ -3076,43 +3078,43 @@ Der Vermieter und der Mieter können nicht im Voraus auf das Recht verzichten, F
 
 [2] Halten die Parteien die Frist oder den Termin nicht ein, so gilt die Kündigung für den nächstmöglichen Termin.
 
-###### [2. Unbewegliche Sa­chen und Fahr­nisbauten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_I/lvl_2)
+###### [2. Unbewegliche Sa­chen und Fahr­nisbauten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_I/lvl_2)
 
 
 [**Art. 266***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_b) 
 
 Bei der Miete von unbeweglichen Sachen und Fahrnisbauten können die Parteien mit einer Frist von drei Monaten auf einen ortsüblichen Termin oder, wenn es keinen Ortsgebrauch gibt, auf Ende einer sechs­monatigen Mietdauer kündigen.
 
-###### [3. Wohnungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_I/lvl_3)
+###### [3. Wohnungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_I/lvl_3)
 
 [**Art. 266***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_c) 
 
 Bei der Miete von Wohnungen können die Parteien mit einer Frist von drei Monaten auf einen ortsüblichen Termin oder, wenn es keinen Ortsgebrauch gibt, auf Ende einer dreimonatigen Mietdauer kündigen.
 
-###### [4. Geschäfts­räume](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_I/lvl_4)
+###### [4. Geschäfts­räume](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_I/lvl_4)
 
 [**Art. 266***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_d) 
 
 Bei der Miete von Geschäftsräumen können die Parteien mit einer Frist von sechs Monaten auf einen ortsüblichen Termin oder, wenn es keinen Ortsgebrauch gibt, auf Ende einer dreimonatigen Mietdauer kün­digen.
 
-###### [5. Möblierte Zim­mer und Ein­stellplätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_I/lvl_5)
+###### [5. Möblierte Zim­mer und Ein­stellplätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_I/lvl_5)
 
 
 [**Art. 266***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_e) 
 
 Bei der Miete von möblierten Zimmern und von gesondert vermiete­ten Einstellplätzen oder ähnlichen Einrichtungen können die Parteien mit einer Frist von zwei Wochen auf Ende einer einmonatigen Miet­dauer kündigen.
 
-###### [6. Bewegliche Sa­chen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_I/lvl_6)
+###### [6. Bewegliche Sa­chen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_I/lvl_6)
 
 
 [**Art. 266***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_f) 
 
 Bei der Miete von beweglichen Sachen können die Parteien mit einer Frist von drei Tagen auf einen beliebigen Zeitpunkt kündigen.
 
-##### [III. Ausser­ordent­li­che Kündi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_II_I)
+##### [III. Ausser­ordent­li­che Kündi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_II_I)
 
 
-###### [1. Aus wichtigen Gründen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_II_I/lvl_1)
+###### [1. Aus wichtigen Gründen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_II_I/lvl_1)
 
 [**Art. 266***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_g) 
 
@@ -3120,7 +3122,7 @@ Bei der Miete von beweglichen Sachen können die Parteien mit einer Frist von dr
 
 [2] Der Richter bestimmt die vermögensrechtlichen Folgen der vorzei­tigen Kündigung unter Würdigung aller Umstände.
 
-###### [2. Konkurs des Mieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_II_I/lvl_2)
+###### [2. Konkurs des Mieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_II_I/lvl_2)
 
 
 [**Art. 266***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_h) 
@@ -3129,24 +3131,24 @@ Bei der Miete von beweglichen Sachen können die Parteien mit einer Frist von dr
 
 [2] Erhält der Vermieter innert dieser Frist keine Sicherheit, so kann er fristlos kündigen.
 
-###### [3. Tod des Mie­ters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_II_I/lvl_3)
+###### [3. Tod des Mie­ters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_II_I/lvl_3)
 
 
 [**Art. 266***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_i) 
 
 Stirbt der Mieter, so können seine Erben mit der gesetzlichen Frist auf den nächsten gesetzlichen Termin kündigen.
 
-###### [4. Bewegliche Sa­chen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_II_I/lvl_4)
+###### [4. Bewegliche Sa­chen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_II_I/lvl_4)
 
 
 [**Art. 266***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_k) 
 
 Der Mieter einer beweglichen Sache, die seinem privaten Gebrauch dient und vom Vermieter im Rahmen seiner gewerblichen Tätigkeit vermietet wird, kann mit einer Frist von mindestens 30 Tagen auf Ende einer dreimonatigen Mietdauer kündigen. Der Vermieter hat dafür keinen Anspruch auf Entschädigung.
 
-##### [IV. Form der Kün­digung bei Wohn- und Ge­schäftsräu­men](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_V)
+##### [IV. Form der Kün­digung bei Wohn- und Ge­schäftsräu­men](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_V)
 
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_V/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_V/lvl_1)
 
 
 [**Art. 266***l*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_l) 
@@ -3155,10 +3157,10 @@ Der Mieter einer beweglichen Sache, die seinem privaten Gebrauch dient und vom V
 
 [2] Der Vermieter muss mit einem Formular kündigen, das vom Kanton genehmigt ist und das angibt, wie der Mieter vorzugehen hat, wenn er die Kündigung anfechten oder eine Erstreckung des Mietverhältnisses verlangen will.
 
-###### [2. Wohnung der Familie](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_V/lvl_2)
+###### [2. Wohnung der Familie](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_V/lvl_2)
 
 
-###### [a. Kündigung durch den Mieter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_V/lvl_2/lvl_a)
+###### [a. Kündigung durch den Mieter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_V/lvl_2/lvl_a)
 
 [**Art. 266***m*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_m) 
 
@@ -3168,22 +3170,22 @@ Der Mieter einer beweglichen Sache, die seinem privaten Gebrauch dient und vom V
 
 [3] Die gleiche Regelung gilt bei eingetragenen Partnerschaften sinngemäss.
 
-###### [b. Kündigung durch den Ver­mie­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_V/lvl_2/lvl_b)
+###### [b. Kündigung durch den Ver­mie­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_V/lvl_2/lvl_b)
 
 [**Art. 266***n*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_n)
 
 Die Kündigung durch den Vermieter sowie die Ansetzung einer Zahlungsfrist mit Kündigungsandrohung (Art. 257*d*) sind dem Mieter und seinem Ehegatten, seiner eingetragenen Partnerin oder seinem eingetragenen Partner separat zuzustellen.
 
-###### [3. Nichtigkeit der Kündigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_O/lvl_I_V/lvl_3)
+###### [3. Nichtigkeit der Kündigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_O/lvl_I_V/lvl_3)
 
 [**Art. 266***o*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_266_o) 
 
 Die Kündigung ist nichtig, wenn sie den Artikeln 266*l*–266*n* nicht ent­spricht.
 
-#### [P. Rückgabe der Sache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_P)
+#### [P. Rückgabe der Sache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_P)
 
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_P/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_P/lvl_I)
 
 
 [**Art. 267**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_267) 
@@ -3192,7 +3194,7 @@ Die Kündigung ist nichtig, wenn sie den Artikeln 266*l*–266*n* nicht ent­spr
 
 [2] Vereinbarungen, in denen sich der Mieter im Voraus verpflichtet, bei Beendigung des Mietverhältnisses eine Entschädigung zu entrichten, die anderes als die Deckung des allfälligen Schadens einschliesst, sind nichtig.
 
-##### [II. Prüfung der Sa­che und Mel­dung an den Mie­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_P/lvl_I_I)
+##### [II. Prüfung der Sa­che und Mel­dung an den Mie­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_P/lvl_I_I)
 
 
 
@@ -3204,10 +3206,10 @@ Die Kündigung ist nichtig, wenn sie den Artikeln 266*l*–266*n* nicht ent­spr
 
 [3] Entdeckt der Vermieter solche Mängel später, so muss er sie dem Mieter sofort melden.
 
-#### [Q. Retentions­recht des Vermie­ters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_Q)
+#### [Q. Retentions­recht des Vermie­ters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_Q)
 
 
-##### [I. Umfang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_Q/lvl_I)
+##### [I. Umfang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_Q/lvl_I)
 
 [**Art. 268**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_268) 
 
@@ -3217,7 +3219,7 @@ Die Kündigung ist nichtig, wenn sie den Artikeln 266*l*–266*n* nicht ent­spr
 
 [3] Ausgeschlossen ist das Retentionsrecht an Sachen, die durch die Gläubiger des Mieters nicht gepfändet werden könnten.
 
-##### [II. Sachen Drit­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_Q/lvl_I_I)
+##### [II. Sachen Drit­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_Q/lvl_I_I)
 
 
 [**Art. 268***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_268_a) 
@@ -3226,7 +3228,7 @@ Die Kündigung ist nichtig, wenn sie den Artikeln 266*l*–266*n* nicht ent­spr
 
 [2] Erfährt der Vermieter erst während der Mietdauer, dass Sachen, die der Mieter eingebracht hat, nicht diesem gehören, so erlischt sein Retentionsrecht an diesen Sachen, wenn er den Mietvertrag nicht auf den nächstmöglichen Termin kündigt.
 
-##### [III. Geltend­machung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_1/lvl_Q/lvl_II_I)
+##### [III. Geltend­machung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_Q/lvl_II_I)
 
 [**Art. 268***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_268_b) 
 
@@ -3234,20 +3236,20 @@ Die Kündigung ist nichtig, wenn sie den Artikeln 266*l*–266*n* nicht ent­spr
 
 [2] Heimlich oder gewaltsam fortgeschaffte Gegenstände können innert zehn Tagen seit der Fortschaffung mit polizeilicher Hilfe in die ver­mieteten Räume zurückgebracht werden.
 
-### [Zweiter Abschnitt: Schutz vor missbräuchlichen Mietzinsen und andern miss­bräuch­lichen Forderungen des Vermieters bei der Miete von Wohn- und Geschäftsräumen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2)
+### [Zweiter Abschnitt: Schutz vor missbräuchlichen Mietzinsen und andern miss­bräuch­lichen Forderungen des Vermieters bei der Miete von Wohn- und Geschäftsräumen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2)
 
 
 
 
-#### [A. Missbräuch­liche Mietzinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_A)
+#### [A. Missbräuch­liche Mietzinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_A)
 
-##### [I. Regel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_A/lvl_I)
+##### [I. Regel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_A/lvl_I)
 
 [**Art. 269**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_269) 
 
 Mietzinse sind missbräuchlich, wenn damit ein übersetzter Ertrag aus der Mietsache erzielt wird oder wenn sie auf einem offensichtlich übersetzten Kaufpreis beruhen.
 
-##### [II. Ausnahmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_A/lvl_I_I)
+##### [II. Ausnahmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_A/lvl_I_I)
 
 [**Art. 269***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_269_a) 
 
@@ -3261,13 +3263,13 @@ Mietzinse sind in der Regel nicht missbräuchlich, wenn sie insbeson­dere:
 |    e. lediglich die Teuerung auf dem risikotragenden Kapital aus­glei­chen;  
 |    f. das Ausmass nicht überschreiten, das Vermieter- und Mieter­ver­bände oder Organisationen, die ähnliche Interessen wahr­nehmen, in ihren Rahmenverträgen empfehlen.
 
-#### [B. Indexierte Miet­zinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_B)
+#### [B. Indexierte Miet­zinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_B)
 
 [**Art. 269***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_269_b) 
 
 Die Vereinbarung, dass der Mietzins einem Index folgt, ist nur gültig, wenn der Mietvertrag für mindestens fünf Jahre abgeschlossen und als Index der Landesindex der Konsumentenpreise vorgesehen wird.
 
-#### [C. Gestaffelte Miet­zinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_C)
+#### [C. Gestaffelte Miet­zinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_C)
 
 [**Art. 269***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_269_c) 
 
@@ -3278,7 +3280,7 @@ Die Vereinbarung, dass sich der Mietzins periodisch um einen bestimmten Betrag e
 |    b. der Mietzins höchstens einmal jährlich erhöht wird; und  
 |    c. der Betrag der Erhöhung in Franken festgelegt wird.
 
-#### [D. Mietzins­erhöhungen und an­de­re einseitige Vertrags­änderungen durch den Ver­mie­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_D)
+#### [D. Mietzins­erhöhungen und an­de­re einseitige Vertrags­änderungen durch den Ver­mie­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_D)
 
 [**Art. 269***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_269_d) 
 
@@ -3293,11 +3295,11 @@ Die Vereinbarung, dass sich der Mietzins periodisch um einen bestimmten Betrag e
 
 [3] Die Absätze 1 und 2 gelten auch, wenn der Vermieter beabsichtigt, sonstwie den Mietvertrag einseitig zu Lasten des Mieters zu ändern, namentlich seine bisherigen Leistungen zu vermindern oder neue Nebenkosten einzuführen.
 
-#### [E. Anfechtung des Mietzinses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_E)
+#### [E. Anfechtung des Mietzinses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_E)
 
-##### [I. Herabset­zungs­be­gehren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_E/lvl_I)
+##### [I. Herabset­zungs­be­gehren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_E/lvl_I)
 
-###### [1. Anfangs­mietzins](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_E/lvl_I/lvl_1)
+###### [1. Anfangs­mietzins](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_E/lvl_I/lvl_1)
 
 [**Art. 270**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_270) 
 
@@ -3309,7 +3311,7 @@ Die Vereinbarung, dass sich der Mietzins periodisch um einen bestimmten Betrag e
 
 [2] Im Falle von Wohnungsmangel können die Kantone für ihr Gebiet oder einen Teil davon die Verwendung des Formulars gemäss Artikel 269*d* beim Abschluss eines neuen Mietvertrags obligatorisch erklären.
 
-###### [2. Während der Mietdauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_E/lvl_I/lvl_2)
+###### [2. Während der Mietdauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_E/lvl_I/lvl_2)
 
 
 [**Art. 270***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_270_a) 
@@ -3320,7 +3322,7 @@ Die Vereinbarung, dass sich der Mietzins periodisch um einen bestimmten Betrag e
 
 [3] Absatz 2 ist nicht anwendbar, wenn der Mieter gleichzeitig mit der Anfechtung einer Mietzinserhöhung ein Herabsetzungsbegehren stellt.
 
-##### [II. Anfechtung von Mietzins­erhöhun­gen und andern ein­seitigen Ver­trags­än­de­rungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_E/lvl_I_I)
+##### [II. Anfechtung von Mietzins­erhöhun­gen und andern ein­seitigen Ver­trags­än­de­rungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_E/lvl_I_I)
 
 [**Art. 270***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_270_b) 
 
@@ -3328,21 +3330,21 @@ Die Vereinbarung, dass sich der Mietzins periodisch um einen bestimmten Betrag e
 
 [2] Absatz 1 gilt auch, wenn der Vermieter sonstwie den Mietvertrag einseitig zu Lasten des Mieters ändert, namentlich seine bisherigen Leistungen vermindert oder neue Nebenkosten einführt.
 
-##### [III. Anfechtung in­dexierter Mietz­inse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_E/lvl_II_I)
+##### [III. Anfechtung in­dexierter Mietz­inse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_E/lvl_II_I)
 
 
 [**Art. 270***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_270_c) 
 
 Unter Vorbehalt der Anfechtung des Anfangsmietzinses kann eine Par­tei vor der Schlichtungsbehörde nur geltend machen, dass die von der andern Partei verlangte Erhöhung oder Herabsetzung des Mietzin­ses durch keine entsprechende Änderung des Indexes gerechtfertigt sei.
 
-##### [IV. Anfechtung ge­staffelter Mietz­inse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_E/lvl_I_V)
+##### [IV. Anfechtung ge­staffelter Mietz­inse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_E/lvl_I_V)
 
 
 [**Art. 270***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_270_d) 
 
 Unter Vorbehalt der Anfechtung des Anfangsmietzinses kann der Mieter gestaffelte Mietzinse nicht anfechten.
 
-#### [F. Weitergeltung des Miet­vertrages wäh­rend des Anfech­tungs­verfahrens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_2/lvl_F)
+#### [F. Weitergeltung des Miet­vertrages wäh­rend des Anfech­tungs­verfahrens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_2/lvl_F)
 
 
 [**Art. 270***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_270_e) 
@@ -3353,13 +3355,13 @@ Der bestehende Mietvertrag gilt unverändert weiter:
 |    a. während des Schlichtungsverfahrens, wenn zwischen den Par­tei­en keine Einigung zustandekommt, und  
 |    b. während des Gerichtsverfahrens, unter Vorbehalt vorsorglicher Massnahmen des Richters.
 
-### [Dritter Abschnitt: Kündigungsschutz bei der Miete von Wohn- und Ge­schäftsräu­men](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3)
+### [Dritter Abschnitt: Kündigungsschutz bei der Miete von Wohn- und Ge­schäftsräu­men](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3)
 
 
 
-#### [A. Anfecht­barkeit der Kündi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_A)
+#### [A. Anfecht­barkeit der Kündi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_A)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_A/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_A/lvl_I)
 
 
 [**Art. 271**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_271) 
@@ -3368,7 +3370,7 @@ Der bestehende Mietvertrag gilt unverändert weiter:
 
 [2] Die Kündigung muss auf Verlangen begründet werden.
 
-##### [II. Kündigung durch den Ver­mie­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_A/lvl_I_I)
+##### [II. Kündigung durch den Ver­mie­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_A/lvl_I_I)
 
 [**Art. 271***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_271_a) 
 
@@ -3400,9 +3402,9 @@ Der bestehende Mietvertrag gilt unverändert weiter:
 |    e. aus wichtigen Gründen (Art. 266*g*);  
 |    f. wegen Konkurs des Mieters (Art. 266*h*).
 
-#### [B. Erstreckung des Miet­ver­hältnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_B)
+#### [B. Erstreckung des Miet­ver­hältnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_B)
 
-##### [I. Anspruch des Mieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_B/lvl_I)
+##### [I. Anspruch des Mieters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_B/lvl_I)
 
 
 [**Art. 272**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_272) 
@@ -3420,7 +3422,7 @@ Der bestehende Mietvertrag gilt unverändert weiter:
 
 [3] Verlangt der Mieter eine zweite Erstreckung, so berücksichtigt die zuständige Behörde auch, ob er zur Abwendung der Härte alles unter­nommen hat, was ihm zuzumuten war.
 
-##### [II. Ausschluss der Erstreckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_B/lvl_I_I)
+##### [II. Ausschluss der Erstreckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_B/lvl_I_I)
 
 [**Art. 272***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_272_a) 
 
@@ -3434,7 +3436,7 @@ Der bestehende Mietvertrag gilt unverändert weiter:
 
 [2] Die Erstreckung ist in der Regel ausgeschlossen, wenn der Vermie­ter dem Mieter einen gleichwertigen Ersatz für die Wohn- oder Ge­schäfts­räume anbietet.
 
-##### [III. Dauer der Er­streckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_B/lvl_II_I)
+##### [III. Dauer der Er­streckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_B/lvl_II_I)
 
 
 [**Art. 272***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_272_b) 
@@ -3443,7 +3445,7 @@ Der bestehende Mietvertrag gilt unverändert weiter:
 
 [2] Vereinbaren die Parteien eine Erstreckung des Mietverhältnisses, so sind sie an keine Höchstdauer gebunden, und der Mieter kann auf eine zweite Erstreckung verzichten.
 
-##### [IV. Weiter­geltung des Miet­vertrags](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_B/lvl_I_V)
+##### [IV. Weiter­geltung des Miet­vertrags](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_B/lvl_I_V)
 
 [**Art. 272***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_272_c) 
 
@@ -3451,7 +3453,7 @@ Der bestehende Mietvertrag gilt unverändert weiter:
 
 [2] Ist der Vertrag im Erstreckungsentscheid nicht geändert worden, so gilt er während der Erstreckung unverändert weiter; vorbehalten blei­ben die gesetzlichen Anpassungsmöglichkeiten.
 
-##### [V. Kündigung wäh­rend der Er­streckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_B/lvl_V)
+##### [V. Kündigung wäh­rend der Er­streckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_B/lvl_V)
 
 
 [**Art. 272***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_272_d) 
@@ -3462,7 +3464,7 @@ Legt der Erstreckungsentscheid oder die Erstreckungsvereinbarung nichts anderes 
 |    a. bei Erstreckung bis zu einem Jahr mit einer einmonatigen Frist auf Ende eines Monats;  
 |    b. bei Erstreckung von mehr als einem Jahr mit einer drei­mona­tigen Frist auf einen gesetzlichen Termin.
 
-#### [C. Fristen und Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_C)
+#### [C. Fristen und Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_C)
 
 [**Art. 273**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_273) 
 
@@ -3480,7 +3482,7 @@ Legt der Erstreckungsentscheid oder die Erstreckungsvereinbarung nichts anderes 
 
 [5] Weist die zuständige Behörde ein Begehren des Mieters betreffend Anfechtung der Kündigung ab, so prüft sie von Amtes wegen, ob das Mietverhältnis erstreckt werden kann.
 
-#### [D. Wohnung der Familie](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_D)
+#### [D. Wohnung der Familie](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_D)
 
 
 [**Art. 273***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_273_a) 
@@ -3491,7 +3493,7 @@ Legt der Erstreckungsentscheid oder die Erstreckungsvereinbarung nichts anderes 
 
 [3] Die gleiche Regelung gilt bei eingetragenen Partnerschaften sinn­gemäss.
 
-#### [E. Untermiete](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_E)
+#### [E. Untermiete](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_E)
 
 [**Art. 273***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_273_b) 
 
@@ -3499,7 +3501,7 @@ Legt der Erstreckungsentscheid oder die Erstreckungsvereinbarung nichts anderes 
 
 [2] Bezweckt die Untermiete hauptsächlich die Umgehung der Vor­schriften über den Kündigungsschutz, so wird dem Untermieter ohne Rücksicht auf das Hauptmietverhältnis Kündigungsschutz gewährt. Wird das Hauptmietverhältnis gekündigt, so tritt der Vermieter anstel­le des Mieters in den Vertrag mit dem Untermieter ein.
 
-#### [F. Zwingende Be­stimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_3/lvl_F)
+#### [F. Zwingende Be­stimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_3/lvl_F)
 
 
 [**Art. 273***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_273_c) 
@@ -3508,7 +3510,7 @@ Legt der Erstreckungsentscheid oder die Erstreckungsvereinbarung nichts anderes 
 
 [2] Abweichende Vereinbarungen sind nichtig.
 
-### [Vierter Abschnitt: *...*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/sec_4)
+### [Vierter Abschnitt: *…*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_4)
 
 [**Art. 274**–**274***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_274__274_)
 
@@ -3889,17 +3891,17 @@ Das Verfahren richtet sich nach der ZPO.
 
 ## [Neunter Titel: Die Leihe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9)
 
-### [Erster Abschnitt: Die Gebrauchsleihe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_1)
+### [Erster Abschnitt: Die Gebrauchsleihe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_1)
 
-#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_1/lvl_A)
+#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_1/lvl_A)
 
 [**Art. 305**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_305) 
 
 Durch den Gebrauchsleihevertrag verpflichten sich der Verleiher, dem Entlehner eine Sache zu unentgeltlichem Gebrauche zu überlassen, und der Entlehner, dieselbe Sache nach gemachtem Gebrauche dem Verleiher zurückzugeben.
 
-#### [B. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_1/lvl_B)
+#### [B. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_1/lvl_B)
 
-##### [I. Gebrauchs­recht des Entleh­ners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_1/lvl_B/lvl_I)
+##### [I. Gebrauchs­recht des Entleh­ners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_1/lvl_B/lvl_I)
 
 
 [**Art. 306**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_306) 
@@ -3910,7 +3912,7 @@ Durch den Gebrauchsleihevertrag verpflichten sich der Verleiher, dem Entlehner e
 
 [3] Handelt der Entlehner diesen Bestimmungen zuwider, so haftet er auch für den Zufall, wenn er nicht beweist, dass dieser die Sache auch sonst getroffen hätte.
 
-##### [II. Kosten der Er­haltung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_1/lvl_B/lvl_I_I)
+##### [II. Kosten der Er­haltung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_1/lvl_B/lvl_I_I)
 
 
 [**Art. 307**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_307) 
@@ -3919,16 +3921,16 @@ Durch den Gebrauchsleihevertrag verpflichten sich der Verleiher, dem Entlehner e
 
 [2] Für ausserordentliche Verwendungen, die er im Interesse des Verlei­hers machen musste, kann er von diesem Ersatz fordern.
 
-##### [III. Haftung meh­re­rer Ent­leh­ner](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_1/lvl_B/lvl_II_I)
+##### [III. Haftung meh­re­rer Ent­leh­ner](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_1/lvl_B/lvl_II_I)
 
 
 [**Art. 308**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_308) 
 
 Haben mehrere eine Sache gemeinschaftlich entlehnt, so haften sie solidarisch.
 
-#### [C. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_1/lvl_C)
+#### [C. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_1/lvl_C)
 
-##### [I. Bei bestimm­tem Gebrauch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_1/lvl_C/lvl_I)
+##### [I. Bei bestimm­tem Gebrauch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_1/lvl_C/lvl_I)
 
 
 [**Art. 309**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_309) 
@@ -3937,32 +3939,32 @@ Haben mehrere eine Sache gemeinschaftlich entlehnt, so haften sie solidarisch.
 
 [2] Der Verleiher kann die Sache früher zurückfordern, wenn der Ent­lehner sie vertragswidrig gebraucht oder verschlechtert oder einem Dritten zum Gebrauche überlässt, oder wenn er selbst wegen eines unvorhergesehenen Falles der Sache dringend bedarf.
 
-##### [II. Bei unbe­stimm­tem Ge­brauch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_1/lvl_C/lvl_I_I)
+##### [II. Bei unbe­stimm­tem Ge­brauch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_1/lvl_C/lvl_I_I)
 
 
 [**Art. 310**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_310) 
 
 Wenn der Verleiher die Sache zu einem weder der Dauer noch dem Zwecke nach bestimmten Gebrauche überlassen hat, so kann er sie beliebig zurückfordern.
 
-##### [III. Beim Tod des Entlehners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_1/lvl_C/lvl_II_I)
+##### [III. Beim Tod des Entlehners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_1/lvl_C/lvl_II_I)
 
 [**Art. 311**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_311) 
 
 Die Gebrauchsleihe endigt mit dem Tode des Entlehners.
 
-### [Zweiter Abschnitt: Das Darlehen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_2)
+### [Zweiter Abschnitt: Das Darlehen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_2)
 
-#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_2/lvl_A)
+#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_2/lvl_A)
 
 [**Art. 312**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_312) 
 
 Durch den Darlehensvertrag verpflichtet sich der Darleiher zur Über­tragung des Eigentums an einer Summe Geldes oder an andern ver­tret­baren Sachen, der Borger dagegen zur Rückerstattung von Sachen der nämlichen Art in gleicher Menge und Güte.
 
-#### [B. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_2/lvl_B)
+#### [B. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_2/lvl_B)
 
-##### [I. Zinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_2/lvl_B/lvl_I)
+##### [I. Zinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_2/lvl_B/lvl_I)
 
-###### [1. Verzins­lichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_2/lvl_B/lvl_I/lvl_1)
+###### [1. Verzins­lichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_2/lvl_B/lvl_I/lvl_1)
 
 [**Art. 313**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_313) 
 
@@ -3970,7 +3972,7 @@ Durch den Darlehensvertrag verpflichtet sich der Darleiher zur Über­tragung de
 
 [2] Im kaufmännischen Verkehre sind auch ohne Verabredung Zinse zu bezahlen.
 
-###### [2. Zins­vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_2/lvl_B/lvl_I/lvl_2)
+###### [2. Zins­vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_2/lvl_B/lvl_I/lvl_2)
 
 [**Art. 314**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_314) 
 
@@ -3980,13 +3982,13 @@ Durch den Darlehensvertrag verpflichtet sich der Darleiher zur Über­tragung de
 
 [3] Die vorherige Übereinkunft, dass die Zinse zum Kapital geschlagen und mit diesem weiter verzinst werden sollen, ist ungültig unter Vor­behalt von kaufmännischen Zinsberechnungen im Kontokorrent und ähnlichen Geschäftsformen, bei denen die Berechnung von Zinseszin­sen üblich ist, wie namentlich bei Sparkassen.
 
-##### [II. Verjährung des Anspruchs auf Aus­händigung und An­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_2/lvl_B/lvl_I_I)
+##### [II. Verjährung des Anspruchs auf Aus­händigung und An­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_2/lvl_B/lvl_I_I)
 
 [**Art. 315**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_315) 
 
 Der Anspruch des Borgers auf Aushändigung und der Anspruch des Darleihers auf Annahme des Darlehens verjähren in sechs Monaten vom Eintritte des Verzuges an gerechnet.
 
-##### [III. Zahlungs­unfä­higkeit des Bor­gers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_2/lvl_B/lvl_II_I)
+##### [III. Zahlungs­unfä­higkeit des Bor­gers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_2/lvl_B/lvl_II_I)
 
 
 [**Art. 316**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_316) 
@@ -3995,7 +3997,7 @@ Der Anspruch des Borgers auf Aushändigung und der Anspruch des Darleihers auf A
 
 [2] Diese Befugnis steht dem Darleiher auch dann zu, wenn die Zah­lungsunfähigkeit schon vor Abschluss des Vertrages eingetreten, ihm aber erst nachher bekannt geworden ist.
 
-#### [C. Hingabe an Gel­des Statt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_2/lvl_C)
+#### [C. Hingabe an Gel­des Statt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_2/lvl_C)
 
 [**Art. 317**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_317) 
 
@@ -4003,7 +4005,7 @@ Der Anspruch des Borgers auf Aushändigung und der Anspruch des Darleihers auf A
 
 [2] Eine entgegenstehende Übereinkunft ist nichtig.
 
-#### [D. Zeit der Rück­zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/sec_2/lvl_D)
+#### [D. Zeit der Rück­zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_9/chap_2/lvl_D)
 
 
 [**Art. 318**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_318) 
@@ -4012,11 +4014,11 @@ Ein Darlehen, für dessen Rückzahlung weder ein bestimmter Termin noch eine Kü
 
 ## [Zehnter Titel:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10) [Der Arbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10)
 
-### [Erster Abschnitt: Der Einzelarbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1)
+### [Erster Abschnitt: Der Einzelarbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1)
 
-#### [A. Begriff und Ent­stehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_A)
+#### [A. Begriff und Ent­stehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_A)
 
-##### [I. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_A/lvl_I)
+##### [I. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_A/lvl_I)
 
 [**Art. 319**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_319) 
 
@@ -4024,7 +4026,7 @@ Ein Darlehen, für dessen Rückzahlung weder ein bestimmter Termin noch eine Kü
 
 [2] Als Einzelarbeitsvertrag gilt auch der Vertrag, durch den sich ein Arbeitnehmer zur regelmässigen Leistung von stunden-, halbtage- oder tageweiser Arbeit (Teilzeitarbeit) im Dienst des Arbeitgebers ver­pflichtet.
 
-##### [II. Entstehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_A/lvl_I_I)
+##### [II. Entstehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_A/lvl_I_I)
 
 [**Art. 320**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_320) 
 
@@ -4034,16 +4036,16 @@ Ein Darlehen, für dessen Rückzahlung weder ein bestimmter Termin noch eine Kü
 
 [3] Leistet der Arbeitnehmer in gutem Glauben Arbeit im Dienste des Arbeitgebers auf Grund eines Arbeitsvertrages, der sich nachträglich als ungültig erweist, so haben beide Parteien die Pflichten aus dem Arbeitsverhältnis in gleicher Weise wie aus gültigem Vertrag zu erfül­len, bis dieses wegen Ungültigkeit des Vertrages vom einen oder andern aufgehoben wird.
 
-#### [B. Pflichten des Ar­beitnehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_B)
+#### [B. Pflichten des Ar­beitnehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_B)
 
-##### [I. Persönliche Ar­beitspflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_B/lvl_I)
+##### [I. Persönliche Ar­beitspflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_B/lvl_I)
 
 
 [**Art. 321**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_321) 
 
 Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu leisten, sofern nichts anderes verabredet ist oder sich aus den Umständen ergibt.
 
-##### [II. Sorgfalts- und Treuepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_B/lvl_I_I)
+##### [II. Sorgfalts- und Treuepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_B/lvl_I_I)
 
 
 [**Art. 321***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_321_a) 
@@ -4056,7 +4058,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [4] Der Arbeitnehmer darf geheim zu haltende Tatsachen, wie nament­lich Fabrikations- und Geschäftsgeheimnisse, von denen er im Dienst des Arbeitgebers Kenntnis erlangt, während des Ar­beits­verhältnisses nicht verwerten oder anderen mitteilen; auch nach dessen Beendigung bleibt er zur Verschwiegenheit verpflich­tet, soweit es zur Wahrung der berechtigten Interessen des Arbeitgebers erforderlich ist.
 
-##### [III. Rechen­schafts- und Her­ausgabe­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_B/lvl_II_I)
+##### [III. Rechen­schafts- und Her­ausgabe­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_B/lvl_II_I)
 
 [**Art. 321***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_321_b) 
 
@@ -4064,7 +4066,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Er hat dem Arbeitgeber auch alles sofort herauszugeben, was er in Ausübung seiner vertraglichen Tätigkeit hervorbringt.
 
-##### [IV. Über­stundenarbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_B/lvl_I_V)
+##### [IV. Über­stundenarbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_B/lvl_I_V)
 
 [**Art. 321***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_321_c) 
 
@@ -4074,7 +4076,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [3] Wird die Überstundenarbeit nicht durch Freizeit ausgeglichen und ist nichts anderes schriftlich verabredet oder durch Normalarbeitsver­trag oder Gesamtarbeitsvertrag bestimmt, so hat der Arbeitgeber für die Überstundenarbeit Lohn zu entrichten, der sich nach dem Normal­lohn samt einem Zuschlag von mindestens einem Viertel bemisst.
 
-##### [V. Befolgung von Anord­nungen und Wei­sun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_B/lvl_V)
+##### [V. Befolgung von Anord­nungen und Wei­sun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_B/lvl_V)
 
 
 [**Art. 321***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_321_d) 
@@ -4083,7 +4085,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Der Arbeitnehmer hat die allgemeinen Anordnungen des Arbeit­gebers und die ihm erteilten besonderen Weisungen nach Treu und Glauben zu befolgen.
 
-##### [VI. Haftung des Ar­beitnehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_B/lvl_V_I)
+##### [VI. Haftung des Ar­beitnehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_B/lvl_V_I)
 
 [**Art. 321***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_321_e) 
 
@@ -4091,11 +4093,11 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Das Mass der Sorgfalt, für die der Arbeitnehmer einzustehen hat, bestimmt sich nach dem einzelnen Arbeitsverhältnis, unter Berück­sichti­gung des Berufsrisikos, des Bildungsgrades oder der Fach­kenntnisse, die zu der Arbeit verlangt werden, sowie der Fähigkeiten und Eigen­schaften des Arbeitnehmers, die der Arbeitgeber gekannt hat oder hätte kennen sollen.
 
-#### [C. Pflichten des Ar­beitgebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C)
+#### [C. Pflichten des Ar­beitgebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C)
 
-##### [I. Lohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I)
+##### [I. Lohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I)
 
-###### [1. Art und Höhe im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I/lvl_1)
+###### [1. Art und Höhe im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I/lvl_1)
 
 [**Art. 322**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_322) 
 
@@ -4103,7 +4105,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Lebt der Arbeitnehmer in Hausgemeinschaft mit dem Arbeitgeber, so bildet der Unterhalt im Hause mit Unterkunft und Verpflegung ei­nen Teil des Lohnes, sofern nichts anderes verabredet oder üblich ist.
 
-###### [2. Anteil am Ge­schäfts­ergebnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I/lvl_2)
+###### [2. Anteil am Ge­schäfts­ergebnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I/lvl_2)
 
 
 [**Art. 322***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_322_a) 
@@ -4114,9 +4116,9 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [3] Ist ein Anteil am Gewinn des Unternehmens verabredet, so ist dem Arbeitnehmer überdies auf Verlangen eine Abschrift der Erfolgsrechnung zu übergeben.
 
-###### [3. Provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I/lvl_3)
+###### [3. Provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I/lvl_3)
 
-###### [a. Entstehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I/lvl_3/lvl_a)
+###### [a. Entstehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I/lvl_3/lvl_a)
 
 [**Art. 322***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_322_b) 
 
@@ -4126,7 +4128,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [3] Der Anspruch auf Provision fällt nachträglich dahin, wenn das Geschäft vom Arbeitgeber ohne sein Verschulden nicht ausgeführt wird oder wenn der Dritte seine Verbindlichkeiten nicht erfüllt; bei nur teilweiser Erfüllung tritt eine verhältnismässige Herabsetzung der Provision ein.
 
-###### [b. Abrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I/lvl_3/lvl_b)
+###### [b. Abrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I/lvl_3/lvl_b)
 
 [**Art. 322***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_322_c) 
 
@@ -4134,7 +4136,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Der Arbeitgeber hat dem Arbeitnehmer oder an dessen Stelle einem gemeinsam bestimmten oder vom Richter bezeichneten Sachverstän­di­gen die nötigen Aufschlüsse zu geben und Einsicht in die für die Abrechnung massgebenden Bücher und Belege zu gewähren, soweit dies zur Nachprüfung erforderlich ist.
 
-###### [4. Gratifikation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I/lvl_4)
+###### [4. Gratifikation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I/lvl_4)
 
 [**Art. 322***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_322_d) 
 
@@ -4142,9 +4144,9 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Endigt das Arbeitsverhältnis, bevor der Anlass zur Ausrichtung der Sondervergütung eingetreten ist, so hat der Arbeitnehmer einen Anspruch auf einen verhältnismässigen Teil davon, wenn es verabredet ist.
 
-##### [II. Ausrichtung des Lohnes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I_I)
+##### [II. Ausrichtung des Lohnes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I_I)
 
-###### [1. Zahlung­s­fristen und -term­ine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I_I/lvl_1)
+###### [1. Zahlung­s­fristen und -term­ine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I_I/lvl_1)
 
 
 [**Art. 323**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_323) 
@@ -4157,7 +4159,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [4] Der Arbeitgeber hat dem Arbeitnehmer nach Massgabe der geleiste­ten Arbeit den Vorschuss zu gewähren, dessen der Arbeitnehmer in­folge einer Notlage bedarf und den der Arbeitgeber billigerweise zu gewähren vermag.
 
-###### [2. Lohn­rück­behalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I_I/lvl_2)
+###### [2. Lohn­rück­behalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I_I/lvl_2)
 
 [**Art. 323***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_323_a) 
 
@@ -4167,7 +4169,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [3] Ist nichts anderes verabredet oder üblich oder durch Normalarbeits­vertrag oder Gesamtarbeitsvertrag bestimmt, so gilt der zurückbehal­tene Lohn als Sicherheit für die Forderungen des Arbeitgebers aus dem Arbeitsverhältnis und nicht als Konventionalstrafe.
 
-###### [3. Lohn­sicherung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I_I/lvl_3)
+###### [3. Lohn­sicherung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I_I/lvl_3)
 
 [**Art. 323***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_323_b) 
 
@@ -4177,9 +4179,9 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [3] Abreden über die Verwendung des Lohnes im Interesse des Arbeit­gebers sind nichtig.
 
-##### [III. Lohn bei Ver­hinderung an der Arbeits­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_II_I)
+##### [III. Lohn bei Ver­hinderung an der Arbeits­leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_II_I)
 
-###### [1. bei Annahme­ver­zug des Ar­beitgebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_II_I/lvl_1)
+###### [1. bei Annahme­ver­zug des Ar­beitgebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_II_I/lvl_1)
 
 
 [**Art. 324**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_324) 
@@ -4188,9 +4190,9 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Der Arbeitnehmer muss sich auf den Lohn anrechnen lassen, was er wegen Verhinderung an der Arbeitsleistung erspart oder durch ander­weitige Arbeit erworben oder zu erwerben absichtlich un­ter­lassen hat.
 
-###### [2. bei Verhinde­rung des Arbeit­nehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_II_I/lvl_2)
+###### [2. bei Verhinde­rung des Arbeit­nehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_II_I/lvl_2)
 
-###### [a. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_II_I/lvl_2/lvl_a)
+###### [a. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_II_I/lvl_2/lvl_a)
 
 [**Art. 324***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_324_a) 
 
@@ -4202,7 +4204,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [4] Durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtar­beits­vertrag kann eine von den vorstehenden Bestimmungen abwei­chende Regelung getroffen werden, wenn sie für den Arbeitnehmer minde­s­tens gleichwertig ist.
 
-###### [b. Ausnahmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_II_I/lvl_2/lvl_b)
+###### [b. Ausnahmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_II_I/lvl_2/lvl_b)
 
 [**Art. 324***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_324_b) 
 
@@ -4212,7 +4214,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [3] Werden die Versicherungsleistungen erst nach einer Wartezeit gewährt, so hat der Arbeitgeber für diese Zeit mindestens vier Fünftel des Lohnes zu entrichten.
 
-##### [IV. Abtretung und Verpfän­dung von Lohn­forderungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I_V)
+##### [IV. Abtretung und Verpfän­dung von Lohn­forderungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I_V)
 
 [**Art. 325**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_325)
 
@@ -4220,9 +4222,9 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Die Abtretung und die Verpfändung künftiger Lohnforderungen zur Sicherung anderer Verbindlichkeiten sind nichtig.
 
-##### [V. Akkord­lohnarbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_V)
+##### [V. Akkord­lohnarbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_V)
 
-###### [1. Zuweisung von Arbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_V/lvl_1)
+###### [1. Zuweisung von Arbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_V/lvl_1)
 
 [**Art. 326**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_326) 
 
@@ -4234,7 +4236,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [4] Kann der Arbeitgeber weder genügend Akkordlohnarbeit noch Zeit­lohnarbeit zuweisen, so bleibt er gleichwohl verpflichtet, nach den Vorschriften über den Annahmeverzug den Lohn zu entrichten, den er bei Zuweisung von Zeitlohnarbeit zu entrichten hätte.
 
-###### [2. Akkordlohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_V/lvl_2)
+###### [2. Akkordlohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_V/lvl_2)
 
 [**Art. 326***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_326_a) 
 
@@ -4242,9 +4244,9 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Unterlässt der Arbeitgeber diese Bekanntgabe, so hat er den Lohn nach dem für gleichartige oder ähnliche Arbeiten festgesetzten Ansatz zu entrichten.
 
-##### [VI. Arbeits­geräte, Material und Aus­lagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_V_I)
+##### [VI. Arbeits­geräte, Material und Aus­lagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_V_I)
 
-###### [1. Arbeitsgeräte und Material](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_V_I/lvl_1)
+###### [1. Arbeitsgeräte und Material](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_V_I/lvl_1)
 
 [**Art. 327**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_327) 
 
@@ -4252,9 +4254,9 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Stellt im Einverständnis mit dem Arbeitgeber der Arbeitnehmer selbst Geräte oder Material für die Ausführung der Arbeit zur Verfü­gung, so ist er dafür angemessen zu entschädigen, sofern nichts ande­res verabredet oder üblich ist.
 
-###### [2. Auslagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_V_I/lvl_2)
+###### [2. Auslagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_V_I/lvl_2)
 
-###### [a. im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_V_I/lvl_2/lvl_a)
+###### [a. im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_V_I/lvl_2/lvl_a)
 
 
 [**Art. 327***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_327_a) 
@@ -4265,7 +4267,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [3] Abreden, dass der Arbeitnehmer die notwendigen Auslagen ganz oder teilweise selbst zu tragen habe, sind nichtig.
 
-###### [b. Motorfahr­zeug](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_V_I/lvl_2/lvl_b)
+###### [b. Motorfahr­zeug](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_V_I/lvl_2/lvl_b)
 
 [**Art. 327***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_327_b) 
 
@@ -4273,9 +4275,9 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Stellt der Arbeitnehmer im Einverständnis mit dem Arbeitgeber selbst ein Motorfahrzeug, so sind ihm überdies die öffentlichen Abga­ben für das Fahrzeug, die Prämien für die Haftpflichtversicherung und eine angemessene Entschädigung für die Abnützung des Fahrzeugs nach Massgabe des Gebrauchs für die Arbeit zu vergüten.
 
-[3] *...*
+[3] *…*
 
-###### [c. Fälligkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_V_I/lvl_2/lvl_c)
+###### [c. Fälligkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_V_I/lvl_2/lvl_c)
 
 [**Art. 327***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_327_c) 
 
@@ -4283,9 +4285,9 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Hat der Arbeitnehmer zur Erfüllung der vertraglichen Pflichten regelmässig Auslagen zu machen, so ist ihm ein angemessener Vor­schuss in bestimmten Zeitabständen, mindestens aber jeden Monat auszurichten.
 
-##### [VII. Schutz der Per­sönlichkeit des Arbeit­nehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VI_I)
+##### [VII. Schutz der Per­sönlichkeit des Arbeit­nehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VI_I)
 
-###### [1. im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VI_I/lvl_1)
+###### [1. im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VI_I/lvl_1)
 
 
 [**Art. 328**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_328) 
@@ -4294,7 +4296,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [2] Er hat zum Schutz von Leben, Gesundheit und persönlicher Integrität der Arbeitnehmerinnen und Arbeitnehmer die Massnahmen zu treffen, die nach der Erfahrung notwendig, nach dem Stand der Technik anwendbar und den Verhältnissen des Betriebes oder Haushaltes ange­messen sind, soweit es mit Rücksicht auf das einzelne Arbeitsverhält­nis und die Natur der Arbeitsleistung ihm billigerweise zugemutet werden kann.
 
-###### [2. bei Haus­gemein­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VI_I/lvl_2)
+###### [2. bei Haus­gemein­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VI_I/lvl_2)
 
 [**Art. 328***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_328_a) 
 
@@ -4304,16 +4306,16 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 [3] Bei Schwangerschaft und Niederkunft der Arbeitnehmerin hat der Arbeitgeber die gleichen Leistungen zu gewähren.
 
-###### [3. bei der Bear­beitung von Per­sonendaten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VI_I/lvl_3)
+###### [3. bei der Bear­beitung von Per­sonendaten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VI_I/lvl_3)
 
 
 [**Art. 328***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_328_b)
 
 Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie dessen Eignung für das Arbeitsverhältnis betreffen oder zur Durchführung des Arbeitsvertrages erforderlich sind. Im Übrigen gel­ten die Bestimmungen des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz.
 
-##### [VIII. Freizeit, Ferien und Urlaub](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I)
+##### [VIII. Freizeit, Ferien und Urlaub](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I)
 
-###### [1. Freizeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_1)
+###### [1. Freizeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_1)
 
 [**Art. 329**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329) 
 
@@ -4325,19 +4327,19 @@ Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie des
 
 [4] Bei der Bestimmung der Freizeit ist auf die Interessen des Arbeit­gebers wie des Arbeitnehmers angemessen Rücksicht zu nehmen.
 
-###### [2. Ferien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_2)
+###### [2. Ferien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_2)
 
-###### [a. Dauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_2/lvl_a)
+###### [a. Dauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_2/lvl_a)
 
 [**Art. 329***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329_a) 
 
 [1] Der Arbeitgeber hat dem Arbeitnehmer jedes Dienstjahr wenigstens vier Wochen, dem Arbeitnehmer bis zum vollendeten 20. Altersjahr wenigstens fünf Wochen Ferien zu gewähren.
 
-[2] *...*
+[2] *…*
 
 [3] Für ein unvollständiges Dienstjahr sind Ferien entsprechend der Dauer des Arbeitsverhältnisses im betreffenden Dienstjahr zu gewäh­ren.
 
-###### [b. Kürzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_2/lvl_b)
+###### [b. Kürzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_2/lvl_b)
 
 [**Art. 329***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329_b) 
 
@@ -4355,7 +4357,7 @@ Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie des
 
 [4] Durch Normalarbeitsvertrag oder Gesamtarbeitsvertrag kann eine von den Absätzen 2 und 3 abweichende Regelung getroffen werden, wenn sie für den Arbeitnehmer im Ganzen mindestens gleichwertig ist.
 
-###### [c. Zusammen­hang und Zeit­punkt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_2/lvl_c)
+###### [c. Zusammen­hang und Zeit­punkt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_2/lvl_c)
 
 [**Art. 329***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329_c) 
 
@@ -4363,7 +4365,7 @@ Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie des
 
 [2] Der Arbeitgeber bestimmt den Zeitpunkt der Ferien und nimmt da­bei auf die Wünsche des Arbeitnehmers soweit Rücksicht, als dies mit den Interessen des Betriebes oder Haushaltes vereinbar ist.
 
-###### [d. Lohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_2/lvl_d)
+###### [d. Lohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_2/lvl_d)
 
 [**Art. 329***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329_d) 
 
@@ -4373,7 +4375,7 @@ Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie des
 
 [3] Leistet der Arbeitnehmer während der Ferien entgeltliche Arbeit für einen Dritten und werden dadurch die berechtigten Interessen des Arbeitgebers verletzt, so kann dieser den Ferienlohn verweigern und be­reits bezahlten Ferienlohn zurückverlangen.
 
-###### [3. Urlaub für ausserschulische Ju­gendarbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_3)
+###### [3. Urlaub für ausserschulische Ju­gendarbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_3)
 
 [**Art. 329***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329_e)
 
@@ -4385,7 +4387,7 @@ Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie des
 
 [4] Der Arbeitnehmer hat auf Verlangen des Arbeitgebers seine Tätig­keiten und Funktionen in der Jugendarbeit nachzuweisen.
 
-###### [4. Mutterschafts­urlaub](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_4)
+###### [4. Mutterschafts­urlaub](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_4)
 
 [**Art. 329***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329_f)
 
@@ -4393,7 +4395,7 @@ Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie des
 
 [2] Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung.
 
-###### [5. Vaterschafts­urlaub](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_5)
+###### [5. Vaterschafts­urlaub](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_5)
 
 [**Art. 329***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329_g)
 
@@ -4403,13 +4405,13 @@ Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie des
 
 [3] Er kann wochen- oder tageweise bezogen werden.
 
-###### [6. Urlaub für die Betreuung von Angehörigen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_6)
+###### [6. Urlaub für die Betreuung von Angehörigen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_6)
 
 [**Art. 329***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329_h)
 
 Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für die Zeit, die zur Betreuung eines Familienmitglieds, der Lebenspartnerin oder des Lebenspartners mit gesundheitlicher Beeinträchtigung notwendig ist; der Urlaub beträgt jedoch höchstens drei Tage pro Ereignis und höchstens zehn Tage pro Jahr.
 
-###### [7. Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_VII_I/lvl_7)
+###### [7. Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_7)
 
 [**Art. 329***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329_i)
 
@@ -4423,10 +4425,10 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 
 [5] Der Arbeitgeber ist über die Modalitäten des Urlaubsbezugs sowie über Änderungen unverzüglich zu informieren.
 
-##### [IX. Übrige Pflich­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I_X)
+##### [IX. Übrige Pflich­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I_X)
 
 
-###### [1. Kaution](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I_X/lvl_1)
+###### [1. Kaution](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I_X/lvl_1)
 
 [**Art. 330**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_330) 
 
@@ -4438,7 +4440,7 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 
 [4] Im Konkurs des Arbeitgebers kann der Arbeitnehmer die Rückgabe der von dem Vermögen des Arbeitgebers getrennt gehaltenen Kaution verlangen, unter Vorbehalt der Forderungen des Arbeitgebers aus dem Arbeitsverhältnis.
 
-###### [2. Zeugnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I_X/lvl_2)
+###### [2. Zeugnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I_X/lvl_2)
 
 [**Art. 330***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_330_a) 
 
@@ -4446,7 +4448,7 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 
 [2] Auf besonderes Verlangen des Arbeitnehmers hat sich das Zeugnis auf Angaben über die Art und Dauer des Arbeitsverhältnisses zu beschränken.
 
-###### [3. Informationspflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_C/lvl_I_X/lvl_3)
+###### [3. Informationspflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_C/lvl_I_X/lvl_3)
 
 [**Art. 330***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_330_b)
 
@@ -4461,9 +4463,9 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 
 [2] Werden Vertragselemente, die nach Absatz 1 mitteilungspflichtig sind, während des Arbeitsverhältnisses geändert, so sind die Änderungen dem Arbeitnehmer spätestens einen Monat nachdem sie wirksam geworden sind, schriftlich mitzuteilen.
 
-#### [D. Personal­vorsorge](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_D)
+#### [D. Personal­vorsorge](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_D)
 
-##### [I. Pflichten des Ar­beitgebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_D/lvl_I)
+##### [I. Pflichten des Ar­beitgebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_D/lvl_I)
 
 [**Art. 331**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_331) 
 
@@ -4477,7 +4479,7 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 
 [5] Auf Verlangen der Zentralstelle 2. Säule ist der Arbeitgeber ver­pflichtet, ihr die Angaben zu liefern, die ihm vorliegen und die geeig­net sind, die Berechtigten vergessener Guthaben oder die Einrichtun­gen, welche solche Guthaben führen, zu finden.
 
-##### [II. Beginn und Ende des Vor­sorgeschutzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_D/lvl_I_I)
+##### [II. Beginn und Ende des Vor­sorgeschutzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_D/lvl_I_I)
 
 [**Art. 331***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_331_a)
 
@@ -4487,21 +4489,21 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 
 [3] Für den nach Beendigung des Vorsorgeverhältnisses gewährten Vor­sorgeschutz kann die Vorsorgeeinrichtung vom Arbeitnehmer Risiko­beiträge verlangen.
 
-##### [III. Abtretung und Ver­pfändung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_D/lvl_II_I)
+##### [III. Abtretung und Ver­pfändung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_D/lvl_II_I)
 
 [**Art. 331***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_331_b)
 
 Die Forderung auf künftige Vorsorgeleistungen kann vor der Fällig­keit gültig weder abgetreten noch verpfändet werden.
 
-##### [IV. Gesund­heit­liche Vorbe­halte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_D/lvl_I_V)
+##### [IV. Gesund­heit­liche Vorbe­halte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_D/lvl_I_V)
 
 [**Art. 331***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_331_c)
 
 Vorsorgeeinrichtungen dürfen für die Risiken Tod und Invalidität einen Vorbehalt aus gesundheitlichen Gründen machen. Dieser darf höchstens fünf Jahre betragen.
 
-##### [V. Wohn­eigen­tums­förderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_D/lvl_V)
+##### [V. Wohn­eigen­tums­förderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_D/lvl_V)
 
-###### [1. Verpfändung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_D/lvl_V/lvl_1)
+###### [1. Verpfändung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_D/lvl_V/lvl_1)
 
 [**Art. 331***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_331_d)
 
@@ -4523,7 +4525,7 @@ Vorsorgeeinrichtungen dürfen für die Risiken Tod und Invalidität einen Vorbeh
 |    a. die zulässigen Verpfändungszwecke und den Begriff «Wohn­eigentum zum eigenen Bedarf»;  
 |    b. welche Voraussetzungen bei der Verpfändung von Anteil­schei­nen einer Wohnbaugenossenschaft oder ähnlicher Betei­ligungen zu erfüllen sind.
 
-###### [2. Vorbezug](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_D/lvl_V/lvl_2)
+###### [2. Vorbezug](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_D/lvl_V/lvl_2)
 
 [**Art. 331***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_331_e)
 
@@ -4543,7 +4545,7 @@ Vorsorgeeinrichtungen dürfen für die Risiken Tod und Invalidität einen Vorbeh
 
 [8] Im Übrigen gelten die Artikel 30*d*, 30*e*, 30*g* und 83*a* des Bundes­gesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge.
 
-###### [3. Ein­schränkungen während einer Unterdeckung der Vorsorge­einrich­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_D/lvl_V/lvl_3)
+###### [3. Ein­schränkungen während einer Unterdeckung der Vorsorge­einrich­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_D/lvl_V/lvl_3)
 
 [**Art. 331***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_331_f) 
 
@@ -4551,7 +4553,7 @@ Vorsorgeeinrichtungen dürfen für die Risiken Tod und Invalidität einen Vorbeh
 
 [2] Der Bundesrat legt die Voraussetzungen fest, unter denen die Einschränkungen nach Absatz 1 zulässig sind, und bestimmt deren Umfang.
 
-#### [E. Rechte an Erfindungen und Designs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_E)
+#### [E. Rechte an Erfindungen und Designs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_E)
 
 
 [**Art. 332**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_332)
@@ -4566,10 +4568,10 @@ Vorsorgeeinrichtungen dürfen für die Risiken Tod und Invalidität einen Vorbeh
 
 [**Art. 332***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_332_a)
 
-#### [F. Übergang des Arbeits­verhältnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_F)
+#### [F. Übergang des Arbeits­verhältnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_F)
 
 
-##### [1. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_F/lvl_1)
+##### [1. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_F/lvl_1)
 
 [**Art. 333**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_333) 
 
@@ -4583,7 +4585,7 @@ Vorsorgeeinrichtungen dürfen für die Risiken Tod und Invalidität einen Vorbeh
 
 [4] Im übrigen ist der Arbeitgeber nicht berechtigt, die Rechte aus dem Arbeitsverhältnis auf einen Dritten zu übertragen, sofern nichts ander­es verabredet ist oder sich aus den Umständen ergibt.
 
-##### [2. Konsultation der Arbeit­nehmer­vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_F/lvl_2)
+##### [2. Konsultation der Arbeit­nehmer­vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_F/lvl_2)
 
 
 [**Art. 333***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_333_a)
@@ -4596,15 +4598,15 @@ Vorsorgeeinrichtungen dürfen für die Risiken Tod und Invalidität einen Vorbeh
 
 [2] Sind infolge des Übergangs Massnahmen beabsichtigt, welche die Arbeitnehmer betreffen, so ist die Arbeitnehmervertretung oder, falls es keine solche gibt, sind die Arbeitnehmer rechtzeitig vor dem Ent­scheid über diese Massnahmen zu konsultieren.
 
-##### [3. Betriebs­übergang bei Insolvenz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_F/lvl_3)
+##### [3. Betriebs­übergang bei Insolvenz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_F/lvl_3)
 
 [**Art. 333***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_333_b)
 
 Wird der Betrieb oder der Betriebsteil während einer Nachlassstun­dung, im Rahmen eines Konkurses oder eines Nachlassvertrages mit Vermögensabtretung übertragen, so geht das Arbeitsverhältnis mit allen Rechten und Pflichten auf den Erwerber über, wenn dies mit dem Erwerber so vereinbart wurde und der Arbeitnehmer den Über­gang nicht ablehnt. Im Übrigen gelten die Artikel 333, ausgenommen dessen Absatz 3, und 333*a* sinn­gemäss.
 
-#### [G. Beendigung des Arbeitsver­hältnis­ses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G)
+#### [G. Beendigung des Arbeitsver­hältnis­ses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G)
 
-##### [I. Befristetes Arbeitsverhältnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I)
+##### [I. Befristetes Arbeitsverhältnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I)
 
 
 [**Art. 334**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_334)
@@ -4615,9 +4617,9 @@ Wird der Betrieb oder der Betriebsteil während einer Nachlassstun­dung, im Rah
 
 [3] Nach Ablauf von zehn Jahren kann jede Vertragspartei ein auf län­g­ere Dauer abgeschlossenes befristetes Arbeitsverhältnis jederzeit mit einer Kündigungsfrist von sechs Monaten auf das Ende eines Monats kündigen.
 
-##### [II. Unbefristetes Arbeitsverhältnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_I)
+##### [II. Unbefristetes Arbeitsverhältnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_I)
 
-###### [1. Kündigung im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_I/lvl_1)
+###### [1. Kündigung im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_I/lvl_1)
 
 [**Art. 335**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335)
 
@@ -4625,9 +4627,9 @@ Wird der Betrieb oder der Betriebsteil während einer Nachlassstun­dung, im Rah
 
 [2] Der Kündigende muss die Kündigung schriftlich begründen, wenn die andere Partei dies verlangt.
 
-###### [2. Kündi­gungs­fristen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_I/lvl_2)
+###### [2. Kündi­gungs­fristen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_I/lvl_2)
 
-###### [a. im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_I/lvl_2/lvl_a)
+###### [a. im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_I/lvl_2/lvl_a)
 
 
 [**Art. 335***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_a)
@@ -4636,7 +4638,7 @@ Wird der Betrieb oder der Betriebsteil während einer Nachlassstun­dung, im Rah
 
 [2] Hat der Arbeitgeber das Arbeitsverhältnis aus wirtschaftlichen Grün­den gekündigt oder eine entsprechende Absicht kundgetan, so dürfen jedoch durch Abrede, Normalarbeitsvertrag oder Gesamtar­beitsvertrag für den Arbeitnehmer kürzere Kündigungsfristen verein­bart werden.
 
-###### [b. während der Probezeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_I/lvl_2/lvl_b)
+###### [b. während der Probezeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_I/lvl_2/lvl_b)
 
 
 [**Art. 335***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_b)
@@ -4647,7 +4649,7 @@ Wird der Betrieb oder der Betriebsteil während einer Nachlassstun­dung, im Rah
 
 [3] Bei einer effektiven Verkürzung der Probezeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetz­lichen Pflicht erfolgt eine entsprechende Verlängerung der Probezeit.
 
-###### [c. nach Ablauf der Probezeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_I/lvl_2/lvl_c)
+###### [c. nach Ablauf der Probezeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_I/lvl_2/lvl_c)
 
 [**Art. 335***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_c)
 
@@ -4657,9 +4659,9 @@ Wird der Betrieb oder der Betriebsteil während einer Nachlassstun­dung, im Rah
 
 [3] Kündigt der Arbeitgeber das Arbeitsverhältnis und hat der Arbeitnehmer vor Ende des Arbeitsverhältnisses Anspruch auf Vaterschaftsurlaub im Sinne von Artikel 329*g*, so wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
 
-##### [II[bis]. Massen­entlassung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_bis)
+##### [II[bis]. Massen­entlassung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_bis)
 
-###### [1. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_bis/lvl_1)
+###### [1. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_1)
 
 [**Art. 335***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_d)
 
@@ -4670,7 +4672,7 @@ Als Massenentlassung gelten Kündigungen, die der Arbeitgeber innert 30 Tagen i
 |    2. mindestens 10 Prozent der Arbeitnehmer in Betrieben, die in der Regel mindestens 100 und weniger als 300 Arbeitnehmer be­schäftigen;  
 |    3. mindestens 30 Arbeitnehmer in Betrieben, die in der Regel min­destens 300 Arbeitnehmer beschäftigen.
 
-###### [2. Geltungs­bereich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_bis/lvl_2)
+###### [2. Geltungs­bereich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_2)
 
 [**Art. 335***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_e)
 
@@ -4678,7 +4680,7 @@ Als Massenentlassung gelten Kündigungen, die der Arbeitgeber innert 30 Tagen i
 
 [2] Sie gelten nicht für Betriebseinstellungen infolge gerichtlicher Ent­scheide sowie bei Massenentlassung im Konkurs oder bei einem Nachlassvertrag mit Vermögensabtretung.
 
-###### [3. Konsultation der Arbeit­nehmer­vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_bis/lvl_3)
+###### [3. Konsultation der Arbeit­nehmer­vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_3)
 
 
 [**Art. 335***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_f) 
@@ -4697,7 +4699,7 @@ Als Massenentlassung gelten Kündigungen, die der Arbeitgeber innert 30 Tagen i
 
 [4] Er stellt dem kantonalen Arbeitsamt eine Kopie der Mitteilung nach Absatz 3 zu.
 
-###### [4. Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_bis/lvl_4)
+###### [4. Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_4)
 
 [**Art. 335***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_g)
 
@@ -4709,9 +4711,9 @@ Als Massenentlassung gelten Kündigungen, die der Arbeitgeber innert 30 Tagen i
 
 [4] Ist das Arbeitsverhältnis im Rahmen einer Massenentlassung ge­kün­digt worden, so endet es 30 Tage nach der Anzeige der beabsich­tigten Massenentlassung an das kantonale Arbeitsamt, ausser wenn die Kün­digung nach den vertraglichen oder gesetzlichen Bestimmungen auf einen späteren Termin wirksam wird.
 
-###### [5. Sozialplan](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_bis/lvl_5)
+###### [5. Sozialplan](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_5)
 
-###### [a. Begriff und Grundsätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_bis/lvl_5/lvl_a)
+###### [a. Begriff und Grundsätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_5/lvl_a)
 
 [**Art. 335***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_h)
 
@@ -4719,7 +4721,7 @@ Als Massenentlassung gelten Kündigungen, die der Arbeitgeber innert 30 Tagen i
 
 [2] Er darf den Fortbestand des Betriebs nicht gefährden.
 
-###### [b.Verhandlungs­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_bis/lvl_5/lvl_d4083e1219)
+###### [b.Verhandlungs­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_5/lvl_b)
 
 [**Art. 335***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_i)
 
@@ -4740,7 +4742,7 @@ Als Massenentlassung gelten Kündigungen, die der Arbeitgeber innert 30 Tagen i
 
 [4] Die Arbeitnehmerverbände, die Arbeitnehmervertretung oder die Arbeitnehmer können zu den Verhandlungen Sachverständige heran­ziehen. Diese sind gegenüber betriebsfremden Personen zur Ver­schwiegenheit verpflichtet.
 
-###### [c. Aufstellung durch ein Schiedsgericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_bis/lvl_5/lvl_c)
+###### [c. Aufstellung durch ein Schiedsgericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_5/lvl_c)
 
 [**Art. 335***j*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_j)
 
@@ -4748,17 +4750,17 @@ Als Massenentlassung gelten Kündigungen, die der Arbeitgeber innert 30 Tagen i
 
 [2] Das Schiedsgericht stellt einen Sozialplan durch verbindlichen Schiedsspruch auf.
 
-###### [d. Während eines Konkurs- oder eines Nachlass­verfahrens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_bis/lvl_5/lvl_d)
+###### [d. Während eines Konkurs- oder eines Nachlass­verfahrens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_5/lvl_d)
 
 [**Art. 335***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_335_k)
 
 Die Bestimmungen über den Sozialplan (Art. 335*h*–335*j*) gelten nicht bei Massenentlassungen, die während eines Konkurs- oder Nachlass­verfahrens erfolgen, das mit einem Nachlassvertrag abgeschlossen wird.
 
-##### [III. Kündigungs­schutz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_I)
+##### [III. Kündigungs­schutz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_I)
 
-###### [1. Missbräuch­liche Kündigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_I/lvl_1)
+###### [1. Missbräuch­liche Kündigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_1)
 
-###### [a. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_I/lvl_1/lvl_a)
+###### [a. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_1/lvl_a)
 
 [**Art. 336**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_336)
 
@@ -4780,7 +4782,7 @@ Die Bestimmungen über den Sozialplan (Art. 335*h*–335*j*) gelten nicht bei Ma
 
 [3] Der Schutz eines Arbeitnehmervertreters nach Absatz 2 Buchstabe b, dessen Mandat infolge Übergangs des Arbeitsverhältnisses endet (Art. 333), besteht so lange weiter, als das Mandat gedauert hätte, falls das Arbeitsverhältnis nicht übertragen worden wäre.
 
-###### [b. Sanktionen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_I/lvl_1/lvl_b)
+###### [b. Sanktionen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_1/lvl_b)
 
 [**Art. 336***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_336_a)
 
@@ -4790,7 +4792,7 @@ Die Bestimmungen über den Sozialplan (Art. 335*h*–335*j*) gelten nicht bei Ma
 
 [3] Ist die Kündigung nach Artikel 336 Absatz 2 Buchstabe c miss­bräuchlich, so darf die Entschädigung nicht mehr als den Lohn des Arbeitnehmers für zwei Monate betragen.
 
-###### [c. Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_I/lvl_1/lvl_c)
+###### [c. Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_1/lvl_c)
 
 [**Art. 336***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_336_b)
 
@@ -4798,9 +4800,9 @@ Die Bestimmungen über den Sozialplan (Art. 335*h*–335*j*) gelten nicht bei Ma
 
 [2] Ist die Einsprache gültig erfolgt und einigen sich die Parteien nicht über die Fortsetzung des Arbeitsverhältnisses, so kann die Partei, der gekündigt worden ist, ihren Anspruch auf Entschädigung geltend machen. Wird nicht innert 180 Tagen nach Beendigung des Arbeitsver­hältnisses eine Klage anhängig gemacht, ist der Anspruch verwirkt.
 
-###### [2. Kündigung zur Unzeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_I/lvl_2)
+###### [2. Kündigung zur Unzeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_2)
 
-###### [a. durch den Ar­beitgeber](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_I/lvl_2/lvl_a)
+###### [a. durch den Ar­beitgeber](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_2/lvl_a)
 
 
 [**Art. 336***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_336_c)
@@ -4819,7 +4821,7 @@ Die Bestimmungen über den Sozialplan (Art. 335*h*–335*j*) gelten nicht bei Ma
 
 [3] Gilt für die Beendigung des Arbeitsverhältnisses ein Endtermin, wie das Ende eines Monats oder einer Arbeitswoche, und fällt dieser nicht mit dem Ende der fortgesetzten Kündigungsfrist zusammen, so ver­län­gert sich diese bis zum nächstfolgenden Endtermin.
 
-###### [b. durch den Ar­beitnehmer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_II_I/lvl_2/lvl_b)
+###### [b. durch den Ar­beitnehmer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_2/lvl_b)
 
 
 [**Art. 336***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_336_d)
@@ -4828,12 +4830,12 @@ Die Bestimmungen über den Sozialplan (Art. 335*h*–335*j*) gelten nicht bei Ma
 
 [2] Artikel 336*c* Absätze 2 und 3 sind entsprechend anwendbar.
 
-##### [IV. Fristlose Auf­lösung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_V)
+##### [IV. Fristlose Auf­lösung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_V)
 
 
-###### [1. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_V/lvl_1)
+###### [1. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_V/lvl_1)
 
-###### [a. aus wichtigen Gründen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_V/lvl_1/lvl_a)
+###### [a. aus wichtigen Gründen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_V/lvl_1/lvl_a)
 
 [**Art. 337**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_337) 
 
@@ -4843,15 +4845,15 @@ Die Bestimmungen über den Sozialplan (Art. 335*h*–335*j*) gelten nicht bei Ma
 
 [3] Über das Vorhandensein solcher Umstände entscheidet der Richter nach seinem Ermessen, darf aber in keinem Fall die unverschuldete Verhinderung des Arbeitnehmers an der Arbeitsleistung als wichtigen Grund anerkennen.
 
-###### [b. wegen Lohn­ge­fährdung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_V/lvl_1/lvl_b)
+###### [b. wegen Lohn­ge­fährdung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_V/lvl_1/lvl_b)
 
 [**Art. 337***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_337_a) 
 
 Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverhältnis fristlos auflösen, sofern ihm für seine Forderungen aus dem Arbeitsverhältnis nicht innert angemessener Frist Sicherheit geleistet wird.
 
-###### [2. Folgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_V/lvl_2)
+###### [2. Folgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_V/lvl_2)
 
-###### [a. bei gerecht­fertig­ter Auflösung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_V/lvl_2/lvl_a)
+###### [a. bei gerecht­fertig­ter Auflösung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_V/lvl_2/lvl_a)
 
 [**Art. 337***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_337_b) 
 
@@ -4859,7 +4861,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [2] In den andern Fällen bestimmt der Richter die vermögensrechtlichen Folgen der fristlosen Auflösung unter Würdigung aller Umstände nach seinem Ermessen.
 
-###### [b. bei ungerecht­fer­tigter Entlas­sung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_V/lvl_2/lvl_b)
+###### [b. bei ungerecht­fer­tigter Entlas­sung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_V/lvl_2/lvl_b)
 
 
 [**Art. 337***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_337_c)
@@ -4870,7 +4872,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [3] Der Richter kann den Arbeitgeber verpflichten, dem Arbeitnehmer eine Entschädigung zu bezahlen, die er nach freiem Ermessen unter Würdigung aller Umstände festlegt; diese Entschädigung darf jedoch den Lohn des Arbeitnehmers für sechs Monate nicht übersteigen.
 
-###### [c. bei ungerecht­fer­tigtem Nicht­an­tritt oder Ver­las­sen der Ar­beits­stelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_I_V/lvl_2/lvl_c)
+###### [c. bei ungerecht­fer­tigtem Nicht­an­tritt oder Ver­las­sen der Ar­beits­stelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_I_V/lvl_2/lvl_c)
 
 
 [**Art. 337***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_337_d) 
@@ -4881,12 +4883,12 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [3] Erlischt der Anspruch auf Entschädigung nicht durch Verrechnung, so ist er durch Klage oder Betreibung innert 30 Tagen seit dem Nicht­antritt oder Verlassen der Arbeitsstelle geltend zu machen; andernfalls ist der Anspruch verwirkt.
 
-[4] *...*
+[4] *…*
 
-##### [V. Tod des Ar­beitnehmers oder des Arbeit­ge­bers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_V)
+##### [V. Tod des Ar­beitnehmers oder des Arbeit­ge­bers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_V)
 
 
-###### [1. Tod des Ar­beitnehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_V/lvl_1)
+###### [1. Tod des Ar­beitnehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_V/lvl_1)
 
 
 [**Art. 338**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_338) 
@@ -4895,7 +4897,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [2] Der Arbeitgeber hat jedoch den Lohn für einen weiteren Monat und nach fünfjähriger Dienstdauer für zwei weitere Monate, gerechnet vom Todestag an, zu ent­richten, sofern der Arbeitnehmer den Ehegatten, die eingetragene Partnerin, den eingetragenen Partner oder minderjährige Kinder oder bei Fehlen dieser Erben andere Personen hinterlässt, denen gegenüber er eine Unterstützungspflicht erfüllt hat.
 
-###### [2. Tod des Ar­beitgebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_V/lvl_2)
+###### [2. Tod des Ar­beitgebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_V/lvl_2)
 
 
 [**Art. 338***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_338_a) 
@@ -4904,9 +4906,9 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [2] Ist das Arbeitsverhältnis wesentlich mit Rücksicht auf die Person des Arbeitgebers eingegangen worden, so erlischt es mit dessen Tod; jedoch kann der Arbeitnehmer angemessenen Ersatz für den Schaden verlangen, der ihm infolge der vorzeitigen Beendigung des Arbeits­ver­hältnisses erwächst.
 
-##### [VI. Folgen der Be­endigung des Ar­beits­verhältnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_V_I)
+##### [VI. Folgen der Be­endigung des Ar­beits­verhältnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_V_I)
 
-###### [1. Fälligkeit der For­derungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_V_I/lvl_1)
+###### [1. Fälligkeit der For­derungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_V_I/lvl_1)
 
 [**Art. 339**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_339) 
 
@@ -4916,7 +4918,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [3] Die Forderung auf einen Anteil am Geschäftsergebnis wird fällig nach Massgabe von Artikel 323 Absatz 3.
 
-###### [2. Rückgabe­pflich­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_V_I/lvl_2)
+###### [2. Rückgabe­pflich­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_V_I/lvl_2)
 
 [**Art. 339***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_339_a) 
 
@@ -4926,9 +4928,9 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [3] Vorbehalten bleiben die Retentionsrechte der Vertragsparteien.
 
-###### [3. Abgangs­entschädigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_V_I/lvl_3)
+###### [3. Abgangs­entschädigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_V_I/lvl_3)
 
-###### [a. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_V_I/lvl_3/lvl_a)
+###### [a. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_V_I/lvl_3/lvl_a)
 
 [**Art. 339***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_339_b) 
 
@@ -4936,7 +4938,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [2] Stirbt der Arbeitnehmer während des Arbeitsverhältnisses, so ist die Entschädigung dem überlebenden Ehegatten, der eingetragenen Partnerin, dem eingetragenen Partner oder den minderjährigen Kindern oder bei Fehlen dieser Erben anderen Personen auszurichten, denen gegenüber er eine Unterstützungspflicht erfüllt hat.
 
-###### [b. Höhe und Fäl­ligkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_V_I/lvl_3/lvl_b)
+###### [b. Höhe und Fäl­ligkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_V_I/lvl_3/lvl_b)
 
 
 [**Art. 339***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_339_c) 
@@ -4949,7 +4951,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [4] Die Entschädigung ist mit der Beendigung des Arbeitsverhältnisses fällig, jedoch kann eine spätere Fälligkeit durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag bestimmt oder vom Richter angeordnet werden.
 
-###### [c. Ersatz­leistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_V_I/lvl_3/lvl_c)
+###### [c. Ersatz­leistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_V_I/lvl_3/lvl_c)
 
 [**Art. 339***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_339_d) 
 
@@ -4957,9 +4959,9 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [2] Der Arbeitgeber hat auch insoweit keine Entschädigung zu leisten, als er dem Arbeitnehmer künftige Vorsorgeleistungen verbindlich zusichert oder durch einen Dritten zusichern lässt.
 
-##### [VII. Konkurrenz­verbot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_VI_I)
+##### [VII. Konkurrenz­verbot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_VI_I)
 
-###### [1. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_VI_I/lvl_1)
+###### [1. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_VI_I/lvl_1)
 
 [**Art. 340**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_340) 
 
@@ -4967,7 +4969,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [2] Das Konkurrenzverbot ist nur verbindlich, wenn das Arbeitsver­hält­nis dem Arbeitnehmer Einblick in den Kundenkreis oder in Fabri­ka­tions- und Geschäftsgeheimnisse gewährt und die Verwendung die­ser Kenntnisse den Arbeitgeber erheblich schädigen könnte.
 
-###### [2. Beschränkun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_VI_I/lvl_2)
+###### [2. Beschränkun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_VI_I/lvl_2)
 
 [**Art. 340***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_340_a) 
 
@@ -4975,7 +4977,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [2] Der Richter kann ein übermässiges Konkurrenzverbot unter Würdi­gung aller Umstände nach seinem Ermessen einschränken; er hat da­bei eine allfällige Gegenleistung des Arbeitgebers angemessen zu be­rück­sichtigen.
 
-###### [3. Folgen der Übertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_VI_I/lvl_3)
+###### [3. Folgen der Übertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_VI_I/lvl_3)
 
 
 [**Art. 340***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_340_b) 
@@ -4986,7 +4988,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [3] Ist es besonders schriftlich verabredet, so kann der Arbeitgeber ne­ben der Konventionalstrafe und dem Ersatz weiteren Schadens die Be­seiti­gung des vertragswidrigen Zustandes verlangen, sofern die ver­letzten oder bedrohten Interessen des Arbeitgebers und das Verhalten des Arbeitnehmers dies rechtfertigen.
 
-###### [4. Wegfall](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_G/lvl_VI_I/lvl_4)
+###### [4. Wegfall](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_G/lvl_VI_I/lvl_4)
 
 [**Art. 340***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_340_c) 
 
@@ -4994,7 +4996,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [2] Das Verbot fällt ferner dahin, wenn der Arbeitgeber das Arbeitsver­hältnis kündigt, ohne dass ihm der Arbeitnehmer dazu begründeten Anlass gegeben hat, oder wenn es dieser aus einem begründeten, vom Arbeitgeber zu verantwortenden Anlass auflöst.
 
-#### [H. Unverzicht­bar­keit und Ver­jäh­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_H)
+#### [H. Unverzicht­bar­keit und Ver­jäh­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_H)
 
 
 [**Art. 341**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_341) 
@@ -5003,7 +5005,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [2] Die allgemeinen Vorschriften über die Verjährung sind auf Forde­rungen aus dem Arbeitsverhältnis anwendbar.
 
-#### [I. Vorbehalt und zivilrechtliche Wir­kungen des öf­fentli­chen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_1/lvl_I)
+#### [I. Vorbehalt und zivilrechtliche Wir­kungen des öf­fentli­chen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_1/lvl_I)
 
 [**Art. 342**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_342) 
 
@@ -5017,19 +5019,19 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 [**Art. 343**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_343)
 
-### [Zweiter Abschnitt: Besondere Einzelarbeitsverträge](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2)
+### [Zweiter Abschnitt: Besondere Einzelarbeitsverträge](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2)
 
-#### [A.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A) [Der Lehrvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A)
+#### [A.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A) [Der Lehrvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A)
 
-##### [I. Begriff und Ent­stehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A/lvl_I)
+##### [I. Begriff und Ent­stehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A/lvl_I)
 
-###### [1. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A/lvl_I/lvl_1)
+###### [1. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A/lvl_I/lvl_1)
 
 [**Art. 344**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_344) 
 
 Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person für eine bestimmte Berufstätigkeit fachgemäss zu bilden, und die lernende Person, zu diesem Zweck Arbeit im Dienst des Arbeit­gebers zu leisten.
 
-###### [2. Entstehung und Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A/lvl_I/lvl_2)
+###### [2. Entstehung und Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A/lvl_I/lvl_2)
 
 [**Art. 344***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_344_a) 
 
@@ -5045,9 +5047,9 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [6] Abreden, die die lernende Person im freien Entschluss über die berufliche Tätigkeit nach beendigter Lehre beeinträchtigen, sind nichtig.
 
-##### [II. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A/lvl_I_I)
+##### [II. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A/lvl_I_I)
 
-###### [1. Besondere Pflichten der lernenden Person und ihrer gesetz­lichen Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A/lvl_I_I/lvl_1)
+###### [1. Besondere Pflichten der lernenden Person und ihrer gesetz­lichen Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A/lvl_I_I/lvl_1)
 
 
 
@@ -5057,7 +5059,7 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [2] Die gesetzliche Vertretung der lernenden Person hat den Arbeit­geber in der Erfüllung seiner Aufgabe nach Kräften zu unterstützen und das gute Einvernehmen zwischen dem Arbeitgeber und der lernenden Person zu fördern.
 
-###### [2. Besondere Pflichten des Arbeitgebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A/lvl_I_I/lvl_2)
+###### [2. Besondere Pflichten des Arbeitgebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A/lvl_I_I/lvl_2)
 
 
 [**Art. 345***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_345_a) 
@@ -5070,9 +5072,9 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [4] Er darf die lernende Person zu anderen als beruflichen Arbeiten und zu Akkordlohnarbeiten nur so weit einsetzen, als solche Arbeiten mit dem zu erlernenden Beruf in Zusammenhang stehen und die Bildung nicht beeinträchtigt wird.
 
-##### [III. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A/lvl_II_I)
+##### [III. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A/lvl_II_I)
 
-###### [1. Vorzeitige Auf­lö­sung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A/lvl_II_I/lvl_1)
+###### [1. Vorzeitige Auf­lö­sung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A/lvl_II_I/lvl_1)
 
 [**Art. 346**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_346) 
 
@@ -5085,7 +5087,7 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 |    b. die lernende Person nicht über die für die Bildung unentbehr­lichen körperlichen oder geistigen Anlagen verfügt oder gesundheitlich oder sittlich gefährdet ist; die lernende Person und gegebenenfalls deren gesetzliche Vertretung sind vorgängig anzuhören;  
 |    c. die Bildung nicht oder nur unter wesentlich veränderten Verhältnissen zu Ende geführt werden kann.
 
-###### [2. Lehrzeugnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_A/lvl_II_I/lvl_2)
+###### [2. Lehrzeugnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_A/lvl_II_I/lvl_2)
 
 [**Art. 346***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_346_a) 
 
@@ -5093,11 +5095,11 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [2] Auf Verlangen der lernenden Person oder deren gesetzlichen Vertretung hat sich das Zeugnis auch über die Fähigkeiten, die Leistungen und das Verhalten der lernenden Person auszusprechen.
 
-#### [B. Der Handelsreisendenvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B)
+#### [B. Der Handelsreisendenvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B)
 
-##### [I. Begriff und Ent­stehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_I)
+##### [I. Begriff und Ent­stehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_I)
 
-###### [1. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_I/lvl_1)
+###### [1. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_I/lvl_1)
 
 [**Art. 347**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_347) 
 
@@ -5105,7 +5107,7 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [2] Nicht als Handelsreisender gilt der Arbeitnehmer, der nicht vor­wie­gend eine Reisetätigkeit ausübt oder nur gelegentlich oder vor­über­gehend für den Arbeitgeber tätig ist, sowie der Reisende, der Geschäfte auf eigene Rechnung abschliesst.
 
-###### [2. Entstehung und Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_I/lvl_2)
+###### [2. Entstehung und Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_I/lvl_2)
 
 [**Art. 347***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_347_a) 
 
@@ -5121,10 +5123,10 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [3] Die mündliche Abrede gilt nur für die Festsetzung des Beginns der Arbeitsleistung, der Art und des Gebietes der Reisetätigkeit sowie für weitere Bestimmungen, die mit den gesetzlichen Vorschriften und dem schriftlichen Vertrag nicht in Widerspruch stehen.
 
-##### [II. Pflichten und Vollmachten des Handels­reisen­den](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_I_I)
+##### [II. Pflichten und Vollmachten des Handels­reisen­den](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_I_I)
 
 
-###### [1. Besondere Pflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_I_I/lvl_1)
+###### [1. Besondere Pflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_I_I/lvl_1)
 
 [**Art. 348**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_348) 
 
@@ -5134,7 +5136,7 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [3] Der Handelsreisende hat über seine Reisetätigkeit regelmässig Bericht zu erstatten, die erhaltenen Bestellungen dem Arbeitgeber sofort zu übermitteln und ihn von erheblichen Tatsachen, die seinen Kun­denkreis betreffen, in Kenntnis zu setzen.
 
-###### [2. Delcredere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_I_I/lvl_2)
+###### [2. Delcredere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_I_I/lvl_2)
 
 [**Art. 348***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_348_a) 
 
@@ -5144,7 +5146,7 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [3] Bei Versicherungsverträgen kann sich der reisende Versicherungs­vermittler schriftlich verpflichten, höchstens die Hälfte der Kosten der Einbringung von Forderungen zu tragen, wenn eine Prämie oder deren Teile nicht bezahlt werden und er deren Einbringung im Wege der Klage oder Zwangsvollstreckung verlangt.
 
-###### [3. Vollmachten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_I_I/lvl_3)
+###### [3. Vollmachten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_I_I/lvl_3)
 
 [**Art. 348***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_348_b) 
 
@@ -5154,10 +5156,10 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [3] Artikel 34 des Bundesgesetzes vom 2. April 1908 über den Versi­cherungsvertrag bleibt vorbehalten.
 
-##### [III. Besondere Pflichten des Ar­beit­gebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_II_I)
+##### [III. Besondere Pflichten des Ar­beit­gebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_II_I)
 
 
-###### [1. Tätigkeits­kreis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_II_I/lvl_1)
+###### [1. Tätigkeits­kreis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_II_I/lvl_1)
 
 [**Art. 349**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_349) 
 
@@ -5165,9 +5167,9 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [2] Der Arbeitgeber kann die vertragliche Bestimmung des Reisege­bie­tes oder Kundenkreises einseitig abändern, wenn ein begründeter Anlass eine Änderung vor Ablauf der Kündigungsfrist notwendig macht; je­doch bleiben diesfalls Entschädigungsansprüche und das Recht des Handelsreisenden zur Auflösung des Arbeitsverhältnisses aus wichti­gem Grund vorbehalten.
 
-###### [2. Lohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_II_I/lvl_2)
+###### [2. Lohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_II_I/lvl_2)
 
-###### [a. im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_II_I/lvl_2/lvl_a)
+###### [a. im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_II_I/lvl_2/lvl_a)
 
 
 [**Art. 349***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_349_a) 
@@ -5178,7 +5180,7 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [3] Für eine Probezeit von höchstens zwei Monaten kann durch schrift­liche Abrede der Lohn frei bestimmt werden.
 
-###### [b. Provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_II_I/lvl_2/lvl_b)
+###### [b. Provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_II_I/lvl_2/lvl_b)
 
 [**Art. 349***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_349_b) 
 
@@ -5188,7 +5190,7 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [3] Ist im Zeitpunkt der Fälligkeit der Provision der Wert eines Geschäftes noch nicht genau bestimmbar, so ist die Provision zunächst auf dem vom Arbeitgeber geschätzten Mindestwert und der Rest spä­te­s­tens bei Ausführung des Geschäftes auszurichten.
 
-###### [c. bei Ver­hinderung an der Rei­se­tätigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_II_I/lvl_2/lvl_c)
+###### [c. bei Ver­hinderung an der Rei­se­tätigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_II_I/lvl_2/lvl_c)
 
 
 [**Art. 349***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_349_c) 
@@ -5199,7 +5201,7 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [3] Erhält der Handelsreisende bei unverschuldeter Verhinderung an der Reisetätigkeit gleichwohl den vollen Lohn, so hat er auf Verlangen des Arbeitgebers Arbeit in dessen Betrieb zu leisten, sofern er sie zu lei­s­ten vermag und sie ihm zugemutet werden kann.
 
-###### [3. Auslagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_II_I/lvl_3)
+###### [3. Auslagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_II_I/lvl_3)
 
 [**Art. 349***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_349_d) 
 
@@ -5207,7 +5209,7 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [2] Abreden, dass der Auslagenersatz ganz oder teilweise im festen Gehalt oder in der Provision eingeschlossen sein soll, sind nichtig.
 
-###### [4. Retentions­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_II_I/lvl_4)
+###### [4. Retentions­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_II_I/lvl_4)
 
 [**Art. 349***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_349_e) 
 
@@ -5215,9 +5217,9 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [2] An Fahrausweisen, Preistarifen, Kundenverzeichnissen und andern Unterlagen kann das Retentionsrecht nicht ausgeübt werden.
 
-##### [IV. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_I_V)
+##### [IV. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_I_V)
 
-###### [1. Besondere Kündi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_I_V/lvl_1)
+###### [1. Besondere Kündi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_I_V/lvl_1)
 
 [**Art. 350**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_350) 
 
@@ -5225,7 +5227,7 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [2] Unter den gleichen Voraussetzungen darf der Handelsreisende dem Arbeitgeber, der ihn bis zum Abschluss der Saison beschäftigt hat, bis zum Beginn der nächsten nur auf das Ende des zweiten der Kündi­gung folgenden Monats kündigen.
 
-###### [2. Besondere Fol­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_B/lvl_I_V/lvl_2)
+###### [2. Besondere Fol­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_B/lvl_I_V/lvl_2)
 
 [**Art. 350***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_350_a) 
 
@@ -5233,17 +5235,17 @@ Durch den Lehrvertrag verpflichten sich der Arbeitgeber, die lernende Person fü
 
 [2] Auf den Zeitpunkt der Beendigung des Arbeitsverhältnisses hat der Handelsreisende die ihm für die Reisetätigkeit zur Verfügung gestell­ten Muster und Modelle, Preistarife, Kundenverzeichnisse und andern Unterlagen zurückzugeben; das Retentionsrecht bleibt vorbehalten.
 
-#### [C. Der Heimarbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C)
+#### [C. Der Heimarbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C)
 
-##### [I. Begriff und Ent­stehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_I)
+##### [I. Begriff und Ent­stehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_I)
 
-###### [1. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_I/lvl_1)
+###### [1. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_I/lvl_1)
 
 [**Art. 351**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_351) 
 
 Durch den Heimarbeitsvertrag verpflichtet sich der Heimarbeitneh­mer, in seiner Wohnung oder in einem andern, von ihm be­stimm­ten Arbeitsraum allein oder mit Familienangehörigen Arbeiten im Lohn für den Arbeitgeber auszuführen.
 
-###### [2. Bekanntgabe der Arbeits­bedingungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_I/lvl_2)
+###### [2. Bekanntgabe der Arbeits­bedingungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_I/lvl_2)
 
 [**Art. 351***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_351_a) 
 
@@ -5251,10 +5253,10 @@ Durch den Heimarbeitsvertrag verpflichtet sich der Heimarbeitneh­mer, in seiner
 
 [2] Werden die Angaben über den Lohn und über die Entschädigung für das vom Heimarbeitnehmer zu beschaffende Material nicht vor der Ausgabe der Arbeit schriftlich bekannt gegeben, so gelten dafür die üblichen Arbeitsbedingungen.
 
-##### [II. Besondere Pflichten des Arbeitnehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_I_I)
+##### [II. Besondere Pflichten des Arbeitnehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_I_I)
 
 
-###### [1. Ausführung der Arbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_I_I/lvl_1)
+###### [1. Ausführung der Arbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_I_I/lvl_1)
 
 [**Art. 352**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_352) 
 
@@ -5262,7 +5264,7 @@ Durch den Heimarbeitsvertrag verpflichtet sich der Heimarbeitneh­mer, in seiner
 
 [2] Wird aus Verschulden des Heimarbeitnehmers die Arbeit mangel­haft ausgeführt, so ist er zur unentgeltlichen Verbesserung des Arbeit­ser­zeugnisses verpflichtet, soweit dadurch dessen Mängel behoben wer­den können.
 
-###### [2. Material und Ar­beitsgeräte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_I_I/lvl_2)
+###### [2. Material und Ar­beitsgeräte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_I_I/lvl_2)
 
 
 [**Art. 352***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_352_a) 
@@ -5273,10 +5275,10 @@ Durch den Heimarbeitsvertrag verpflichtet sich der Heimarbeitneh­mer, in seiner
 
 [3] Hat der Heimarbeitnehmer Material oder Geräte, die ihm übergeben wurden, schuldhaft verdorben, so haftet er dem Arbeitgeber höchstens für den Ersatz der Selbstkosten.
 
-##### [III. Besondere Pflichten des Ar­beit­gebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_II_I)
+##### [III. Besondere Pflichten des Ar­beit­gebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_II_I)
 
 
-###### [1. Abnahme des Arbeits­erzeugnis­ses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_II_I/lvl_1)
+###### [1. Abnahme des Arbeits­erzeugnis­ses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_II_I/lvl_1)
 
 [**Art. 353**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_353) 
 
@@ -5284,9 +5286,9 @@ Durch den Heimarbeitsvertrag verpflichtet sich der Heimarbeitneh­mer, in seiner
 
 [2] Unterlässt der Arbeitgeber die rechtzeitige Bekanntgabe der Mängel, so gilt die Arbeit als abgenommen.
 
-###### [2. Lohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_II_I/lvl_2)
+###### [2. Lohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_II_I/lvl_2)
 
-###### [a. Ausrichtung des Lohnes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_II_I/lvl_2/lvl_a)
+###### [a. Ausrichtung des Lohnes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_II_I/lvl_2/lvl_a)
 
 [**Art. 353***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_353_a) 
 
@@ -5294,7 +5296,7 @@ Durch den Heimarbeitsvertrag verpflichtet sich der Heimarbeitneh­mer, in seiner
 
 [2] Bei jeder Lohnzahlung ist dem Heimarbeitnehmer eine schriftliche Abrechnung zu übergeben, in der für Lohnabzüge der Grund anzuge­ben ist.
 
-###### [b. Lohn bei Ver­hin­derung an der Ar­beits­lei­stung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_II_I/lvl_2/lvl_b)
+###### [b. Lohn bei Ver­hin­derung an der Ar­beits­lei­stung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_II_I/lvl_2/lvl_b)
 
 [**Art. 353***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_353_b) 
 
@@ -5302,7 +5304,7 @@ Durch den Heimarbeitsvertrag verpflichtet sich der Heimarbeitneh­mer, in seiner
 
 [2] In den anderen Fällen ist der Arbeitgeber zur Ausrichtung des Loh­nes nach Massgabe der Artikel 324 und 324*a* nicht verpflichtet.
 
-##### [IV. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_C/lvl_I_V)
+##### [IV. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_C/lvl_I_V)
 
 [**Art. 354**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_354) 
 
@@ -5310,20 +5312,20 @@ Durch den Heimarbeitsvertrag verpflichtet sich der Heimarbeitneh­mer, in seiner
 
 [2] Steht der Heimarbeitnehmer ununterbrochen im Dienst des Arbeit­gebers, so gilt das Arbeitsverhältnis als auf unbestimmte Zeit, in den an­deren Fällen als auf bestimmte Zeit eingegangen, sofern nichts anderes verabredet ist.
 
-#### [D. Anwendbarkeit der allgemeinen Vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_2/lvl_D)
+#### [D. Anwendbarkeit der allgemeinen Vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_2/lvl_D)
 
 [**Art. 355**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_355) 
 
 Auf den Lehrvertrag, den Handelsreisendenvertrag und den Heim­arbeitsvertrag sind die allgemeinen Vorschriften über den Einzel­arbeits­vertrag ergänzend anwendbar.
 
-### [Dritter Abschnitt: Gesamtarbeitsvertrag und Normalarbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3)
+### [Dritter Abschnitt: Gesamtarbeitsvertrag und Normalarbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3)
 
 
-#### [A. Gesamtarbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A)
+#### [A. Gesamtarbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A)
 
-##### [I. Begriff, Inhalt, Form und Dauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A/lvl_I)
+##### [I. Begriff, Inhalt, Form und Dauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A/lvl_I)
 
-###### [1. Begriff und In­halt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A/lvl_I/lvl_1)
+###### [1. Begriff und In­halt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A/lvl_I/lvl_1)
 
 [**Art. 356**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_356) 
 
@@ -5335,7 +5337,7 @@ Auf den Lehrvertrag, den Handelsreisendenvertrag und den Heim­arbeitsvertrag si
 
 [4] Sind an einem Gesamtarbeitsvertrag auf Arbeitgeber- oder Arbeit­nehmerseite von Anfang an oder auf Grund des nachträglichen Bei­tritts eines Verbandes mit Zustimmung der Vertragsparteien mehrere Verbände beteiligt, so stehen diese im Verhältnis gleicher Rechte und Pflichten zueinander; abweichende Vereinbarungen sind nichtig.
 
-###### [2. Freiheit der Organisation und der Berufs­ausübung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A/lvl_I/lvl_2)
+###### [2. Freiheit der Organisation und der Berufs­ausübung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A/lvl_I/lvl_2)
 
 
 [**Art. 356***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_356_a) 
@@ -5346,7 +5348,7 @@ Auf den Lehrvertrag, den Handelsreisendenvertrag und den Heim­arbeitsvertrag si
 
 [3] Bestimmungen und Abreden im Sinne des vorstehenden Absatzes sind ausnahmsweise gültig, wenn sie durch überwiegende schutz­wür­dige Interessen, namentlich zum Schutz der Sicherheit und Ge­sundheit von Personen oder der Qualität der Arbeit gerechtfertigt sind; jedoch gilt nicht als schutzwürdig das Interesse, neue Berufs­angehöri­ge fern­zuhalten.
 
-###### [3. Anschluss](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A/lvl_I/lvl_3)
+###### [3. Anschluss](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A/lvl_I/lvl_3)
 
 [**Art. 356***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_356_b) 
 
@@ -5356,7 +5358,7 @@ Auf den Lehrvertrag, den Handelsreisendenvertrag und den Heim­arbeitsvertrag si
 
 [3] Bestimmungen eines Gesamtarbeitsvertrages und Abreden zwischen den Vertragsparteien, durch die Mitglieder von Verbänden zum Anschluss gezwungen werden sollen, sind nichtig, wenn diesen Ver­bän­den die Beteiligung am Gesamtarbeitsvertrag oder der Abschluss ei­nes sinngemäss gleichen Vertrages nicht offensteht.
 
-###### [4. Form und Dauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A/lvl_I/lvl_4)
+###### [4. Form und Dauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A/lvl_I/lvl_4)
 
 
 [**Art. 356***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_356_c) 
@@ -5365,9 +5367,9 @@ Auf den Lehrvertrag, den Handelsreisendenvertrag und den Heim­arbeitsvertrag si
 
 [2] Ist der Gesamtarbeitsvertrag nicht auf bestimmte Zeit abgeschlossen und sieht er nichts anderes vor, so kann er von jeder Vertragspartei mit Wirkung für alle anderen Parteien nach Ablauf eines Jahres jeder­zeit auf sechs Monate gekündigt werden. Diese Bestimmung gilt sinn­gemäss auch für den Anschluss.
 
-##### [II. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A/lvl_I_I)
+##### [II. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A/lvl_I_I)
 
-###### [1. auf die betei­lig­ten Arbeit­geber und Arbeit­nehmer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A/lvl_I_I/lvl_1)
+###### [1. auf die betei­lig­ten Arbeit­geber und Arbeit­nehmer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A/lvl_I_I/lvl_1)
 
 
 [**Art. 357**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_357) 
@@ -5376,7 +5378,7 @@ Auf den Lehrvertrag, den Handelsreisendenvertrag und den Heim­arbeitsvertrag si
 
 [2] Abreden zwischen beteiligten Arbeitgebern und Arbeitnehmern, die gegen die unabdingbaren Bestimmungen verstossen, sind nichtig und werden durch die Bestimmungen des Gesamtarbeitsvertrages ersetzt; jedoch können abweichende Abreden zugunsten der Arbeitnehmer getroffen werden.
 
-###### [2. unter den Ver­tragsparteien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A/lvl_I_I/lvl_2)
+###### [2. unter den Ver­tragsparteien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A/lvl_I_I/lvl_2)
 
 [**Art. 357***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_357_a) 
 
@@ -5384,7 +5386,7 @@ Auf den Lehrvertrag, den Handelsreisendenvertrag und den Heim­arbeitsvertrag si
 
 [2] Jede Vertragspartei ist verpflichtet, den Arbeitsfrieden zu wahren und sich insbesondere jeder Kampfmassnahme zu enthalten, soweit es sich um Gegenstände handelt, die im Gesamtarbeitsvertrag geregelt sind; die Friedenspflicht gilt nur unbeschränkt, wenn dies ausdrück­lich be­stimmt ist.
 
-###### [3. gemeinsame Durchführung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A/lvl_I_I/lvl_3)
+###### [3. gemeinsame Durchführung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A/lvl_I_I/lvl_3)
 
 [**Art. 357***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_357_b) 
 
@@ -5399,15 +5401,15 @@ Auf den Lehrvertrag, den Handelsreisendenvertrag und den Heim­arbeitsvertrag si
 
 [3] Auf das Verhältnis der Vertragsparteien unter sich sind die Vor­schriften über die einfache Gesellschaft sinngemäss anwendbar, wenn der Gesamtarbeitsvertrag nichts anderes bestimmt.
 
-##### [III. Verhältnis zum zwingenden Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_A/lvl_II_I)
+##### [III. Verhältnis zum zwingenden Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_A/lvl_II_I)
 
 [**Art. 358**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_358) 
 
 Das zwingende Recht des Bundes und der Kantone geht den Bestim­mungen des Gesamtarbeitsvertrages vor, jedoch können zugunsten der Arbeitnehmer abweichende Bestimmungen aufgestellt werden, wenn sich aus dem zwingenden Recht nichts anderes ergibt.
 
-#### [B. Normalarbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B)
+#### [B. Normalarbeitsvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B)
 
-##### [I. Begriff und In­halt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B/lvl_I)
+##### [I. Begriff und In­halt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B/lvl_I)
 
 
 [**Art. 359**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_359) 
@@ -5418,7 +5420,7 @@ Das zwingende Recht des Bundes und der Kantone geht den Bestim­mungen des Gesam
 
 [3] Artikel 358 ist auf den Normalarbeitsvertrag sinngemäss anwendbar.
 
-##### [II. Zuständigkeit und Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B/lvl_I_I)
+##### [II. Zuständigkeit und Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B/lvl_I_I)
 
 [**Art. 359***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_359_a) 
 
@@ -5430,7 +5432,7 @@ Das zwingende Recht des Bundes und der Kantone geht den Bestim­mungen des Gesam
 
 [4] Für die Aufhebung und Abänderung eines Normalarbeitsvertrages gilt das gleiche Verfahren.
 
-##### [III. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B/lvl_II_I)
+##### [III. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B/lvl_II_I)
 
 [**Art. 360**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_360) 
 
@@ -5438,9 +5440,9 @@ Das zwingende Recht des Bundes und der Kantone geht den Bestim­mungen des Gesam
 
 [2] Der Normalarbeitsvertrag kann vorsehen, dass Abreden, die von ein­zelnen seiner Bestimmungen abweichen, zu ihrer Gültigkeit der schrift­lichen Form bedürfen.
 
-##### [IV. Mindest­löhne](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B/lvl_I_V)
+##### [IV. Mindest­löhne](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B/lvl_I_V)
 
-###### [1. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B/lvl_I_V/lvl_1)
+###### [1. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_1)
 
 [**Art. 360***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_360_a)
 
@@ -5450,7 +5452,7 @@ Das zwingende Recht des Bundes und der Kantone geht den Bestim­mungen des Gesam
 
 [3] Wird wiederholt gegen die Bestimmungen über den Mindestlohn in einem Normalarbeitsvertrag nach Absatz 1 verstossen oder liegen Hinweise vor, dass der Wegfall des Normalarbeitsvertrages zu erneuten Missbräuchen nach Absatz 1 führen kann, so kann die zuständige Behörde den Normalarbeitsvertrag auf Antrag der tripartiten Kommission befristet verlängern.
 
-###### [2. Tripartite Kommissionen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B/lvl_I_V/lvl_2)
+###### [2. Tripartite Kommissionen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_2)
 
 
 [**Art. 360***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_360_b)
@@ -5467,7 +5469,7 @@ Das zwingende Recht des Bundes und der Kantone geht den Bestim­mungen des Gesam
 
 [6] Die tripartiten Kommissionen können beim Bundesamt für Statistik auf Gesuch die für ihre Abklärungen notwendigen Personendaten beziehen, die in Firmen-Gesamtarbeitsverträgen enthalten sind.
 
-###### [3. Amts­geheimnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B/lvl_I_V/lvl_3)
+###### [3. Amts­geheimnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_3)
 
 [**Art. 360***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_360_c)
 
@@ -5475,7 +5477,7 @@ Das zwingende Recht des Bundes und der Kantone geht den Bestim­mungen des Gesam
 
 [2] Die Pflicht zur Verschwiegenheit bleibt auch nach dem Ausscheiden aus der tripartiten Kommission bestehen.
 
-###### [4. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B/lvl_I_V/lvl_4)
+###### [4. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_4)
 
 [**Art. 360***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_360_d)
 
@@ -5483,22 +5485,22 @@ Das zwingende Recht des Bundes und der Kantone geht den Bestim­mungen des Gesam
 
 [2] Durch Abrede darf vom Normalarbeitsvertrag nach Artikel 360*a* nicht zu Ungunsten des Arbeitnehmers abgewichen werden.
 
-###### [5. Klagerecht der Verbände](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B/lvl_I_V/lvl_5)
+###### [5. Klagerecht der Verbände](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_5)
 
 
 [**Art. 360***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_360_e)
 
 Den Arbeitgeber- und den Arbeitnehmerverbänden steht ein Anspruch auf gerichtliche Fest­stellung zu, ob ein Arbeitgeber den Normal­arbeits­vertrag nach Artikel 360*a* einhält.
 
-###### [6. Meldung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_3/lvl_B/lvl_I_V/lvl_6)
+###### [6. Meldung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_6)
 
 [**Art. 360***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_360_f)
 
 Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normal­arbeits­vertrag, so stellt er dem zuständigen Bundesamt ein Exemplar zu.
 
-### [Vierter Abschnitt: Zwingende Vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_4)
+### [Vierter Abschnitt: Zwingende Vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_4)
 
-#### [A. Unabänder­lich­keit zuun­gunsten des Ar­beitgebers und des Arbeit­nehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_4/lvl_A)
+#### [A. Unabänder­lich­keit zuun­gunsten des Ar­beitgebers und des Arbeit­nehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_4/lvl_A)
 
 
 [**Art. 361**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_361) 
@@ -5516,7 +5518,7 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normal­arbeits­vertr
 |  |  |
 | Artikel 331: | Absätze 1 und 2 (Zuwendungen für die Personalfür­sor­ge) |
 | Artikel 331*b:* | (Abtretung und Verpfändung von Forderungen auf Vorsorgeleistungen) |
-| *...* |  |
+| *…* |  |
 |  |  |
 | Artikel 334: | Absatz 3 (Kündigung beim langjährigen Arbeitsverhält­nis) |
 | Artikel 335: | (Kündigung des Arbeitsverhältnisses) |
@@ -5532,7 +5534,7 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normal­arbeits­vertr
 | Artikel 339*a*: | (Rückgabepflichten) |
 | Artikel 340*b*: | Absätze 1 und 2 (Folgen der Übertretung des Konkur­renz­ver­botes) |
 | Artikel 342: | Absatz 2 (Zivilrechtliche Wirkungen des öffentlichen Rechts) |
-| *...* |  |
+| *…* |  |
 | Artikel 346: | (Vorzeitige Auflösung des Lehrvertrages) |
 | Artikel 349*c*: | Absatz 3 (Verhinderung an der Reisetätigkeit) |
 | Artikel 350: | (Besondere Kündigung) |
@@ -5540,10 +5542,10 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normal­arbeits­vertr
 
 [2] Abreden sowie Bestimmungen von Normalarbeitsverträgen und Gesamtarbeitsverträgen, die von den vorstehend angeführten Vorschrif­ten zuungunsten des Arbeitgebers oder des Arbeitnehmers abweichen, sind nichtig.
 
-#### [B. Unabänder­lichkeit zuun­gunsten des Ar­beitnehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/sec_4/lvl_B)
+#### [B. Unabänder­lichkeit zuun­gunsten des Ar­beitnehmers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_4/lvl_B)
 
 
-[**Art. 362**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_362) 
+##### [**Art. 362**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_10/chap_4/lvl_B/lvl_d4e5578)
 
 [1] Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften nicht zuungunsten der Arbeitnehmerin oder des Arbeitnehmers abgewichen werden:
 
@@ -5579,7 +5581,7 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normal­arbeits­vertr
 | Artikel 330*a*: | (Zeugnis) |
 | Artikel 331: | Absätze 3 und 4 (Beitragsleistung und Auskunftspflicht bei Personalfürsorge) |
 | Artikel 331*a*: | (Beginn und Ende des Vorsorgeschutzes) |
-| *...* |  |
+| *…* |  |
 | Artikel 332: | Absatz 4 (Vergütung bei Erfindungen) |
 | Artikel 333: | Absatz 3 (Haftung bei Übergang des Arbeits­verhältnisses) |
 | Artikel 335*c*: | Absatz 3 (Kündigungsfristen) |
@@ -5920,9 +5922,9 @@ Das Recht, eine Übersetzung des Werkes zu veranstalten, bleibt, wenn nichts and
 
 ## [Dreizehnter Titel: Der Auftrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13)
 
-### [Erster Abschnitt: Der einfache Auftrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1)
+### [Erster Abschnitt: Der einfache Auftrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1)
 
-#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_A)
+#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_A)
 
 [**Art. 394**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_394) 
 
@@ -5932,15 +5934,15 @@ Das Recht, eine Übersetzung des Werkes zu veranstalten, bleibt, wenn nichts and
 
 [3] Eine Vergütung ist zu leisten, wenn sie verabredet oder üblich ist.
 
-#### [B. Entstehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_B)
+#### [B. Entstehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_B)
 
 [**Art. 395**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_395) 
 
 Als angenommen gilt ein nicht sofort abgelehnter Auftrag, wenn er sich auf die Besorgung solcher Geschäfte bezieht, die der Beauftragte kraft obrigkeitlicher Bestellung oder gewerbsmässig betreibt oder zu deren Besorgung er sich öffentlich empfohlen hat.
 
-#### [C. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C)
+#### [C. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C)
 
-##### [I. Umfang des Auf­trages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_I)
+##### [I. Umfang des Auf­trages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_I)
 
 [**Art. 396**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_396) 
 
@@ -5950,9 +5952,9 @@ Als angenommen gilt ein nicht sofort abgelehnter Auftrag, wenn er sich auf die B
 
 [3] Einer besonderen Ermächtigung bedarf der Beauftragte, wenn es sich darum handelt, einen Vergleich abzuschliessen, ein Schieds­gericht anzunehmen, wechselrechtliche Verbindlichkeiten einzugehen, Grundstücke zu veräussern oder zu belasten oder Schenkungen zu machen.
 
-##### [II. Ver­pflichtungen des Be­auf­tragten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_I_I)
+##### [II. Ver­pflichtungen des Be­auf­tragten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_I_I)
 
-###### [1. Vorschrifts­gemässe Aus­führung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_I_I/lvl_1)
+###### [1. Vorschrifts­gemässe Aus­führung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_I_I/lvl_1)
 
 
 [**Art. 397**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_397) 
@@ -5961,17 +5963,17 @@ Als angenommen gilt ein nicht sofort abgelehnter Auftrag, wenn er sich auf die B
 
 [2] Ist der Beauftragte, ohne dass diese Voraussetzungen zutreffen, zum Nachteil des Auftraggebers von dessen Vorschriften abgewichen, so gilt der Auftrag nur dann als erfüllt, wenn der Beauftragte den daraus erwachsenen Nachteil auf sich nimmt.
 
-###### [1[bis]. Meldepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_I_I/lvl_1_bis)
+###### [1[bis]. Meldepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_I_I/lvl_1_bis)
 
 [**Art. 397***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_397_a)
 
 Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauftragte die Erwachsenenschutzbehörde am Wohnsitz des Auftraggebers benachrichtigen, wenn eine solche Meldung zur Interessenwahrung angezeigt erscheint.
 
-###### [2. Haftung für ge­treue Aus­füh­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_I_I/lvl_2)
+###### [2. Haftung für ge­treue Aus­füh­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_I_I/lvl_2)
 
 
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_I_I/lvl_2/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_I_I/lvl_2/lvl_a)
 
 
 [**Art. 398**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_398) 
@@ -5982,7 +5984,7 @@ Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauf
 
 [3] Er hat das Geschäft persönlich zu besorgen, ausgenommen, wenn er zur Übertragung an einen Dritten ermächtigt oder durch die Umstände genötigt ist, oder wenn eine Vertretung übungsgemäss als zulässig betrachtet wird.
 
-###### [b. Bei Über­tragung der Besor­gung auf einen Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_I_I/lvl_2/lvl_b)
+###### [b. Bei Über­tragung der Besor­gung auf einen Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_I_I/lvl_2/lvl_b)
 
 [**Art. 399**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_399) 
 
@@ -5992,7 +5994,7 @@ Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauf
 
 [3] In beiden Fällen kann der Auftraggeber die Ansprüche, die dem Beauftragten gegen den Dritten zustehen, unmittelbar gegen diesen gel­tend machen.
 
-###### [3. Rechen­schaftsab­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_I_I/lvl_3)
+###### [3. Rechen­schaftsab­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_I_I/lvl_3)
 
 [**Art. 400**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_400) 
 
@@ -6000,7 +6002,7 @@ Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauf
 
 [2] Gelder, mit deren Ablieferung er sich im Rückstande befindet, hat er zu verzinsen.
 
-###### [4. Übergang der erworbenen Rechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_I_I/lvl_4)
+###### [4. Übergang der erworbenen Rechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_I_I/lvl_4)
 
 
 [**Art. 401**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_401) 
@@ -6011,7 +6013,7 @@ Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauf
 
 [3] Ebenso kann der Auftraggeber im Konkurse des Beauftragten, unter Vorbehalt der Retentionsrechte desselben, die beweglichen Sachen herausverlangen, die dieser in eigenem Namen, aber für Rechnung des Auftraggebers zu Eigentum erworben hat.
 
-##### [III. Ver­pflichtungen des Auf­traggebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_II_I)
+##### [III. Ver­pflichtungen des Auf­traggebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_II_I)
 
 [**Art. 402**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_402) 
 
@@ -6019,7 +6021,7 @@ Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauf
 
 [2] Er haftet dem Beauftragten für den aus dem Auftrage erwachsenen Schaden, soweit er nicht zu beweisen vermag, dass der Schaden ohne sein Verschulden entstanden ist.
 
-##### [IV. Haftung mehre­rer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_C/lvl_I_V)
+##### [IV. Haftung mehre­rer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_C/lvl_I_V)
 
 [**Art. 403**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_403) 
 
@@ -6027,11 +6029,11 @@ Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauf
 
 [2] Haben mehrere Personen einen Auftrag gemeinschaftlich übernom­men, so haften sie solidarisch und können den Auftraggeber, soweit sie nicht zur Übertragung der Besorgung an einen Dritten ermächtigt sind, nur durch gemeinschaftliches Handeln verpflichten.
 
-#### [D. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_D)
+#### [D. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_D)
 
-##### [I. Gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_D/lvl_I)
+##### [I. Gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_D/lvl_I)
 
-###### [1. Widerruf, Kündi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_D/lvl_I/lvl_1)
+###### [1. Widerruf, Kündi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_D/lvl_I/lvl_1)
 
 [**Art. 404**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_404) 
 
@@ -6039,7 +6041,7 @@ Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauf
 
 [2] Erfolgt dies jedoch zur Unzeit, so ist der zurücktretende Teil zum Ersatze des dem anderen verursachten Schadens verpflichtet.
 
-###### [2. Tod, Hand­lungs­unfähig­keit, Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_D/lvl_I/lvl_2)
+###### [2. Tod, Hand­lungs­unfähig­keit, Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_D/lvl_I/lvl_2)
 
 [**Art. 405**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_405) 
 
@@ -6047,17 +6049,17 @@ Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauf
 
 [2] Falls jedoch das Erlöschen des Auftrages die Interessen des Auftrag­gebers gefährdet, so ist der Beauftragte, sein Erbe oder sein Vertreter verpflichtet, für die Fortführung des Geschäftes zu sorgen, bis der Auftraggeber, sein Erbe oder sein Vertreter in der Lage ist, es selbst zu tun.
 
-##### [II. Wirkung des Erlöschens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1/lvl_D/lvl_I_I)
+##### [II. Wirkung des Erlöschens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1/lvl_D/lvl_I_I)
 
 
 [**Art. 406**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_406) 
 
 Aus den Geschäften, die der Beauftragte führt, bevor er von dem Er­lö­schen des Auftrages Kenntnis erhalten hat, wird der Auftraggeber oder dessen Erbe verpflichtet, wie wenn der Auftrag noch bestanden hätte.
 
-### [Erster Abschnitt[bis]:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis) [Auftrag zur Ehe- oder zur Partnerschaftsvermittlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis)
+### [Erster Abschnitt[bis]:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis) [Auftrag zur Ehe- oder zur Partnerschaftsvermittlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis)
 
 
-#### [A. Begriff und anwendbares Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis/lvl_A)
+#### [A. Begriff und anwendbares Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis/lvl_A)
 
 
 
@@ -6067,12 +6069,12 @@ Aus den Geschäften, die der Beauftragte führt, bevor er von dem Er­lö­schen
 
 [2] Auf die Ehe- oder die Partnerschaftsvermittlung sind die Vorschrif­ten über den einfachen Auftrag ergänzend anwendbar.
 
-#### [B. Vermittlung von oder an Personen aus dem Ausland](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis/lvl_B)
+#### [B. Vermittlung von oder an Personen aus dem Ausland](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis/lvl_B)
 
 
 
 
-##### [I. Kosten der Rückreise](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis/lvl_B/lvl_I)
+##### [I. Kosten der Rückreise](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis/lvl_B/lvl_I)
 
 
 [**Art. 406***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_406_b) 
@@ -6083,7 +6085,7 @@ Aus den Geschäften, die der Beauftragte führt, bevor er von dem Er­lö­schen
 
 [3] Der Beauftragte kann vom Auftraggeber nur im Rahmen des im Ver­trag vorgesehenen Höchstbetrags Ersatz für die Rückreisekosten ver­langen.
 
-##### [II. Bewilligungs­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis/lvl_B/lvl_I_I)
+##### [II. Bewilligungs­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis/lvl_B/lvl_I_I)
 
 [**Art. 406***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_406_c) 
 
@@ -6096,7 +6098,7 @@ Aus den Geschäften, die der Beauftragte führt, bevor er von dem Er­lö­schen
 |    b. die Sanktionen, die bei Zuwiderhandlungen gegen den Beauf­tragten verhängt werden;  
 |    c. die Pflicht des Beauftragten, die Kosten für die Rückreise der zu vermittelnden Personen sicherzustellen.
 
-#### [C. Form und Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis/lvl_C)
+#### [C. Form und Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis/lvl_C)
 
 
 [**Art. 406***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_406_d) 
@@ -6112,7 +6114,7 @@ Der Vertrag bedarf zu seiner Gültigkeit der schriftlichen Form und hat folgende
 |    6. das Verbot für den Beauftragten, vor Ablauf der Frist von 14 Tagen eine Zahlung entgegenzunehmen;  
 |    7. das Recht des Auftraggebers, den Vertrag jederzeit entschädi­gungslos zu kündigen, unter Vorbehalt der Schadenersatz­pflicht wegen Kündigung zur Unzeit.
 
-#### [D. Inkrafttreten, Widerruf, Kündigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis/lvl_D)
+#### [D. Inkrafttreten, Widerruf, Kündigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis/lvl_D)
 
 [**Art. 406***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_406_e)
 
@@ -6122,11 +6124,11 @@ Der Vertrag bedarf zu seiner Gültigkeit der schriftlichen Form und hat folgende
 
 [3] Die Kündigung bedarf der Schriftform.
 
-#### [E. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis/lvl_E)
+#### [E. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis/lvl_E)
 
 [**Art. 406***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_406_f)
 
-#### [F. Information und Datenschutz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis/lvl_F)
+#### [F. Information und Datenschutz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis/lvl_F)
 
 
 [**Art. 406***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_406_g) 
@@ -6135,15 +6137,15 @@ Der Vertrag bedarf zu seiner Gültigkeit der schriftlichen Form und hat folgende
 
 [2] Bei der Bearbeitung der Personendaten des Auftraggebers ist der Beauftragte zur Geheimhaltung verpflichtet; die Bestimmungen des Bun­desgesetzes vom 19. Juni 1992 über den Datenschutz bleiben vor­behalten.
 
-#### [G. Herabsetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_1_bis/lvl_G)
+#### [G. Herabsetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_1_bis/lvl_G)
 
 [**Art. 406***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_406_h) 
 
 Sind unverhältnismässig hohe Vergütungen oder Kosten vereinbart worden, so kann sie das Gericht auf Antrag des Auftraggebers auf einen angemessenen Betrag herabsetzen.
 
-### [Zweiter Abschnitt: Der Kreditbrief und der Kreditauftrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_2)
+### [Zweiter Abschnitt: Der Kreditbrief und der Kreditauftrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_2)
 
-#### [A. Kreditbrief](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_2/lvl_A)
+#### [A. Kreditbrief](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_2/lvl_A)
 
 [**Art. 407**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_407) 
 
@@ -6153,9 +6155,9 @@ Sind unverhältnismässig hohe Vergütungen oder Kosten vereinbart worden, so ka
 
 [3] Der im Kreditbriefe enthaltene Auftrag gilt nur dann als angenom­men, wenn die Annahme bezüglich eines bestimmten Betrages erklärt worden ist.
 
-#### [B. Kreditauftrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_2/lvl_B)
+#### [B. Kreditauftrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_2/lvl_B)
 
-##### [I. Begriff und Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_2/lvl_B/lvl_I)
+##### [I. Begriff und Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_2/lvl_B/lvl_I)
 
 [**Art. 408**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_408) 
 
@@ -6163,28 +6165,28 @@ Sind unverhältnismässig hohe Vergütungen oder Kosten vereinbart worden, so ka
 
 [2] Für diese Verbindlichkeit bedarf es der schriftlichen Erklärung des Auftraggebers.
 
-##### [II. Vertrags­unfähig­keit des Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_2/lvl_B/lvl_I_I)
+##### [II. Vertrags­unfähig­keit des Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_2/lvl_B/lvl_I_I)
 
 
 [**Art. 409**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_409) 
 
 Der Auftraggeber kann dem Beauftragten nicht die Einrede entgegen­setzen, der Dritte sei zur Eingehung der Schuld persönlich unfähig gewesen.
 
-##### [III. Eigen­mächtige Stundung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_2/lvl_B/lvl_II_I)
+##### [III. Eigen­mächtige Stundung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_2/lvl_B/lvl_II_I)
 
 [**Art. 410**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_410) 
 
 Die Haftpflicht des Auftraggebers erlischt, wenn der Beauftragte dem Dritten eigenmächtig Stundung gewährt oder es versäumt hat, gemäss den Weisungen des Auftraggebers gegen ihn vorzugehen.
 
-##### [IV. Kredit­nehmer und Auf­traggeber](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_2/lvl_B/lvl_I_V)
+##### [IV. Kredit­nehmer und Auf­traggeber](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_2/lvl_B/lvl_I_V)
 
 [**Art. 411**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_411) 
 
 Das Rechtsverhältnis des Auftraggebers zu dem Dritten, dem ein Kre­dit eröffnet worden ist, wird nach den Bestimmungen über das Rechts­verhältnis zwischen dem Bürgen und dem Hauptschuldner be­urteilt.
 
-### [Dritter Abschnitt: Der Mäklervertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_3)
+### [Dritter Abschnitt: Der Mäklervertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_3)
 
-#### [A. Begriff und Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_3/lvl_A)
+#### [A. Begriff und Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_3/lvl_A)
 
 
 [**Art. 412**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_412) 
@@ -6193,9 +6195,9 @@ Das Rechtsverhältnis des Auftraggebers zu dem Dritten, dem ein Kre­dit eröffn
 
 [2] Der Mäklervertrag steht im Allgemeinen unter den Vorschriften über den einfachen Auftrag.
 
-#### [B. Mäklerlohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_3/lvl_B)
+#### [B. Mäklerlohn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_3/lvl_B)
 
-##### [I. Begründung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_3/lvl_B/lvl_I)
+##### [I. Begründung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_3/lvl_B/lvl_I)
 
 [**Art. 413**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_413) 
 
@@ -6205,39 +6207,39 @@ Das Rechtsverhältnis des Auftraggebers zu dem Dritten, dem ein Kre­dit eröffn
 
 [3] Soweit dem Mäkler im Vertrage für Aufwendungen Ersatz zuge­si­chert ist, kann er diesen auch dann verlangen, wenn das Geschäft nicht zustande kommt.
 
-##### [II. Festsetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_3/lvl_B/lvl_I_I)
+##### [II. Festsetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_3/lvl_B/lvl_I_I)
 
 [**Art. 414**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_414) 
 
 Wird der Betrag der Vergütung nicht festgesetzt, so gilt, wo eine Taxe besteht, diese und in Ermangelung einer solchen der übliche Lohn als vereinbart.
 
-##### [III. Verwirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_3/lvl_B/lvl_II_I)
+##### [III. Verwirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_3/lvl_B/lvl_II_I)
 
 [**Art. 415**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_415) 
 
 Ist der Mäkler in einer Weise, die dem Vertrage widerspricht, für den andern tätig gewesen, oder hat er sich in einem Falle, wo es wider Treu und Glauben geht, auch von diesem Lohn versprechen lassen, so kann er von seinem Auftraggeber weder Lohn noch Ersatz für Auf­wendun­gen beanspruchen.
 
-##### [IV. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_3/lvl_B/lvl_I_V)
+##### [IV. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_3/lvl_B/lvl_I_V)
 
 [**Art. 416**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_416)
 
-##### [V. Herabsetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_3/lvl_B/lvl_V)
+##### [V. Herabsetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_3/lvl_B/lvl_V)
 
 [**Art. 417**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_417)
 
 Ist für den Nachweis der Gelegenheit zum Abschluss oder für die Vermittlung eines Einzelarbeitsvertrages oder eines Grundstückkaufes ein unverhältnismässig hoher Mäklerlohn vereinbart worden, so kann ihn der Richter auf Antrag des Schuldners auf einen angemessenen Betrag herabsetzen.
 
-#### [C. Vorbehalt kanto­nalen Rechtes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_3/lvl_C)
+#### [C. Vorbehalt kanto­nalen Rechtes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_3/lvl_C)
 
 [**Art. 418**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418) 
 
 Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Bör­senmäkler, Sensale und Stellenvermittler besondere Vorschriften auf­zustellen.
 
-### [Vierter Abschnitt:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4) [Der Agenturvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4)
+### [Vierter Abschnitt:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4) [Der Agenturvertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4)
 
-#### [A. Allgemeines](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_A)
+#### [A. Allgemeines](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_A)
 
-##### [I. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_A/lvl_I)
+##### [I. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_A/lvl_I)
 
 [**Art. 418***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_a) 
 
@@ -6245,18 +6247,18 @@ Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Bör­senmäkler
 
 [2] Auf Agenten, die als solche bloss im Nebenberuf tätig sind, finden die Vorschriften dieses Abschnittes insoweit Anwendung, als die Par­teien nicht schriftlich etwas anderes vereinbart haben. Die Vorschrif­ten über das Delcredere, das Konkurrenzverbot und die Auflö­sung des Vertrages aus wichtigen Gründen dürfen nicht zum Nachteil des Agenten wegbedungen werden.
 
-##### [II. Anwendbares Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_A/lvl_I_I)
+##### [II. Anwendbares Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_A/lvl_I_I)
 
 [**Art. 418***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_b) 
 
 [1] Auf den Vermittlungsagenten sind die Vorschriften über den Mäk­lervertrag, auf den Abschlussagenten diejenigen über die Kommission ergänzend anwendbar.
 
-[2] ...
+[2] …
 
-#### [B. Pflichten des Agenten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_B)
+#### [B. Pflichten des Agenten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_B)
 
 
-##### [I. Allgemeines und Delcredere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_B/lvl_I)
+##### [I. Allgemeines und Delcredere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_B/lvl_I)
 
 [**Art. 418***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_c) 
 
@@ -6266,7 +6268,7 @@ Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Bör­senmäkler
 
 [3] Eine Verpflichtung, für die Zahlung oder anderweitige Erfüllung der Verbindlichkeiten des Kunden einzustehen oder die Kosten der Ein­bringung von Forderungen ganz oder teilweise zu tragen, kann er nur in schriftlicher Form übernehmen. Der Agent erhält dadurch einen unabdingbaren Anspruch auf ein angemessenes besonderes Entgelt.
 
-##### [II. Geheim­haltungspflicht und Konkurrenz­verbot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_B/lvl_I_I)
+##### [II. Geheim­haltungspflicht und Konkurrenz­verbot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_B/lvl_I_I)
 
 
 [**Art. 418***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_d) 
@@ -6275,7 +6277,7 @@ Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Bör­senmäkler
 
 [2] Auf ein vertragliches Konkurrenzverbot sind die Bestimmungen über den Dienstvertrag entsprechend anwendbar. Ist ein Konkurrenz­verbot vereinbart, so hat der Agent bei Auflösung des Vertrages einen unab­dingbaren Anspruch auf ein angemessenes besonderes Entgelt.
 
-#### [C. Vertretungs­befugnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_C)
+#### [C. Vertretungs­befugnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_C)
 
 [**Art. 418***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_e) 
 
@@ -6285,9 +6287,9 @@ Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Bör­senmäkler
 
 [3] Die Artikel 34 und 44 Absatz 3 des Bundesgesetzes vom 2. April 1908 über den Versicherungsvertrag bleiben vorbehalten.
 
-#### [D. Pflichten des Auftraggebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D)
+#### [D. Pflichten des Auftraggebers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_I)
 
 
 [**Art. 418***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_f) 
@@ -6298,11 +6300,11 @@ Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Bör­senmäkler
 
 [3] Ist dem Agenten ein bestimmtes Gebiet oder ein bestimmter Kun­den­kreis zugewiesen, so ist er, soweit nicht schriftlich etwas anderes ver­einbart wurde, unter Ausschluss anderer Personen beauf­tragt.
 
-##### [II. Provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_I_I)
+##### [II. Provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_I_I)
 
-###### [1. Vermittlungs- und Abschluss­provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_I_I/lvl_1)
+###### [1. Vermittlungs- und Abschluss­provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_I_I/lvl_1)
 
-###### [a. Umfang und Ent­stehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_I_I/lvl_1/lvl_a)
+###### [a. Umfang und Ent­stehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_I_I/lvl_1/lvl_a)
 
 [**Art. 418***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_g) 
 
@@ -6312,7 +6314,7 @@ Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Bör­senmäkler
 
 [3] Soweit es nicht anders schriftlich vereinbart ist, entsteht der Anspruch auf die Provision, sobald das Geschäft mit dem Kunden rechts­gültig abgeschlossen ist.
 
-###### [b. Dahinfallen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_I_I/lvl_1/lvl_b)
+###### [b. Dahinfallen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_I_I/lvl_1/lvl_b)
 
 [**Art. 418***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_h) 
 
@@ -6320,13 +6322,13 @@ Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Bör­senmäkler
 
 [2] Er fällt hingegen gänzlich dahin, wenn die Gegenleistung für die vom Auftraggeber bereits erbrachten Leistungen ganz oder zu einem so grossen Teil unterbleibt, dass dem Auftraggeber die Bezahlung einer Provision nicht zugemutet werden kann.
 
-###### [c. Fälligkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_I_I/lvl_1/lvl_c)
+###### [c. Fälligkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_I_I/lvl_1/lvl_c)
 
 [**Art. 418***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_i) 
 
 Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf das Ende des Kalenderhalbjahres, in dem das Geschäft abge­schlossen wurde, im Versicherungsgeschäft jedoch nach Massgabe der Bezahlung der ersten Jahresprämie fällig.
 
-###### [d. Abrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_I_I/lvl_1/lvl_d)
+###### [d. Abrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_I_I/lvl_1/lvl_d)
 
 [**Art. 418***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_k) 
 
@@ -6334,7 +6336,7 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [2] Auf Verlangen ist dem Agenten Einsicht in die für die Abrechnung massgebenden Bücher und Belege zu gewähren. Auf dieses Recht kann der Agent nicht zum voraus verzichten.
 
-###### [2. Inkasso­provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_I_I/lvl_2)
+###### [2. Inkasso­provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_I_I/lvl_2)
 
 [**Art. 418***l*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_l) 
 
@@ -6342,7 +6344,7 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [2] Mit Beendigung des Agenturverhältnisses fallen die Inkassobe­rech­ti­gung des Agenten und sein Anspruch auf weitere Inkassopro­visio­nen dahin.
 
-##### [III. Verhinde­rung an der Tä­tigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_II_I)
+##### [III. Verhinde­rung an der Tä­tigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_II_I)
 
 
 [**Art. 418***m*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_m) 
@@ -6351,7 +6353,7 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [2] Wird ein Agent, der für keinen andern Auftraggeber gleichzeitig tä­tig sein darf, durch Krankheit, schweizerischen obligatorischen Mili­t­är­dienst oder ähnliche Gründe ohne sein Verschulden an seiner Tätig­keit verhindert, so hat er für verhältnismässig kurze Zeit An­spruch auf eine angemessene Entschädigung nach Massgabe des ein­getrete­nen Ver­dienstausfalles, sofern das Agenturverhältnis mindes­tens ein Jahr gedauert hat. Auf dieses Recht kann der Agent nicht zum voraus ver­zichten.
 
-##### [IV. Kosten und Auslagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_I_V)
+##### [IV. Kosten und Auslagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_I_V)
 
 
 [**Art. 418***n*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_n) 
@@ -6360,7 +6362,7 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [2] Die Ersatzpflicht ist vom Zustandekommen des Rechtsgeschäftes unabhängig.
 
-##### [V. Retentions­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_D/lvl_V)
+##### [V. Retentions­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_D/lvl_V)
 
 [**Art. 418***o*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_o) 
 
@@ -6368,9 +6370,9 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [2] An Preistarifen und Kundenverzeichnissen kann das Retentionsrecht nicht ausgeübt werden.
 
-#### [E. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_E)
+#### [E. Beendigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_E)
 
-##### [I. Zeitablauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_E/lvl_I)
+##### [I. Zeitablauf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_E/lvl_I)
 
 [**Art. 418***p*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_p) 
 
@@ -6380,9 +6382,9 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [3] Hat der Auflösung des Vertrages eine Kündigung vorauszugehen, so gilt ihre beiderseitige Unterlassung als Erneuerung des Vertrages.
 
-##### [II. Kündigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_E/lvl_I_I)
+##### [II. Kündigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_E/lvl_I_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_E/lvl_I_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_E/lvl_I_I/lvl_1)
 
 
 [**Art. 418***q*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_q) 
@@ -6393,7 +6395,7 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [3] Für Auftraggeber und Agenten dürfen keine verschiedenen Kündigungsfristen vereinbart werden.
 
-###### [2. Aus wichtigen Gründen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_E/lvl_I_I/lvl_2)
+###### [2. Aus wichtigen Gründen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_E/lvl_I_I/lvl_2)
 
 [**Art. 418***r*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_r) 
 
@@ -6401,7 +6403,7 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [2] Die Bestimmungen über den Dienstvertrag sind entsprechend an­wendbar.
 
-##### [III. Tod, Hand­lungsunfähig­keit, Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_E/lvl_II_I)
+##### [III. Tod, Hand­lungsunfähig­keit, Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_E/lvl_II_I)
 
 [**Art. 418***s*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_s) 
 
@@ -6409,9 +6411,9 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [2] Durch den Tod des Auftraggebers erlischt das Agenturverhältnis, wenn der Auftrag wesentlich mit Rücksicht auf dessen Person eingegangen worden ist.
 
-##### [IV. Ansprüche des Agenten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_E/lvl_I_V)
+##### [IV. Ansprüche des Agenten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_E/lvl_I_V)
 
-###### [1. Provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_E/lvl_I_V/lvl_1)
+###### [1. Provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_E/lvl_I_V/lvl_1)
 
 [**Art. 418***t*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_t) 
 
@@ -6421,7 +6423,7 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [3] Für Geschäfte, die ganz oder teilweise erst nach Beendigung des Agenturverhältnisses zu erfüllen sind, kann eine spätere Fälligkeit des Provisionsanspruches schriftlich vereinbart werden.
 
-###### [2. Entschädi­gung für die Kund­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_E/lvl_I_V/lvl_2)
+###### [2. Entschädi­gung für die Kund­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_E/lvl_I_V/lvl_2)
 
 [**Art. 418***u*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_u) 
 
@@ -6431,7 +6433,7 @@ Soweit nicht etwas anderes vereinbart oder üblich ist, wird die Provi­sion auf
 
 [3] Kein Anspruch besteht, wenn das Agenturverhältnis aus einem Grund aufgelöst worden ist, den der Agent zu vertreten hat.
 
-##### [V. Rückgabe­pflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/sec_4/lvl_E/lvl_V)
+##### [V. Rückgabe­pflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_13/chap_4/lvl_E/lvl_V)
 
 [**Art. 418***v*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_418_v) 
 
@@ -6851,7 +6853,7 @@ Der Spediteur, der sich zur Ausführung des Vertrages einer öffent­lichen Tran
 
 [2] Jedoch ist der Handlungsbevollmächtigte zum Eingehen von Wech­selverbindlichkeiten, zur Aufnahme von Darlehen und zur Prozess­füh­rung nur ermächtigt, wenn ihm eine solche Befugnis ausdrücklich erteilt worden ist.
 
-### [C. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_17/lvl_C)
+### [C. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_17/lvl_C)
 
 [**Art. 463**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_463)
 
@@ -7157,7 +7159,7 @@ Haben mehrere eine Sache, deren Rechtsverhältnisse streitig oder unklar sind, z
 
 [1] Die Bürgschaft einer verheirateten Person bedarf zu ihrer Gültigkeit der im einzelnen Fall vorgängig oder spätestens gleichzeitig abge­ge­benen schriftlichen Zustimmung des Ehegatten, wenn die Ehe nicht durch richterliches Urteil getrennt ist.
 
-[2] ...
+[2] …
 
 [3] Für nachträgliche Abänderungen einer Bürgschaft ist die Zustim­mung des andern Ehegatten nur erforderlich, wenn der Haftungsbe­trag erhöht oder eine einfache Bürgschaft in eine Solidar­bürgschaft um­ge­wandelt werden soll, oder wenn die Änderung eine erhebliche Ver­minderung der Sicherheiten bedeutet.
 
@@ -7314,7 +7316,7 @@ Der Bürge kann vom Hauptschuldner Sicherstellung und, wenn die Hauptschuld fäl
 ###### [b. Das Rück­griffsrecht des Bürgen.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_20/lvl_B/lvl_I_I/lvl_2/lvl_b)
 
 
-###### [aa. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_20/lvl_B/lvl_I_I/lvl_2/lvl_d4083e1868)
+###### [aa. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_20/lvl_B/lvl_I_I/lvl_2/lvl_d4e1868)
 
 
 [**Art. 507**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_507) 
@@ -7331,7 +7333,7 @@ Der Bürge kann vom Hauptschuldner Sicherstellung und, wenn die Hauptschuld fäl
 
 [6] Für die Bezahlung einer unklagbaren Forderung oder einer für den Hauptschuldner wegen Irrtums oder Vertragsunfähigkeit unverbind­lichen Schuld steht dem Bürgen kein Rückgriffsrecht auf den Haupt­schuldner zu. Hat er jedoch die Haftung für eine verjährte Schuld im Auftrag des Hauptschuldners übernommen, so haftet ihm dieser nach den Grundsätzen über den Auftrag.
 
-###### [bb. Anzeige­pflicht des Bür­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_20/lvl_B/lvl_I_I/lvl_2/lvl_d4083e1870)
+###### [bb. Anzeige­pflicht des Bür­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_20/lvl_B/lvl_I_I/lvl_2/lvl_d4e1870)
 
 
 [**Art. 508**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_508) 
@@ -7472,7 +7474,7 @@ Der Leibrentenvertrag bedarf zu seiner Gültigkeit der schriftlichen Form.
 
 [1] Der Leibrentengläubiger kann, sofern nicht etwas anderes vereinbart ist, die Ausübung seiner Rechte abtreten.
 
-[2] ...
+[2] …
 
 #### [IV. Leibrenten nach dem Gesetz über den Versi­cherungs­ver­trag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_22/lvl_A/lvl_I_V)
 
@@ -7802,9 +7804,9 @@ An den Verbindlichkeiten gegenüber Dritten wird durch die Auflö­sung der Gese
 
 ## [Vierundzwanzigster Titel: Die Kollektivgesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24)
 
-### [Erster Abschnitt: Begriff und Errichtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_1)
+### [Erster Abschnitt: Begriff und Errichtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_1)
 
-#### [A. Kauf­männische Gesell­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_1/lvl_A)
+#### [A. Kauf­männische Gesell­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_1/lvl_A)
 
 [**Art. 552**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_552) 
 
@@ -7812,28 +7814,28 @@ An den Verbindlichkeiten gegenüber Dritten wird durch die Auflö­sung der Gese
 
 [2] Die Gesellschafter haben die Gesellschaft in das Handelsregister ein­tragen zu lassen.
 
-#### [B. Nichtkauf­männi­sche Ge­sellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_1/lvl_B)
+#### [B. Nichtkauf­männi­sche Ge­sellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_1/lvl_B)
 
 
 [**Art. 553**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_553) 
 
 Betreibt eine solche Gesellschaft kein nach kaufmännischer Art geführtes Gewerbe, so entsteht sie als Kollektivgesellschaft erst, wenn sie sich in das Handelsregister eintragen lässt.
 
-#### [C. Register­eintrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_1/lvl_C)
+#### [C. Register­eintrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_1/lvl_C)
 
-##### [I. Ort der Eintragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_1/lvl_C/lvl_I)
+##### [I. Ort der Eintragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_1/lvl_C/lvl_I)
 
 [**Art. 554**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_554)
 
 Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren Sitz hat.
 
-##### [II. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_1/lvl_C/lvl_I_I)
+##### [II. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_1/lvl_C/lvl_I_I)
 
 [**Art. 555**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_555) 
 
 In das Handelsregister können nur solche Anordnungen über die Ver­tretung eingetragen werden, die deren Beschränkung auf einen oder einzelne Gesellschafter oder eine Vertretung durch einen Gesell­schaf­ter in Gemeinschaft mit andern Gesellschaftern oder mit Proku­risten vorsehen.
 
-##### [III. Formelle Er­for­dernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_1/lvl_C/lvl_II_I)
+##### [III. Formelle Er­for­dernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_1/lvl_C/lvl_II_I)
 
 
 [**Art. 556**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_556) 
@@ -7842,9 +7844,9 @@ In das Handelsregister können nur solche Anordnungen über die Ver­tretung ein
 
 [2] Die Gesellschafter, denen die Vertretung der Gesellschaft zustehen soll, haben die Firma und ihre Namen persönlich beim Handelsregi­s­teramt zu zeichnen oder die Zeichnung in beglaubigter Form einzu­reichen.
 
-### [Zweiter Abschnitt: Verhältnis der Gesellschafter unter sich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_2)
+### [Zweiter Abschnitt: Verhältnis der Gesellschafter unter sich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_2)
 
-#### [A. Vertragsfrei­heit, Verwei­sung auf die einfache Ge­sell­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_2/lvl_A)
+#### [A. Vertragsfrei­heit, Verwei­sung auf die einfache Ge­sell­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_2/lvl_A)
 
 [**Art. 557**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_557) 
 
@@ -7852,7 +7854,7 @@ In das Handelsregister können nur solche Anordnungen über die Ver­tretung ein
 
 [2] Soweit keine Vereinbarung getroffen ist, kommen die Vorschriften über die einfache Gesellschaft zur Anwendung, jedoch mit den Ab­wei­chungen, die sich aus den nachfolgenden Bestimmungen ergeben.
 
-#### [B. Rechnungs­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_2/lvl_B)
+#### [B. Rechnungs­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_2/lvl_B)
 
 [**Art. 558**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_558) 
 
@@ -7862,7 +7864,7 @@ In das Handelsregister können nur solche Anordnungen über die Ver­tretung ein
 
 [3] Ein vertraglich festgesetztes Honorar für die Arbeit eines Gesell­schafters wird bei der Ermittlung von Gewinn und Verlust als Gesell­schaftsschuld behandelt.
 
-#### [C. Anspruch auf Gewinn, Zinse und Honorar](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_2/lvl_C)
+#### [C. Anspruch auf Gewinn, Zinse und Honorar](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_2/lvl_C)
 
 [**Art. 559**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_559) 
 
@@ -7872,7 +7874,7 @@ In das Handelsregister können nur solche Anordnungen über die Ver­tretung ein
 
 [3] Gewinne, Zinse und Honorare, die ein Gesellschafter nicht bezieht, werden nach der Genehmigung des Geschäftsberichts seinem Kapitalanteil zugeschrieben, sofern kein anderer Gesellschafter dagegen Einwendungen erhebt.
 
-#### [D. Verluste](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_2/lvl_D)
+#### [D. Verluste](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_2/lvl_D)
 
 [**Art. 560**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_560) 
 
@@ -7880,30 +7882,30 @@ In das Handelsregister können nur solche Anordnungen über die Ver­tretung ein
 
 [2] Die Gesellschafter sind weder verpflichtet, höhere Einlagen zu lei­s­ten, als dies im Vertrage vorgesehen ist, noch ihre durch Verlust ver­minderten Einlagen zu ergänzen.
 
-#### [E. Konkurrenz­ver­bot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_2/lvl_E)
+#### [E. Konkurrenz­ver­bot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_2/lvl_E)
 
 [**Art. 561**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_561) 
 
 Ohne Zustimmung der übrigen Gesellschafter darf ein Gesellschafter in dem Geschäftszweige der Gesellschaft weder für eigene noch für fremde Rechnung Geschäfte machen, noch an einer andern Unter­neh­mung als unbeschränkt haftender Gesellschafter, als Kommanditär oder als Mitglied einer Gesellschaft mit beschränkter Haftung teil­neh­men.
 
-### [Dritter Abschnitt: Verhältnis der Gesellschaft zu Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3)
+### [Dritter Abschnitt: Verhältnis der Gesellschaft zu Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3)
 
-#### [A. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_A)
+#### [A. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_A)
 
 
 [**Art. 562**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_562) 
 
 Die Gesellschaft kann unter ihrer Firma Rechte erwerben und Ver­bindlichkeiten eingehen, vor Gericht klagen und verklagt werden.
 
-#### [B. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_B)
+#### [B. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_B)
 
-##### [I. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_B/lvl_I)
+##### [I. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_B/lvl_I)
 
 [**Art. 563**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_563) 
 
 Enthält das Handelsregister keine entgegenstehenden Eintragungen, so sind gutgläubige Dritte zu der Annahme berechtigt, es sei jeder ein­zelne Gesellschafter zur Vertretung der Gesellschaft ermächtigt.
 
-##### [II. Umfang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_B/lvl_I_I)
+##### [II. Umfang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_B/lvl_I_I)
 
 [**Art. 564**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_564) 
 
@@ -7911,7 +7913,7 @@ Enthält das Handelsregister keine entgegenstehenden Eintragungen, so sind gutgl
 
 [2] Eine Beschränkung des Umfangs der Vertretungsbefugnis hat ge­gen­über gutgläubigen Dritten keine Wirkung.
 
-##### [III. Entziehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_B/lvl_II_I)
+##### [III. Entziehung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_B/lvl_II_I)
 
 [**Art. 565**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_565) 
 
@@ -7919,13 +7921,13 @@ Enthält das Handelsregister keine entgegenstehenden Eintragungen, so sind gutgl
 
 [2] Macht ein Gesellschafter solche Gründe glaubhaft, so kann auf sei­nen Antrag das Gericht, wenn Gefahr im Verzug liegt, die Vertre­tungsbefugnis vorläufig entziehen. Diese richterliche Verfügung ist im Handelsregister einzutragen.
 
-##### [IV. Prokura und Handlungsvoll­macht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_B/lvl_I_V)
+##### [IV. Prokura und Handlungsvoll­macht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_B/lvl_I_V)
 
 [**Art. 566**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_566) 
 
 Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes können nur mit Einwilligung aller zur Vertretung befugten Gesellschafter bestellt, dagegen durch jeden von ihnen mit Wirkung gegen Dritte widerrufen werden.
 
-##### [V. Rechtsge­schäfte und Haf­tung aus un­er­laubten Hand­lun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_B/lvl_V)
+##### [V. Rechtsge­schäfte und Haf­tung aus un­er­laubten Hand­lun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_B/lvl_V)
 
 
 
@@ -7937,9 +7939,9 @@ Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes könn
 
 [3] Die Gesellschaft haftet für den Schaden aus unerlaubten Handlun­gen, die ein Gesellschafter in Ausübung seiner geschäftlichen Ver­rich­tun­gen begeht.
 
-#### [C. Stellung der Ge­sellschafts­gläubiger](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_C)
+#### [C. Stellung der Ge­sellschafts­gläubiger](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_C)
 
-##### [I. Haftung der Ge­sellschafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_C/lvl_I)
+##### [I. Haftung der Ge­sellschafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_C/lvl_I)
 
 [**Art. 568**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_568) 
 
@@ -7949,7 +7951,7 @@ Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes könn
 
 [3] Der einzelne Gesellschafter kann jedoch, auch nach seinem Aus­scheiden, für Gesellschaftsschulden erst dann persönlich belangt wer­den, wenn er selbst in Konkurs geraten oder wenn die Gesellschaft aufgelöst oder erfolglos betrieben worden ist. Die Haftung des Gesell­schafters aus einer zugunsten der Gesellschaft eingegangenen Soli­dar­bürgschaft bleibt vorbehalten.
 
-##### [II. Haftung neu ein­tretender Ge­sell­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_C/lvl_I_I)
+##### [II. Haftung neu ein­tretender Ge­sell­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_C/lvl_I_I)
 
 
 [**Art. 569**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_569) 
@@ -7958,7 +7960,7 @@ Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes könn
 
 [2] Eine entgegenstehende Verabredung unter den Gesellschaftern hat Dritten gegenüber keine Wirkung.
 
-##### [III. Konkurs der Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_C/lvl_II_I)
+##### [III. Konkurs der Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_C/lvl_II_I)
 
 
 [**Art. 570**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_570) 
@@ -7967,7 +7969,7 @@ Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes könn
 
 [2] Die Gesellschafter können am Konkurse für ihre Kapitaleinlagen und laufenden Zinse nicht als Gläubiger teilnehmen, wohl aber für ih­re Ansprüche auf verfallene Zinse sowie auf Forderungen für Honorar oder für Ersatz von im Interesse der Gesellschaft gemachten Ausla­gen.
 
-##### [IV. Konkurs von Gesellschaft und Ge­sellschaftern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_C/lvl_I_V)
+##### [IV. Konkurs von Gesellschaft und Ge­sellschaftern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_C/lvl_I_V)
 
 [**Art. 571**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_571) 
 
@@ -7977,7 +7979,7 @@ Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes könn
 
 [3] Die Rechte der Gesellschaftsgläubiger im Konkurse des einzelnen Gesellschafters richten sich nach den Vorschriften des Schuldbetrei­bungs- und Konkursgesetzes vom 11. April 1889.
 
-#### [D. Stellung der Pri­vatgläubiger eines Gesell­schafters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_D)
+#### [D. Stellung der Pri­vatgläubiger eines Gesell­schafters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_D)
 
 [**Art. 572**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_572) 
 
@@ -7985,7 +7987,7 @@ Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes könn
 
 [2] Gegenstand der Zwangsvollstreckung ist nur, was dem Schuldner an Zinsen, Honorar, Gewinn und Liquidationsanteil aus dem Gesell­schaftsverhältnis zukommt.
 
-#### [E. Verrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_3/lvl_E)
+#### [E. Verrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_3/lvl_E)
 
 [**Art. 573**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_573) 
 
@@ -7995,9 +7997,9 @@ Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes könn
 
 [3] Ist dagegen ein Gesellschaftsgläubiger gleichzeitig Privatschuldner eines Gesellschafters, so wird die Verrechnung sowohl zugunsten des Gesellschaftsgläubigers als auch des Gesellschafters zugelassen, sobald der Gesellschafter für eine Gesellschaftsschuld persönlich belangt werden kann.
 
-### [Vierter Abschnitt: Auflösung und Ausscheiden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4)
+### [Vierter Abschnitt: Auflösung und Ausscheiden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4)
 
-#### [A. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4/lvl_A)
+#### [A. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4/lvl_A)
 
 
 [**Art. 574**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_574) 
@@ -8008,7 +8010,7 @@ Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes könn
 
 [3] Ist eine Klage auf Auflösung der Gesellschaft angebracht, so kann das Gericht auf Antrag einer Partei vorsorgliche Massnahmen anord­nen.
 
-#### [B. Kündigung durch Gläubiger eines Ge­sell­schafters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4/lvl_B)
+#### [B. Kündigung durch Gläubiger eines Ge­sell­schafters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4/lvl_B)
 
 [**Art. 575**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_575) 
 
@@ -8018,27 +8020,27 @@ Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes könn
 
 [3] Die Wirkung einer solchen Kündigung kann aber, solange die Auf­lösung im Handelsregister nicht eingetragen ist, von der Gesell­schaft oder von den übrigen Gesellschaftern durch Befriedigung der Kon­kursmasse oder des betreibenden Gläubigers abgewendet werden.
 
-#### [C. Ausscheiden von Gesell­schaftern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4/lvl_C)
+#### [C. Ausscheiden von Gesell­schaftern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4/lvl_C)
 
-##### [I. Überein­kommen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4/lvl_C/lvl_I)
+##### [I. Überein­kommen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4/lvl_C/lvl_I)
 
 [**Art. 576**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_576) 
 
 Sind die Gesellschafter vor der Auflösung übereingekommen, dass trotz des Ausscheidens eines oder mehrerer Gesellschafter die Gesell­schaft unter den übrigen fortgesetzt werden soll, so endigt sie nur für die Ausscheidenden; im Übrigen besteht sie mit allen bisherigen Rechten und Verbindlichkeiten fort.
 
-##### [II. Aus­schliessung durch das Gericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4/lvl_C/lvl_I_I)
+##### [II. Aus­schliessung durch das Gericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4/lvl_C/lvl_I_I)
 
 [**Art. 577**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_577) 
 
 Wenn die Auflösung der Gesellschaft aus wichtigen Gründen verlangt werden könnte und diese vorwiegend in der Person eines oder mehre­rer Gesellschafter liegen, so kann das Gericht auf deren Aus­schlies­sung und auf Ausrichtung ihrer Anteile am Gesellschaftsver­mögen erkennen, sofern alle übrigen Gesellschafter es beantragen.
 
-##### [III. Durch die übri­gen Gesell­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4/lvl_C/lvl_II_I)
+##### [III. Durch die übri­gen Gesell­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4/lvl_C/lvl_II_I)
 
 [**Art. 578**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_578) 
 
 Fällt ein Gesellschafter in Konkurs oder verlangt einer seiner Gläubi­ger, der dessen Liquidationsanteil gepfändet hat, die Auflösung der Gesellschaft, so können die übrigen Gesellschafter ihn ausschlies­sen und ihm seinen Anteil am Gesellschaftsvermögen ausrichten.
 
-##### [IV. Bei zwei Ge­sell­schaftern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4/lvl_C/lvl_I_V)
+##### [IV. Bei zwei Ge­sell­schaftern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4/lvl_C/lvl_I_V)
 
 
 [**Art. 579**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_579) 
@@ -8047,7 +8049,7 @@ Fällt ein Gesellschafter in Konkurs oder verlangt einer seiner Gläubi­ger, de
 
 [2] Das gleiche kann das Gericht verfügen, wenn die Auflösung wegen eines vorwiegend in der Person des einen Gesellschafters liegenden wichtigen Grundes gefordert wird.
 
-##### [V. Festsetzung des Betrages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4/lvl_C/lvl_V)
+##### [V. Festsetzung des Betrages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4/lvl_C/lvl_V)
 
 [**Art. 580**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_580) 
 
@@ -8055,27 +8057,27 @@ Fällt ein Gesellschafter in Konkurs oder verlangt einer seiner Gläubi­ger, de
 
 [2] Enthält der Gesellschaftsvertrag darüber keine Bestimmung und kön­nen sich die Beteiligten nicht einigen, so setzt das Gericht den Be­trag in Berücksichtigung der Vermögenslage der Gesellschaft im Zeit­punkt des Ausscheidens und eines allfälligen Verschuldens des aus­scheiden­den Gesellschafters fest.
 
-##### [VI. Eintragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4/lvl_C/lvl_V_I)
+##### [VI. Eintragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4/lvl_C/lvl_V_I)
 
 [**Art. 581**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_581) 
 
 Das Ausscheiden eines Gesellschafters sowie die Fortsetzung des Geschäftes durch einen Gesellschafter müssen in das Handelsregister ein­getragen werden.
 
-#### [D. Mängel in der Organisation der Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_4/lvl_D)
+#### [D. Mängel in der Organisation der Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_4/lvl_D)
 
 [**Art. 581***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_581_a)
 
 Bei Mängeln in der vorgeschriebenen Organisation der Kollektiv­gesellschaft sind die Vorschriften des Aktienrechts entsprechend an­wend­bar.
 
-### [Fünfter Abschnitt: Liquidation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5)
+### [Fünfter Abschnitt: Liquidation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5)
 
-#### [A. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5/lvl_A)
+#### [A. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5/lvl_A)
 
 [**Art. 582**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_582) 
 
 Nach der Auflösung der Gesellschaft erfolgt ihre Liquidation gemäss den folgenden Vorschriften, sofern nicht eine andere Art der Ausein­andersetzung von den Gesellschaftern vereinbart oder über das Ver­mögen der Gesellschaft der Konkurs eröffnet ist.
 
-#### [B. Liquidatoren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5/lvl_B)
+#### [B. Liquidatoren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5/lvl_B)
 
 [**Art. 583**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_583) 
 
@@ -8085,13 +8087,13 @@ Nach der Auflösung der Gesellschaft erfolgt ihre Liquidation gemäss den folgen
 
 [3] Die Liquidatoren sind in das Handelsregister einzutragen, auch wenn dadurch die bisherige Vertretung der Gesellschaft nicht geändert wird.
 
-#### [C. Vertretung von Erben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5/lvl_C)
+#### [C. Vertretung von Erben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5/lvl_C)
 
 [**Art. 584**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_584) 
 
 Die Erben eines Gesellschafters haben für die Liquidation einen gemeinsamen Vertreter zu bezeichnen.
 
-#### [D. Rechte und Pfli­chten der Li­quidato­ren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5/lvl_D)
+#### [D. Rechte und Pfli­chten der Li­quidato­ren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5/lvl_D)
 
 
 [**Art. 585**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_585) 
@@ -8104,7 +8106,7 @@ Die Erben eines Gesellschafters haben für die Liquidation einen gemeinsamen Ver
 
 [4] Die Gesellschaft haftet für Schaden aus unerlaubten Handlungen, die ein Liquidator in Ausübung seiner geschäftlichen Verrichtungen begeht.
 
-#### [E. Vorläufige Vertei­lung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5/lvl_E)
+#### [E. Vorläufige Vertei­lung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5/lvl_E)
 
 [**Art. 586**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_586) 
 
@@ -8112,9 +8114,9 @@ Die Erben eines Gesellschafters haben für die Liquidation einen gemeinsamen Ver
 
 [2] Zur Deckung streitiger oder noch nicht fälliger Verbindlichkeiten sind die erforderlichen Mittel zurückzubehalten.
 
-#### [F. Auseinander­set­zung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5/lvl_F)
+#### [F. Auseinander­set­zung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5/lvl_F)
 
-##### [I. Bilanz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5/lvl_F/lvl_I)
+##### [I. Bilanz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5/lvl_F/lvl_I)
 
 [**Art. 587**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_587) 
 
@@ -8122,7 +8124,7 @@ Die Erben eines Gesellschafters haben für die Liquidation einen gemeinsamen Ver
 
 [2] Bei länger andauernder Liquidation sind jährliche Zwischenbilanzen zu errichten.
 
-##### [II. Rückzahlung des Kapitals und Vertei­lung des Überschus­ses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5/lvl_F/lvl_I_I)
+##### [II. Rückzahlung des Kapitals und Vertei­lung des Überschus­ses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5/lvl_F/lvl_I_I)
 
 [**Art. 588**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_588) 
 
@@ -8130,13 +8132,13 @@ Die Erben eines Gesellschafters haben für die Liquidation einen gemeinsamen Ver
 
 [2] Ein Überschuss ist nach den Vorschriften über die Gewinnbeteili­gung unter die Gesellschafter zu verteilen.
 
-#### [G. Löschung im Handelsregister](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5/lvl_G)
+#### [G. Löschung im Handelsregister](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5/lvl_G)
 
 [**Art. 589**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_589) 
 
 Nach Beendigung der Liquidation haben die Liquidatoren die Löschung der Firma im Handelsregister zu veranlassen.
 
-#### [H. Aufbewah­rung der Bücher und Pa­piere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_5/lvl_H)
+#### [H. Aufbewah­rung der Bücher und Pa­piere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_5/lvl_H)
 
 [**Art. 590**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_590) 
 
@@ -8144,9 +8146,9 @@ Nach Beendigung der Liquidation haben die Liquidatoren die Löschung der Firma i
 
 [2] Die Gesellschafter und ihre Erben behalten das Recht, in die Bücher und Papiere Einsicht zu nehmen.
 
-### [Sechster Abschnitt: Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_6)
+### [Sechster Abschnitt: Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_6)
 
-#### [A. Gegenstand und Frist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_6/lvl_A)
+#### [A. Gegenstand und Frist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_6/lvl_A)
 
 [**Art. 591**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_591) 
 
@@ -8156,7 +8158,7 @@ Nach Beendigung der Liquidation haben die Liquidatoren die Löschung der Firma i
 
 [3] Auf Forderungen der Gesellschafter untereinander findet diese Ver­jährung keine Anwendung.
 
-#### [B. Besondere Fälle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_6/lvl_B)
+#### [B. Besondere Fälle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_6/lvl_B)
 
 [**Art. 592**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_592) 
 
@@ -8164,7 +8166,7 @@ Nach Beendigung der Liquidation haben die Liquidatoren die Löschung der Firma i
 
 [2] Übernimmt ein Gesellschafter das Geschäft mit Aktiven und Passi­ven, so kann er den Gläubigern die fünfjährige Verjährung nicht ent­gegenhalten. Dagegen tritt für die ausgeschiedenen Gesellschafter an Stelle der fünfjährigen die zweijährige Frist nach den Grundsätzen der Schuldübernahme; ebenso wenn ein Dritter das Geschäft mit Aktiven und Passiven übernimmt.
 
-#### [C. Unter­brechung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/sec_6/lvl_C)
+#### [C. Unter­brechung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_24/chap_6/lvl_C)
 
 [**Art. 593**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_593) 
 
@@ -8172,9 +8174,9 @@ Die Unterbrechung der Verjährung gegenüber der fortbestehenden Gesellschaft od
 
 ## [Fünfundzwanzigster Titel: Die Kommanditgesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25)
 
-### [Erster Abschnitt: Begriff und Errichtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_1)
+### [Erster Abschnitt: Begriff und Errichtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_1)
 
-#### [A. Kauf­männische Gesell­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_1/lvl_A)
+#### [A. Kauf­männische Gesell­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_1/lvl_A)
 
 [**Art. 594**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_594) 
 
@@ -8184,26 +8186,26 @@ Die Unterbrechung der Verjährung gegenüber der fortbestehenden Gesellschaft od
 
 [3] Die Gesellschafter haben die Gesellschaft in das Handelsregister ein­tragen zu lassen.
 
-#### [B. Nichtkauf­männi­sche Ge­sellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_1/lvl_B)
+#### [B. Nichtkauf­männi­sche Ge­sellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_1/lvl_B)
 
 
 [**Art. 595**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_595) 
 
 Betreibt eine solche Gesellschaft kein nach kaufmännischer Art geführtes Gewerbe, so entsteht sie als Kommanditgesellschaft erst, wenn sie sich in das Handelsregister eintragen lässt.
 
-#### [C. Register­eintrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_1/lvl_C)
+#### [C. Register­eintrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_1/lvl_C)
 
-##### [I. Ort der Eintragung und Sacheinlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_1/lvl_C/lvl_I)
+##### [I. Ort der Eintragung und Sacheinlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_1/lvl_C/lvl_I)
 
 [**Art. 596**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_596) 
 
 [1] Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren Sitz hat.
 
-[2] ...
+[2] …
 
 [3] Soll die Kommanditsumme nicht oder nur teilweise in bar entrichtet werden, so ist die Sacheinlage in der Anmeldung ausdrücklich und mit bestimmtem Wertansatz zu bezeichnen und in das Handelsregister ein­zutragen.
 
-##### [II. Formelle Er­for­dernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_1/lvl_C/lvl_I_I)
+##### [II. Formelle Er­for­dernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_1/lvl_C/lvl_I_I)
 
 
 [**Art. 597**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_597) 
@@ -8212,9 +8214,9 @@ Betreibt eine solche Gesellschaft kein nach kaufmännischer Art geführtes Gewer
 
 [2] Die unbeschränkt haftenden Gesellschafter, denen die Vertretung der Gesellschaft zustehen soll, haben die Firma und ihre Namen per­sön­lich beim Handelsregisteramt zu zeichnen oder die Zeichnung in beglaubigter Form einzureichen.
 
-### [Zweiter Abschnitt: Verhältnis der Gesellschafter unter sich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_2)
+### [Zweiter Abschnitt: Verhältnis der Gesellschafter unter sich](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_2)
 
-#### [A. Vertragsfrei­heit. Verweisung auf die Kollek­tivgesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_2/lvl_A)
+#### [A. Vertragsfrei­heit. Verweisung auf die Kollek­tivgesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_2/lvl_A)
 
 [**Art. 598**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_598) 
 
@@ -8222,13 +8224,13 @@ Betreibt eine solche Gesellschaft kein nach kaufmännischer Art geführtes Gewer
 
 [2] Soweit keine Vereinbarung getroffen ist, kommen die Vorschriften über die Kollektivgesellschaft zur Anwendung, jedoch mit den Ab­wei­chungen, die sich aus den nachfolgenden Bestimmungen ergeben.
 
-#### [B. Geschäfts­führung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_2/lvl_B)
+#### [B. Geschäfts­führung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_2/lvl_B)
 
 [**Art. 599**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_599) 
 
 Die Geschäftsführung der Gesellschaft wird durch den oder die unbe­schränkt haftenden Gesellschafter besorgt.
 
-#### [C. Stellung des Kommanditärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_2/lvl_C)
+#### [C. Stellung des Kommanditärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_2/lvl_C)
 
 [**Art. 600**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_600) 
 
@@ -8238,7 +8240,7 @@ Die Geschäftsführung der Gesellschaft wird durch den oder die unbe­schränkt 
 
 [3] Er ist berechtigt, eine Abschrift der Erfolgsrechnung und der Bilanz zu verlangen und deren Richtigkeit unter Einsichtnahme in die Geschäftsbücher und Buchungsbelege zu prüfen oder durch einen unabhängigen Sachverständigen prüfen zu lassen; im Streitfall bezeichnet das Gericht den Sachverständigen.
 
-#### [D. Gewinn- und Verlust­beteili­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_2/lvl_D)
+#### [D. Gewinn- und Verlust­beteili­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_2/lvl_D)
 
 
 [**Art. 601**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_601) 
@@ -8249,47 +8251,47 @@ Die Geschäftsführung der Gesellschaft wird durch den oder die unbe­schränkt 
 
 [3] Ist die Kommanditsumme nicht voll einbezahlt oder ist sie nach erfolgter Einzahlung vermindert worden, so dürfen ihr Zinse, Gewinne und allfällige Honorare nur so weit zugeschrieben werden, bis sie ihren vollen Betrag wieder erreicht hat.
 
-### [Dritter Abschnitt: Verhältnis der Gesellschaft zu Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3)
+### [Dritter Abschnitt: Verhältnis der Gesellschaft zu Dritten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3)
 
-#### [A. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_A)
+#### [A. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_A)
 
 
 [**Art. 602**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_602) 
 
 Die Gesellschaft kann unter ihrer Firma Rechte erwerben und Ver­bindlichkeiten eingehen, vor Gericht klagen und verklagt werden.
 
-#### [B. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_B)
+#### [B. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_B)
 
 [**Art. 603**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_603) 
 
 Die Gesellschaft wird nach den für die Kollektivgesellschaft gelten­den Vorschriften durch den oder die unbeschränkt haftenden Gesell­schaf­ter vertreten.
 
-#### [C. Haftung des un­beschränkt haften­den Ge­sellschafters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_C)
+#### [C. Haftung des un­beschränkt haften­den Ge­sellschafters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_C)
 
 
 [**Art. 604**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_604) 
 
 Der unbeschränkt haftende Gesellschafter kann für eine Gesellschafts­schuld erst dann persönlich belangt werden, wenn die Gesellschaft aufgelöst oder erfolglos betrieben worden ist.
 
-#### [D. Haftung des Kommanditärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_D)
+#### [D. Haftung des Kommanditärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_D)
 
-##### [I. Handlungen für die Gesell­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_D/lvl_I)
+##### [I. Handlungen für die Gesell­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_D/lvl_I)
 
 [**Art. 605**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_605) 
 
 Schliesst der Kommanditär für die Gesellschaft Geschäfte ab, ohne aus­drücklich zu erklären, dass er nur als Prokurist oder als Bevoll­mächtigter handle, so haftet er aus diesen Geschäften gutgläubigen Dritten gegenüber gleich einem unbeschränkt haftenden Gesellschaf­ter.
 
-##### [II. Mangelnder Ein­trag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_D/lvl_I_I)
+##### [II. Mangelnder Ein­trag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_D/lvl_I_I)
 
 [**Art. 606**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_606) 
 
 Ist die Gesellschaft vor der Eintragung in das Handelsregister im Ver­kehr aufgetreten, so haftet der Kommanditär für die bis zur Ein­tra­gung entstandenen Verbindlichkeiten Dritten gegenüber gleich einem unbe­schränkt haftenden Gesellschafter, wenn er nicht beweist, dass ihnen die Beschränkung seiner Haftung bekannt war.
 
-##### [III. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_D/lvl_II_I)
+##### [III. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_D/lvl_II_I)
 
 [**Art. 607**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_607)
 
-##### [IV. Umfang der Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_D/lvl_I_V)
+##### [IV. Umfang der Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_D/lvl_I_V)
 
 
 [**Art. 608**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_608) 
@@ -8300,7 +8302,7 @@ Ist die Gesellschaft vor der Eintragung in das Handelsregister im Ver­kehr aufg
 
 [3] Den Gläubigern steht der Nachweis offen, dass der Wertansatz von Sacheinlagen ihrem wirklichen Wert im Zeitpunkt ihres Einbringens nicht entsprochen hat.
 
-##### [V. Verminde­rung der Kom­mandit­summe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_D/lvl_V)
+##### [V. Verminde­rung der Kom­mandit­summe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_D/lvl_V)
 
 
 [**Art. 609**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_609) 
@@ -8309,7 +8311,7 @@ Ist die Gesellschaft vor der Eintragung in das Handelsregister im Ver­kehr aufg
 
 [2] Für die vor dieser Bekanntmachung entstandenen Verbindlichkeiten bleibt der Kommanditär mit der unverminderten Kommanditsumme haftbar.
 
-##### [VI. Klagerecht der Gläubiger](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_D/lvl_V_I)
+##### [VI. Klagerecht der Gläubiger](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_D/lvl_V_I)
 
 [**Art. 610**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_610) 
 
@@ -8317,7 +8319,7 @@ Ist die Gesellschaft vor der Eintragung in das Handelsregister im Ver­kehr aufg
 
 [2] Wird die Gesellschaft aufgelöst, so können die Gläubiger, die Liqui­datoren oder die Konkursverwaltung verlangen, dass die Kommandit­summe in die Liquidations- oder Konkursmasse eingeworfen werde, soweit sie noch nicht geleistet oder soweit sie dem Kommanditär wie­der zurückerstattet worden ist.
 
-##### [VII. Bezug von Zin­sen und Ge­winn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_D/lvl_VI_I)
+##### [VII. Bezug von Zin­sen und Ge­winn](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_D/lvl_VI_I)
 
 
 [**Art. 611**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_611) 
@@ -8326,7 +8328,7 @@ Ist die Gesellschaft vor der Eintragung in das Handelsregister im Ver­kehr aufg
 
 [2] Der Kommanditär ist verpflichtet, unrechtmässig bezogene Zinsen und Gewinne zurückzubezahlen. Artikel 64 findet Anwendung.
 
-##### [VIII. Eintritt in eine Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_D/lvl_VII_I)
+##### [VIII. Eintritt in eine Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_D/lvl_VII_I)
 
 [**Art. 612**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_612) 
 
@@ -8334,7 +8336,7 @@ Ist die Gesellschaft vor der Eintragung in das Handelsregister im Ver­kehr aufg
 
 [2] Eine entgegenstehende Verabredung unter den Gesellschaftern hat Dritten gegenüber keine Wirkung.
 
-#### [E. Stellung der Pri­vatgläubiger](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_E)
+#### [E. Stellung der Pri­vatgläubiger](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_E)
 
 [**Art. 613**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_613) 
 
@@ -8342,7 +8344,7 @@ Ist die Gesellschaft vor der Eintragung in das Handelsregister im Ver­kehr aufg
 
 [2] Gegenstand der Zwangsvollstreckung ist nur, was dem Schuldner an Zinsen, Gewinn und Liquidationsanteil sowie an allfälligem Honorar aus dem Gesellschaftsverhältnis zukommt.
 
-#### [F. Verrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_F)
+#### [F. Verrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_F)
 
 [**Art. 614**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_614) 
 
@@ -8350,9 +8352,9 @@ Ist die Gesellschaft vor der Eintragung in das Handelsregister im Ver­kehr aufg
 
 [2] Im Übrigen richtet sich die Verrechnung nach den Vorschriften über die Kollektivgesellschaft.
 
-#### [G. Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_G)
+#### [G. Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_G)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_G/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_G/lvl_I)
 
 
 [**Art. 615**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_615) 
@@ -8361,7 +8363,7 @@ Ist die Gesellschaft vor der Eintragung in das Handelsregister im Ver­kehr aufg
 
 [2] Ebenso wenig bewirkt der Konkurs eines Gesellschafters den Kon­kurs der Gesellschaft.
 
-##### [II. Konkurs der Ge­sellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_G/lvl_I_I)
+##### [II. Konkurs der Ge­sellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_G/lvl_I_I)
 
 [**Art. 616**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_616) 
 
@@ -8369,20 +8371,20 @@ Ist die Gesellschaft vor der Eintragung in das Handelsregister im Ver­kehr aufg
 
 [2] Was der Kommanditär auf Rechnung seiner Kommanditsumme an die Gesellschaft geleistet hat, kann er nicht als Forderung anmelden.
 
-##### [III. Vorgehen gegen den unbe­schränkt haften­den Gesell­schaf­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_G/lvl_II_I)
+##### [III. Vorgehen gegen den unbe­schränkt haften­den Gesell­schaf­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_G/lvl_II_I)
 
 
 [**Art. 617**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_617) 
 
 Wenn das Gesellschaftsvermögen zur Befriedigung der Gesellschafts­gläubiger nicht hinreicht, so sind diese berechtigt, für den ganzen unbezahlten Rest ihrer Forderungen aus dem Privatvermögen jedes ein­zelnen unbeschränkt haftenden Gesellschafters in Konkurrenz mit sei­nen Privatgläubigern Befriedigung zu suchen.
 
-##### [IV. Konkurs des Kommanditärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_3/lvl_G/lvl_I_V)
+##### [IV. Konkurs des Kommanditärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_3/lvl_G/lvl_I_V)
 
 [**Art. 618**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_618) 
 
 Im Konkurse des Kommanditärs haben weder die Gesellschafts­gläu­bi­ger noch die Gesellschaft ein Vorzugsrecht vor den Privatgläubi­gern.
 
-### [Vierter Abschnitt: Auflösung, Liquidation, Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/sec_4)
+### [Vierter Abschnitt: Auflösung, Liquidation, Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_25/chap_4)
 
 [**Art. 619**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_619) 
 
@@ -8392,9 +8394,9 @@ Im Konkurse des Kommanditärs haben weder die Gesellschafts­gläu­bi­ger noch
 
 ## [Sechsundzwanzigster Titel:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26) [Die Aktiengesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26)
 
-### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1)
+### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1)
 
-#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_A)
+#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_A)
 
 [**Art. 620**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_620) 
 
@@ -8404,15 +8406,15 @@ Im Konkurse des Kommanditärs haben weder die Gesellschafts­gläu­bi­ger noch
 
 [3] Die Aktiengesellschaft kann auch für andere als wirtschaftliche Zwecke gegründet werden.
 
-#### [B. Mindest­kapital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_B)
+#### [B. Mindest­kapital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_B)
 
 [**Art. 621**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_621)
 
 Das Aktienkapital muss mindestens 100 000 Franken betragen.
 
-#### [C. Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_C)
+#### [C. Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_C)
 
-##### [I. Arten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_C/lvl_I)
+##### [I. Arten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_C/lvl_I)
 
 [**Art. 622**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_622) 
 
@@ -8432,7 +8434,7 @@ Das Aktienkapital muss mindestens 100 000 Franken betragen.
 
 [5] Die Aktientitel müssen durch mindestens ein Mitglied des Verwal­tungsrates unterschrieben sein. Die Gesellschaft kann bestimmen, dass auch auf Aktien, die in grosser Zahl ausgegeben werden, minde­s­tens eine Unterschrift eigenhändig beigesetzt werden muss.
 
-##### [II. Zerlegung und Zusam­men­le­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_C/lvl_I_I)
+##### [II. Zerlegung und Zusam­men­le­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_C/lvl_I_I)
 
 [**Art. 623**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_623) 
 
@@ -8440,23 +8442,23 @@ Das Aktienkapital muss mindestens 100 000 Franken betragen.
 
 [2] Die Zusammenlegung von Aktien bedarf der Zustimmung des Ak­tio­närs.
 
-##### [III. Ausgabe­betrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_C/lvl_II_I)
+##### [III. Ausgabe­betrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_C/lvl_II_I)
 
 [**Art. 624**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_624) 
 
 [1] Die Aktien dürfen nur zum Nennwert oder zu einem diesen überstei­genden Betrage ausgegeben werden. Vorbehalten bleibt die Ausgabe neuer Aktien, die an Stelle ausgefallener Aktien treten.
 
-[2–3] ...
+[2–3] …
 
-#### [D. Aktionäre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_D)
+#### [D. Aktionäre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_D)
 
 [**Art. 625**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_625)
 
 Eine Aktiengesellschaft kann durch eine oder mehrere natürliche oder juristische Personen oder andere Handelsgesellschaften gegründet werden.
 
-#### [E. Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_E)
+#### [E. Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_E)
 
-##### [I. Gesetzlich vorge­schrie­be­ner Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_E/lvl_I)
+##### [I. Gesetzlich vorge­schrie­be­ner Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_E/lvl_I)
 
 [**Art. 626**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_626)
 
@@ -8471,10 +8473,10 @@ Die Statuten müssen Bestimmungen enthalten über:
 |    6. die Organe für die Verwaltung und für die Revision;  
 |    7. die Form der von der Gesellschaft ausgehenden Bekannt­machun­gen.
 
-##### [II. Weitere Be­stim­mungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_E/lvl_I_I)
+##### [II. Weitere Be­stim­mungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_E/lvl_I_I)
 
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_E/lvl_I_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_E/lvl_I_I/lvl_1)
 
 
 [**Art. 627**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_627)
@@ -8488,7 +8490,7 @@ Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten Bestimmungen üb
 |    4. die Begrenzung der Dauer der Gesellschaft;  
 |    5. Konventionalstrafen bei nicht rechtzeitiger Leistung der Ein­lage;  
 |    6. die genehmigte und die bedingte Kapitalerhöhung;  
-|    7. ...  
+|    7. …  
 |    8. die Beschränkung der Übertragbarkeit von Namenaktien;  
 |    9. die Vorrechte einzelner Kategorien von Aktien, über Partizipa­tionsscheine, Genussscheine und über die Gewährung beson­derer Vorteile;  
 |    10. die Beschränkung des Stimmrechts und des Rechts der Aktio­näre, sich vertreten zu lassen;  
@@ -8497,7 +8499,7 @@ Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten Bestimmungen üb
 |    13. die Organisation und die Aufgaben der Revisionsstelle, sofern dabei über die gesetzlichen Vorschriften hinausgegangen wird;  
 |    14. die Möglichkeit, in bestimmter Form ausgegebene Aktien in eine andere Form umzuwandeln, sowie eine Verteilung der dabei entstehenden Kosten, soweit sie von der Regelung des Bucheffektengesetzes vom 3. Oktober 2008 abweicht.
 
-###### [2. Im besonde­ren Sachein­la­gen, Sachüber­nah­men, beson­dere Vortei­le](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_E/lvl_I_I/lvl_2)
+###### [2. Im besonde­ren Sachein­la­gen, Sachüber­nah­men, beson­dere Vortei­le](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_E/lvl_I_I/lvl_2)
 
 [**Art. 628**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_628) 
 
@@ -8509,11 +8511,11 @@ Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten Bestimmungen üb
 
 [4] Die Generalversammlung kann nach zehn Jahren Bestimmungen der Statuten über Sacheinlagen oder Sachübernahmen aufheben. Bestimmungen über Sachübernahmen können auch aufgehoben werden, wenn die Gesellschaft endgültig auf die Sachübernahme verzichtet. 
 
-#### [F. Gründung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F)
+#### [F. Gründung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F)
 
-##### [I. Errichtungs­akt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_I)
+##### [I. Errichtungs­akt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_I)
 
-###### [1. Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_I/lvl_1)
+###### [1. Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_I/lvl_1)
 
 [**Art. 629**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_629)
 
@@ -8527,7 +8529,7 @@ Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten Bestimmungen üb
 |    3. dass die gesetzlichen und statutarischen Anforderungen an die Leistung der Einlagen erfüllt sind;  
 |    4. dass keine anderen Sacheinlagen, Sachübernahmen und be­absichtigten Sachübernahmen, Verrechnungstatbestände oder be­sonderen Vorteile bestehen als die in den Belegen genannten.
 
-###### [2. Aktien­zeichnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_I/lvl_2)
+###### [2. Aktien­zeichnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_I/lvl_2)
 
 [**Art. 630**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_630)
 
@@ -8537,7 +8539,7 @@ Die Zeichnung bedarf zu ihrer Gültigkeit:
 |    1. der Angabe von Anzahl, Nennwert, Art, Kategorie und Aus­gabe­betrag der Aktien;  
 |    2. einer bedingungslosen Verpflichtung, eine dem Ausgabebetrag entsprechende Einlage zu leisten.
 
-##### [II. Belege](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_I_I)
+##### [II. Belege](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_I_I)
 
 [**Art. 631**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_631)
 
@@ -8553,9 +8555,9 @@ Die Zeichnung bedarf zu ihrer Gültigkeit:
 |    5. die Sacheinlageverträge;  
 |    6. bereits vorliegende Sachübernahmeverträge.
 
-##### [III. Einlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_II_I)
+##### [III. Einlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_II_I)
 
-###### [1. Mindes­t­einlage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_II_I/lvl_1)
+###### [1. Mindes­t­einlage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_1)
 
 [**Art. 632**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_632)
 
@@ -8563,10 +8565,10 @@ Die Zeichnung bedarf zu ihrer Gültigkeit:
 
 [2] In allen Fällen müssen die geleisteten Einlagen mindestens 50 000 Franken betragen.
 
-###### [2. Leistung der Ein­lagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_II_I/lvl_2)
+###### [2. Leistung der Ein­lagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_2)
 
 
-###### [a. Einzahlungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_II_I/lvl_2/lvl_a)
+###### [a. Einzahlungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_2/lvl_a)
 
 [**Art. 633**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_633)
 
@@ -8574,7 +8576,7 @@ Die Zeichnung bedarf zu ihrer Gültigkeit:
 
 [2] Das Institut gibt den Betrag erst frei, wenn die Gesellschaft in das Handelsregister eingetragen ist.
 
-###### [b. Sacheinlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_II_I/lvl_2/lvl_b)
+###### [b. Sacheinlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_2/lvl_b)
 
 [**Art. 634**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_634)
 
@@ -8585,7 +8587,7 @@ Sacheinlagen gelten nur dann als Deckung, wenn:
 |    2. die Gesellschaft nach ihrer Eintragung in das Handelsregister so­fort als Eigentümerin darüber verfügen kann oder einen bedin­gungslosen Anspruch auf Eintragung in das Grundbuch er­hält;  
 |    3. ein Gründungsbericht mit Prüfungsbestätigung vorliegt.
 
-###### [c. Nachträgliche Leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_II_I/lvl_2/lvl_c)
+###### [c. Nachträgliche Leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_2/lvl_c)
 
 [**Art. 634***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_634_a)
 
@@ -8593,10 +8595,10 @@ Sacheinlagen gelten nur dann als Deckung, wenn:
 
 [2] Die nachträgliche Leistung kann in Geld, durch Sacheinlage oder durch Verrechnung erfolgen.
 
-###### [3. Prüfung der Ein­lagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_II_I/lvl_3)
+###### [3. Prüfung der Ein­lagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_3)
 
 
-###### [a. Gründungs­bericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_II_I/lvl_3/lvl_a)
+###### [a. Gründungs­bericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_3/lvl_a)
 
 [**Art. 635**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_635)
 
@@ -8607,7 +8609,7 @@ Die Gründer geben in einem schriftlichen Bericht Rechenschaft über:
 |    2. den Bestand und die Verrechenbarkeit der Schuld;  
 |    3. die Begründung und die Angemessenheit besonderer Vorteile zu­gunsten von Gründern oder anderen Personen.
 
-###### [b. Prüfungs­bestäti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_F/lvl_II_I/lvl_3/lvl_b)
+###### [b. Prüfungs­bestäti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_3/lvl_b)
 
 [**Art. 635***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_635_a)
 
@@ -8615,27 +8617,27 @@ Ein zugelassener Revisor prüft den Gründungsbericht und bestätigt schriftlich
 
 [**Art. 636–639**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_636__639_)
 
-#### [G. Eintragung ins Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_G)
+#### [G. Eintragung ins Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_G)
 
-##### [I. Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_G/lvl_I)
+##### [I. Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_G/lvl_I)
 
 [**Art. 640**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_640)
 
 Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren Sitz hat.
 
-##### [II. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_G/lvl_I_I)
+##### [II. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_G/lvl_I_I)
 
 [**Art. 641**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_641)
 
-##### [III. Sacheinla­gen, Sach­übernahmen, besondere Vorteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_G/lvl_II_I)
+##### [III. Sacheinla­gen, Sach­übernahmen, besondere Vorteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_G/lvl_II_I)
 
 [**Art. 642**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_642)
 
 Der Gegenstand von Sacheinlagen und die dafür ausgegebenen Aktien, der Gegenstand von Sachübernahmen und die Gegenleistung der Gesellschaft sowie Inhalt und Wert besonderer Vorteile müssen ins Handelsregister eingetragen werden.
 
-#### [H. Erwerb der Per­sönlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_H)
+#### [H. Erwerb der Per­sönlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_H)
 
-##### [I. Zeitpunkt; man­gelnde Vor­ausset­zungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_H/lvl_I)
+##### [I. Zeitpunkt; man­gelnde Vor­ausset­zungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_H/lvl_I)
 
 [**Art. 643**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_643) 
 
@@ -8643,11 +8645,11 @@ Der Gegenstand von Sacheinlagen und die dafür ausgegebenen Aktien, der Gegensta
 
 [2] Das Recht der Persönlichkeit wird durch die Eintragung auch dann erworben, wenn die Voraussetzungen der Eintragung tatsächlich nicht vorhanden waren.
 
-[3] Sind jedoch bei der Gründung gesetzliche oder statutarische Vor­schriften missachtet und dadurch die Interessen von Gläubigern oder Aktionären in erheblichem Masse gefährdet oder verletzt worden, so kann das Gericht auf Begehren solcher Gläubiger oder Aktionäre die Auflösung der Gesellschaft verfügen. ...
+[3] Sind jedoch bei der Gründung gesetzliche oder statutarische Vor­schriften missachtet und dadurch die Interessen von Gläubigern oder Aktionären in erheblichem Masse gefährdet oder verletzt worden, so kann das Gericht auf Begehren solcher Gläubiger oder Aktionäre die Auflösung der Gesellschaft verfügen. …
 
 [4] Das Klagerecht erlischt, wenn die Klage nicht spätestens drei Mo­na­te nach der Veröffentlichung im Schweizerischen Handelsamtsblatt angehoben wird.
 
-##### [II. Vor der Ein­tra­gung ausge­ge­bene Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_H/lvl_I_I)
+##### [II. Vor der Ein­tra­gung ausge­ge­bene Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_H/lvl_I_I)
 
 
 [**Art. 644**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_644) 
@@ -8656,7 +8658,7 @@ Der Gegenstand von Sacheinlagen und die dafür ausgegebenen Aktien, der Gegensta
 
 [2] Wer vor der Eintragung Aktien ausgibt, wird für allen dadurch ver­ur­sachten Schaden haftbar.
 
-##### [III. Vor der Ein­tra­gung ein­ge­gangene Ver­pflichtungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_H/lvl_II_I)
+##### [III. Vor der Ein­tra­gung ein­ge­gangene Ver­pflichtungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_H/lvl_II_I)
 
 
 [**Art. 645**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_645) 
@@ -8667,7 +8669,7 @@ Der Gegenstand von Sacheinlagen und die dafür ausgegebenen Aktien, der Gegensta
 
 [**Art. 646**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_646)
 
-#### [J. Statuten­änderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_J)
+#### [J. Statuten­änderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_J)
 
 [**Art. 647**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_647)
 
@@ -8675,11 +8677,11 @@ Jeder Beschluss der Generalversammlung oder des Verwaltungsrates über eine Änd
 
 [**Art. 648–649**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_648__649_)
 
-#### [K. Erhöhung des Aktien­kapitals](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K)
+#### [K. Erhöhung des Aktien­kapitals](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K)
 
-##### [I. Ordentliche und genehmigte Kapital­erhö­hung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I)
+##### [I. Ordentliche und genehmigte Kapital­erhö­hung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I)
 
-###### [1. Ordentliche Kapi­tal­erhö­hung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_1)
+###### [1. Ordentliche Kapi­tal­erhö­hung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_1)
 
 [**Art. 650**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_650)
 
@@ -8700,9 +8702,9 @@ Jeder Beschluss der Generalversammlung oder des Verwaltungsrates über eine Änd
 
 [3] Wird die Kapitalerhöhung nicht innerhalb von drei Monaten ins Han­delsregister eingetragen, so fällt der Beschluss der Generalver­samm­lung dahin.
 
-###### [2. Genehmigte Kapi­tal­erhö­hung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_2)
+###### [2. Genehmigte Kapi­tal­erhö­hung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_2)
 
-###### [a. Statutarische Grundlage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_2/lvl_a)
+###### [a. Statutarische Grundlage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_2/lvl_a)
 
 [**Art. 651**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_651)
 
@@ -8716,7 +8718,7 @@ Jeder Beschluss der Generalversammlung oder des Verwaltungsrates über eine Änd
 
 [5] Vorbehalten bleiben die Vorschriften des Bankengesetzes vom 8. November 1934 über das Vorratskapital.
 
-###### [b. Anpassung der Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_2/lvl_b)
+###### [b. Anpassung der Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_2/lvl_b)
 
 [**Art. 651***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_651_a)
 
@@ -8724,9 +8726,9 @@ Jeder Beschluss der Generalversammlung oder des Verwaltungsrates über eine Änd
 
 [2] Nach Ablauf der für die Durchführung der Kapitalerhöhung fest­gelegten Frist wird die Bestimmung über die genehmigte Kapital­erhöhung auf Beschluss des Verwaltungsrates aus den Statuten gestrichen.
 
-###### [3. Gemeinsame Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_3)
+###### [3. Gemeinsame Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3)
 
-###### [a. Aktien­zeichnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_3/lvl_a)
+###### [a. Aktien­zeichnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_a)
 
 [**Art. 652**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_652)
 
@@ -8736,11 +8738,11 @@ Jeder Beschluss der Generalversammlung oder des Verwaltungsrates über eine Änd
 
 [3] Enthält der Zeichnungsschein keine Befristung, so endet seine Ver­bindlichkeit drei Monate nach der Unterzeichnung.
 
-###### [b. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_3/lvl_b)
+###### [b. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_b)
 
 [**Art. 652***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_652_a)
 
-###### [c. Bezugsrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_3/lvl_c)
+###### [c. Bezugsrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_c)
 
 [**Art. 652***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_652_b)
 
@@ -8750,14 +8752,14 @@ Jeder Beschluss der Generalversammlung oder des Verwaltungsrates über eine Änd
 
 [3] Die Gesellschaft kann dem Aktionär, welchem sie ein Recht zum Bezug von Aktien eingeräumt hat, die Ausübung dieses Rechtes nicht wegen einer statutarischen Beschränkung der Übertragbarkeit von Namenaktien verwehren.
 
-###### [d. Leistung der Einlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_3/lvl_d)
+###### [d. Leistung der Einlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_d)
 
 
 [**Art. 652***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_652_c)
 
 Soweit das Gesetz nichts anderes vorschreibt, sind die Einlagen nach den Bestimmungen über die Gründung zu leisten.
 
-###### [e. Erhöhung aus Eigenkapital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_3/lvl_e)
+###### [e. Erhöhung aus Eigenkapital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_e)
 
 
 [**Art. 652***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_652_d)
@@ -8766,7 +8768,7 @@ Soweit das Gesetz nichts anderes vorschreibt, sind die Einlagen nach den Bestimm
 
 [2] Die Deckung des Erhöhungsbetrags ist mit der Jahresrechnung in der von den Aktionären genehmigten Fassung und dem Revisionsbericht eines zugelassenen Revisors nachzuweisen. Liegt der Bilanzstichtag mehr als sechs Monate zurück, so ist ein geprüfter Zwischenabschluss erforderlich.
 
-###### [f. Kapital­erhöhungsbericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_3/lvl_f)
+###### [f. Kapital­erhöhungsbericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_f)
 
 [**Art. 652***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_652_e)
 
@@ -8779,7 +8781,7 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 |    4. die Einhaltung des Generalversammlungsbeschlusses, insbe­son­dere über die Einschränkung oder die Aufhebung des Bezugs­rechtes und die Zuweisung nicht ausgeübter oder ent­zoge­ner Be­zugsrechte;  
 |    5. die Begründung und die Angemessenheit besonderer Vorteile zu­gunsten einzelner Aktionäre oder anderer Personen.
 
-###### [g. Prüfungs­bestäti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_3/lvl_g)
+###### [g. Prüfungs­bestäti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_g)
 
 [**Art. 652***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_652_f)
 
@@ -8787,7 +8789,7 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [2] Keine Prüfungsbestätigung ist erforderlich, wenn die Einlage auf das neue Aktienkapital in Geld erfolgt, das Aktienkapital nicht zur Vor­nahme einer Sachübernahme erhöht wird und die Bezugsrechte nicht eingeschränkt oder aufgehoben werden.
 
-###### [h. Statuten­änderung und Fest­stellungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_3/lvl_h)
+###### [h. Statuten­änderung und Fest­stellungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_h)
 
 [**Art. 652***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_652_g)
 
@@ -8803,7 +8805,7 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [3] Der öffentlichen Urkunde sind die geänderten Statuten, der Kapital­erhöhungsbericht, die Prüfungsbestätigung sowie die Sacheinlagever­träge und die bereits vorliegenden Sachübernahmeverträge beizule­gen.
 
-###### [i. Eintragung in das Handels­regis­ter; Nichtigkeit vorher aus­gegebener Ak­tien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I/lvl_3/lvl_i)
+###### [i. Eintragung in das Handels­regis­ter; Nichtigkeit vorher aus­gegebener Ak­tien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_i)
 
 
 [**Art. 652***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_652_h)
@@ -8818,10 +8820,10 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [3] Aktien, die vor der Eintragung der Kapitalerhöhung ausgegeben wer­den, sind nichtig; die aus der Aktienzeichnung hervorgehenden Ver­pflichtungen werden dadurch nicht berührt.
 
-##### [II. Bedingte Ka­pi­talerhö­hung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I)
+##### [II. Bedingte Ka­pi­talerhö­hung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I)
 
 
-###### [1. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_1)
+###### [1. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_1)
 
 [**Art. 653**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_653)
 
@@ -8831,7 +8833,7 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [3] Vorbehalten bleiben die Vorschriften des Bankengesetzes vom 8. November 1934 über das Wandlungskapital.
 
-###### [2. Schranken](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_2)
+###### [2. Schranken](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_2)
 
 [**Art. 653***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_653_a)
 
@@ -8839,7 +8841,7 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [2] Die geleistete Einlage muss mindestens dem Nennwert entsprechen.
 
-###### [3. Statutarische Grundlage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_3)
+###### [3. Statutarische Grundlage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_3)
 
 [**Art. 653***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_653_b)
 
@@ -8861,7 +8863,7 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [3] Wandel- oder Optionsrechte, die vor der Eintragung der Statuten­bestimmung über die bedingte Kapitalerhöhung im Handelsregister ein­geräumt werden, sind nichtig.
 
-###### [4. Schutz der Aktionäre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_4)
+###### [4. Schutz der Aktionäre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_4)
 
 
 [**Art. 653***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_653_c)
@@ -8872,7 +8874,7 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [3] Durch die für eine bedingte Kapitalerhöhung notwendige Aufhebung des Bezugsrechtes sowie durch eine Beschränkung oder Aufhebung des Vorwegzeichnungsrechtes darf niemand in unsachlicher Weise begünstigt oder benachteiligt werden.
 
-###### [5. Schutz der Wan­del- oder Options­berechtigten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_5)
+###### [5. Schutz der Wan­del- oder Options­berechtigten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_5)
 
 [**Art. 653***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_653_d)
 
@@ -8880,9 +8882,9 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [2] Wandel- oder Optionsrechte dürfen durch die Erhöhung des Aktien­kapitals, durch die Ausgabe neuer Wandel- oder Optionsrechte oder auf andere Weise nur beeinträchtigt werden, wenn der Konver­sions­preis gesenkt oder den Berechtigten auf andere Weise ein ange­messe­ner Ausgleich gewährt wird, oder wenn die gleiche Beeinträch­tigung auch die Aktionäre trifft.
 
-###### [6. Durchführung der Kapital­erhöhung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_6)
+###### [6. Durchführung der Kapital­erhöhung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_6)
 
-###### [a. Ausübung der Rechte; Einlage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_6/lvl_a)
+###### [a. Ausübung der Rechte; Einlage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_6/lvl_a)
 
 [**Art. 653***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_653_e)
 
@@ -8892,7 +8894,7 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [3] Die Aktionärsrechte entstehen mit der Erfüllung der Einlagepflicht.
 
-###### [b. Prüfungs­bestäti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_6/lvl_b)
+###### [b. Prüfungs­bestäti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_6/lvl_b)
 
 [**Art. 653***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_653_f)
 
@@ -8900,7 +8902,7 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [2] Er bestätigt dies schriftlich.
 
-###### [c. Anpassung der Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_6/lvl_c)
+###### [c. Anpassung der Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_6/lvl_c)
 
 
 [**Art. 653***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_653_g)
@@ -8909,14 +8911,14 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 [2] In der öffentlichen Urkunde stellt die Urkundsperson fest, dass die Prüfungsbestätigung die verlangten Angaben enthält.
 
-###### [d. Eintragung in das Handels­regi­ster](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_6/lvl_d)
+###### [d. Eintragung in das Handels­regi­ster](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_6/lvl_d)
 
 
 [**Art. 653***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_653_h)
 
 Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Abschluss des Geschäftsjahres die Statutenänderung an und reicht die öffentliche Urkunde und die Prüfungsbestätigung ein.
 
-###### [7. Streichung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_I_I/lvl_7)
+###### [7. Streichung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_7)
 
 [**Art. 653***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_653_i)
 
@@ -8924,9 +8926,9 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 [2] In der öffentlichen Urkunde stellt die Urkundsperson fest, dass der Prüfungsbericht die verlangten Angaben enthält.
 
-##### [III. Vorzugs­aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_II_I)
+##### [III. Vorzugs­aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_II_I)
 
-###### [1. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_II_I/lvl_1)
+###### [1. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_II_I/lvl_1)
 
 [**Art. 654**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_654) 
 
@@ -8938,7 +8940,7 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 [**Art. 655**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_655)
 
-###### [2. Stellung der Vorzugs­aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_K/lvl_II_I/lvl_2)
+###### [2. Stellung der Vorzugs­aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_K/lvl_II_I/lvl_2)
 
 [**Art. 656**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_656) 
 
@@ -8946,9 +8948,9 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 [2] Die Vorrechte können sich namentlich auf die Dividende mit oder ohne Nachbezugsrecht, auf den Liquidationsanteil und auf die Be­zugs­rechte für den Fall der Ausgabe neuer Aktien erstrecken.
 
-#### [L. Partizipa­tions­scheine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_L)
+#### [L. Partizipa­tions­scheine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_L)
 
-##### [I. Begriff; an­wend­bare Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_L/lvl_I)
+##### [I. Begriff; an­wend­bare Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_L/lvl_I)
 
 
 [**Art. 656***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_656_a)
@@ -8959,7 +8961,7 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 [3] Die Partizipationsscheine sind als solche zu bezeichnen.
 
-##### [II. Partizipa­tions- und Akti­enkapital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_L/lvl_I_I)
+##### [II. Partizipa­tions- und Akti­enkapital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_L/lvl_I_I)
 
 
 [**Art. 656***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_656_b)
@@ -8974,10 +8976,10 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 [5] Partizipationskapital kann im Verfahren der genehmigten oder bedingten Kapitalerhöhung geschaffen werden.
 
-##### [III. Rechts­stellung des Par­tizi­panten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_L/lvl_II_I)
+##### [III. Rechts­stellung des Par­tizi­panten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_L/lvl_II_I)
 
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_L/lvl_II_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_1)
 
 
 [**Art. 656***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_656_c)
@@ -8988,7 +8990,7 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 [3] Gewähren ihm die Statuten kein Recht auf Auskunft oder Einsicht oder kein Antragsrecht auf Einleitung einer Sonderprüfung (Art. 697*a* ff.), so kann der Partizipant Begehren um Auskunft oder Einsicht oder um Einleitung einer Sonderprüfung schriftlich zuhanden der General­versammlung stellen.
 
-###### [2. Bekanntgabe von Einberufung und Beschlüssen der Ge­neral­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_L/lvl_II_I/lvl_2)
+###### [2. Bekanntgabe von Einberufung und Beschlüssen der Ge­neral­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_2)
 
 [**Art. 656***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_656_d)
 
@@ -8996,15 +8998,15 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 [2] Jeder Beschluss der Generalversammlung ist unverzüglich am Gesellschaftssitz und bei den eingetragenen Zweigniederlassungen zur Einsicht der Partizipanten aufzulegen. Die Partizipanten sind in der Bekanntgabe darauf hinzuweisen.
 
-###### [3. Vertretung im Verwaltungsrat](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_L/lvl_II_I/lvl_3)
+###### [3. Vertretung im Verwaltungsrat](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_3)
 
 [**Art. 656***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_656_e)
 
 Die Statuten können den Partizipanten einen Anspruch auf einen Ver­treter im Verwaltungsrat einräumen.
 
-###### [4. Vermögens­rechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_L/lvl_II_I/lvl_4)
+###### [4. Vermögens­rechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_4)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_L/lvl_II_I/lvl_4/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_4/lvl_a)
 
 
 [**Art. 656***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_656_f) 
@@ -9017,7 +9019,7 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Ver­treter im V
 
 [4] Sofern die Statuten nichts anderes bestimmen, dürfen die Vorrechte und die statutarischen Mitwirkungsrechte von Partizipanten nur mit Zustimmung einer besonderen Versammlung der betroffenen Partizi­panten und der Generalversammlung der Aktionäre beschränkt oder aufgehoben werden.
 
-###### [b. Bezugsrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_L/lvl_II_I/lvl_4/lvl_b)
+###### [b. Bezugsrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_4/lvl_b)
 
 [**Art. 656***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_656_g)
 
@@ -9027,7 +9029,7 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Ver­treter im V
 
 [3] Wird das Partizipationskapital oder das Aktienkapital allein oder verhältnismässig stärker als das andere erhöht, so sind die Bezugs­rechte so zuzuteilen, dass Aktionäre und Partizipanten am gesamten Kapital gleich wie bis anhin beteiligt bleiben können.
 
-#### [M. Genuss­scheine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_M)
+#### [M. Genuss­scheine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_M)
 
 [**Art. 657**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_657)
 
@@ -9043,10 +9045,10 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Ver­treter im V
 
 [**Art. 658**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_658)
 
-#### [N. Eigene Ak­tien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_N)
+#### [N. Eigene Ak­tien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_N)
 
 
-##### [I. Einschrän­kung des Er­werbs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_N/lvl_I)
+##### [I. Einschrän­kung des Er­werbs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_N/lvl_I)
 
 [**Art. 659**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_659)
 
@@ -9054,7 +9056,7 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Ver­treter im V
 
 [2] Werden im Zusammenhang mit einer Übertragbarkeitsbeschränkung Namenaktien erworben, so beträgt die Höchstgrenze 20 Prozent. Die über 10 Prozent des Aktienkapitals hinaus erworbenen eigenen Aktien sind innert zweier Jahre zu veräussern oder durch Kapitalherabset­zung zu vernichten.
 
-##### [II. Folgen des Erwerbs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_N/lvl_I_I)
+##### [II. Folgen des Erwerbs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_N/lvl_I_I)
 
 
 [**Art. 659***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_659_a)
@@ -9063,7 +9065,7 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Ver­treter im V
 
 [2] Die Gesellschaft hat für die eigenen Aktien einen dem Anschaf­fungswert entsprechenden Betrag gesondert als Reserve auszuweisen.
 
-##### [III. Erwerb durch Tochter­gesell­schaf­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_1/lvl_N/lvl_II_I)
+##### [III. Erwerb durch Tochter­gesell­schaf­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_1/lvl_N/lvl_II_I)
 
 [**Art. 659***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_659_b)
 
@@ -9073,13 +9075,13 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Ver­treter im V
 
 [3] Die Reservebildung obliegt der Gesellschaft, welche die Mehrheits­beteiligung hält.
 
-### [Zweiter Abschnitt: Rechte und Pflichten der Aktionäre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2)
+### [Zweiter Abschnitt: Rechte und Pflichten der Aktionäre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2)
 
-#### [A. Recht auf Ge­winn- und Li­quidati­ons­anteil](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_A)
+#### [A. Recht auf Ge­winn- und Li­quidati­ons­anteil](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_A)
 
 
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_A/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_A/lvl_I)
 
 
 [**Art. 660**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_660)
@@ -9090,7 +9092,7 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Ver­treter im V
 
 [3] Vorbehalten bleiben die in den Statuten für einzelne Kategorien von Aktien festgesetzten Vorrechte.
 
-##### [II. Berech­nungs­art](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_A/lvl_I_I)
+##### [II. Berech­nungs­art](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_A/lvl_I_I)
 
 [**Art. 661**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_661) 
 
@@ -9104,11 +9106,11 @@ Die Anteile am Gewinn und am Liquidationsergebnis sind, sofern die Statuten nich
 
 [**Art. 663***a* und **663***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_663_a) 
 
-#### [B.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_B) [Geschäftsbericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_B)
+#### [B.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_B) [Geschäftsbericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_B)
 
-##### [I. Zusätzliche Angaben bei Gesellschaften mit kotierten Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_B/lvl_I)
+##### [I. Zusätzliche Angaben bei Gesellschaften mit kotierten Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_B/lvl_I)
 
-###### [1. Vergütungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_B/lvl_I/lvl_1)
+###### [1. Vergütungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_B/lvl_I/lvl_1)
 
 [**Art. 663***b*[bis]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_663_b_bis)
 
@@ -9150,7 +9152,7 @@ Die Anteile am Gewinn und am Liquidationsergebnis sind, sofern die Statuten nich
 
 [5] Vergütungen und Kredite an nahe stehende Personen sind ge­son­dert auszuweisen. Die Namen der nahe stehenden Personen müssen nicht angegeben werden. Im Übrigen finden die Vorschriften über die Angaben zu Vergütungen und Krediten an Mitglieder des Ver­waltungs­rates, der Geschäftsleitung und des Beirates entspre­chende Anwendung.
 
-###### [2. Beteiligungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_B/lvl_I/lvl_2)
+###### [2. Beteiligungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_B/lvl_I/lvl_2)
 
 [**Art. 663***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_663_c)
 
@@ -9172,7 +9174,7 @@ Die Anteile am Gewinn und am Liquidationsergebnis sind, sofern die Statuten nich
 
 [**Art. 669**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_669)
 
-##### [II. Bewertung. Aufwertung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_B/lvl_I_I)
+##### [II. Bewertung. Aufwertung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_B/lvl_I_I)
 
 
 [**Art. 670**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_670)
@@ -9181,11 +9183,11 @@ Die Anteile am Gewinn und am Liquidationsergebnis sind, sofern die Statuten nich
 
 [2] Die Aufwertung ist nur zulässig, wenn ein zugelassener Revisor zuhanden der Generalversammlung schriftlich bestätigt, dass die gesetzlichen Bestimmungen eingehalten sind.
 
-#### [C. Reserven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_C)
+#### [C. Reserven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_C)
 
-##### [I. Gesetzliche Re­serven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_C/lvl_I)
+##### [I. Gesetzliche Re­serven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_C/lvl_I)
 
-###### [1. Allgemeine Re­serve](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_C/lvl_I/lvl_1)
+###### [1. Allgemeine Re­serve](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_C/lvl_I/lvl_1)
 
 [**Art. 671**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_671)
 
@@ -9202,26 +9204,26 @@ Die Anteile am Gewinn und am Liquidationsergebnis sind, sofern die Statuten nich
 
 [4] Die Bestimmungen in Absatz 2 Ziffer 3 und Absatz 3 gelten nicht für Gesellschaften, deren Zweck hauptsächlich in der Beteiligung an an­de­ren Unternehmen besteht (Holdinggesellschaften).
 
-[5] ...
+[5] …
 
-[6] ...
+[6] …
 
-###### [2. Reserve für ei­gene Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_C/lvl_I/lvl_2)
+###### [2. Reserve für ei­gene Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_C/lvl_I/lvl_2)
 
 
 [**Art. 671***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_671_a)
 
 Die Reserve für eigene Aktien kann bei Veräusserung oder Vernich­tung von Aktien im Umfang der Anschaffungswerte aufgehoben wer­den.
 
-###### [3. Aufwertungs­re­serve](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_C/lvl_I/lvl_3)
+###### [3. Aufwertungs­re­serve](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_C/lvl_I/lvl_3)
 
 [**Art. 671***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_671_b)
 
 Die Aufwertungsreserve kann nur durch Umwandlung in Aktienkapi­tal sowie durch Wiederabschreibung oder Veräusserung der aufge­wer­te­ten Aktiven aufgelöst werden.
 
-##### [II. Statutarische Re­serven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_C/lvl_I_I)
+##### [II. Statutarische Re­serven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_C/lvl_I_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_C/lvl_I_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_C/lvl_I_I/lvl_1)
 
 
 [**Art. 672**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_672)
@@ -9230,13 +9232,13 @@ Die Aufwertungsreserve kann nur durch Umwandlung in Aktienkapi­tal sowie durch 
 
 [2] Sie können die Anlage weiterer Reserven vorsehen und deren Zweck­bestimmung und Verwendung festsetzen.
 
-###### [2. Zu Wohl­fahrts­zwecken für Arbeit­neh­mer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_C/lvl_I_I/lvl_2)
+###### [2. Zu Wohl­fahrts­zwecken für Arbeit­neh­mer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_C/lvl_I_I/lvl_2)
 
 [**Art. 673**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_673)
 
 Die Statuten können insbesondere auch Reserven zur Gründung und Unterstützung von Wohlfahrtseinrichtungen für Arbeitnehmer des Unternehmens vorsehen.
 
-##### [III. Verhältnis des Gewinn­anteils zu den Re­serven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_C/lvl_II_I)
+##### [III. Verhältnis des Gewinn­anteils zu den Re­serven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_C/lvl_II_I)
 
 [**Art. 674**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_674)
 
@@ -9250,9 +9252,9 @@ Die Statuten können insbesondere auch Reserven zur Gründung und Unterstützung
 
 [3] Ebenso kann die Generalversammlung zur Gründung und Unterstüt­zung von Wohlfahrtseinrichtungen für Arbeitnehmer des Unterneh­mens und zu anderen Wohlfahrtszwecken aus dem Bilanzgewinn auch dann Reserven bilden, wenn sie in den Statuten nicht vorgesehen sind.
 
-#### [D. Dividen­den, Bauzinse und Tan­tiemen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_D)
+#### [D. Dividen­den, Bauzinse und Tan­tiemen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_D)
 
-##### [I. Dividenden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_D/lvl_I)
+##### [I. Dividenden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_D/lvl_I)
 
 [**Art. 675**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_675) 
 
@@ -9260,7 +9262,7 @@ Die Statuten können insbesondere auch Reserven zur Gründung und Unterstützung
 
 [2] Dividenden dürfen nur aus dem Bilanzgewinn und aus hierfür gebil­deten Reserven ausgerichtet werden.
 
-##### [II. Bauzinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_D/lvl_I_I)
+##### [II. Bauzinse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_D/lvl_I_I)
 
 [**Art. 676**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_676) 
 
@@ -9268,16 +9270,16 @@ Die Statuten können insbesondere auch Reserven zur Gründung und Unterstützung
 
 [2] Wird das Unternehmen durch die Ausgabe neuer Aktien erweitert, so kann im Beschlusse über die Kapitalerhöhung den neuen Aktien eine bestimmte Verzinsung zu Lasten des Anlagekontos bis zu einem ge­nau anzugebenden Zeitpunkt, höchstens jedoch bis zur Aufnahme des Betriebes der neuen Anlage zugestanden werden.
 
-##### [III. Tantiemen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_D/lvl_II_I)
+##### [III. Tantiemen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_D/lvl_II_I)
 
 [**Art. 677**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_677)
 
 Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn entnommen werden und sind nur zulässig, nachdem die Zuweisung an die gesetzliche Reserve gemacht und eine Dividende von 5 Prozent oder von einem durch die Statuten festgesetzten höhe­ren Ansatz an die Aktionäre ausgerichtet worden ist.
 
-#### [E. Rück­erstattung von Lei­stungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_E)
+#### [E. Rück­erstattung von Lei­stungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_E)
 
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_E/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_E/lvl_I)
 
 
 [**Art. 678**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_678)
@@ -9290,19 +9292,19 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [4] Die Pflicht zur Rückerstattung verjährt fünf Jahre nach Empfang der Leistung.
 
-##### [II. Tantiemen im Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_E/lvl_I_I)
+##### [II. Tantiemen im Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_E/lvl_I_I)
 
 
 [**Art. 679**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_679)
 
 [1] Im Konkurs der Gesellschaft müssen die Mitglieder des Verwal­tungsrates alle Tantiemen, die sie in den letzten drei Jahren vor Kon­kurseröffnung erhalten haben, zurückerstatten, es sei denn, sie weisen nach, dass die Voraussetzungen zur Ausrichtung der Tantiemen nach Gesetz und Statuten erfüllt waren; dabei ist insbesondere nachzuwei­sen, dass die Ausrichtung aufgrund vorsichtiger Bilanzierung erfolgte.
 
-[2] ...
+[2] …
 
-#### [F. Leistungs­pflicht des Ak­tionärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_F)
+#### [F. Leistungs­pflicht des Ak­tionärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_F)
 
 
-##### [I. Gegenstand](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_F/lvl_I)
+##### [I. Gegenstand](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_F/lvl_I)
 
 [**Art. 680**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_680) 
 
@@ -9310,9 +9312,9 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [2] Ein Recht, den eingezahlten Betrag zurückzufordern, steht dem Aktionär nicht zu.
 
-##### [II. Verzugs­folgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_F/lvl_I_I)
+##### [II. Verzugs­folgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_F/lvl_I_I)
 
-###### [1. Nach Gesetz und Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_F/lvl_I_I/lvl_1)
+###### [1. Nach Gesetz und Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_F/lvl_I_I/lvl_1)
 
 [**Art. 681**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_681) 
 
@@ -9322,7 +9324,7 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [3] Die Statuten können einen Aktionär für den Fall der Säumnis auch zur Entrichtung einer Konventionalstrafe verpflichten.
 
-###### [2. Auf­forderung zur Leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_F/lvl_I_I/lvl_2)
+###### [2. Auf­forderung zur Leistung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_F/lvl_I_I/lvl_2)
 
 [**Art. 682**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_682) 
 
@@ -9332,10 +9334,10 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [3] Der säumige Aktionär haftet der Gesellschaft für den Betrag, der durch die Leistungen des neuen Aktionärs nicht gedeckt ist.
 
-#### [G. Ausgabe und Übertragung der Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_G)
+#### [G. Ausgabe und Übertragung der Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_G)
 
 
-##### [I. Inhaberaktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_G/lvl_I)
+##### [I. Inhaberaktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_G/lvl_I)
 
 [**Art. 683**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_683) 
 
@@ -9343,7 +9345,7 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [2] Vor der Volleinzahlung ausgegebene Aktien sind nichtig. Schaden­ersatzansprüche bleiben vorbehalten.
 
-##### [II. Namenaktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_G/lvl_I_I)
+##### [II. Namenaktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_G/lvl_I_I)
 
 [**Art. 684**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_684)
 
@@ -9351,9 +9353,9 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [2] Die Übertragung durch Rechtsgeschäft kann durch Übergabe des indossierten Aktientitels an den Erwerber erfolgen.
 
-#### [H. Beschrän­kung der Über­trag­barkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H)
+#### [H. Beschrän­kung der Über­trag­barkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H)
 
-##### [I. Gesetzliche Be­schränkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I)
+##### [I. Gesetzliche Be­schränkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I)
 
 [**Art. 685**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_685)
 
@@ -9361,9 +9363,9 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [2] Die Gesellschaft kann die Zustimmung nur verweigern, wenn die Zahlungsfähigkeit des Erwerbers zweifelhaft ist und die von der Gesellschaft geforderte Sicherheit nicht geleistet wird.
 
-##### [II. Statuta­rische Be­schränkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I)
+##### [II. Statuta­rische Be­schränkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I)
 
-###### [1. Grundsätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_1)
+###### [1. Grundsätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_1)
 
 [**Art. 685***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_685_a)
 
@@ -9373,9 +9375,9 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [3] Tritt die Gesellschaft in Liquidation, so fällt die Beschränkung der Übertragbarkeit dahin.
 
-###### [2. Nicht börsen­ko­tierte Namen­aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_2)
+###### [2. Nicht börsen­ko­tierte Namen­aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_2)
 
-###### [a. Voraus­setzungen der Ableh­nung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_2/lvl_a)
+###### [a. Voraus­setzungen der Ableh­nung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_2/lvl_a)
 
 [**Art. 685***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_685_b)
 
@@ -9393,7 +9395,7 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [7] Die Statuten dürfen die Voraussetzungen der Übertragbarkeit nicht erschweren.
 
-###### [b. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_2/lvl_b)
+###### [b. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_2/lvl_b)
 
 [**Art. 685***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_685_c)
 
@@ -9403,9 +9405,9 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [3] Lehnt die Gesellschaft das Gesuch um Zustimmung innert dreier Monate nach Erhalt nicht oder zu Unrecht ab, so gilt die Zustimmung als erteilt.
 
-###### [3. Börsenkotierte Namenaktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_3)
+###### [3. Börsenkotierte Namenaktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_3)
 
-###### [a. Voraus­setzungen der Ableh­nung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_3/lvl_a)
+###### [a. Voraus­setzungen der Ableh­nung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_3/lvl_a)
 
 [**Art. 685***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_685_d)
 
@@ -9415,13 +9417,13 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [3] Sind börsenkotierte Namenaktien durch Erbgang, Erbteilung oder eheliches Güterrecht erworben worden, kann der Erwerber nicht abge­lehnt werden.
 
-###### [b. Melde­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_3/lvl_b)
+###### [b. Melde­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_3/lvl_b)
 
 [**Art. 685***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_685_e)
 
 Werden börsenkotierte Namenaktien börsenmässig verkauft, so mel­det die Veräussererbank den Namen des Veräusserers und die Anzahl der verkauften Aktien unverzüglich der Gesellschaft.
 
-###### [c. Rechts­übergang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_3/lvl_c)
+###### [c. Rechts­übergang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_3/lvl_c)
 
 [**Art. 685***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_685_f) 
 
@@ -9433,15 +9435,15 @@ Werden börsenkotierte Namenaktien börsenmässig verkauft, so mel­det die Ver�
 
 [4] Ist die Ablehnung widerrechtlich, so hat die Gesellschaft das Stimm­recht und die damit zusammenhängenden Rechte vom Zeitpunkt des richterlichen Urteils an anzuerkennen und dem Erwerber Schaden­ersatz zu leisten, sofern sie nicht beweist, dass ihr kein Verschulden zur Last fällt.
 
-###### [d. Ableh­nungs­frist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_3/lvl_d)
+###### [d. Ableh­nungs­frist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_3/lvl_d)
 
 [**Art. 685***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_685_g)
 
 Lehnt die Gesellschaft das Gesuch des Erwerbers um Anerkennung innert 20 Tagen nicht ab, so ist dieser als Aktionär anerkannt.
 
-###### [4. Aktienbuch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_4)
+###### [4. Aktienbuch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_4)
 
-###### [a. Eintragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_4/lvl_a)
+###### [a. Eintragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_4/lvl_a)
 
 [**Art. 686**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_686)
 
@@ -9455,13 +9457,13 @@ Lehnt die Gesellschaft das Gesuch des Erwerbers um Anerkennung innert 20 Tagen n
 
 [5] Die Belege, die einer Eintragung zugrunde liegen, müssen während zehn Jahren nach der Streichung des Eigentümers oder Nutzniessers aus dem Aktienbuch aufbewahrt werden.
 
-###### [b. Streichung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_4/lvl_b)
+###### [b. Streichung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_4/lvl_b)
 
 [**Art. 686***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_686_a)
 
 Die Gesellschaft kann nach Anhörung des Betroffenen Eintragungen im Aktienbuch streichen, wenn diese durch falsche Angaben des Erwerbers zustande gekommen sind. Dieser muss über die Streichung sofort informiert werden.
 
-###### [5. Nicht voll einbe­zahlte Na­menak­tien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_I_I/lvl_5)
+###### [5. Nicht voll einbe­zahlte Na­menak­tien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_5)
 
 
 [**Art. 687**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_687) 
@@ -9474,7 +9476,7 @@ Die Gesellschaft kann nach Anhörung des Betroffenen Eintragungen im Aktienbuch 
 
 [4] Solange Namenaktien nicht voll einbezahlt sind, ist auf jedem Titel der auf den Nennwert einbezahlte Betrag anzugeben.
 
-##### [III. Interims­scheine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_H/lvl_II_I)
+##### [III. Interims­scheine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_H/lvl_II_I)
 
 [**Art. 688**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_688) 
 
@@ -9484,11 +9486,11 @@ Die Gesellschaft kann nach Anhörung des Betroffenen Eintragungen im Aktienbuch 
 
 [3] Interimsscheine für Namenaktien müssen auf den Namen lauten. Die Übertragung solcher Interimsscheine richtet sich nach den für die Übertragung von Namenaktien geltenden Vorschriften.
 
-#### [J. Persönliche Mit­gliedschafts­rechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J)
+#### [J. Persönliche Mit­gliedschafts­rechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J)
 
-##### [I. Teilnahme an der General­versamm­lung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I)
+##### [I. Teilnahme an der General­versamm­lung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I)
 
-###### [1. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I/lvl_1)
+###### [1. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_1)
 
 [**Art. 689**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_689)
 
@@ -9496,7 +9498,7 @@ Die Gesellschaft kann nach Anhörung des Betroffenen Eintragungen im Aktienbuch 
 
 [2] Er kann seine Aktien in der Generalversammlung selbst vertreten oder durch einen Dritten vertreten lassen, der unter Vorbehalt abwei­chender statutarischer Bestimmungen nicht Aktionär zu sein braucht.
 
-###### [2. Berechtigung gegenüber der Ge­sellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I/lvl_2)
+###### [2. Berechtigung gegenüber der Ge­sellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_2)
 
 [**Art. 689***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_689_a)
 
@@ -9504,10 +9506,10 @@ Die Gesellschaft kann nach Anhörung des Betroffenen Eintragungen im Aktienbuch 
 
 [2] Die Mitgliedschaftsrechte aus Inhaberaktien kann ausüben, wer sich als Besitzer ausweist, indem er die Aktien vorlegt. Der Verwaltungs­rat kann eine andere Art des Besitzesausweises anordnen.
 
-###### [3. Vertretung des Aktionärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I/lvl_3)
+###### [3. Vertretung des Aktionärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_3)
 
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I/lvl_3/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_3/lvl_a)
 
 
 [**Art. 689***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_689_b)
@@ -9516,13 +9518,13 @@ Die Gesellschaft kann nach Anhörung des Betroffenen Eintragungen im Aktienbuch 
 
 [2] Wer eine Inhaberaktie aufgrund einer Verpfändung, Hinterlegung oder leihweisen Überlassung besitzt, darf die Mitgliedschaftsrechte nur ausüben, wenn er vom Aktionär hierzu in einem besonderen Schrift­stück bevollmächtigt wurde.
 
-###### [b. Organ­vertre­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I/lvl_3/lvl_b)
+###### [b. Organ­vertre­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_3/lvl_b)
 
 [**Art. 689***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_689_c)
 
 Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine andere abhängige Person für die Stimmrechtsvertretung an einer Generalversammlung vor, so muss sie zugleich eine unabhän­gige Person bezeichnen, die von den Aktionären mit der Vertretung beauf­tragt werden kann.
 
-###### [c. Depot­vertre­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I/lvl_3/lvl_c)
+###### [c. Depot­vertre­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_3/lvl_c)
 
 [**Art. 689***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_689_d)
 
@@ -9532,7 +9534,7 @@ Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine an
 
 [3] Als Depotvertreter gelten die dem Bankengesetz vom 8. November 1934 unterstellten Institute und die Finanzinstitute nach dem Finanzinstitutsgesetz vom 15. Juni 2018.
 
-###### [d. Bekanntgabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I/lvl_3/lvl_d)
+###### [d. Bekanntgabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_3/lvl_d)
 
 [**Art. 689***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_689_e)
 
@@ -9540,7 +9542,7 @@ Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine an
 
 [2] Der Vorsitzende teilt die Angaben gesamthaft für jede Vertretungs­art der Generalversammlung mit. Unterlässt er dies, obschon ein Ak­tionär es verlangt hat, so kann jeder Aktionär die Beschlüsse der Ge­neralver­sammlung mit Klage gegen die Gesellschaft anfechten.
 
-###### [4. Mehrere Be­rech­tigte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I/lvl_4)
+###### [4. Mehrere Be­rech­tigte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_4)
 
 
 [**Art. 690**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_690) 
@@ -9549,7 +9551,7 @@ Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine an
 
 [2] Im Falle der Nutzniessung an einer Aktie wird diese durch den Nutz­niesser vertreten; er wird dem Eigentümer ersatzpflichtig, wenn er dabei dessen Interessen nicht in billiger Weise Rücksicht trägt.
 
-##### [II. Unbefugte Teil­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I_I)
+##### [II. Unbefugte Teil­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I_I)
 
 [**Art. 691**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_691) 
 
@@ -9559,9 +9561,9 @@ Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine an
 
 [3] Wirken Personen, die zur Teilnahme an der Generalversammlung nicht befugt sind, bei einem Beschlusse mit, so kann jeder Aktionär, auch wenn er nicht Einspruch erhoben hat, diesen Beschluss anfech­ten, sofern die beklagte Gesellschaft nicht nachweist, dass diese Mit­wirkung keinen Einfluss auf die Beschlussfassung ausgeübt hatte.
 
-##### [III. Stimm­recht in der General­ver­sammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_II_I)
+##### [III. Stimm­recht in der General­ver­sammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_II_I)
 
-###### [1. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_II_I/lvl_1)
+###### [1. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_II_I/lvl_1)
 
 [**Art. 692**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_692) 
 
@@ -9571,7 +9573,7 @@ Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine an
 
 [3] Bei der Herabsetzung des Nennwerts der Aktien im Fall einer Sanie­rung der Gesellschaft kann das Stimmrecht dem ursprünglichen Nennwert entsprechend beibehalten werden.
 
-###### [2. Stimm­rechts­ak­tien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_II_I/lvl_2)
+###### [2. Stimm­rechts­ak­tien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_II_I/lvl_2)
 
 [**Art. 693**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_693) 
 
@@ -9587,24 +9589,24 @@ Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine an
 |    3. die Beschlussfassung über die Einleitung einer Sonderprüfung;  
 |    4. die Beschlussfassung über die Anhebung einer Verantwortlich­keitsklage.
 
-###### [3. Entstehung des Stimm­rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_II_I/lvl_3)
+###### [3. Entstehung des Stimm­rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_II_I/lvl_3)
 
 [**Art. 694**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_694) 
 
 Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch festgesetzte Betrag einbezahlt ist.
 
-###### [4. Aus­schliessung vom Stimm­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_II_I/lvl_4)
+###### [4. Aus­schliessung vom Stimm­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_II_I/lvl_4)
 
 [**Art. 695**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_695) 
 
 [1] Bei Beschlüssen über die Entlastung des Verwaltungsrates haben Personen, die in irgendeiner Weise an der Geschäftsführung teil­genommen haben, kein Stimmrecht.
 
-[2] ...
+[2] …
 
-##### [IV. Kontroll­rech­te der Ak­tionäre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I_V)
+##### [IV. Kontroll­rech­te der Ak­tionäre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I_V)
 
 
-###### [1. Bekanntgabe des Geschäfts­berichtes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I_V/lvl_1)
+###### [1. Bekanntgabe des Geschäfts­berichtes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I_V/lvl_1)
 
 [**Art. 696**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_696)
 
@@ -9614,7 +9616,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [3] Jeder Aktionär kann noch während eines Jahres nach der General­ver­sammlung von der Gesellschaft den Geschäftsbericht in der von der Generalversammlung genehmigten Form sowie den Revisionsbe­richt verlangen.
 
-###### [2. Auskunft und Einsicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_I_V/lvl_2)
+###### [2. Auskunft und Einsicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_I_V/lvl_2)
 
 
 [**Art. 697**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697)
@@ -9627,9 +9629,9 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [4] Wird die Auskunft oder die Einsicht ungerechtfertigterweise verwei­gert, so ordnet das Gericht sie auf Antrag an.
 
-##### [V. Recht auf Einlei­tung einer Sonder­prüfung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_V)
+##### [V. Recht auf Einlei­tung einer Sonder­prüfung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_V)
 
-###### [1. Mit Genehmi­gung der Gene­ral­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_V/lvl_1)
+###### [1. Mit Genehmi­gung der Gene­ral­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_1)
 
 
 [**Art. 697***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_a)
@@ -9638,7 +9640,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [2] Entspricht die Generalversammlung dem Antrag, so kann die Gesell­schaft oder jeder Aktionär innert 30 Tagen das Gericht um Einsetzung eines Sonderprüfers ersuchen.
 
-###### [2. Bei Ableh­nung durch die General­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_V/lvl_2)
+###### [2. Bei Ableh­nung durch die General­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_2)
 
 
 [**Art. 697***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_b)
@@ -9647,7 +9649,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [2] Die Gesuchsteller haben Anspruch auf Einsetzung eines Sonderprü­fers, wenn sie glaubhaft machen, dass Gründer oder Organe Gesetz oder Statuten verletzt und damit die Gesellschaft oder die Aktionäre geschädigt haben.
 
-###### [3. Einsetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_V/lvl_3)
+###### [3. Einsetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_3)
 
 [**Art. 697***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_c)
 
@@ -9657,7 +9659,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [3] Das Gericht kann die Sonderprüfung auch mehreren Sachverständi­gen gemeinsam übertragen.
 
-###### [4. Tätigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_V/lvl_4)
+###### [4. Tätigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_4)
 
 [**Art. 697***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_d)
 
@@ -9669,7 +9671,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [4] Er ist zur Verschwiegenheit verpflichtet.
 
-###### [5. Bericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_V/lvl_5)
+###### [5. Bericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_5)
 
 [**Art. 697***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_e)
 
@@ -9679,7 +9681,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [3] Er gibt der Gesellschaft und den Gesuchstellern Gelegenheit, zum be­reinigten Bericht Stellung zu nehmen und Ergänzungsfragen zu stel­len.
 
-###### [6. Behandlung und Bekannt­ga­be](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_V/lvl_6)
+###### [6. Behandlung und Bekannt­ga­be](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_6)
 
 [**Art. 697***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_f) 
 
@@ -9687,7 +9689,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [2] Jeder Aktionär kann während eines Jahres nach der Generalver­sammlung von der Gesellschaft eine Ausfertigung des Berichtes und der Stellungnahmen verlangen.
 
-###### [7. Kosten­tra­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_J/lvl_V/lvl_7)
+###### [7. Kosten­tra­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_7)
 
 [**Art. 697***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_g)
 
@@ -9699,9 +9701,9 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [**Art. 697***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_i)
 
-#### [K. Meldepflicht des Aktionärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_K)
+#### [K. Meldepflicht des Aktionärs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_K)
 
-##### [I. Meldung der an Aktien wirtschaftlich berechtigten Person](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_K/lvl_I)
+##### [I. Meldung der an Aktien wirtschaftlich berechtigten Person](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_K/lvl_I)
 
 [**Art. 697***j*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_j)
 
@@ -9717,7 +9719,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [**Art. 697***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_k)
 
-##### [II. Verzeichnis der wirtschaftlich berechtigten Personen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_K/lvl_I_I)
+##### [II. Verzeichnis der wirtschaftlich berechtigten Personen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_K/lvl_I_I)
 
 [**Art. 697***l*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_l)
 
@@ -9729,7 +9731,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [4] Das Verzeichnis muss so geführt werden, dass in der Schweiz jederzeit darauf zugegriffen werden kann.
 
-##### [III. Nicht­einhaltung der Meldepflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_2/lvl_K/lvl_II_I)
+##### [III. Nicht­einhaltung der Meldepflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_2/lvl_K/lvl_II_I)
 
 [**Art. 697***m*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_697_m)
 
@@ -9741,11 +9743,11 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [4] Der Verwaltungsrat stellt sicher, dass keine Aktionäre unter Ver­letzung der Meldepflichten ihre Rechte ausüben.
 
-### [Dritter Abschnitt: Organisation der Aktiengesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3)
+### [Dritter Abschnitt: Organisation der Aktiengesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3)
 
-#### [A. Die Generalversammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A)
+#### [A. Die Generalversammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A)
 
-##### [I. Befugnisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_I)
+##### [I. Befugnisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_I)
 
 [**Art. 698**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_698) 
 
@@ -9761,9 +9763,9 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 |    5. die Entlastung der Mitglieder des Verwaltungsrates;  
 |    6. die Beschlussfassung über die Gegenstände, die der General­ver­sammlung durch das Gesetz oder die Statuten vorbehalten sind.
 
-##### [II. Einberufung und Traktandie­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_I_I)
+##### [II. Einberufung und Traktandie­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_I_I)
 
-###### [1. Recht und Pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_I_I/lvl_1)
+###### [1. Recht und Pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_I_I/lvl_1)
 
 
 [**Art. 699**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_699) 
@@ -9776,7 +9778,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [4] Entspricht der Verwaltungsrat diesem Begehren nicht binnen ange­messener Frist, so hat das Gericht auf Antrag der Gesuchsteller die Einberufung anzuordnen.
 
-###### [2. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_I_I/lvl_2)
+###### [2. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_I_I/lvl_2)
 
 [**Art. 700**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_700)
 
@@ -9788,7 +9790,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [4] Zur Stellung von Anträgen im Rahmen der Verhandlungsgegenstän­de und zu Verhandlungen ohne Beschlussfassung bedarf es keiner vorgängigen Ankündigung.
 
-###### [3. Universal­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_I_I/lvl_3)
+###### [3. Universal­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_I_I/lvl_3)
 
 [**Art. 701**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_701) 
 
@@ -9796,7 +9798,7 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [2] In dieser Versammlung kann über alle in den Geschäftskreis der Generalversammlung fallenden Gegenstände gültig verhandelt und Beschluss gefasst werden, solange die Eigentümer oder Vertreter sämt­li­cher Aktien anwesend sind.
 
-##### [III. Vor­bereitende Massnah­men; Proto­koll](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_II_I)
+##### [III. Vor­bereitende Massnah­men; Proto­koll](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_II_I)
 
 [**Art. 702**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_702)
 
@@ -9812,22 +9814,22 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder sta­tutarisch
 
 [3] Die Aktionäre sind berechtigt, das Protokoll einzusehen.
 
-##### [IV. Teilnahme der Mitglieder des Verwal­tungsrates](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_I_V)
+##### [IV. Teilnahme der Mitglieder des Verwal­tungsrates](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_I_V)
 
 [**Art. 702***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_702_a)
 
 Die Mitglieder des Verwaltungsrates sind berechtigt, an der General­versammlung teilzunehmen. Sie können Anträge stellen.
 
-##### [V. Beschluss­fassung und Wahlen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_V)
+##### [V. Beschluss­fassung und Wahlen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_V)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_V/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_V/lvl_1)
 
 
 [**Art. 703**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_703) 
 
 Die Generalversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen, soweit das Gesetz oder die Statuten es nicht anders bestim­men, mit der absoluten Mehrheit der vertretenen Aktienstimmen.
 
-###### [2. Wichtige Bes­ch­lüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_V/lvl_2)
+###### [2. Wichtige Bes­ch­lüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_V/lvl_2)
 
 
 [**Art. 704**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_704)
@@ -9848,14 +9850,14 @@ Die Generalversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen, soweit 
 
 [3] Namenaktionäre, die einem Beschluss über die Zweckänderung oder die Einführung von Stimmrechtsaktien nicht zugestimmt haben, sind während sechs Monaten nach dessen Veröffentlichung im Schweizeri­schen Handelsamtsblatt an statutarische Beschränkungen der Über­tragbarkeit der Aktien nicht gebunden.
 
-###### [3. Umwandlung von Inhaber- in Namenaktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_V/lvl_3)
+###### [3. Umwandlung von Inhaber- in Namenaktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_V/lvl_3)
 
 
 [**Art. 704***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_704_a)
 
 Der Beschluss der Generalversammlung über die Umwandlung von Inhaberaktien in Namenaktien kann mit der Mehrheit der abgegebenen Stimmen gefasst werden. Die Statuten dürfen die Umwandlung nicht erschweren.
 
-##### [VI. Abberufung des Verwaltungs­rates und der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_V_I)
+##### [VI. Abberufung des Verwaltungs­rates und der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_V_I)
 
 [**Art. 705**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_705) 
 
@@ -9863,9 +9865,9 @@ Der Beschluss der Generalversammlung über die Umwandlung von Inhaberaktien in N
 
 [2] Entschädigungsansprüche der Abberufenen bleiben vorbehalten.
 
-##### [VII. Anfechtung von General­versammlungs­beschlüssen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_VI_I)
+##### [VII. Anfechtung von General­versammlungs­beschlüssen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_VI_I)
 
-###### [1. Legitimation und Gründe[]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_VI_I/lvl_1)
+###### [1. Legitimation und Gründe[]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_VI_I/lvl_1)
 
 [**Art. 706**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_706) 
 
@@ -9879,11 +9881,11 @@ Der Beschluss der Generalversammlung über die Umwandlung von Inhaberaktien in N
 |    3. eine durch den Gesellschaftszweck nicht gerechtfertigte Ungleichbehandlung oder Benachteiligung der Aktionäre bewir­ken;  
 |    4. die Gewinnstrebigkeit der Gesellschaft ohne Zustimmung sämt­li­cher Aktionäre aufheben. 
 
-[3–4] ...
+[3–4] …
 
 [5] Das Urteil, das einen Beschluss der Generalversammlung aufhebt, wirkt für und gegen alle Aktionäre.
 
-###### [2. Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_VI_I/lvl_2)
+###### [2. Verfahren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_VI_I/lvl_2)
 
 [**Art. 706***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_706_a)
 
@@ -9891,9 +9893,9 @@ Der Beschluss der Generalversammlung über die Umwandlung von Inhaberaktien in N
 
 [2] Ist der Verwaltungsrat Kläger, so bestellt das Gericht einen Vertreter für die Gesellschaft.
 
-[3] ...
+[3] …
 
-##### [VIII. Nichtig­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_A/lvl_VII_I)
+##### [VIII. Nichtig­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_A/lvl_VII_I)
 
 [**Art. 706***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_706_b)
 
@@ -9904,24 +9906,24 @@ Nichtig sind insbesondere Beschlüsse der Generalversammlung, die:
 |    2. Kontrollrechte von Aktionären über das gesetzlich zulässige Mass hinaus beschränken oder  
 |    3. die Grundstrukturen der Aktiengesellschaft missachten oder die Bestimmungen zum Kapitalschutz verletzen.
 
-#### [B. Der Verwaltungsrat](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B)
+#### [B. Der Verwaltungsrat](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I)
 
 
-###### [1. Wählbar­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I/lvl_1)
+###### [1. Wählbar­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I/lvl_1)
 
 [**Art. 707**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_707) 
 
 [1] Der Verwaltungsrat der Gesellschaft besteht aus einem oder mehreren Mitgliedern.
 
-[2] ...
+[2] …
 
 [3] Ist an der Gesellschaft eine juristische Person oder eine Handels­gesellschaft beteiligt, so ist sie als solche nicht als Mitglied des Verwal­tungsrates wählbar; dagegen können an ihrer Stelle ihre Vertreter gewählt werden.
 
 [**Art. 708**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_708)
 
-###### [2. Vertretung von Aktionärs­kategorien und -gruppen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I/lvl_2)
+###### [2. Vertretung von Aktionärs­kategorien und -gruppen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I/lvl_2)
 
 
 [**Art. 709**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_709)
@@ -9930,7 +9932,7 @@ Nichtig sind insbesondere Beschlüsse der Generalversammlung, die:
 
 [2] Die Statuten können besondere Bestimmungen zum Schutz von Minderheiten oder einzelnen Gruppen von Aktionären vorsehen.
 
-###### [3. Amtsdauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I/lvl_3)
+###### [3. Amtsdauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I/lvl_3)
 
 [**Art. 710**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_710)
 
@@ -9940,9 +9942,9 @@ Nichtig sind insbesondere Beschlüsse der Generalversammlung, die:
 
 [**Art. 711**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_711)
 
-##### [II. Organisation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I_I)
+##### [II. Organisation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I_I)
 
-###### [1. Präsident und Sekretär](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I_I/lvl_1)
+###### [1. Präsident und Sekretär](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I_I/lvl_1)
 
 
 [**Art. 712**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_712)
@@ -9951,7 +9953,7 @@ Nichtig sind insbesondere Beschlüsse der Generalversammlung, die:
 
 [2] Die Statuten können bestimmen, dass der Präsident durch die Gene­ralversammlung gewählt wird.
 
-###### [2. Beschlüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I_I/lvl_2)
+###### [2. Beschlüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I_I/lvl_2)
 
 [**Art. 713**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_713)
 
@@ -9961,20 +9963,20 @@ Nichtig sind insbesondere Beschlüsse der Generalversammlung, die:
 
 [3] Über die Verhandlungen und Beschlüsse ist ein Protokoll zu führen, das vom Vorsitzenden und vom Sekretär unterzeichnet wird.
 
-###### [3. Nichtige Bes­chlü­sse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I_I/lvl_3)
+###### [3. Nichtige Bes­chlü­sse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I_I/lvl_3)
 
 
 [**Art. 714**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_714)
 
 Für die Beschlüsse des Verwaltungsrates gelten sinngemäss die glei­chen Nichtigkeitsgründe wie für die Beschlüsse der Generalversamm­lung.
 
-###### [4. Recht auf Einbe­rufung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I_I/lvl_4)
+###### [4. Recht auf Einbe­rufung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I_I/lvl_4)
 
 [**Art. 715**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_715)
 
 Jedes Mitglied des Verwaltungsrates kann unter Angabe der Gründe vom Präsidenten die unverzügliche Einberufung einer Sitzung verlan­gen.
 
-###### [5. Recht auf Auskunft und Einsicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I_I/lvl_5)
+###### [5. Recht auf Auskunft und Einsicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I_I/lvl_5)
 
 
 [**Art. 715***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_715_a)
@@ -9991,9 +9993,9 @@ Jedes Mitglied des Verwaltungsrates kann unter Angabe der Gründe vom Präsident
 
 [6] Regelungen oder Beschlüsse des Verwaltungsrates, die das Recht auf Auskunft und Einsichtnahme der Verwaltungsräte erweitern, blei­ben vorbehalten.
 
-##### [III. Aufgaben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_II_I)
+##### [III. Aufgaben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_II_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_II_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_II_I/lvl_1)
 
 
 [**Art. 716**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_716)
@@ -10002,7 +10004,7 @@ Jedes Mitglied des Verwaltungsrates kann unter Angabe der Gründe vom Präsident
 
 [2] Der Verwaltungsrat führt die Geschäfte der Gesellschaft, soweit er die Geschäftsführung nicht übertragen hat.
 
-###### [2. Unübertrag­bare Aufgaben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_II_I/lvl_2)
+###### [2. Unübertrag­bare Aufgaben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_II_I/lvl_2)
 
 [**Art. 716***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_716_a)
 
@@ -10019,7 +10021,7 @@ Jedes Mitglied des Verwaltungsrates kann unter Angabe der Gründe vom Präsident
 
 [2] Der Verwaltungsrat kann die Vorbereitung und die Ausführung sei­ner Beschlüsse oder die Überwachung von Geschäften Ausschüssen oder einzelnen Mitgliedern zuweisen. Er hat für eine angemessene Berichterstattung an seine Mitglieder zu sorgen.
 
-###### [3. Übertragung der Geschäfts­führung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_II_I/lvl_3)
+###### [3. Übertragung der Geschäfts­führung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_II_I/lvl_3)
 
 [**Art. 716***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_716_b)
 
@@ -10029,7 +10031,7 @@ Jedes Mitglied des Verwaltungsrates kann unter Angabe der Gründe vom Präsident
 
 [3] Soweit die Geschäftsführung nicht übertragen worden ist, steht sie allen Mitgliedern des Verwaltungsrates gesamthaft zu.
 
-##### [IV. Sorgfalts- und Treuepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_I_V)
+##### [IV. Sorgfalts- und Treuepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_I_V)
 
 [**Art. 717**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_717)
 
@@ -10037,9 +10039,9 @@ Jedes Mitglied des Verwaltungsrates kann unter Angabe der Gründe vom Präsident
 
 [2] Sie haben die Aktionäre unter gleichen Voraussetzungen gleich zu behandeln.
 
-##### [V. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_V)
+##### [V. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_V)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_V/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_1)
 
 
 [**Art. 718**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_718)
@@ -10052,7 +10054,7 @@ Jedes Mitglied des Verwaltungsrates kann unter Angabe der Gründe vom Präsident
 
 [4] Die Gesellschaft muss durch eine Person vertreten werden können, die Wohnsitz in der Schweiz hat. Diese Person muss Mitglied des Verwaltungsrates oder Direktor sein. Sie muss Zugang zum Aktienbuch sowie zum Verzeichnis nach Artikel 697*l* haben, soweit dieses Verzeichnis nicht von einem Finanzintermediär geführt wird.
 
-###### [2. Umfang und Be­schränkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_V/lvl_2)
+###### [2. Umfang und Be­schränkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_2)
 
 [**Art. 718***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_718_a)
 
@@ -10060,32 +10062,32 @@ Jedes Mitglied des Verwaltungsrates kann unter Angabe der Gründe vom Präsident
 
 [2] Eine Beschränkung dieser Vertretungsbefugnis hat gegenüber gut­gläubigen Dritten keine Wirkung; ausgenommen sind die im Handels­register eingetragenen Bestimmungen über die ausschliessliche Ver­tretung der Hauptniederlassung oder einer Zweigniederlassung oder über die gemeinsame Vertretung der Gesellschaft.
 
-###### [3. Verträge zwischen der Gesellschaft und ihrem Vertreter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_V/lvl_3)
+###### [3. Verträge zwischen der Gesellschaft und ihrem Vertreter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_3)
 
 
 [**Art. 718***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_718_b)
 
 Wird die Gesellschaft beim Abschluss eines Vertrages durch diejenige Person vertreten, mit der sie den Vertrag abschliesst, so muss der Vertrag schriftlich abgefasst werden. Dieses Erfordernis gilt nicht für Verträge des laufenden Geschäfts, bei denen die Leistung der Gesellschaft den Wert von 1000 Franken nicht übersteigt.
 
-###### [4. Zeichnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_V/lvl_4)
+###### [4. Zeichnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_4)
 
 [**Art. 719**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_719) 
 
 Die zur Vertretung der Gesellschaft befugten Personen haben in der Weise zu zeichnen, dass sie der Firma der Gesellschaft ihre Unter­schrift beifügen.
 
-###### [5. Eintragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_V/lvl_5)
+###### [5. Eintragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_5)
 
 [**Art. 720**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_720) 
 
 Die zur Vertretung der Gesellschaft befugten Personen sind vom Ver­waltungsrat zur Eintragung in das Handelsregister anzumelden, unter Vorlegung einer beglaubigten Abschrift des Beschlusses. Sie haben ihre Unterschrift beim Handelsregisteramt zu zeichnen oder die Zeich­nung in beglaubigter Form einzureichen.
 
-###### [6. Prokuristen und Bevoll­mächtigte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_V/lvl_6)
+###### [6. Prokuristen und Bevoll­mächtigte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_6)
 
 [**Art. 721**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_721)
 
 Der Verwaltungsrat kann Prokuristen und andere Bevollmächtigte ernennen.
 
-##### [VI. Haftung der Organe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_V_I)
+##### [VI. Haftung der Organe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_V_I)
 
 [**Art. 722**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_722)
 
@@ -10093,9 +10095,9 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 [**Art. 723–724**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_723__724_)
 
-##### [VII. Kapital­ver­lust und Über­schuldung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_VI_I)
+##### [VII. Kapital­ver­lust und Über­schuldung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_VI_I)
 
-###### [1. Anzeige­pflich­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_VI_I/lvl_1)
+###### [1. Anzeige­pflich­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_VI_I/lvl_1)
 
 [**Art. 725**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_725)
 
@@ -10105,7 +10107,7 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 [3]Verfügt die Gesellschaft über keine Revisionsstelle, so obliegen dem zugelassenen Revisor die Anzeigepflichten der eingeschränkt prüfenden Revisionsstelle.
 
-###### [2. Eröffnung oder Aufschub des Kon­kurses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_VI_I/lvl_2)
+###### [2. Eröffnung oder Aufschub des Kon­kurses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_VI_I/lvl_2)
 
 [**Art. 725***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_725_a)
 
@@ -10115,7 +10117,7 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 [3] Der Konkursaufschub muss nur veröffentlicht werden, wenn dies zum Schutze Dritter erforderlich ist.
 
-##### [VIII. Abberu­fung und Ein­stellung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_B/lvl_VII_I)
+##### [VIII. Abberu­fung und Ein­stellung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_B/lvl_VII_I)
 
 [**Art. 726**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_726) 
 
@@ -10125,11 +10127,11 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 [3] Entschädigungsansprüche der Abberufenen oder in ihren Funktionen Eingestellten bleiben vorbehalten.
 
-#### [C.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C) [Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C)
+#### [C.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C) [Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C)
 
-##### [I. Revisions­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I)
+##### [I. Revisions­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I)
 
-###### [1. Ordentliche Revision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I/lvl_1)
+###### [1. Ordentliche Revision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I/lvl_1)
 
 [**Art. 727**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_727) 
 
@@ -10154,7 +10156,7 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 [3] Verlangt das Gesetz keine ordentliche Revision der Jahresrechnung, so können die Statuten vorsehen oder kann die Generalversammlung beschliessen, dass die Jahresrechnung ordentlich geprüft wird.
 
-###### [2. Eingeschränk­te Revision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I/lvl_2)
+###### [2. Eingeschränk­te Revision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I/lvl_2)
 
 [**Art. 727***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_727_a) 
 
@@ -10168,9 +10170,9 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 [5] Soweit erforderlich passt der Verwaltungsrat die Statuten an und meldet dem Handelsregister die Löschung oder die Eintragung der Revisionsstelle an.
 
-##### [II. Anforderun­gen an die Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I_I)
+##### [II. Anforderun­gen an die Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I_I)
 
-###### [1. Bei ordent­licher Revision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I_I/lvl_1)
+###### [1. Bei ordent­licher Revision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I_I/lvl_1)
 
 [**Art. 727***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_727_b) 
 
@@ -10178,15 +10180,15 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 [2] Die übrigen Gesellschaften, die zur ordentlichen Revision verpflich­tet sind, müssen als Revisionsstelle einen zugelassenen Revisions­experten nach den Vorschriften des Revisionsaufsichtsgesetzes vom 16. Dezember 2005 bezeichnen. Sie müssen Prüfungen, die nach den gesetzlichen Vor­schriften durch einen zugelassenen Revisor vorzunehmen sind, eben­falls von einem zugelassenen Revisionsexperten durchführen lassen.
 
-###### [2. Bei ein­geschränkter Revision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I_I/lvl_2)
+###### [2. Bei ein­geschränkter Revision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I_I/lvl_2)
 
 [**Art. 727***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_727_c) 
 
 Die Gesellschaften, die zur eingeschränkten Revision verpflichtet sind, müssen als Revisionsstelle einen zugelassenen Revisor nach den Vor­schriften des Revisionsaufsichtsgesetzes vom 16. Dezember 2005 bezeichnen.
 
-##### [III. Ordentliche Revision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_II_I)
+##### [III. Ordentliche Revision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_II_I)
 
-###### [1. Unabhängig­keit der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_II_I/lvl_1)
+###### [1. Unabhängig­keit der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_II_I/lvl_1)
 
 
 [**Art. 728**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_728) 
@@ -10212,9 +10214,9 @@ Die Gesellschaften, die zur eingeschränkten Revision verpflichtet sind, müssen
 
 [6] Die Bestimmungen über die Unabhängigkeit erfassen auch Gesell­schaften, die mit der zu prüfenden Gesellschaft oder der Revisions­stelle unter einheitlicher Leitung stehen.
 
-###### [2. Aufgaben der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_II_I/lvl_2)
+###### [2. Aufgaben der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_II_I/lvl_2)
 
-###### [a. Gegenstand und Umfang der Prüfung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_II_I/lvl_2/lvl_a)
+###### [a. Gegenstand und Umfang der Prüfung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_II_I/lvl_2/lvl_a)
 
 [**Art. 728***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_728_a) 
 
@@ -10229,7 +10231,7 @@ Die Gesellschaften, die zur eingeschränkten Revision verpflichtet sind, müssen
 
 [3] Die Geschäftsführung des Verwaltungsrats ist nicht Gegenstand der Prüfung durch die Revisionsstelle.
 
-###### [b. Revisions­bericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_II_I/lvl_2/lvl_b)
+###### [b. Revisions­bericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_II_I/lvl_2/lvl_b)
 
 [**Art. 728***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_728_b) 
 
@@ -10245,7 +10247,7 @@ Die Gesellschaften, die zur eingeschränkten Revision verpflichtet sind, müssen
 
 [3] Beide Berichte müssen von der Person unterzeichnet werden, die die Revision geleitet hat.
 
-###### [c. Anzeige­pflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_II_I/lvl_2/lvl_c)
+###### [c. Anzeige­pflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_II_I/lvl_2/lvl_c)
 
 [**Art. 728***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_728_c) 
 
@@ -10259,9 +10261,9 @@ Die Gesellschaften, die zur eingeschränkten Revision verpflichtet sind, müssen
 
 [3] Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltungsrat die Anzeige, so benachrichtigt die Revisionsstelle das Gericht.
 
-##### [IV. Ein­ge­schränk­te Revision (Review)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I_V)
+##### [IV. Ein­ge­schränk­te Revision (Review)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I_V)
 
-###### [1. Unabhängig­keit der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I_V/lvl_1)
+###### [1. Unabhängig­keit der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I_V/lvl_1)
 
 
 [**Art. 729**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_729) 
@@ -10270,9 +10272,9 @@ Die Gesellschaften, die zur eingeschränkten Revision verpflichtet sind, müssen
 
 [2] Das Mitwirken bei der Buchführung und das Erbringen anderer Dienstleistungen für die zu prüfende Gesellschaft sind zulässig. Sofern das Risiko der Überprüfung eigener Arbeiten entsteht, muss durch geeignete organisatorische und personelle Massnahmen eine ver­läss­liche Prüfung sichergestellt werden.
 
-###### [2. Aufgaben der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I_V/lvl_2)
+###### [2. Aufgaben der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I_V/lvl_2)
 
-###### [a. Gegenstand und Umfang der Prüfung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I_V/lvl_2/lvl_a)
+###### [a. Gegenstand und Umfang der Prüfung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I_V/lvl_2/lvl_a)
 
 [**Art. 729***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_729_a) 
 
@@ -10286,7 +10288,7 @@ Die Gesellschaften, die zur eingeschränkten Revision verpflichtet sind, müssen
 
 [3] Die Geschäftsführung des Verwaltungsrats ist nicht Gegenstand der Prüfung durch die Revisionsstelle.
 
-###### [b. Revisions­bericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I_V/lvl_2/lvl_b)
+###### [b. Revisions­bericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I_V/lvl_2/lvl_b)
 
 [**Art. 729***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_729_b) 
 
@@ -10300,15 +10302,15 @@ Die Gesellschaften, die zur eingeschränkten Revision verpflichtet sind, müssen
 
 [2] Der Bericht muss von der Person unterzeichnet werden, die die Revision geleitet hat.
 
-###### [c. Anzeigepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_I_V/lvl_2/lvl_c)
+###### [c. Anzeigepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_I_V/lvl_2/lvl_c)
 
 [**Art. 729***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_729_c) 
 
 Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltungsrat die Anzeige, so benachrichtigt die Revisionsstelle das Gericht.
 
-##### [V. Gemeinsame Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_V)
+##### [V. Gemeinsame Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_V)
 
-###### [1. Wahl der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_V/lvl_1)
+###### [1. Wahl der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_V/lvl_1)
 
 [**Art. 730**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_730) 
 
@@ -10320,7 +10322,7 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 [4] Wenigstens ein Mitglied der Revisionsstelle muss seinen Wohnsitz, seinen Sitz oder eine eingetragene Zweigniederlassung in der Schweiz haben.
 
-###### [2. Amtsdauer der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_V/lvl_2)
+###### [2. Amtsdauer der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_V/lvl_2)
 
 [**Art. 730***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_730_a) 
 
@@ -10332,7 +10334,7 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 [4] Die Generalversammlung kann die Revisionsstelle jederzeit mit sofortiger Wirkung abberufen.
 
-###### [3. Auskunft und Geheimhaltung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_V/lvl_3)
+###### [3. Auskunft und Geheimhaltung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_V/lvl_3)
 
 [**Art. 730***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_730_b) 
 
@@ -10340,7 +10342,7 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 [2] Die Revisionsstelle wahrt das Geheimnis über ihre Feststellungen, soweit sie nicht von Gesetzes wegen zur Bekanntgabe verpflichtet ist. Sie wahrt bei der Berichterstattung, bei der Erstattung von Anzeigen und bei der Auskunftserteilung an die Generalversammlung die Geschäftsgeheimnisse der Gesellschaft.
 
-###### [4. Dokumen­ta­tion und Aufbewahrung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_V/lvl_4)
+###### [4. Dokumen­ta­tion und Aufbewahrung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_V/lvl_4)
 
 [**Art. 730***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_730_c) 
 
@@ -10348,7 +10350,7 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 [2] Die Unterlagen müssen es ermöglichen, die Einhaltung der gesetz­lichen Vorschriften in effizienter Weise zu prüfen.
 
-###### [5. Abnahme der Rechnung und Gewinn­verwendung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_V/lvl_5)
+###### [5. Abnahme der Rechnung und Gewinn­verwendung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_V/lvl_5)
 
 [**Art. 731**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_731) 
 
@@ -10358,7 +10360,7 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 [3] Liegt der erforderliche Revisionsbericht nicht vor, so sind die Beschlüsse zur Genehmigung der Jahresrechnung und der Konzern­rechnung sowie zur Verwendung des Bilanzgewinnes nichtig. Werden die Bestimmungen über die Anwesenheit der Revisionsstelle miss­achtet, so sind diese Beschlüsse anfechtbar.
 
-###### [6. Besondere Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_C/lvl_V/lvl_6)
+###### [6. Besondere Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_C/lvl_V/lvl_6)
 
 [**Art. 731***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_731_a) 
 
@@ -10368,7 +10370,7 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 [3] Die Generalversammlung kann zur Prüfung der Geschäftsführung oder einzelner Teile Sachverständige ernennen.
 
-#### [D.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_D) [Mängel in der Organisation der Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_3/lvl_D)
+#### [D.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_D) [Mängel in der Organisation der Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_3/lvl_D)
 
 [**Art. 731***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_731_b) 
 
@@ -10394,9 +10396,9 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 [4] Die zur Liquidation der Gesellschaft nach den Vorschriften über den Konkurs eingesetzten Liquidatoren haben, sobald sie eine Überschul­dung feststellen, das Gericht zu benachrichtigen; es eröffnet den Konkurs.
 
-### [Vierter Abschnitt: Herabsetzung des Aktienkapitals](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_4)
+### [Vierter Abschnitt: Herabsetzung des Aktienkapitals](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_4)
 
-#### [A. Herab­setzungs­beschluss](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_4/lvl_A)
+#### [A. Herab­setzungs­beschluss](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_4/lvl_A)
 
 [**Art. 732**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_732) 
 
@@ -10410,7 +10412,7 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 [5] Das Aktienkapital darf nur unter 100 000 Franken herabgesetzt wer­den, sofern es gleichzeitig durch neues, voll einzubezahlendes Kapital in der Höhe von mindestens 100 000 Franken ersetzt wird.
 
-#### [B. Vernichtung von Aktien im Fall einer Sanierung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_4/lvl_B)
+#### [B. Vernichtung von Aktien im Fall einer Sanierung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_4/lvl_B)
 
 [**Art. 732***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_732_a)
 
@@ -10418,13 +10420,13 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 [2] Bei der Wiedererhöhung des Aktienkapitals steht den bisherigen Aktionären ein Bezugsrecht zu, das ihnen nicht entzogen werden kann.
 
-#### [C. Auf­forde­rung an die Gläubiger](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_4/lvl_C)
+#### [C. Auf­forde­rung an die Gläubiger](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_4/lvl_C)
 
 [**Art. 733**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_733) 
 
 Hat die Generalversammlung die Herabsetzung des Aktienkapitals beschlossen, so veröffentlicht der Verwaltungsrat den Beschluss drei­mal im Schweizerischen Handelsamtsblatt und überdies in der in den Sta­tuten vorgesehenen Form und gibt den Gläubigern bekannt, dass sie binnen zwei Monaten, von der dritten Bekanntmachung im Schwei­ze­rischen Handelsamtsblatt an gerechnet, unter Anmeldung ihrer For­de­rungen Befriedigung oder Sicherstellung verlangen können.
 
-#### [D. Durch­füh­rung der Herab­setzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_4/lvl_D)
+#### [D. Durch­füh­rung der Herab­setzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_4/lvl_D)
 
 [**Art. 734**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_734) 
 
@@ -10432,7 +10434,7 @@ Die Herabsetzung des Aktienkapitals darf erst nach Ablauf der den Gläubigern ge
 
 [**Art. 734***a–***734***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_734)
 
-##### [VII. Vertretung der Geschlechter im Verwaltungsrat und in der Geschäftsleitung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_4/lvl_D/lvl_VI_I)
+##### [VII. Vertretung der Geschlechter im Verwaltungsrat und in der Geschäftsleitung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_4/lvl_D/lvl_VI_I)
 
 [**Art. 734***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_734_f)
 
@@ -10442,17 +10444,17 @@ Sofern nicht jedes Geschlecht mindestens zu 30 Prozent im Verwaltungsrat und zu 
 |    1. die Gründe, weshalb die Geschlechter nicht wie vorgesehen vertreten sind; und  
 |    2. die Massnahmen zur Förderung des weniger stark vertretenen Geschlechts.
 
-#### [E. Herabsetzung im Fall einer Unterbilanz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_4/lvl_E)
+#### [E. Herabsetzung im Fall einer Unterbilanz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_4/lvl_d4e10962)
 
 [**Art. 735**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_735) 
 
 Die Aufforderung an die Gläubiger und ihre Befriedigung oder Si­cher­stellung können unterbleiben, wenn das Aktienkapital zum Zwecke der Beseitigung einer durch Verluste entstandenen Unterbi­lanz in ei­nem diese letztere nicht übersteigenden Betrage herabgesetzt wird.
 
-### [Fünfter Abschnitt: Auflösung der Aktiengesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5)
+### [Fünfter Abschnitt: Auflösung der Aktiengesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5)
 
-#### [A. Auflösung im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_A)
+#### [A. Auflösung im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_A)
 
-##### [I. Gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_A/lvl_I)
+##### [I. Gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_A/lvl_I)
 
 [**Art. 736**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_736) 
 
@@ -10465,21 +10467,21 @@ Die Gesellschaft wird aufgelöst:
 |    4. durch Urteil des Gerichts, wenn Aktionäre, die zusammen min­destens zehn Prozent des Aktienkapitals vertreten, aus wichti­gen Gründen die Auflösung verlangen. Statt derselben kann das Gericht auf eine andere sachgemässe und den Beteiligten zumut­bare Lösung erkennen;  
 |    5. in den übrigen vom Gesetze vorgesehenen Fällen.
 
-##### [II. Anmeldung beim Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_A/lvl_I_I)
+##### [II. Anmeldung beim Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_A/lvl_I_I)
 
 [**Art. 737**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_737)
 
 Erfolgt die Auflösung der Gesellschaft nicht durch Konkurs oder richterliches Urteil, so ist sie vom Verwaltungsrat zur Eintragung in das Handelsregister anzumelden.
 
-##### [III. Folgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_A/lvl_II_I)
+##### [III. Folgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_A/lvl_II_I)
 
 [**Art. 738**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_738)
 
 Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle der Fu­sion, der Aufspaltung und der Übertragung ihres Vermögens auf eine Körperschaft des öffentlichen Rechts.
 
-#### [B. Auflösung mit Liqui­dation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B)
+#### [B. Auflösung mit Liqui­dation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B)
 
-##### [I. Zustand der Li­quidation. Be­fug­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_I)
+##### [I. Zustand der Li­quidation. Be­fug­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_I)
 
 
 [**Art. 739**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_739) 
@@ -10488,9 +10490,9 @@ Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle de
 
 [2] Die Befugnisse der Organe der Gesellschaft werden mit dem Eintritt der Liquidation auf die Handlungen beschränkt, die für die Durchfüh­rung der Liquidation erforderlich sind, ihrer Natur nach jedoch nicht von den Liquidatoren vorgenommen werden können.
 
-##### [II. Bestellung und Abberu­fung der Li­quidato­ren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_I_I)
+##### [II. Bestellung und Abberu­fung der Li­quidato­ren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_I_I)
 
-###### [1. Bestellung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_I_I/lvl_1)
+###### [1. Bestellung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_I_I/lvl_1)
 
 [**Art. 740**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_740) 
 
@@ -10504,7 +10506,7 @@ Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle de
 
 [5] Im Falle des Konkurses besorgt die Konkursverwaltung die Liqui­da­tion nach den Vorschriften des Konkursrechtes. Die Organe der Gesellschaft behalten die Vertretungsbefugnis nur, soweit eine Ver­tre­tung durch sie noch notwendig ist.
 
-###### [2. Abberufung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_I_I/lvl_2)
+###### [2. Abberufung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_I_I/lvl_2)
 
 [**Art. 741**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_741)
 
@@ -10512,9 +10514,9 @@ Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle de
 
 [2] Auf Antrag eines Aktionärs kann das Gericht, sofern wichtige Grün­de vorliegen, Liquidatoren abberufen und nötigenfalls andere er­nen­nen.
 
-##### [III. Liquidations­tätigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_II_I)
+##### [III. Liquidations­tätigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_II_I)
 
-###### [1. Bilanz. Schuldenruf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_II_I/lvl_1)
+###### [1. Bilanz. Schuldenruf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_II_I/lvl_1)
 
 
 [**Art. 742**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_742) 
@@ -10523,7 +10525,7 @@ Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle de
 
 [2] Die aus den Geschäftsbüchern ersichtlichen oder in anderer Weise bekannten Gläubiger sind durch besondere Mitteilung, unbekannte Gläubiger und solche mit unbekanntem Wohnort durch öffentliche Bekanntmachung im Schweizerischen Handelsamtsblatt und überdies in der von den Statuten vorgesehenen Form von der Auflösung der Gesellschaft in Kenntnis zu setzen und zur Anmeldung ihrer Ansprü­che aufzufordern.
 
-###### [2. Übrige Aufgaben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_II_I/lvl_2)
+###### [2. Übrige Aufgaben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_II_I/lvl_2)
 
 
 [**Art. 743**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_743) 
@@ -10540,7 +10542,7 @@ Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle de
 
 [6] Die Gesellschaft haftet für den Schaden aus unerlaubten Handlun­gen, die ein Liquidator in Ausübung seiner geschäftlichen Verrich­tun­gen begeht.
 
-###### [3. Gläubiger­schutz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_II_I/lvl_3)
+###### [3. Gläubiger­schutz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_II_I/lvl_3)
 
 [**Art. 744**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_744) 
 
@@ -10548,7 +10550,7 @@ Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle de
 
 [2] Ebenso ist für die nicht fälligen und die streitigen Verbindlichkeiten der Gesellschaft ein entsprechender Betrag zu hinterlegen, sofern nicht den Gläubigern eine gleichwertige Sicherheit bestellt oder die Vertei­lung des Gesellschaftsvermögens bis zur Erfüllung dieser Ver­bind­lichkeiten ausgesetzt wird.
 
-###### [4. Verteilung des Vermögens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_II_I/lvl_4)
+###### [4. Verteilung des Vermögens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_II_I/lvl_4)
 
 
 [**Art. 745**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_745) 
@@ -10559,13 +10561,13 @@ Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle de
 
 [3] Eine Verteilung darf bereits nach Ablauf von drei Monaten erfolgen, wenn ein zugelassener Revisionsexperte bestätigt, dass die Schulden getilgt sind und nach den Umständen angenommen werden kann, dass keine Interessen Dritter gefährdet werden.
 
-##### [IV. Löschung im Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_I_V)
+##### [IV. Löschung im Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_I_V)
 
 [**Art. 746**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_746) 
 
 Nach Beendigung der Liquidation ist das Erlöschen der Firma von den Liquidatoren beim Handelsregisteramt anzumelden.
 
-##### [V. Aufbewahrung von Aktien­buch, Geschäftsbüchern und Verzeichnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_B/lvl_V)
+##### [V. Aufbewahrung von Aktien­buch, Geschäftsbüchern und Verzeichnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_B/lvl_V)
 
 [**Art. 747**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_747)
 
@@ -10573,13 +10575,13 @@ Nach Beendigung der Liquidation ist das Erlöschen der Firma von den Liquidatore
 
 [2] Das Aktienbuch sowie das Verzeichnis sind so aufzubewahren, dass in der Schweiz jederzeit darauf zugegriffen werden kann.
 
-#### [C. Auflösung ohne Liquidation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_C)
+#### [C. Auflösung ohne Liquidation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_C)
 
-##### [I. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_C/lvl_I)
+##### [I. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_C/lvl_I)
 
-[**Art. 748–750**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_748__750_)
+[**Art. 748–750**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_C/lvl_I/lvl_d4e6843)
 
-##### [II. Übernahme durch eine Kör­perschaft des öf­fent­li­chen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_5/lvl_C/lvl_I_I)
+##### [II. Übernahme durch eine Kör­perschaft des öf­fent­li­chen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_5/lvl_C/lvl_I_I)
 
 
 
@@ -10591,15 +10593,15 @@ Nach Beendigung der Liquidation ist das Erlöschen der Firma von den Liquidatore
 
 [3] Mit der Eintragung dieses Beschlusses ist der Übergang des Vermö­gens der Gesellschaft mit Einschluss der Schulden vollzogen, und es ist die Firma der Gesellschaft zu löschen.
 
-### [Sechster Abschnitt: Verantwortlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6)
+### [Sechster Abschnitt: Verantwortlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6)
 
-#### [A. Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_A)
+#### [A. Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_A)
 
-##### [I. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_A/lvl_I)
+##### [I. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_A/lvl_I)
 
 [**Art. 752**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_752)
 
-##### [II. Gründungs­haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_A/lvl_I_I)
+##### [II. Gründungs­haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_A/lvl_I_I)
 
 [**Art. 753**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_753)
 
@@ -10610,7 +10612,7 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 |    2. absichtlich oder fahrlässig die Eintragung der Gesellschaft in das Handelsregister aufgrund einer Bescheinigung oder Urkunde ver­anlassen, die unrichtige Angaben enthält;  
 |    3. wissentlich dazu beitragen, dass Zeichnungen zahlungs­unfähi­ger Personen angenommen werden.
 
-##### [III. Haftung für Verwaltung, Ge­schäfts­führung und Liquidation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_A/lvl_II_I)
+##### [III. Haftung für Verwaltung, Ge­schäfts­führung und Liquidation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_A/lvl_II_I)
 
 
 [**Art. 754**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_754)
@@ -10619,7 +10621,7 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 [2] Wer die Erfüllung einer Aufgabe befugterweise einem anderen Organ überträgt, haftet für den von diesem verursachten Schaden, sofern er nicht nachweist, dass er bei der Auswahl, Unterrichtung und Über­wa­chung die nach den Umständen gebotene Sorgfalt angewendet hat.
 
-##### [IV. Revisions­haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_A/lvl_I_V)
+##### [IV. Revisions­haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_A/lvl_I_V)
 
 [**Art. 755**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_755)
 
@@ -10627,17 +10629,17 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 [2] Wurde die Prüfung von einer Finanzkontrolle der öffentlichen Hand oder von einem ihrer Mitarbeiter durchgeführt, so haftet das betref­fende Gemeinwesen. Der Rückgriff auf die an der Prüfung beteiligten Personen richtet sich nach dem öffentlichen Recht.
 
-#### [B. Schaden der Ge­sellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_B)
+#### [B. Schaden der Ge­sellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_B)
 
-##### [I. Ansprüche ausser Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_B/lvl_I)
+##### [I. Ansprüche ausser Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_B/lvl_I)
 
 [**Art. 756**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_756)
 
 [1] Neben der Gesellschaft sind auch die einzelnen Aktionäre berech­tigt, den der Gesellschaft verursachten Schaden einzuklagen. Der An­spruch des Aktionärs geht auf Leistung an die Gesellschaft.
 
-[2] ...
+[2] …
 
-##### [II. Ansprüche im Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_B/lvl_I_I)
+##### [II. Ansprüche im Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_B/lvl_I_I)
 
 
 [**Art. 757**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_757)
@@ -10648,7 +10650,7 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 [3] Vorbehalten bleibt die Abtretung von Ansprüchen der Gesellschaft gemäss Artikel 260 des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889.
 
-##### [III. Wirkung des Entlastungs­be­schlusses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_B/lvl_II_I)
+##### [III. Wirkung des Entlastungs­be­schlusses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_B/lvl_II_I)
 
 
 [**Art. 758**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_758)
@@ -10657,7 +10659,7 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 [2] Das Klagerecht der übrigen Aktionäre erlischt sechs Monate nach dem Entlastungsbeschluss.
 
-#### [C. Solidarität und Rückgriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_C)
+#### [C. Solidarität und Rückgriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_C)
 
 [**Art. 759**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_759)
 
@@ -10667,7 +10669,7 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 [3] Der Rückgriff unter mehreren Beteiligten wird vom Gericht in Wür­digung aller Umstände bestimmt.
 
-#### [D. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_6/lvl_D)
+#### [D. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_6/lvl_D)
 
 [**Art. 760**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_760)
 
@@ -10677,7 +10679,7 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 [**Art. 761**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_761)
 
-### [Siebenter Abschnitt: Beteiligung von Körperschaften des öffentli­chen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_7)
+### [Siebenter Abschnitt: Beteiligung von Körperschaften des öffentli­chen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_7)
 
 
 [**Art. 762**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_762) 
@@ -10690,7 +10692,7 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 [4] Für die von einer Körperschaft des öffentlichen Rechts abgeordneten Mitglieder haftet die Körperschaft der Gesellschaft, den Aktionären und den Gläubigern gegenüber, unter Vorbehalt des Rückgriffs nach dem Recht des Bundes und der Kantone.
 
-### [Achter Abschnitt: Ausschluss der Anwendung des Gesetzes auf öffentlich-rechtliche Anstalten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/sec_8)
+### [Achter Abschnitt: Ausschluss der Anwendung des Gesetzes auf öffentlich-rechtliche Anstalten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_26/chap_8)
 
 
 
@@ -10768,7 +10770,7 @@ Beschlüsse der Generalversammlung über Umwandlung des Gesell­schaftszweckes, 
 
 [2] Im übrigen gelten für die Auflösung der Kommanditaktiengesell­schaft die gleichen Vorschriften wie für die Auflösung der Aktien­gesellschaft; doch kann eine Auflösung durch Beschluss der Generalver­sammlung vor dem in den Statuten festgesetzten Termin nur mit Zu­stimmung der Verwaltung erfolgen.
 
-[3] ...
+[3] …
 
 ### [E. Kündigung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_27/lvl_E)
 
@@ -10781,9 +10783,9 @@ Beschlüsse der Generalversammlung über Umwandlung des Gesell­schaftszweckes, 
 ## [Achtundzwanzigster Titel:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28) [Die Gesellschaft mit beschränk­ter Haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28)
 
 
-### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1)
+### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1)
 
-#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_A)
+#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_A)
 
 [**Art. 772**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_772) 
 
@@ -10791,13 +10793,13 @@ Beschlüsse der Generalversammlung über Umwandlung des Gesell­schaftszweckes, 
 
 [2] Die Gesellschafter sind mindestens mit je einem Stammanteil am Stammkapital beteiligt. Die Statuten können für sie Nachschuss- und Nebenleistungspflichten vorsehen.
 
-#### [B. Stamm­kapi­tal](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_B)
+#### [B. Stamm­kapi­tal](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_B)
 
 [**Art. 773**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_773) 
 
 Das Stammkapital muss mindestens 20 000 Franken betragen.
 
-#### [C. Stamm­anteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_C)
+#### [C. Stamm­anteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_C)
 
 [**Art. 774**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_774) 
 
@@ -10805,21 +10807,21 @@ Das Stammkapital muss mindestens 20 000 Franken betragen.
 
 [2] Die Stammanteile müssen mindestens zum Nennwert ausgegeben werden.
 
-#### [D. Genuss­scheine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_D)
+#### [D. Genuss­scheine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_D)
 
 [**Art. 774***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_774_a) 
 
 Die Statuten können die Schaffung von Genussscheinen vorsehen; die Vorschriften des Aktienrechts sind entsprechend anwendbar.
 
-#### [E. Gesellschafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_E)
+#### [E. Gesellschafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_E)
 
 [**Art. 775**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_775) 
 
 Eine Gesellschaft mit beschränkter Haftung kann durch eine oder mehrere natürliche oder juristische Personen oder andere Handels­gesellschaften gegründet werden.
 
-#### [F. Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_F)
+#### [F. Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_F)
 
-##### [I. Gesetzlich vorge­schrie­be­ner Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_F/lvl_I)
+##### [I. Gesetzlich vorge­schrie­be­ner Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_F/lvl_I)
 
 [**Art. 776**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_776) 
 
@@ -10831,7 +10833,7 @@ Die Statuten müssen Bestimmungen enthalten über:
 |    3. die Höhe des Stammkapitals sowie die Anzahl und den Nenn­wert der Stammanteile;  
 |    4. die Form der von der Gesellschaft ausgehenden Bekannt­machungen.
 
-##### [II. Bedingt notwendiger Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_F/lvl_I_I)
+##### [II. Bedingt notwendiger Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_F/lvl_I_I)
 
 [**Art. 776***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_776_a) 
 
@@ -10870,9 +10872,9 @@ Die Statuten müssen Bestimmungen enthalten über:
 |    7. der Geschäftsführung und der Vertretung;  
 |    8. zu den Konkurrenzverboten der Geschäftsführer.
 
-#### [G. Gründung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_G)
+#### [G. Gründung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_G)
 
-##### [I. Errichtungsakt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_G/lvl_I)
+##### [I. Errichtungsakt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_G/lvl_I)
 
 [**Art. 777**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_777) 
 
@@ -10887,7 +10889,7 @@ Die Statuten müssen Bestimmungen enthalten über:
 |    4. sie die statutarischen Nachschuss- oder Nebenleistungspflich­ten übernehmen;  
 |    5. keine anderen Sacheinlagen, Sachübernahmen und be­absich­tigten Sachübernahmen, Verrechnungstatbestände oder be­sonderen Vorteile bestehen als die in den Belegen genannten.
 
-##### [II. Zeichnung der Stammanteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_G/lvl_I_I)
+##### [II. Zeichnung der Stammanteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_G/lvl_I_I)
 
 [**Art. 777***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_777_a) 
 
@@ -10902,7 +10904,7 @@ Die Statuten müssen Bestimmungen enthalten über:
 |    4. Vorhand-, Vorkaufs- und Kaufsrechte der Gesellschafter oder der Gesellschaft;  
 |    5. Konventionalstrafen.
 
-##### [III. Belege](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_G/lvl_II_I)
+##### [III. Belege](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_G/lvl_II_I)
 
 [**Art. 777***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_777_b) 
 
@@ -10918,7 +10920,7 @@ Die Statuten müssen Bestimmungen enthalten über:
 |    5. die Sacheinlageverträge;  
 |    6. bereits vorliegende Sachübernahmeverträge.
 
-##### [IV. Einlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_G/lvl_I_V)
+##### [IV. Einlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_G/lvl_I_V)
 
 [**Art. 777***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_777_c) 
 
@@ -10931,21 +10933,21 @@ Die Statuten müssen Bestimmungen enthalten über:
 |    2. die Eintragung von Sacheinlagen, Sachübernahmen und von besonderen Vorteilen ins Handelsregister;  
 |    3. die Leistung und die Prüfung der Einlagen.
 
-#### [H. Eintragung ins Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_H)
+#### [H. Eintragung ins Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_H)
 
-##### [I. Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_H/lvl_I)
+##### [I. Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_H/lvl_I)
 
 [**Art. 778**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_778) 
 
 Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren Sitz hat.
 
-##### [II. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_H/lvl_I_I)
+##### [II. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_H/lvl_I_I)
 
 [**Art. 778***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_778_a)
 
-#### [J. Erwerb der Persönlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_J)
+#### [J. Erwerb der Persönlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_J)
 
-##### [I. Zeitpunkt; mangelnde Voraussetzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_J/lvl_I)
+##### [I. Zeitpunkt; mangelnde Voraussetzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_J/lvl_I)
 
 [**Art. 779**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_779) 
 
@@ -10957,7 +10959,7 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [4] Das Klagerecht erlischt drei Monate nach der Veröffentlichung der Gründung der Gesellschaft im Schweizerischen Handelsamtsblatt.
 
-##### [II. Vor der Eintragung eingegangene Verpflichtungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_J/lvl_I_I)
+##### [II. Vor der Eintragung eingegangene Verpflichtungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_J/lvl_I_I)
 
 [**Art. 779***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_779_a) 
 
@@ -10965,13 +10967,13 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [2] Übernimmt die Gesellschaft innerhalb von drei Monaten nach ihrer Eintragung Verpflichtungen, die ausdrücklich in ihrem Namen eingegangen werden, so werden die Handelnden befreit, und es haftet nur die Gesellschaft.
 
-#### [K. Statuten­änderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_K)
+#### [K. Statuten­änderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_K)
 
 [**Art. 780**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_780) 
 
 Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten muss öffentlich beurkundet und ins Handelsregister eingetragen werden.
 
-#### [L. Erhöhung des Stammkapitals](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_L)
+#### [L. Erhöhung des Stammkapitals](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_L)
 
 [**Art. 781**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_781) 
 
@@ -10993,7 +10995,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 |    5. die Statutenänderung und die Feststellungen der Geschäfts­führer;  
 |    6. die Eintragung der Erhöhung des Stammkapitals ins Handels­register und die Nichtigkeit vorher ausgegebener Urkunden.
 
-#### [M. Herabsetzung des Stamm­kapitals](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_M)
+#### [M. Herabsetzung des Stamm­kapitals](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_M)
 
 [**Art. 782**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_782) 
 
@@ -11005,7 +11007,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [4] Im Übrigen sind die Vorschriften über die Herabsetzung des Aktienkapitals entsprechend anwendbar.
 
-#### [N. Erwerb eigener Stammanteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_1/lvl_N)
+#### [N. Erwerb eigener Stammanteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_1/lvl_N)
 
 
 [**Art. 783**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_783) 
@@ -11018,11 +11020,11 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [4] Im Übrigen sind für den Erwerb eigener Stammanteile durch die Gesellschaft die Vorschriften über eigene Aktien entsprechend anwendbar.
 
-### [Zweiter Abschnitt: Rechte und Pflichten der Gesellschafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2)
+### [Zweiter Abschnitt: Rechte und Pflichten der Gesellschafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2)
 
-#### [A. Stammanteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A)
+#### [A. Stammanteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A)
 
-##### [I. Urkunde](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I)
+##### [I. Urkunde](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/tit_I)
 
 [**Art. 784**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_784) 
 
@@ -11030,11 +11032,11 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [2] In die Urkunde müssen dieselben Hinweise auf statutarische Rechte und Pflichten aufgenommen werden wie in die Urkunde über die Zeichnung der Stammanteile.
 
-##### [II. Übertragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I_I)
+##### [II. Übertragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_I_I)
 
-###### [1. Abtretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I_I/lvl_1)
+###### [1. Abtretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_I_I/lvl_1)
 
-###### [a. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I_I/lvl_1/lvl_a)
+###### [a. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_I_I/lvl_1/lvl_a)
 
 [**Art. 785**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_785) 
 
@@ -11042,7 +11044,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [2] In den Abtretungsvertrag müssen dieselben Hinweise auf statuta­rische Rechte und Pflichten aufgenommen werden wie in die Urkunde über die Zeichnung der Stammanteile, ausser wenn der Erwerber bereits Gesellschafter ist.
 
-###### [b. Zustimmungserfordernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I_I/lvl_1/lvl_b)
+###### [b. Zustimmungserfordernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_I_I/lvl_1/lvl_b)
 
 [**Art. 786**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_786) 
 
@@ -11059,7 +11061,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [3] Schliessen die Statuten die Abtretung aus oder verweigert die Gesell­schafterversammlung die Zustimmung zur Abtretung, so bleibt das Recht auf Austritt aus wichtigem Grund vorbehalten.
 
-###### [c. Rechtsübergang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I_I/lvl_1/lvl_c)
+###### [c. Rechtsübergang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_I_I/lvl_1/lvl_c)
 
 [**Art. 787**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_787) 
 
@@ -11067,7 +11069,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [2] Lehnt die Gesellschafterversammlung das Gesuch um Zustimmung zur Abtretung nicht innerhalb von sechs Monaten nach Eingang ab, so gilt die Zustimmung als erteilt.
 
-###### [2. Besondere Erwerbsarten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I_I/lvl_2)
+###### [2. Besondere Erwerbsarten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_I_I/lvl_2)
 
 [**Art. 788**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_788) 
 
@@ -11081,7 +11083,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [5] Die Statuten können auf das Erfordernis der Anerkennung verzichten.
 
-###### [3. Bestimmung des wirklichen Werts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I_I/lvl_3)
+###### [3. Bestimmung des wirklichen Werts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_I_I/lvl_3)
 
 [**Art. 789**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_789) 
 
@@ -11089,7 +11091,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [2] Das Gericht verteilt die Kosten des Verfahrens und der Bewertung nach seinem Ermessen.
 
-###### [4. Nutzniessung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I_I/lvl_4)
+###### [4. Nutzniessung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_I_I/lvl_4)
 
 [**Art. 789***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_789_a) 
 
@@ -11097,7 +11099,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [2] Schliessen die Statuten die Abtretung aus, so ist auch die Bestellung einer Nutzniessung an den Stammanteilen ausgeschlossen.
 
-###### [5. Pfandrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I_I/lvl_5)
+###### [5. Pfandrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_I_I/lvl_5)
 
 [**Art. 789***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_789_b) 
 
@@ -11105,7 +11107,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [2] Schliessen die Statuten die Abtretung aus, so ist auch die Bestellung eines Pfandrechts an den Stammanteilen ausgeschlossen.
 
-##### [III. Anteilbuch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_II_I)
+##### [III. Anteilbuch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_II_I)
 
 [**Art. 790**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_790) 
 
@@ -11125,7 +11127,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [5] Die Belege, die einer Eintragung zugrunde liegen, müssen während zehn Jahren nach der Streichung der eingetragenen Person aus dem Anteilbuch aufbewahrt werden.
 
-##### [III[bis]. Meldung der an Stamm­anteilen wirt­schaftlich berechtigten Person](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_III_bis)
+##### [III[bis]. Meldung der an Stamm­anteilen wirt­schaftlich berechtigten Person](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_III_bis)
 
 
 [**Art. 790***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_790_a)
@@ -11140,7 +11142,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [5] Die Bestimmungen des Aktienrechts betreffend das Verzeichnis über die wirtschaftlich berechtigten Personen (Art. 697*l*) und die Folgen der Nichteinhaltung der Meldepflichten (Art. 697*m*) sind sinngemäss anwendbar.
 
-##### [IV. Eintragung ins Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_I_V)
+##### [IV. Eintragung ins Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_I_V)
 
 [**Art. 791**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_791) 
 
@@ -11148,7 +11150,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 [2] Die Gesellschaft muss die Eintragung anmelden.
 
-##### [V. Gemein­schaftliches Eigentum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_A/lvl_V)
+##### [V. Gemein­schaftliches Eigentum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_A/lvl_V)
 
 [**Art. 792**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_792) 
 
@@ -11158,7 +11160,7 @@ Steht ein Stammanteil mehreren Berechtigten ungeteilt zu, so:
 |    1. haben diese gemeinsam eine Person zu bezeichnen, die sie vertritt; sie können die Rechte aus dem Stammanteil nur durch diese Person ausüben;  
 |    2. haften diese für Nachschusspflichten und Neben­leistungs­pflichten solidarisch.
 
-#### [B. Leistung der Einlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_B)
+#### [B. Leistung der Einlagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_B)
 
 [**Art. 793**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_793) 
 
@@ -11166,17 +11168,17 @@ Steht ein Stammanteil mehreren Berechtigten ungeteilt zu, so:
 
 [2] Die Einlagen dürfen nicht zurückerstattet werden.
 
-#### [C. Haftung der Gesellschafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_C)
+#### [C. Haftung der Gesellschafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_C)
 
 [**Art. 794**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_794) 
 
 Für die Verbindlichkeiten der Gesellschaft haftet nur das Gesellschaftsvermögen.
 
-#### [D. Nachschüsse und Neben­leistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_D)
+#### [D. Nachschüsse und Neben­leistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_D)
 
-##### [I. Nachschüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_D/lvl_I)
+##### [I. Nachschüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_D/lvl_I)
 
-###### [1. Grundsatz und Betrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_D/lvl_I/lvl_1)
+###### [1. Grundsatz und Betrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_D/lvl_I/lvl_1)
 
 [**Art. 795**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_795) 
 
@@ -11186,7 +11188,7 @@ Für die Verbindlichkeiten der Gesellschaft haftet nur das Gesellschaftsvermöge
 
 [3] Die Gesellschafter haften nur für die mit den eigenen Stammanteilen verbundenen Nachschüsse.
 
-###### [2. Einforderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_D/lvl_I/lvl_2)
+###### [2. Einforderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_D/lvl_I/lvl_2)
 
 [**Art. 795***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_795_a) 
 
@@ -11201,13 +11203,13 @@ Für die Verbindlichkeiten der Gesellschaft haftet nur das Gesellschaftsvermöge
 
 [3] Mit Eintritt des Konkurses werden ausstehende Nachschüsse fällig.
 
-###### [3. Rückzahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_D/lvl_I/lvl_3)
+###### [3. Rückzahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_D/lvl_I/lvl_3)
 
 [**Art. 795***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_795_b) 
 
 Geleistete Nachschüsse dürfen nur dann ganz oder teilweise zurück­bezahlt werden, wenn der Betrag durch frei verwendbares Eigenkapital gedeckt ist und ein zugelassener Revisionsexperte dies schriftlich bestätigt.
 
-###### [4. Herabsetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_D/lvl_I/lvl_4)
+###### [4. Herabsetzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_D/lvl_I/lvl_4)
 
 [**Art. 795***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_795_c) 
 
@@ -11215,7 +11217,7 @@ Geleistete Nachschüsse dürfen nur dann ganz oder teilweise zurück­bezahlt we
 
 [2] Die Vorschriften über die Herabsetzung des Stammkapitals sind ent­sprechend anwendbar.
 
-###### [5. Fortdauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_D/lvl_I/lvl_5)
+###### [5. Fortdauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_D/lvl_I/lvl_5)
 
 [**Art. 795***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_795_d) 
 
@@ -11227,7 +11229,7 @@ Geleistete Nachschüsse dürfen nur dann ganz oder teilweise zurück­bezahlt we
 
 [4] Die Nachschusspflicht ausgeschiedener Gesellschafter darf nicht erhöht werden.
 
-##### [II. Neben­leistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_D/lvl_I_I)
+##### [II. Neben­leistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_D/lvl_I_I)
 
 [**Art. 796**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_796) 
 
@@ -11239,16 +11241,16 @@ Geleistete Nachschüsse dürfen nur dann ganz oder teilweise zurück­bezahlt we
 
 [4] Statutarische Verpflichtungen zur Zahlung von Geld oder zur Leistung anderer Vermögenswerte unterstehen den Bestimmungen über Nachschüsse, wenn keine angemessene Gegenleistung vorgesehen wird und die Einforderung der Deckung des Eigenkapitalbedarfs der Gesellschaft dient.
 
-##### [III. Nachträg­liche Einführung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_D/lvl_II_I)
+##### [III. Nachträg­liche Einführung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_D/lvl_II_I)
 
 [**Art. 797**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_797) 
 
 Die nachträgliche Einführung oder Erweiterung statutarischer Nach­schuss- oder Nebenleistungspflichten bedarf der Zustimmung aller davon betroffenen Gesellschafter.
 
-#### [E. Dividenden, Zinse, Tantiemen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_E)
+#### [E. Dividenden, Zinse, Tantiemen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_E)
 
 
-##### [I. Dividenden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_E/lvl_I)
+##### [I. Dividenden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_E/lvl_I)
 
 [**Art. 798**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_798) 
 
@@ -11258,7 +11260,7 @@ Die nachträgliche Einführung oder Erweiterung statutarischer Nach­schuss- ode
 
 [3] Die Dividenden sind im Verhältnis des Nennwerts der Stammanteile festzusetzen; wurden Nachschüsse geleistet, so ist deren Betrag für die Bemessung der Dividenden dem Nennwert zuzurechnen; die Statuten können eine abweichende Regelung vorsehen.
 
-##### [II. Zinsen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_E/lvl_I_I)
+##### [II. Zinsen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_E/lvl_I_I)
 
 [**Art. 798***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_798_a) 
 
@@ -11266,31 +11268,31 @@ Die nachträgliche Einführung oder Erweiterung statutarischer Nach­schuss- ode
 
 [2] Die Ausrichtung von Bauzinsen ist zulässig. Die Vorschrift des Aktienrechts über Bauzinse ist entsprechend anwendbar.
 
-##### [III. Tantiemen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_E/lvl_II_I)
+##### [III. Tantiemen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_E/lvl_II_I)
 
 [**Art. 798***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_798_b) 
 
 Die Statuten können die Ausrichtung von Tantiemen an Geschäfts­führer vorsehen. Die Vorschriften des Aktienrechts über Tantiemen sind entsprechend anwendbar.
 
-#### [F. Vorzugs­stammanteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_F)
+#### [F. Vorzugs­stammanteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_F)
 
 [**Art. 799**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_799) 
 
 Für Vorzugsstammanteile sind die Vorschriften des Aktienrechts über Vorzugsaktien entsprechend anwendbar.
 
-#### [G. Rück­erstattung von Leistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_G)
+#### [G. Rück­erstattung von Leistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_G)
 
 [**Art. 800**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_800) 
 
 Für die Rückerstattung von Leistungen der Gesellschaft an Gesell­schafter, Geschäftsführer sowie diesen nahe stehende Personen sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
-#### [H. Reserven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_H)
+#### [H. Reserven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_H)
 
 [**Art. 801**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_801)
 
 Für die Reserven sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
-#### [J. Zustellung des Geschäfts­berichts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_J)
+#### [J. Zustellung des Geschäfts­berichts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_J)
 
 
 [**Art. 801***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_801_a) 
@@ -11299,7 +11301,7 @@ Für die Reserven sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
 [2] Die Gesellschafter können verlangen, dass ihnen nach der Gesell­schafterversammlung die von ihr genehmigte Fassung des Geschäfts­berichts zugestellt wird.
 
-#### [K. Auskunfts- und Einsichtsrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_K)
+#### [K. Auskunfts- und Einsichtsrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_K)
 
 [**Art. 802**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_802) 
 
@@ -11311,7 +11313,7 @@ Für die Reserven sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
 [4] Verweigert die Gesellschafterversammlung die Auskunft oder die Einsicht ungerechtfertigterweise, so ordnet sie das Gericht auf Antrag des Gesellschafters an.
 
-#### [L. Treuepflicht und Konkurrenz­verbot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_2/lvl_L)
+#### [L. Treuepflicht und Konkurrenz­verbot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_2/lvl_L)
 
 [**Art. 803**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_803) 
 
@@ -11323,11 +11325,11 @@ Für die Reserven sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
 [4] Die besonderen Vorschriften über das Konkurrenzverbot von Geschäftsführern bleiben vorbehalten.
 
-### [Dritter Abschnitt: Organisation der Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3)
+### [Dritter Abschnitt: Organisation der Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3)
 
-#### [A. Gesellschafter­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A)
+#### [A. Gesellschafter­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A)
 
-##### [I. Aufgaben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_I)
+##### [I. Aufgaben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_I)
 
 [**Art. 804**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_804) 
 
@@ -11357,7 +11359,7 @@ Für die Reserven sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
 [3] Die Gesellschafterversammlung ernennt die Direktoren, die Proku­risten sowie die Handlungsbevollmächtigten. Die Statuten können diese Befugnis auch den Geschäftsführern einräumen.
 
-##### [II. Einberufung und Durch­führung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_I_I)
+##### [II. Einberufung und Durch­führung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_I_I)
 
 [**Art. 805**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_805) 
 
@@ -11382,9 +11384,9 @@ Für die Reserven sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 |    8. die Vertretung der Gesellschafter;  
 |    9. die unbefugte Teilnahme.
 
-##### [III. Stimmrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_II_I)
+##### [III. Stimmrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_II_I)
 
-###### [1. Bemessung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_II_I/lvl_1)
+###### [1. Bemessung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_II_I/lvl_1)
 
 [**Art. 806**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_806) 
 
@@ -11399,7 +11401,7 @@ Für die Reserven sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 |    2. die Ernennung von Sachverständigen zur Prüfung der Geschäftsführung oder einzelner Teile davon;  
 |    3. die Beschlussfassung über die Anhebung einer Verantwort­lichkeitsklage.
 
-###### [2. Aus­schliessung vom Stimmrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_II_I/lvl_2)
+###### [2. Aus­schliessung vom Stimmrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_II_I/lvl_2)
 
 [**Art. 806***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_806_a) 
 
@@ -11409,13 +11411,13 @@ Für die Reserven sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
 [3] Bei Beschlüssen über die Zustimmung zu Tätigkeiten der Gesellschafter, die gegen die Treuepflicht oder das Konkurrenzverbot verstossen, hat die betroffene Person kein Stimmrecht.
 
-###### [3. Nutzniessung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_II_I/lvl_3)
+###### [3. Nutzniessung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_II_I/lvl_3)
 
 [**Art. 806***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_806_b) 
 
 Im Falle der Nutzniessung an einem Stammanteil stehen das Stimm­recht und die damit zusammenhängenden Rechte dem Nutzniesser zu. Dieser wird dem Eigentümer ersatzpflichtig, wenn er bei der Aus­übung seiner Rechte nicht in billiger Weise auf dessen Interessen Rücksicht nimmt.
 
-##### [IV. Vetorecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_I_V)
+##### [IV. Vetorecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_I_V)
 
 [**Art. 807**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_807) 
 
@@ -11425,22 +11427,22 @@ Im Falle der Nutzniessung an einem Stammanteil stehen das Stimm­recht und die d
 
 [3] Das Vetorecht kann nicht übertragen werden.
 
-##### [V. Beschluss­fassung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_V)
+##### [V. Beschluss­fassung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_V)
 
-###### [1. Im Allge­meinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_V/lvl_1)
+###### [1. Im Allge­meinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_V/lvl_1)
 
 
 [**Art. 808**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_808) 
 
 Die Gesellschafterversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen mit der absoluten Mehrheit der vertretenen Stimmen, soweit das Gesetz oder die Statuten es nicht anders bestimmen.
 
-###### [2. Stichentscheid](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_V/lvl_2)
+###### [2. Stichentscheid](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_V/lvl_2)
 
 [**Art. 808***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_808_a) 
 
 Der Vorsitzende der Gesellschafterversammlung hat den Stichent­scheid. Die Statuten können eine andere Regelung vorsehen.
 
-###### [3. Wichtige Beschlüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_V/lvl_3)
+###### [3. Wichtige Beschlüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_V/lvl_3)
 
 [**Art. 808***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_808_b) 
 
@@ -11461,15 +11463,15 @@ Der Vorsitzende der Gesellschafterversammlung hat den Stichent­scheid. Die Stat
 
 [2] Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse grössere Mehrheiten als die vom Gesetz vorgeschriebenen festlegen, können nur mit dem vorgesehenen Mehr eingeführt werden.
 
-##### [VI. Anfechtung von Beschlüssen der Gesellschaf­ter­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_A/lvl_V_I)
+##### [VI. Anfechtung von Beschlüssen der Gesellschaf­ter­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_A/lvl_V_I)
 
 [**Art. 808***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_808_c) 
 
 Für die Anfechtung der Beschlüsse der Gesellschafterversammlung sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
-#### [B. Geschäfts­führung und Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_B)
+#### [B. Geschäfts­führung und Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_B)
 
-##### [I. Bezeichnung der Geschäftsführer und Organisation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_B/lvl_I)
+##### [I. Bezeichnung der Geschäftsführer und Organisation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_B/lvl_I)
 
 [**Art. 809**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_809) 
 
@@ -11481,7 +11483,7 @@ Für die Anfechtung der Beschlüsse der Gesellschafterversammlung sind die Vorsc
 
 [4] Hat die Gesellschaft mehrere Geschäftsführer, so entscheiden diese mit der Mehrheit der abgegebenen Stimmen. Der Vorsitzende hat den Stichentscheid. Die Statuten können eine andere Regelung der Beschlussfassung durch die Geschäftsführer vorsehen.
 
-##### [II. Aufgaben der Geschäftsführer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_B/lvl_I_I)
+##### [II. Aufgaben der Geschäftsführer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_B/lvl_I_I)
 
 [**Art. 810**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_810) 
 
@@ -11505,7 +11507,7 @@ Für die Anfechtung der Beschlüsse der Gesellschafterversammlung sind die Vorsc
 |    2. Bekanntmachungen gegenüber den Gesellschaftern;  
 |    3. die Sicherstellung der erforderlichen Anmeldungen beim Han­delsregister.
 
-##### [III. Genehmi­gung durch die Gesellschafter­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_B/lvl_II_I)
+##### [III. Genehmi­gung durch die Gesellschafter­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_B/lvl_II_I)
 
 [**Art. 811**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_811) 
 
@@ -11517,7 +11519,7 @@ Für die Anfechtung der Beschlüsse der Gesellschafterversammlung sind die Vorsc
 
 [2] Die Genehmigung der Gesellschafterversammlung schränkt die Haftung der Geschäftsführer nicht ein.
 
-##### [IV. Sorgfalts- und Treuepflicht; Konkurrenz­verbot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_B/lvl_I_V)
+##### [IV. Sorgfalts- und Treuepflicht; Konkurrenz­verbot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_B/lvl_I_V)
 
 [**Art. 812**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_812) 
 
@@ -11527,13 +11529,13 @@ Für die Anfechtung der Beschlüsse der Gesellschafterversammlung sind die Vorsc
 
 [3] Sie dürfen keine konkurrenzierenden Tätigkeiten ausüben, es sei denn, die Statuten sehen etwas anderes vor oder alle übrigen Gesellschafter stimmen der Tätigkeit schriftlich zu. Die Statuten können vorsehen, dass stattdessen die Zustimmung durch die Gesellschafterversammlung erforderlich ist.
 
-##### [V. Gleich­behandlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_B/lvl_V)
+##### [V. Gleich­behandlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_B/lvl_V)
 
 [**Art. 813**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_813) 
 
 Die Geschäftsführer sowie Dritte, die mit der Geschäftsführung befasst sind, haben die Gesellschafter unter gleichen Voraussetzungen gleich zu behandeln.
 
-##### [VI. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_B/lvl_V_I)
+##### [VI. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_B/lvl_V_I)
 
 [**Art. 814**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_814) 
 
@@ -11549,7 +11551,7 @@ Die Geschäftsführer sowie Dritte, die mit der Geschäftsführung befasst sind,
 
 [6] Sie müssen ins Handelsregister eingetragen werden. Sie haben ihre Unterschrift beim Handelsregisteramt zu zeichnen oder die Zeichnung in beglaubigter Form einzureichen.
 
-##### [VII. Abberufung von Geschäfts­führern; Entziehung der Vertretungs­befugnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_B/lvl_VI_I)
+##### [VII. Abberufung von Geschäfts­führern; Entziehung der Vertretungs­befugnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_B/lvl_VI_I)
 
 [**Art. 815**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_815) 
 
@@ -11563,19 +11565,19 @@ Die Geschäftsführer sowie Dritte, die mit der Geschäftsführung befasst sind,
 
 [5] Entschädigungsansprüche der abberufenen oder in ihren Funktionen eingestellten Personen bleiben vorbehalten.
 
-##### [VIII. Nichtigkeit von Beschlüssen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_B/lvl_VII_I)
+##### [VIII. Nichtigkeit von Beschlüssen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_B/lvl_VII_I)
 
 [**Art. 816**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_816) 
 
 Für die Beschlüsse der Geschäftsführer gelten sinngemäss die gleichen Nichtigkeitsgründe wie für die Beschlüsse der General­ver­samm­lung der Aktiengesellschaft.
 
-##### [IX. Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_B/lvl_I_X)
+##### [IX. Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_B/lvl_I_X)
 
 [**Art. 817**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_817) 
 
 Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zur Geschäftsführung oder zur Vertretung befugte Person in Ausübung ihrer geschäftlichen Verrichtungen begeht.
 
-#### [C. Revisions­stelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_C)
+#### [C. Revisions­stelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_C)
 
 [**Art. 818**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_818) 
 
@@ -11583,13 +11585,13 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 [2] Ein Gesellschafter, der einer Nachschusspflicht unterliegt, kann eine ordentliche Revision der Jahresrechnung verlangen.
 
-#### [D. Mängel in der Organisation der Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_D)
+#### [D. Mängel in der Organisation der Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_D)
 
 [**Art. 819**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_819) 
 
 Bei Mängeln in der Organisation der Gesellschaft sind die Vorschrif­ten des Aktienrechts entsprechend anwendbar.
 
-#### [E. Kapitalverlust und Über­schuldung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_3/lvl_E)
+#### [E. Kapitalverlust und Über­schuldung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_3/lvl_E)
 
 [**Art. 820**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_820) 
 
@@ -11597,11 +11599,11 @@ Bei Mängeln in der Organisation der Gesellschaft sind die Vorschrif­ten des Ak
 
 [2] Das Gericht kann den Konkurs auf Antrag der Geschäftsführer oder eines Gläubigers aufschieben, namentlich wenn ausstehende Nach­schüsse unverzüglich einbezahlt werden und Aussicht auf Sanierung besteht.
 
-### [Vierter Abschnitt: Auflösung und Ausscheiden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4)
+### [Vierter Abschnitt: Auflösung und Ausscheiden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4)
 
-#### [A. Auflösung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_A)
+#### [A. Auflösung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_A)
 
-##### [I. Gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_A/lvl_I)
+##### [I. Gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_A/lvl_I)
 
 [**Art. 821**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_821) 
 
@@ -11617,7 +11619,7 @@ Bei Mängeln in der Organisation der Gesellschaft sind die Vorschrif­ten des Ak
 
 [3] Jeder Gesellschafter kann beim Gericht die Auflösung der Gesell­schaft aus wichtigem Grund verlangen. Das Gericht kann statt auf Auflösung auf eine andere sachgemässe und den Beteiligten zumut­bare Lösung erkennen, so insbesondere auf die Abfindung des klagenden Gesellschafters zum wirklichen Wert seiner Stammanteile.
 
-##### [II. Folgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_A/lvl_I_I)
+##### [II. Folgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_A/lvl_I_I)
 
 [**Art. 821***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_821_a) 
 
@@ -11625,9 +11627,9 @@ Bei Mängeln in der Organisation der Gesellschaft sind die Vorschrif­ten des Ak
 
 [2] Die Auflösung einer Gesellschaft muss ins Handelsregister einge­tragen werden. Die Auflösung durch Urteil ist vom Gericht dem Handelsregister unverzüglich zu melden. Die Auflösung aus anderen Gründen muss die Gesellschaft beim Handelsregister anmelden.
 
-#### [B. Ausscheiden von Gesell­schaftern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_B)
+#### [B. Ausscheiden von Gesell­schaftern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_B)
 
-##### [I. Austritt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_B/lvl_I)
+##### [I. Austritt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_B/lvl_I)
 
 [**Art. 822**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_822) 
 
@@ -11635,7 +11637,7 @@ Bei Mängeln in der Organisation der Gesellschaft sind die Vorschrif­ten des Ak
 
 [2] Die Statuten können den Gesellschaftern ein Recht auf Austritt ein­räumen und dieses von bestimmten Bedingungen abhängig machen.
 
-##### [II. Anschluss­austritt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_B/lvl_I_I)
+##### [II. Anschluss­austritt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_B/lvl_I_I)
 
 [**Art. 822***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_822_a) 
 
@@ -11643,7 +11645,7 @@ Bei Mängeln in der Organisation der Gesellschaft sind die Vorschrif­ten des Ak
 
 [2] Falls andere Gesellschafter innerhalb von drei Monaten nach Zugang dieser Mitteilung auf Austritt aus wichtigem Grund klagen oder ein statutarisches Austrittsrecht ausüben, sind alle austretenden Gesellschafter im Verhältnis des Nennwerts ihrer Stammanteile gleich zu behandeln. Wurden Nachschüsse geleistet, so ist deren Betrag dem Nennwert zuzurechnen.
 
-##### [III. Ausschluss](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_B/lvl_II_I)
+##### [III. Ausschluss](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_B/lvl_II_I)
 
 [**Art. 823**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_823) 
 
@@ -11653,15 +11655,15 @@ Bei Mängeln in der Organisation der Gesellschaft sind die Vorschrif­ten des Ak
 
 [3] Die Vorschriften über den Anschlussaustritt sind nicht anwendbar.
 
-##### [IV. Vorsorgliche Massnahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_B/lvl_I_V)
+##### [IV. Vorsorgliche Massnahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_B/lvl_I_V)
 
 [**Art. 824**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_824) 
 
 In einem Verfahren betreffend das Ausscheiden eines Gesellschafters kann das Gericht auf Antrag einer Partei bestimmen, dass einzelne oder alle mitgliedschaftlichen Rechte und Pflichten der betroffenen Person ruhen.
 
-##### [V. Abfindung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_B/lvl_V)
+##### [V. Abfindung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_B/lvl_V)
 
-###### [1. Anspruch und Höhe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_B/lvl_V/lvl_1)
+###### [1. Anspruch und Höhe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_B/lvl_V/lvl_1)
 
 [**Art. 825**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_825) 
 
@@ -11669,7 +11671,7 @@ In einem Verfahren betreffend das Ausscheiden eines Gesellschafters kann das Ger
 
 [2] Für das Ausscheiden auf Grund eines statutarischen Austrittsrechts können die Statuten die Abfindung abweichend festlegen.
 
-###### [2. Auszahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_B/lvl_V/lvl_2)
+###### [2. Auszahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_B/lvl_V/lvl_2)
 
 [**Art. 825***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_825_a) 
 
@@ -11686,7 +11688,7 @@ In einem Verfahren betreffend das Ausscheiden eines Gesellschafters kann das Ger
 
 [4] Solange die Abfindung nicht vollständig ausbezahlt ist, kann der ausgeschiedene Gesellschafter verlangen, dass die Gesellschaft eine Revisionsstelle bezeichnet und die Jahresrechnung ordentlich revi­dieren lässt.
 
-#### [C. Liquidation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_4/lvl_C)
+#### [C. Liquidation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_4/lvl_C)
 
 [**Art. 826**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_826) 
 
@@ -11694,7 +11696,7 @@ In einem Verfahren betreffend das Ausscheiden eines Gesellschafters kann das Ger
 
 [2] Für die Auflösung der Gesellschaft mit Liquidation sind die Vor­schriften des Aktienrechts entsprechend anwendbar.
 
-### [Fünfter Abschnitt: Verantwortlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/sec_5)
+### [Fünfter Abschnitt: Verantwortlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_28/chap_5)
 
 [**Art. 827**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_827) 
 
@@ -11702,9 +11704,9 @@ Für die Verantwortlichkeit der Personen, die bei der Gründung mitwirken oder m
 
 ## [Neunundzwanzigster Titel: Die Genossenschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29)
 
-### [Erster Abschnitt: Begriff und Errichtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1)
+### [Erster Abschnitt: Begriff und Errichtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1)
 
-#### [A. Genossen­schaft des Obli­gationen­rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_A)
+#### [A. Genossen­schaft des Obli­gationen­rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_A)
 
 
 [**Art. 828**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_828) 
@@ -11713,25 +11715,25 @@ Für die Verantwortlichkeit der Personen, die bei der Gründung mitwirken oder m
 
 [2] Genossenschaften mit einem zum voraus festgesetzten Grundkapital sind unzulässig.
 
-#### [B. Genossen­schaf­ten des öf­fentlichen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_B)
+#### [B. Genossen­schaf­ten des öf­fentlichen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_B)
 
 
 [**Art. 829**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_829) 
 
 Öffentlich-rechtliche Personenverbände stehen, auch wenn sie genos­senschaftlichen Zwecken dienen, unter dem öffentlichen Recht des Bundes und der Kantone.
 
-#### [C. Errichtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C)
+#### [C. Errichtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C)
 
-##### [I. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_I)
+##### [I. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_I/lvl_1)
 
 
 [**Art. 830**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_830) 
 
 Die Genossenschaft entsteht nach Aufstellung der Statuten und deren Genehmigung in der konstituierenden Versammlung durch Eintra­gung in das Handelsregister.
 
-###### [2. Zahl der Mit­glie­der](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_I/lvl_2)
+###### [2. Zahl der Mit­glie­der](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_I/lvl_2)
 
 [**Art. 831**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_831) 
 
@@ -11739,9 +11741,9 @@ Die Genossenschaft entsteht nach Aufstellung der Statuten und deren Genehmigung 
 
 [2] Sinkt in der Folge die Zahl der Genossenschafter unter diese Mindestzahl, so sind die Vorschriften des Aktienrechts über Mängel in der Organisation der Gesellschaft entsprechend anwendbar.
 
-##### [II. Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_I_I)
+##### [II. Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_I_I)
 
-###### [1. Gesetzlich vor­geschriebe­ner Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_I_I/lvl_1)
+###### [1. Gesetzlich vor­geschriebe­ner Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_I_I/lvl_1)
 
 [**Art. 832**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_832) 
 
@@ -11754,7 +11756,7 @@ Die Statuten müssen Bestimmungen enthalten über:
 |    4. die Organe für die Verwaltung und für die Revision und die Art der Ausübung der Vertretung;  
 |    5. die Form der von der Genossenschaft ausgehenden Bekannt­ma­chungen.
 
-###### [2. Weitere Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_I_I/lvl_2)
+###### [2. Weitere Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_I_I/lvl_2)
 
 
 [**Art. 833**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_833) 
@@ -11771,7 +11773,7 @@ Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten:
 |    7. Beschränkungen und Erweiterungen in der Ausübung des Stimm­rechtes;  
 |    8. Bestimmungen über die Berechnung und die Verwendung des Reinertrages und des Liquidationsüberschusses.
 
-##### [III. Konsti­tuie­rende Ver­sammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_II_I)
+##### [III. Konsti­tuie­rende Ver­sammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_II_I)
 
 [**Art. 834**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_834) 
 
@@ -11783,19 +11785,19 @@ Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten:
 
 [4] Bis zur Eintragung der Genossenschaft in das Handelsregister kann die Mitgliedschaft nur durch Unterzeichnung der Statuten begründet werden.
 
-##### [IV. Eintragung ins Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_I_V)
+##### [IV. Eintragung ins Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_I_V)
 
-###### [1. Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_I_V/lvl_1)
+###### [1. Gesellschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_I_V/lvl_1)
 
 [**Art. 835**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_835)
 
 Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren Sitz hat.
 
-###### [2. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_I_V/lvl_2)
+###### [2. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_I_V/lvl_2)
 
 [**Art. 836**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_836)
 
-###### [3. Genossen­schafter­verzeichnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_I_V/lvl_3)
+###### [3. Genossen­schafter­verzeichnis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_I_V/lvl_3)
 
 [**Art. 837**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_837)
 
@@ -11803,7 +11805,7 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [2] Die Belege, die einer Eintragung zugrunde liegen, müssen während zehn Jahren nach der Streichung des Genossenschafters aus dem Verzeichnis aufbewahrt werden.
 
-##### [V. Erwerb der Per­sönlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_1/lvl_C/lvl_V)
+##### [V. Erwerb der Per­sönlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_1/lvl_C/lvl_V)
 
 [**Art. 838**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_838) 
 
@@ -11813,9 +11815,9 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [3] Wurden solche Verpflichtungen ausdrücklich im Namen der zu bil­denden Genossenschaft eingegangen und innerhalb einer Frist von drei Monaten nach der Eintragung in das Handelsregister von der Ge­nos­senschaft übernommen, so werden die Handelnden befreit, und es haftet die Genossenschaft.
 
-### [Zweiter Abschnitt: Erwerb der Mitgliedschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_2)
+### [Zweiter Abschnitt: Erwerb der Mitgliedschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_2)
 
-#### [A. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_2/lvl_A)
+#### [A. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_2/lvl_A)
 
 [**Art. 839**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_839) 
 
@@ -11823,7 +11825,7 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [2] Die Statuten können unter Wahrung des Grundsatzes der nicht geschlossenen Mitgliederzahl die nähern Bestimmungen über den Ein­tritt treffen; sie dürfen jedoch den Eintritt nicht übermässig erschwe­ren.
 
-#### [B. Beitritts­erklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_2/lvl_B)
+#### [B. Beitritts­erklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_2/lvl_B)
 
 [**Art. 840**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_840) 
 
@@ -11833,7 +11835,7 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [3] Über die Aufnahme neuer Mitglieder entscheidet die Verwaltung, soweit nicht nach den Statuten die blosse Beitrittserklärung genügt oder ein Beschluss der Generalversammlung nötig ist.
 
-#### [C. Verbindung mit einem Versi­che­rungs­vertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_2/lvl_C)
+#### [C. Verbindung mit einem Versi­che­rungs­vertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_2/lvl_C)
 
 
 [**Art. 841**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_841) 
@@ -11842,11 +11844,11 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [2] Die von einer konzessionierten Versicherungsgenossenschaft mit den Mitgliedern abgeschlossenen Versicherungsverträge unterstehen in gleicher Weise wie die von ihr mit Dritten abgeschlossenen Versi­che­rungsverträge den Bestimmungen des Bundesgesetzes vom 2. April 1908 über den Versicherungsvertrag.
 
-### [Dritter Abschnitt: Verlust der Mitgliedschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3)
+### [Dritter Abschnitt: Verlust der Mitgliedschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3)
 
-#### [A. Austritt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_A)
+#### [A. Austritt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_A)
 
-##### [I. Freiheit des Aus­trittes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_A/lvl_I)
+##### [I. Freiheit des Aus­trittes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_A/lvl_I)
 
 [**Art. 842**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_842) 
 
@@ -11856,7 +11858,7 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [3] Ein dauerndes Verbot oder eine übermässige Erschwerung des Aus­trittes durch die Statuten oder durch Vertrag sind ungültig.
 
-##### [II. Be­schrän­kung des Aus­trit­tes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_A/lvl_I_I)
+##### [II. Be­schrän­kung des Aus­trit­tes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_A/lvl_I_I)
 
 [**Art. 843**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_843) 
 
@@ -11864,7 +11866,7 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [2] Auch während dieser Frist kann aus wichtigen Gründen der Austritt erklärt werden. Die Pflicht zur Bezahlung einer angemessenen Aus­lösungssumme unter den für den freien Austritt vorgesehenen Voraus­setzungen bleibt vorbehalten.
 
-##### [III. Kündi­gungs­frist und Zeit­punkt des Aus­trittes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_A/lvl_II_I)
+##### [III. Kündi­gungs­frist und Zeit­punkt des Aus­trittes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_A/lvl_II_I)
 
 [**Art. 844**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_844) 
 
@@ -11872,13 +11874,13 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [2] Den Statuten bleibt vorbehalten, eine kürzere Kündigungsfrist vor­zu­schreiben und den Austritt auch im Laufe des Geschäftsjahres zu gestatten.
 
-##### [IV. Geltend­machung im Kon­kurs und bei Pfän­dung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_A/lvl_I_V)
+##### [IV. Geltend­machung im Kon­kurs und bei Pfän­dung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_A/lvl_I_V)
 
 [**Art. 845**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_845) 
 
 Falls die Statuten dem ausscheidenden Mitglied einen Anteil am Ver­mögen der Genossenschaft gewähren, kann ein dem Genossen­schaf­ter zustehendes Austrittsrecht in dessen Konkurse von der Kon­kurs­ver­waltung oder, wenn dieser Anteil gepfändet wird, vom Betrei­bungsamt geltend gemacht werden.
 
-#### [B. Aus­schliessung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_B)
+#### [B. Aus­schliessung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_B)
 
 [**Art. 846**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_846) 
 
@@ -11890,7 +11892,7 @@ Falls die Statuten dem ausscheidenden Mitglied einen Anteil am Ver­mögen der G
 
 [4] Das ausgeschlossene Mitglied kann unter den für den freien Austritt aufgestellten Voraussetzungen zur Entrichtung einer Auslösungs­summe verhalten werden.
 
-#### [C. Tod des Ge­nos­sen­schafters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_C)
+#### [C. Tod des Ge­nos­sen­schafters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_C)
 
 
 [**Art. 847**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_847) 
@@ -11903,16 +11905,16 @@ Falls die Statuten dem ausscheidenden Mitglied einen Anteil am Ver­mögen der G
 
 [4] Die Erbengemeinschaft hat für die Beteiligung an der Genossen­schaft einen gemeinsamen Vertreter zu bestellen.
 
-#### [D. Wegfall einer Be­am­tung oder Anstel­lung oder ei­nes Vertrages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_D)
+#### [D. Wegfall einer Be­am­tung oder Anstel­lung oder ei­nes Vertrages](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_D)
 
 
 [**Art. 848**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_848) 
 
 Ist die Zugehörigkeit zu einer Genossenschaft mit einer Beamtung oder Anstellung verknüpft oder die Folge eines Vertragsverhältnisses, wie bei einer Versicherungsgenossenschaft, so fällt die Mitglied­schaft, sofern die Statuten es nicht anders ordnen, mit dem Aufhören der Beamtung oder Anstellung oder des Vertrages dahin.
 
-#### [E. Übertragung der Mitglied­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_E)
+#### [E. Übertragung der Mitglied­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_E)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_E/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_E/lvl_I)
 
 
 [**Art. 849**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_849) 
@@ -11923,7 +11925,7 @@ Ist die Zugehörigkeit zu einer Genossenschaft mit einer Beamtung oder Anstellun
 
 [3] Ist die Zugehörigkeit zu einer Genossenschaft mit einem Vertrage verknüpft, so können die Statuten bestimmen, dass die Mitgliedschaft mit der Übernahme des Vertrages ohne weiteres auf den Rechtsnach­folger übergeht.
 
-##### [II. Durch Über­tragung von Grund­stücken oder wirt­schaft­lichen Betrie­ben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_E/lvl_I_I)
+##### [II. Durch Über­tragung von Grund­stücken oder wirt­schaft­lichen Betrie­ben](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_E/lvl_I_I)
 
 [**Art. 850**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_850) 
 
@@ -11933,16 +11935,16 @@ Ist die Zugehörigkeit zu einer Genossenschaft mit einer Beamtung oder Anstellun
 
 [3] Die Bestimmung betreffend den Übergang der Mitgliedschaft bei Veräusserung des Grundstückes bedarf zu ihrer Gültigkeit gegenüber Dritten der Vormerkung im Grundbuche.
 
-#### [F. Austritt des Rechts­nachfolgers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_3/lvl_F)
+#### [F. Austritt des Rechts­nachfolgers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_3/lvl_F)
 
 [**Art. 851**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_851) 
 
 Bei Übertragung und Vererbung der Mitgliedschaft gelten für den Rechtsnachfolger die gleichen Austrittsbedingungen wie für das frü­here Mitglied.
 
-### [Vierter Abschnitt: Rechte und Pflichten der Genossen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4)
+### [Vierter Abschnitt: Rechte und Pflichten der Genossen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4)
 
 
-#### [A. Ausweis der Mitgliedschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_A)
+#### [A. Ausweis der Mitgliedschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_A)
 
 [**Art. 852**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_852) 
 
@@ -11950,7 +11952,7 @@ Bei Übertragung und Vererbung der Mitgliedschaft gelten für den Rechtsnachfolg
 
 [2] Dieser Ausweis kann auch im Anteilschein enthalten sein.
 
-#### [B. Genossen­schaftsanteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_B)
+#### [B. Genossen­schaftsanteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_B)
 
 [**Art. 853**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_853) 
 
@@ -11960,23 +11962,23 @@ Bei Übertragung und Vererbung der Mitgliedschaft gelten für den Rechtsnachfolg
 
 [3] Die Anteilscheine werden auf den Namen des Mitgliedes ausgestellt. Sie können aber nicht als Wertpapiere, sondern nur als Beweisurkun­den errichtet werden.
 
-#### [C. Rechtsgleich­heit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_C)
+#### [C. Rechtsgleich­heit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_C)
 
 [**Art. 854**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_854) 
 
 Die Genossenschafter stehen in gleichen Rechten und Pflichten, so­weit sich aus dem Gesetz nicht eine Ausnahme ergibt.
 
-#### [D. Rechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D)
+#### [D. Rechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D)
 
-##### [I. Stimmrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_I)
+##### [I. Stimmrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_I)
 
 [**Art. 855**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_855) 
 
 Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft, insbesondere in Bezug auf die Führung der genossen­schaftlichen Geschäfte und die Förderung der Genossenschaft zuste­hen, werden durch die Teilnahme an der Generalversammlung oder in den vom Gesetz vorgesehenen Fällen durch schriftliche Stimmabgabe (Urabstimmung) ausgeübt.
 
-##### [II. Kontroll­recht der Ge­nossen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_I_I)
+##### [II. Kontroll­recht der Ge­nossen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_I_I)
 
-###### [1. Bekannt­gabe der Bilanz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_I_I/lvl_1)
+###### [1. Bekannt­gabe der Bilanz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_I_I/lvl_1)
 
 [**Art. 856**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_856) 
 
@@ -11984,7 +11986,7 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 [2] Die Statuten können bestimmen, dass jeder Genossenschafter berechtigt ist, auf Kosten der Genossenschaft eine Abschrift der Betriebsrechnung und der Bilanz zu verlangen.
 
-###### [2. Auskunft­erteilung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_I_I/lvl_2)
+###### [2. Auskunft­erteilung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_I_I/lvl_2)
 
 [**Art. 857**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_857) 
 
@@ -11996,13 +11998,13 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 [4] Das Kontrollrecht der Genossenschafter kann weder durch die Statu­ten noch durch Beschlüsse eines Genossenschaftsorgans aufgehoben oder beschränkt werden.
 
-##### [III. Allfällige Rechte auf den Reinertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_II_I)
+##### [III. Allfällige Rechte auf den Reinertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_II_I)
 
-###### [1. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_II_I/lvl_1)
+###### [1. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_II_I/lvl_1)
 
 [**Art. 858**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_858)
 
-###### [2. Verteilungs­grundsätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_II_I/lvl_2)
+###### [2. Verteilungs­grundsätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_II_I/lvl_2)
 
 [**Art. 859**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_859) 
 
@@ -12012,7 +12014,7 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 [3] Bestehen Anteilscheine, so darf die auf sie entfallende Quote des Reinertrages den landesüblichen Zinsfuss für langfristige Darlehen ohne besondere Sicherheiten nicht übersteigen.
 
-###### [3. Pflicht zur Bil­dung und Äufnung eines Reservefonds](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_II_I/lvl_3)
+###### [3. Pflicht zur Bil­dung und Äufnung eines Reservefonds](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_II_I/lvl_3)
 
 [**Art. 860**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_860) 
 
@@ -12022,9 +12024,9 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 [3] Soweit der Reservefonds die Hälfte des übrigen Genossenschafts­vermögens oder, wenn Anteilscheine bestehen, die Hälfte des Genos­sen­schaftskapitals nicht übersteigt, darf er nur zur Deckung von Ver­lusten oder zu Massnahmen verwendet werden, die geeignet sind, in Zeiten schlechten Geschäftsganges die Erreichung des Genossen­schaftszwec­kes sicherzustellen.
 
-[4] ...
+[4] …
 
-###### [4. Reinertrag bei Kreditge­nossen­schaften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_II_I/lvl_4)
+###### [4. Reinertrag bei Kreditge­nossen­schaften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_II_I/lvl_4)
 
 [**Art. 861**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_861) 
 
@@ -12034,15 +12036,15 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 [3] Wird auf die Genossenschaftsanteile eine Quote des Reinertrages verteilt, die den landesüblichen Zinsfuss für langfristige Darlehen oh­ne besondere Sicherheiten übersteigt, so ist von dem diesen Zinsfuss übersteigenden Betrag ein Zehntel ebenfalls dem Reservefonds zuzu­weisen.
 
-###### [5. Fonds zu Wohl­fahrts­zwecken](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_II_I/lvl_5)
+###### [5. Fonds zu Wohl­fahrts­zwecken](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_II_I/lvl_5)
 
 [**Art. 862**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_862) 
 
 [1] Die Statuten können insbesondere auch Fonds zur Gründung und Unterstützung von Wohlfahrtseinrichtungen für Angestellte und Arbeiter des Unternehmens sowie für Genossenschafter vorsehen.
 
-[2–4] ...
+[2–4] …
 
-###### [6. Weitere Re­serve­anla­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_II_I/lvl_6)
+###### [6. Weitere Re­serve­anla­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_II_I/lvl_6)
 
 
 [**Art. 863**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_863) 
@@ -12053,9 +12055,9 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 [3] In gleicher Weise können zum Zwecke der Gründung und Unterstüt­zung von Wohlfahrtseinrichtungen für Angestellte, Arbeiter und Genossenschafter sowie zu andern Wohlfahrtszwecken Beiträge aus dem Reinertrag auch dann ausgeschieden werden, wenn sie in den Statuten nicht vorgesehen sind; solche Beitrage stehen unter den Bestimmun­gen über die statutarischen Wohlfahrtsfonds.
 
-##### [IV. Ab­fin­dungs­an­spruch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_I_V)
+##### [IV. Ab­fin­dungs­an­spruch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_I_V)
 
-###### [1. Nach Mass­gabe der Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_I_V/lvl_1)
+###### [1. Nach Mass­gabe der Statuten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_I_V/lvl_1)
 
 [**Art. 864**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_864) 
 
@@ -12067,7 +12069,7 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 [4] Die Ansprüche des Ausscheidenden oder seiner Erben verjähren in drei Jahren vom Zeitpunkt an gerechnet, auf den die Auszahlung ver­langt werden kann.
 
-###### [2. Nach Gesetz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_D/lvl_I_V/lvl_2)
+###### [2. Nach Gesetz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_D/lvl_I_V/lvl_2)
 
 [**Art. 865**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_865) 
 
@@ -12075,15 +12077,15 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 [2] Wird die Genossenschaft innerhalb eines Jahres nach dem Aus­schei­den oder nach dem Tode eines Genossenschafters aufgelöst und wird das Vermögen verteilt, so steht dem Ausgeschiedenen oder sei­nen Erben der gleiche Anspruch zu wie den bei der Auflösung vor­han­denen Genossenschaftern.
 
-#### [E. Pflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E)
+#### [E. Pflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E)
 
-##### [I. Treuepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_I)
+##### [I. Treuepflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_I)
 
 [**Art. 866**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_866) 
 
 Die Genossenschafter sind verpflichtet, die Interessen der Genossen­schaft in guten Treuen zu wahren.
 
-##### [II. Pflicht zu Bei­trä­gen und Lei­stungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_I_I)
+##### [II. Pflicht zu Bei­trä­gen und Lei­stungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_I_I)
 
 [**Art. 867**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_867) 
 
@@ -12095,17 +12097,17 @@ Die Genossenschafter sind verpflichtet, die Interessen der Genossen­schaft in g
 
 [4] Sofern die Statuten es nicht anders ordnen, wird der Genossenschaf­ter durch die Verlustigerklärung nicht von fälligen oder durch die Aus­schliessung fällig werdenden Verpflichtungen befreit.
 
-##### [III. Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I)
+##### [III. Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I)
 
-###### [1. Der Genos­sen­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_1)
+###### [1. Der Genos­sen­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_1)
 
 [**Art. 868**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_868) 
 
 Für die Verbindlichkeiten der Genossenschaft haftet das Genossen­schaftsvermögen. Es haftet ausschliesslich, sofern die Statuten nichts anderes bestimmen.
 
-###### [2. Der Ge­nos­sen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2)
+###### [2. Der Ge­nos­sen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2)
 
-###### [a. Unbe­schränkte Haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2/lvl_a)
+###### [a. Unbe­schränkte Haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_a)
 
 [**Art. 869**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_869) 
 
@@ -12113,7 +12115,7 @@ Für die Verbindlichkeiten der Genossenschaft haftet das Genossen­schaftsvermö
 
 [2] In diesem Falle haften, soweit die Gläubiger im Genossenschafts­kon­kurse zu Verlust kommen, die Genossenschafter für alle Verbind­lich­keiten der Genossenschaft solidarisch mit ihrem ganzen Vermö­gen. Diese Haftung wird bis zur Beendigung des Konkurses durch die Konkursverwaltung geltend gemacht.
 
-###### [b. Beschränkte Haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2/lvl_b)
+###### [b. Beschränkte Haf­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_b)
 
 [**Art. 870**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_870) 
 
@@ -12123,7 +12125,7 @@ Für die Verbindlichkeiten der Genossenschaft haftet das Genossen­schaftsvermö
 
 [3] Die Haftung wird bis zur Beendigung des Konkurses durch die Kon­kursverwaltung geltend gemacht.
 
-###### [c. Nach­schuss­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2/lvl_c)
+###### [c. Nach­schuss­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_c)
 
 [**Art. 871**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_871) 
 
@@ -12137,13 +12139,13 @@ Für die Verbindlichkeiten der Genossenschaft haftet das Genossen­schaftsvermö
 
 [5] Im Übrigen sind die Vorschriften über die Einforderung der Leistun­gen und über die Verlustigerklärung anwendbar.
 
-###### [d. Unzulässige Beschränkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2/lvl_d)
+###### [d. Unzulässige Beschränkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_d)
 
 [**Art. 872**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_872) 
 
 Bestimmungen der Statuten, welche die Haftung auf bestimmte Zeit oder auf besondere Verbindlichkeiten oder auf einzelne Gruppen von Mitgliedern beschränken, sind ungültig.
 
-###### [e. Verfahren im Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2/lvl_e)
+###### [e. Verfahren im Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_e)
 
 
 [**Art. 873**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_873) 
@@ -12156,7 +12158,7 @@ Bestimmungen der Statuten, welche die Haftung auf bestimmte Zeit oder auf besond
 
 [4] Das Verfahren wird durch eine Verordnung des Bundesrates geregelt.
 
-###### [f. Änderung der Haftungs­bestim­mungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2/lvl_f)
+###### [f. Änderung der Haftungs­bestim­mungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_f)
 
 
 [**Art. 874**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_874) 
@@ -12169,7 +12171,7 @@ Bestimmungen der Statuten, welche die Haftung auf bestimmte Zeit oder auf besond
 
 [4] Die Neubegründung oder Vermehrung der Haftung oder der Nach­schusspflicht wirkt mit der Eintragung des Beschlusses zugunsten al­ler Gläubiger der Genossenschaft.
 
-###### [g. Haftung neu ein­tretender Ge­nossen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2/lvl_g)
+###### [g. Haftung neu ein­tretender Ge­nossen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_g)
 
 
 [**Art. 875**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_875) 
@@ -12178,7 +12180,7 @@ Bestimmungen der Statuten, welche die Haftung auf bestimmte Zeit oder auf besond
 
 [2] Eine entgegenstehende Bestimmung der Statuten oder Verabredung unter den Genossenschaftern hat Dritten gegenüber keine Wirkung.
 
-###### [h. Haftung nach Aus­scheiden oder nach Auf­lösung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2/lvl_h)
+###### [h. Haftung nach Aus­scheiden oder nach Auf­lösung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_h)
 
 [**Art. 876**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_876) 
 
@@ -12188,7 +12190,7 @@ Bestimmungen der Statuten, welche die Haftung auf bestimmte Zeit oder auf besond
 
 [3] Wird eine Genossenschaft aufgelöst, so bleiben die Mitglieder in gleicher Weise haftbar oder zu Nachschüssen verpflichtet, falls inner­halb eines Jahres oder einer statutarisch festgesetzten längere Frist seit der Eintragung der Auflösung in das Handelsregister der Konkurs über die Genossenschaft eröffnet wird.
 
-###### [i. Anmeldung von Ein- und Austritt im Han­dels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2/lvl_i)
+###### [i. Anmeldung von Ein- und Austritt im Han­dels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_i)
 
 
 [**Art. 877**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_877) 
@@ -12199,7 +12201,7 @@ Bestimmungen der Statuten, welche die Haftung auf bestimmte Zeit oder auf besond
 
 [3] Die konzessionierten Versicherungsgenossenschaften sind von der Pflicht zur Anmeldung ihrer Mitglieder beim Handelsregisteramt befreit.
 
-###### [k. Verjährung der Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_4/lvl_E/lvl_II_I/lvl_2/lvl_k)
+###### [k. Verjährung der Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_k)
 
 [**Art. 878**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_878) 
 
@@ -12207,11 +12209,11 @@ Bestimmungen der Statuten, welche die Haftung auf bestimmte Zeit oder auf besond
 
 [2] Der Rückgriff der Genossenschafter unter sich verjährt mit Ablauf von drei Jahren vom Zeitpunkt der Zahlung an, für die er geltend gemacht wird.
 
-### [Fünfter Abschnitt: Organisation der Genossenschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5)
+### [Fünfter Abschnitt: Organisation der Genossenschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5)
 
-#### [A. General­ver­sammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A)
+#### [A. General­ver­sammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A)
 
-##### [I. Befugnisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_I)
+##### [I. Befugnisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_I)
 
 [**Art. 879**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_879) 
 
@@ -12226,15 +12228,15 @@ Bestimmungen der Statuten, welche die Haftung auf bestimmte Zeit oder auf besond
 |    4. die Entlastung der Verwaltung;  
 |    5. die Beschlussfassung über die Gegenstände, die der General­ver­sammlung durch das Gesetz oder die Statuten vorbehalten sind.
 
-##### [II. Ur­abstimmung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_I_I)
+##### [II. Ur­abstimmung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_I_I)
 
 [**Art. 880**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_880) 
 
 Bei Genossenschaften, die mehr als 300 Mitglieder zählen oder bei denen die Mehrheit der Mitglieder aus Genossenschaften besteht, kön­nen die Statuten bestimmen, dass die Befugnisse der Generalver­sammlung ganz oder zum Teil durch schriftliche Stimmabgabe (Urabstimmung) der Genossenschafter ausgeübt werden.
 
-##### [III. Einberufung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_II_I)
+##### [III. Einberufung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_II_I)
 
-###### [1. Recht und Pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_II_I/lvl_1)
+###### [1. Recht und Pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_II_I/lvl_1)
 
 
 [**Art. 881**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_881) 
@@ -12245,7 +12247,7 @@ Bei Genossenschaften, die mehr als 300 Mitglieder zählen oder bei denen die Meh
 
 [3] Entspricht die Verwaltung diesem Begehren nicht binnen angemes­sener Frist, so hat das Gericht auf Antrag der Gesuchsteller die Ein­berufung anzuordnen.
 
-###### [2. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_II_I/lvl_2)
+###### [2. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_II_I/lvl_2)
 
 [**Art. 882**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_882) 
 
@@ -12253,7 +12255,7 @@ Bei Genossenschaften, die mehr als 300 Mitglieder zählen oder bei denen die Meh
 
 [2] Bei Genossenschaften von über 30 Mitgliedern ist die Einberufung wirksam, sobald sie durch öffentliche Auskündigung erfolgt.
 
-###### [3. Ver­hand­lungs­gegen­stände](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_II_I/lvl_3)
+###### [3. Ver­hand­lungs­gegen­stände](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_II_I/lvl_3)
 
 [**Art. 883**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_883) 
 
@@ -12263,19 +12265,19 @@ Bei Genossenschaften, die mehr als 300 Mitglieder zählen oder bei denen die Meh
 
 [3] Zur Stellung von Anträgen und zu Verhandlungen ohne Beschluss­fassung bedarf es der vorgängigen Ankündigung nicht.
 
-###### [4. Universal­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_II_I/lvl_4)
+###### [4. Universal­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_II_I/lvl_4)
 
 [**Art. 884**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_884) 
 
 Wenn und solange alle Genossenschafter in einer Versammlung an­we­send sind, können sie, falls kein Widerspruch erhoben wird, Beschlüsse fassen, auch wenn die Vorschriften über die Einberufung nicht eingehalten wurden.
 
-##### [IV. Stimm­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_I_V)
+##### [IV. Stimm­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_I_V)
 
 [**Art. 885**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_885) 
 
 Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung eine Stimme.
 
-##### [V. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_V)
+##### [V. Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_V)
 
 [**Art. 886**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_886) 
 
@@ -12285,17 +12287,17 @@ Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung ei
 
 [3] Den Statuten bleibt vorbehalten, die Vertretung durch einen hand­lungsfähigen Familienangehörigen zulässig zu erklären.
 
-##### [VI. Aus­schliessung vom Stimm­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_V_I)
+##### [VI. Aus­schliessung vom Stimm­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_V_I)
 
 [**Art. 887**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_887) 
 
 [1] Bei Beschlüssen über die Entlastung der Verwaltung haben Perso­nen, die in irgendeiner Weise an der Geschäftsführung teilgenommen haben, kein Stimmrecht.
 
-[2] ...
+[2] …
 
-##### [VII. Be­schluss­fas­sung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_VI_I)
+##### [VII. Be­schluss­fas­sung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_VI_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_VI_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_VI_I/lvl_1)
 
 
 [**Art. 888**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_888) 
@@ -12304,7 +12306,7 @@ Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung ei
 
 [2] Für die Auflösung der Genossenschaft sowie für die Abänderung der Statuten bedarf es einer Mehrheit von zwei Dritteln der abgegebenen Stimmen. Die Statuten können die Bedingungen für diese Beschlüsse noch erschweren.
 
-###### [2. Bei Er­höhung der Leistungen der Ge­nossen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_VI_I/lvl_2)
+###### [2. Bei Er­höhung der Leistungen der Ge­nossen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_VI_I/lvl_2)
 
 [**Art. 889**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_889) 
 
@@ -12314,7 +12316,7 @@ Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung ei
 
 [3] Der Austritt darf in diesem Falle nicht von der Leistung einer Aus­lösungssumme abhängig gemacht werden.
 
-##### [VIII. Ab­berufung der Verwal­tung und der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_VII_I)
+##### [VIII. Ab­berufung der Verwal­tung und der Revisionsstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_VII_I)
 
 [**Art. 890**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_890) 
 
@@ -12324,7 +12326,7 @@ Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung ei
 
 [3] Entschädigungsansprüche der Abberufenen bleiben vorbehalten.
 
-##### [IX. An­fechtung der Generalver­samm­lungs­beschlüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_I_X)
+##### [IX. An­fechtung der Generalver­samm­lungs­beschlüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_I_X)
 
 [**Art. 891**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_891) 
 
@@ -12334,7 +12336,7 @@ Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung ei
 
 [3] Das Urteil, das einen Beschluss aufhebt, wirkt für und gegen alle Genossenschafter.
 
-##### [X. Dele­gierten­ver­sammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_X)
+##### [X. Dele­gierten­ver­sammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_X)
 
 [**Art. 892**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_892) 
 
@@ -12346,7 +12348,7 @@ Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung ei
 
 [4] Im Übrigen gelten für die Delegiertenversammlung die gesetzlichen Vorschriften über die Generalversammlung.
 
-##### [XI. Aus­nahme­be­stimmungen für Ver­sicherungs­genossen­schaften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_A/lvl_X_I)
+##### [XI. Aus­nahme­be­stimmungen für Ver­sicherungs­genossen­schaften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_A/lvl_X_I)
 
 [**Art. 893**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_893) 
 
@@ -12354,11 +12356,11 @@ Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung ei
 
 [2] Unübertragbar sind die Befugnisse der Generalversammlung zur Einführung oder Vermehrung der Nachschusspflicht, zur Auflösung, zur Fusion, zur Spaltung und zur Umwandlung der Rechtsform der Genossenschaft.
 
-#### [B. Verwaltung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B)
+#### [B. Verwaltung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B)
 
-##### [I. Wählbarkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_I)
+##### [I. Wählbarkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_I)
 
-###### [1. Mitglied­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_I/lvl_1)
+###### [1. Mitglied­schaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_I/lvl_1)
 
 [**Art. 894**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_894) 
 
@@ -12366,11 +12368,11 @@ Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung ei
 
 [2] Ist an der Genossenschaft eine juristische Person oder eine Handels­gesellschaft beteiligt, so ist sie als solche nicht als Mitglied der Ver­waltung wählbar; dagegen können an ihrer Stelle ihre Vertreter gewählt werden.
 
-###### [2. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_I/lvl_2)
+###### [2. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_I/lvl_2)
 
 [**Art. 895**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_895)
 
-##### [II. Amtsdauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_I_I)
+##### [II. Amtsdauer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_I_I)
 
 [**Art. 896**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_896) 
 
@@ -12378,15 +12380,15 @@ Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung ei
 
 [2] Bei den konzessionierten Versicherungsgenossenschaften finden für die Amtsdauer der Verwaltung die für die Aktiengesellschaft gelten­den Vorschriften Anwendung.
 
-##### [III. Verwaltungs­ausschuss](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_II_I)
+##### [III. Verwaltungs­ausschuss](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_II_I)
 
 [**Art. 897**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_897) 
 
 Die Statuten können einen Teil der Pflichten und Befugnisse der Ver­waltung einem oder mehreren von dieser gewählten Verwaltungs­aus­schüssen übertragen.
 
-##### [IV. Geschäfts­führung und Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_I_V)
+##### [IV. Geschäfts­führung und Vertretung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_I_V)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_I_V/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_1)
 
 
 [**Art. 898**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_898)
@@ -12395,7 +12397,7 @@ Die Statuten können einen Teil der Pflichten und Befugnisse der Ver­waltung ei
 
 [2] Die Genossenschaft muss durch eine Person vertreten werden können, die Wohnsitz in der Schweiz hat. Diese Person muss Mitglied der Verwaltung, Geschäftsführer oder Direktor sein. Diese Person muss Zugang zum Verzeichnis nach Artikel 837 haben.
 
-###### [2. Umfang und Be­schränkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_I_V/lvl_2)
+###### [2. Umfang und Be­schränkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_2)
 
 [**Art. 899**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_899) 
 
@@ -12405,27 +12407,27 @@ Die Statuten können einen Teil der Pflichten und Befugnisse der Ver­waltung ei
 
 [3] Die Genossenschaft haftet für den Schaden aus unerlaubten Hand­lungen, die eine zur Geschäftsführung oder zur Vertretung befugte Person in Ausübung ihrer geschäftlichen Verrichtungen begeht.
 
-###### [3. Verträge zwischen der Genossenschaft und ihrem Vertreter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_I_V/lvl_3)
+###### [3. Verträge zwischen der Genossenschaft und ihrem Vertreter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_3)
 
 [**Art. 899***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_899_a)
 
 Wird die Genossenschaft beim Abschluss eines Vertrages durch diejenige Person vertreten, mit der sie den Vertrag abschliesst, so muss der Vertrag schriftlich abgefasst werden. Dieses Erfordernis gilt nicht für Verträge des laufenden Geschäfts, bei denen die Leistung der Gesellschaft den Wert von 1000 Franken nicht übersteigt.
 
-###### [4. Zeichnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_I_V/lvl_4)
+###### [4. Zeichnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_4)
 
 [**Art. 900**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_900) 
 
 Die zur Vertretung der Genossenschaft befugten Personen haben in der Weise zu zeichnen, dass sie der Firma der Genossenschaft ihre Unterschrift beifügen.
 
-###### [5. Eintragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_I_V/lvl_5)
+###### [5. Eintragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_5)
 
 [**Art. 901**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_901) 
 
 Die zur Vertretung der Genossenschaft befugten Personen sind von der Verwaltung zur Eintragung in das Handelsregister anzumelden unter Vorlegung einer beglaubigten Abschrift des Beschlusses. Sie ha­ben ihre Unterschrift beim Handelsregisteramt zu zeichnen oder die Zeichnung in beglaubigter Form einzureichen.
 
-##### [V. Pflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_V)
+##### [V. Pflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_V)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_V/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_V/lvl_1)
 
 
 [**Art. 902**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_902) 
@@ -12440,7 +12442,7 @@ Die zur Vertretung der Genossenschaft befugten Personen sind von der Verwaltung 
 
 [3] Die Verwaltung ist dafür verantwortlich, dass ihre Protokolle und diejenigen der Generalversammlung, die notwendigen Geschäfts­bücher sowie das Genossenschafterverzeichnis regelmässig geführt werden, dass die Betriebsrechnung und die Jahresbilanz nach den gesetzlichen Vorschriften aufgestellt und der Revisionsstelle zur Prüfung unterbreitet und die vorgeschriebenen Anzeigen an das Handelsregisteramt über Eintritt und Austritt der Genossenschafter gemacht werden.
 
-###### [2. Anzeige­pflicht bei Über­schuldung und bei Kapital­ver­lust](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_V/lvl_2)
+###### [2. Anzeige­pflicht bei Über­schuldung und bei Kapital­ver­lust](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_V/lvl_2)
 
 
 [**Art. 903**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_903) 
@@ -12457,7 +12459,7 @@ Die zur Vertretung der Genossenschaft befugten Personen sind von der Verwaltung 
 
 [6] Bei konzessionierten Versicherungsgenossenschaften gelten die Ansprüche der Mitglieder aus Versicherungsverträgen als Gläubigerrech­te.
 
-##### [VI. Rück­erstattung entrichteter Zahlun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_V_I)
+##### [VI. Rück­erstattung entrichteter Zahlun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_V_I)
 
 [**Art. 904**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_904) 
 
@@ -12467,7 +12469,7 @@ Die zur Vertretung der Genossenschaft befugten Personen sind von der Verwaltung 
 
 [3] Das Gericht entscheidet unter Würdigung aller Umstände nach frei­em Ermessen.
 
-##### [VII. Ein­stellung und Abberufung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_B/lvl_VI_I)
+##### [VII. Ein­stellung und Abberufung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_B/lvl_VI_I)
 
 [**Art. 905**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_905) 
 
@@ -12477,9 +12479,9 @@ Die zur Vertretung der Genossenschaft befugten Personen sind von der Verwaltung 
 
 [3] Entschädigungsansprüche der Abberufenen oder in ihren Funktionen Eingestellten bleiben vorbehalten.
 
-#### [C. Revisions­stelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_C)
+#### [C. Revisions­stelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_C)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_C/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_C/lvl_I)
 
 
 [**Art. 906**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_906)
@@ -12493,13 +12495,13 @@ Die zur Vertretung der Genossenschaft befugten Personen sind von der Verwaltung 
 |    2. Genossenschafter, die zusammen mindestens 10 Prozent des Anteilscheinkapitals vertreten;  
 |    3. Genossenschafter, die einer persönlichen Haftung oder einer Nachschusspflicht unterliegen.
 
-##### [II. Prüfung des Genossenschaf­terverzeichnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_C/lvl_I_I)
+##### [II. Prüfung des Genossenschaf­terverzeichnisses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_C/lvl_I_I)
 
 [**Art. 907**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_907)
 
 Bei Genossenschaften mit persönlicher Haftung oder Nachschuss­pflicht der Genossenschafter hat die Revisionsstelle festzustellen, ob das Genossenschafterverzeichnis korrekt geführt wird. Verfügt die Genossenschaft über keine Revisionsstelle, so muss die Verwaltung das Genossenschafterverzeichnis durch einen zugelassenen Revisor prüfen lassen.
 
-#### [D. Mängel in der Organisation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_5/lvl_D)
+#### [D. Mängel in der Organisation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_5/lvl_D)
 
 [**Art. 908**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_908)
 
@@ -12507,9 +12509,9 @@ Bei Mängeln in der Organisation der Genossenschaft sind die Vor­schriften des 
 
 [**Art. 909** und **910**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_909)
 
-### [Sechster Abschnitt: Auflösung der Genossenschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_6)
+### [Sechster Abschnitt: Auflösung der Genossenschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_6)
 
-#### [A. Auflösungs­gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_6/lvl_A)
+#### [A. Auflösungs­gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_6/lvl_A)
 
 [**Art. 911**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_911) 
 
@@ -12521,13 +12523,13 @@ Die Genossenschaft wird aufgelöst:
 |    3. durch Eröffnung des Konkurses;  
 |    4. in den übrigen vom Gesetze vorgesehenen Fällen.
 
-#### [B. Anmeldung beim Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_6/lvl_B)
+#### [B. Anmeldung beim Handels­register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_6/lvl_B)
 
 [**Art. 912**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_912) 
 
 Erfolgt die Auflösung der Genossenschaft nicht durch Konkurs, so ist sie von der Verwaltung zur Eintragung in das Handelsregister anzu­melden.
 
-#### [C. Liqui­dation, Verteilung des Ver­mögens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_6/lvl_C)
+#### [C. Liqui­dation, Verteilung des Ver­mögens](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_6/lvl_C)
 
 [**Art. 913**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_913) 
 
@@ -12541,11 +12543,11 @@ Erfolgt die Auflösung der Genossenschaft nicht durch Konkurs, so ist sie von de
 
 [5] Der Entscheid hierüber steht, wenn die Statuten es nicht anders ord­nen, der Generalversammlung zu.
 
-#### [D. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_6/lvl_D)
+#### [D. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_6/lvl_D)
 
 [**Art. 914**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_914)
 
-#### [E. Übernahme durch eine Kör­perschaft des öf­fent­li­chen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_6/lvl_E)
+#### [E. Übernahme durch eine Kör­perschaft des öf­fent­li­chen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_6/lvl_E)
 
 
 
@@ -12557,15 +12559,15 @@ Erfolgt die Auflösung der Genossenschaft nicht durch Konkurs, so ist sie von de
 
 [3] Mit der Eintragung dieses Beschlusses ist der Übergang des Vermö­gens der Genossenschaft mit Einschluss der Schulden vollzogen, und es ist die Firma der Genossenschaft zu löschen.
 
-### [Siebenter Abschnitt: Verantwortlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_7)
+### [Siebenter Abschnitt: Verantwortlichkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_7)
 
-#### [A. Haftung gegenüber der Genossenschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_7/lvl_A)
+#### [A. Haftung gegenüber der Genossenschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_7/lvl_A)
 
 [**Art. 916**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_916)
 
 Alle mit der Verwaltung, Geschäftsführung, Revision oder Liquida­tion befassten Personen sind der Genossenschaft für den Schaden verantwortlich, den sie ihr durch absichtliche oder fahrlässige Verletzung der ihnen obliegenden Pflichten verursachen.
 
-#### [B. Haftung ge­gen­über Genos­sen­schaft, Ge­nossen­schaftern und Gläu­bigern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_7/lvl_B)
+#### [B. Haftung ge­gen­über Genos­sen­schaft, Ge­nossen­schaftern und Gläu­bigern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_7/lvl_B)
 
 
 [**Art. 917**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_917) 
@@ -12574,7 +12576,7 @@ Alle mit der Verwaltung, Geschäftsführung, Revision oder Liquida­tion befasst
 
 [2] Der Ersatz des Schadens, der den Genossenschaftern und den Gläu­bigern nur mittelbar durch Schädigung der Genossenschaft verursacht wurde, ist nach den für die Aktiengesellschaft aufgestellten Vorschri­f­ten geltend zu machen.
 
-#### [C. Solidarität und Rückgriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_7/lvl_C)
+#### [C. Solidarität und Rückgriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_7/lvl_C)
 
 [**Art. 918**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_918) 
 
@@ -12582,7 +12584,7 @@ Alle mit der Verwaltung, Geschäftsführung, Revision oder Liquida­tion befasst
 
 [2] Der Rückgriff unter mehreren Beteiligten wird vom Gericht nach dem Grade des Verschuldens des einzelnen bestimmt.
 
-#### [D. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_7/lvl_D)
+#### [D. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_7/lvl_D)
 
 [**Art. 919**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_919)
 
@@ -12590,23 +12592,23 @@ Alle mit der Verwaltung, Geschäftsführung, Revision oder Liquida­tion befasst
 
 [2] Hat die ersatzpflichtige Person durch ihr schädigendes Verhalten eine strafbare Handlung begangen, so verjährt der Anspruch auf Schadenersatz frühestens mit Eintritt der strafrechtlichen Verfolgungs­verjährung. Tritt diese infolge eines erstinstanzlichen Strafurteils nicht mehr ein, so verjährt der Anspruch frühestens mit Ablauf von drei Jahren seit Eröffnung des Urteils.
 
-#### [E. Bei Kredit- und Versiche­rungsgenossen­schaften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_7/lvl_E)
+#### [E. Bei Kredit- und Versiche­rungsgenossen­schaften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_7/lvl_E)
 
 [**Art. 920**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_920) 
 
 Bei Kreditgenossenschaften und konzessionierten Versicherungs­genossenschaften richtet sich die Verantwortlichkeit nach den Bestim­mungen des Aktienrechts.
 
-### [Achter Abschnitt: Genossenschaftsverbände](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_8)
+### [Achter Abschnitt: Genossenschaftsverbände](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_8)
 
-#### [A. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_8/lvl_A)
+#### [A. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_8/lvl_A)
 
 [**Art. 921**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_921) 
 
 Drei oder mehr Genossenschaften können einen Genossenschaftsver­band bilden und ihn als Genossenschaft ausgestalten.
 
-#### [B. Organi­sation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_8/lvl_B)
+#### [B. Organi­sation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_8/lvl_B)
 
-##### [I. Delegierten­ver­sammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_8/lvl_B/lvl_I)
+##### [I. Delegierten­ver­sammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_8/lvl_B/lvl_I)
 
 [**Art. 922**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_922) 
 
@@ -12616,13 +12618,13 @@ Drei oder mehr Genossenschaften können einen Genossenschaftsver­band bilden un
 
 [3] Jeder Delegierte hat, unter Vorbehalt anderer Regelung durch die Statuten, eine Stimme.
 
-##### [II. Verwaltung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_8/lvl_B/lvl_I_I)
+##### [II. Verwaltung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_8/lvl_B/lvl_I_I)
 
 [**Art. 923**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_923) 
 
 Die Verwaltung wird, sofern die Statuten es nicht anders bestimmen, aus Mitgliedern der angeschlossenen Genossenschaften gebildet.
 
-##### [III. Über­wachung. Anfechtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_8/lvl_B/lvl_II_I)
+##### [III. Über­wachung. Anfechtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_8/lvl_B/lvl_II_I)
 
 
 [**Art. 924**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_924) 
@@ -12631,13 +12633,13 @@ Die Verwaltung wird, sofern die Statuten es nicht anders bestimmen, aus Mitglied
 
 [2] Sie können der Verwaltung des Verbandes das Recht verleihen, Beschlüsse, die von den einzelnen angeschlossenen Genossenschaften gefasst worden sind, beim Gericht durch Klage anzufechten.
 
-##### [IV. Ausschluss neuer Ver­pflichtungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_8/lvl_B/lvl_I_V)
+##### [IV. Ausschluss neuer Ver­pflichtungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_8/lvl_B/lvl_I_V)
 
 [**Art. 925**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_925) 
 
 Der Eintritt in einen Genossenschaftsverband darf für die Mitglieder der eintretenden Genossenschaft keine Verpflichtungen zur Folge haben, denen sie nicht schon durch das Gesetz oder die Statuten ihrer Genossenschaft unterworfen sind.
 
-### [Neunter Abschnitt: Beteiligung von Körperschaften des öf­fentli­chen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/sec_9)
+### [Neunter Abschnitt: Beteiligung von Körperschaften des öf­fentli­chen Rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_3/tit_29/chap_9)
 
 
 [**Art. 926**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_926) 
@@ -12709,13 +12711,13 @@ Der Eintritt in einen Genossenschaftsverband darf für die Mitglieder der eintre
 
 [4] Der Bundist für die Sicherheit der Informationssysteme und die Rechtmässigkeit der Datenbearbeitung verantwortlich.
 
-### [D. AHV-Versicherten­nummer und Personen­nummer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_30/lvl_D)
+### [D. AHV-Nummer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_30/lvl_D) [und Personen­nummer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_30/lvl_D)
 
 [**Art. 928***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_928_c) 
 
-[1] Die Handelsregisterbehörden verwenden zur Identifizierung von natürlichen Personen systematisch die AHV-Versichertennummer.
+[1] Die Handelsregisterbehörden verwenden zur Identifizierung von natürlichen Personen systematisch die AHV-Nummer.
 
-[2] Sie geben die AHV-Versichertennummer nur anderen Stellen und Institutionen bekannt, die sie zur Erfüllung ihrer gesetzlichen Aufga­ben im Zusammenhang mit dem Handelsregister benötigen und zur systematischen Verwendung dieser Nummer berechtigt sind.
+[2] Sie geben die AHV-Nummer nur anderen Stellen und Institutionen bekannt, die sie zur Erfüllung ihrer gesetzlichen Aufga­ben im Zusammenhang mit dem Handelsregister benötigen und zur systematischen Verwendung dieser Nummer berechtigt sind.
 
 [3] Den in der zentralen Datenbank Personen erfassten natürlichen Personen wird zusätzlich eine nichtsprechende Personennummer zugeteilt.
 
@@ -12975,7 +12977,7 @@ Die Firma einer Handelsgesellschaft oder einer Genossenschaft muss sich von alle
 
 [2] Die Firma der Zweigniederlassung eines Unternehmens, dessen Sitz sich im Auslande befindet, muss überdies den Ort der Hauptniederlas­sung, den Ort der Zweigniederlassung und die ausdrückliche Be­zeich­nung als solche enthalten.
 
-#### [V. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_31/lvl_A/lvl_V)
+#### [V. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_31/lvl_A/lvl_V)
 
 [**Art. 953**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_953)
 
@@ -13013,12 +13015,13 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [2] Wer durch den unbefugten Gebrauch einer Firma beeinträchtigt wird, kann auf Unterlassung der weitern Führung der Firma und bei Ver­schulden auf Schadenersatz klagen.
 
-## [Zweiunddreissigster Titel:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32) [Kaufmännische Buchführung und Rechnungslegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32)
+## [Zweiunddreissigster Titel:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32) [Kaufmännische Buchführung, Rechnungslegung, weitere Transparenz- und Sorgfaltspflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32)
 
 
-### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1)
 
-#### [A. Pflicht zur Buchführung und Rechnungslegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_A)
+### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1)
+
+#### [A. Pflicht zur Buchführung und Rechnungslegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_A)
 
 [**Art. 957**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_957) 
 
@@ -13037,7 +13040,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [3] Für die Unternehmen nach Absatz 2 gelten die Grundsätze ordnungs­mässiger Buchführung sinngemäss.
 
-#### [B. Buchführung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_B)
+#### [B. Buchführung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_B)
 
 [**Art. 957***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_957_a) 
 
@@ -13058,9 +13061,9 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [5] Sie erfolgt in einer der Landessprachen oder in Englisch. Sie kann schriftlich, elektronisch oder in vergleichbarer Weise geführt werden.
 
-#### [C. Rechnungs­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_C)
+#### [C. Rechnungs­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_C)
 
-##### [I. Zweck und Bestandteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_C/lvl_I)
+##### [I. Zweck und Bestandteile](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_C/lvl_I)
 
 [**Art. 958**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_958) 
 
@@ -13070,9 +13073,9 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [3] Der Geschäftsbericht muss innerhalb von sechs Monaten nach Ablauf des Geschäftsjahres erstellt und dem zuständigen Organ oder den zuständigen Personen zur Genehmigung vorgelegt werden. Er ist vom Vorsitzenden des obersten Leitungs- oder Verwaltungsorgans und der innerhalb des Unternehmens für die Rechnungslegung zuständigen Person zu unterzeichnen.
 
-##### [II. Grundlagen der Rechnungslegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_C/lvl_I_I)
+##### [II. Grundlagen der Rechnungslegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_C/lvl_I_I)
 
-###### [1. Annahme der Fortführung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_C/lvl_I_I/lvl_1)
+###### [1. Annahme der Fortführung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_C/lvl_I_I/lvl_1)
 
 [**Art. 958***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_958_a) 
 
@@ -13082,7 +13085,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [3] Abweichungen von der Annahme der Fortführung sind im Anhang zu vermerken; ihr Einfluss auf die wirtschaftliche Lage ist darzulegen.
 
-###### [2. Zeitliche und sachliche Abgrenzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_C/lvl_I_I/lvl_2)
+###### [2. Zeitliche und sachliche Abgrenzung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_C/lvl_I_I/lvl_2)
 
 [**Art. 958***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_958_b) 
 
@@ -13090,7 +13093,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [2] Sofern die Nettoerlöse aus Lieferungen und Leistungen oder die Finanzerträge 100 000 Franken nicht überschreiten, kann auf die zeit­liche Abgrenzung verzichtet und stattdessen auf Ausgaben und Einnahmen abgestellt werden.
 
-##### [III. Grundsätze ordnungsmässiger Rechnungslegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_C/lvl_II_I)
+##### [III. Grundsätze ordnungsmässiger Rechnungslegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_C/lvl_II_I)
 
 [**Art. 958***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_958_c) 
 
@@ -13109,7 +13112,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [3] Die Rechnungslegung ist unter Wahrung des gesetzlichen Mindestinhalts den Besonderheiten des Unternehmens und der Branche anzupassen.
 
-##### [IV. Darstellung, Währung und Sprache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_C/lvl_I_V)
+##### [IV. Darstellung, Währung und Sprache](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_C/lvl_I_V)
 
 [**Art. 958***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_958_d) 
 
@@ -13121,7 +13124,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [4] Die Rechnungslegung erfolgt in einer der Landessprachen oder in Englisch.
 
-#### [D. Offenlegung und Einsichtnahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_D)
+#### [D. Offenlegung und Einsichtnahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_D)
 
 [**Art. 958***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_958_e) 
 
@@ -13133,7 +13136,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [2] Die übrigen Unternehmen müssen den Gläubigern, die ein schutzwürdiges Interesse nachweisen, Einsicht in den Geschäftsbericht und in die Revisionsberichte gewähren. Im Streitfall entscheidet das Gericht.
 
-#### [E. Führung und Aufbewahrung der Geschäfts­bücher](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_1/lvl_E)
+#### [E. Führung und Aufbewahrung der Geschäfts­bücher](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_1/lvl_E)
 
 [**Art. 958***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_958_f) 
 
@@ -13145,11 +13148,11 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [4] Der Bundesrat erlässt die Vorschriften über die zu führenden Geschäftsbücher, die Grundsätze zu deren Führung und Aufbewahrung sowie über die verwendbaren Informationsträger.
 
-### [Zweiter Abschnitt: Jahresrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2)
+### [Zweiter Abschnitt: Jahresrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2)
 
-#### [A. Bilanz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_A)
+#### [A. Bilanz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_A)
 
-##### [I. Zweck der Bilanz, Bilanzierungspflicht und Bilanzierungs­fähigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_A/lvl_I)
+##### [I. Zweck der Bilanz, Bilanzierungspflicht und Bilanzierungs­fähigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_A/lvl_I)
 
 [**Art. 959**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_959) 
 
@@ -13167,7 +13170,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [7] Das Eigenkapital ist der Rechtsform entsprechend auszuweisen und zu gliedern.
 
-##### [II. Mindest­gliederung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_A/lvl_I_I)
+##### [II. Mindest­gliederung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_A/lvl_I_I)
 
 [**Art. 959***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_959_a) 
 
@@ -13220,7 +13223,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [4] Forderungen und Verbindlichkeiten gegenüber direkt oder indirekt Beteiligten und Organen sowie gegenüber Unternehmen, an denen direkt oder indirekt eine Beteiligung besteht, müssen jeweils gesondert in der Bilanz oder im Anhang ausgewiesen werden.
 
-#### [B. Erfolgsrechnung; Mindestgliederung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_B)
+#### [B. Erfolgsrechnung; Mindestgliederung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_B)
 
 [**Art. 959***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_959_b) 
 
@@ -13257,7 +13260,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [5] Weitere Positionen müssen in der Erfolgsrechnung oder im Anhang einzeln ausgewiesen werden, sofern dies für die Beurteilung der Ertragslage durch Dritte wesentlich oder aufgrund der Tätigkeit des Unternehmens üblich ist.
 
-#### [C. Anhang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/annex_C)
+#### [C. Anhang](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/annex_C)
 
 [**Art. 959***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_959_c) 
 
@@ -13291,9 +13294,9 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [4] Unternehmen, die Anleihensobligationen ausstehend haben, müssen Angaben zu deren Beträgen, Zinssätzen, Fälligkeiten und zu den weiteren Konditionen machen.
 
-#### [D. Bewertung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_D)
+#### [D. Bewertung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_D)
 
-##### [I. Grundsätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_D/lvl_I)
+##### [I. Grundsätze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_D/lvl_I)
 
 [**Art. 960**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_960) 
 
@@ -13303,9 +13306,9 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [3] Bestehen konkrete Anzeichen für eine Überbewertung von Aktiven oder für zu geringe Rückstellungen, so sind die Werte zu überprüfen und gegebenenfalls anzupassen.
 
-##### [II. Aktiven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_D/lvl_I_I)
+##### [II. Aktiven](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_D/lvl_I_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_D/lvl_I_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_D/lvl_I_I/lvl_1)
 
 [**Art. 960***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_960_a) 
 
@@ -13317,7 +13320,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [4] Zu Wiederbeschaffungszwecken sowie zur Sicherung des dauernden Gedeihens des Unternehmens dürfen zusätzliche Abschreibungen und Wertberichtigungen vorgenommen werden. Zu den gleichen Zwecken kann davon abgesehen werden, nicht mehr begründete Abschreibungen und Wertberichtigungen aufzulösen.
 
-###### [2. Aktiven mit beobachtbaren Marktpreisen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_D/lvl_I_I/lvl_2)
+###### [2. Aktiven mit beobachtbaren Marktpreisen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_D/lvl_I_I/lvl_2)
 
 [**Art. 960***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_960_b) 
 
@@ -13325,7 +13328,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [2] Werden Aktiven zum Börsenkurs oder zum Marktpreis am Bilanzstichtag bewertet, so darf eine Wertberichtigung zulasten der Erfolgsrechnung gebildet werden, um Schwankungen im Kursverlauf Rechnung zu tragen. Solche Wertberichtigungen sind jedoch nicht zulässig, wenn dadurch sowohl der Anschaffungswert als auch der allenfalls tiefere Kurswert unterschritten würden. Der Betrag der Schwankungsreserven ist insgesamt in der Bilanz oder im Anhang gesondert auszuweisen.
 
-###### [3. Vorräte und nicht fakturierte Dienstleistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_D/lvl_I_I/lvl_3)
+###### [3. Vorräte und nicht fakturierte Dienstleistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_D/lvl_I_I/lvl_3)
 
 [**Art. 960***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_960_c) 
 
@@ -13333,7 +13336,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [2] Als Vorräte gelten Rohmaterial, Erzeugnisse in Arbeit, fertige Erzeugnisse und Handelswaren.
 
-###### [4. Anlage­vermögen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_D/lvl_I_I/lvl_4)
+###### [4. Anlage­vermögen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_D/lvl_I_I/lvl_4)
 
 [**Art. 960***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_960_d) 
 
@@ -13343,7 +13346,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [3] Als Beteiligungen gelten Anteile am Kapital eines anderen Unternehmens, die langfristig gehalten werden und einen massgeblichen Einfluss vermitteln. Dieser wird vermutet, wenn die Anteile mindestens 20 Prozent der Stimmrechte gewähren.
 
-##### [III. Verbindlichkeiten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_2/lvl_D/lvl_II_I)
+##### [III. Verbindlichkeiten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_2/lvl_D/lvl_II_I)
 
 [**Art. 960***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_960_e) 
 
@@ -13361,10 +13364,10 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 [4] Nicht mehr begründete Rückstellungen müssen nicht aufgelöst werden.
 
-### [Dritter Abschnitt: Rechnungslegung für grössere Unternehmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_3)
+### [Dritter Abschnitt: Rechnungslegung für grössere Unternehmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_3)
 
 
-#### [A. Zusätzliche Anforderungen an den Geschäftsbericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_3/lvl_A)
+#### [A. Zusätzliche Anforderungen an den Geschäftsbericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_3/lvl_A)
 
 
 [**Art. 961**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_961) 
@@ -13376,7 +13379,7 @@ Unternehmen, die von Gesetzes wegen zu einer ordentlichen Revision verpflichtet 
 |    2. als Teil der Jahresrechnung eine Geldflussrechnung erstellen;  
 |    3. einen Lagebericht verfassen.
 
-#### [B. Zusätzliche Angaben im Anhang zur Jahresrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_3/lvl_B)
+#### [B. Zusätzliche Angaben im Anhang zur Jahresrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_3/lvl_B)
 
 [**Art. 961***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_961_a) 
 
@@ -13386,13 +13389,13 @@ Im Anhang der Jahresrechnung müssen zusätzlich Angaben gemacht werden:
 |    1. zu den langfristigen verzinslichen Verbindlichkeiten, aufgeteilt nach Fälligkeit innerhalb von einem bis fünf Jahren und nach fünf Jahren;  
 |    2. zum Honorar der Revisionsstelle je gesondert für Revisionsdienstleistungen und andere Dienstleistungen.
 
-#### [C. Geldflussrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_3/lvl_C)
+#### [C. Geldflussrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_3/lvl_C)
 
 [**Art. 961***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_961_b) 
 
 Die Geldflussrechnung stellt die Veränderung der flüssigen Mittel aus der Geschäftstätigkeit, der Investitionstätigkeit und der Finanzierungstätigkeit je gesondert dar.
 
-#### [D. Lagebericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_3/lvl_D)
+#### [D. Lagebericht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_3/lvl_D)
 
 [**Art. 961***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_961_c) 
 
@@ -13410,7 +13413,7 @@ Die Geldflussrechnung stellt die Veränderung der flüssigen Mittel aus der Gesc
 
 [3] Der Lagebericht darf der Darstellung der wirtschaftlichen Lage in der Jahresrechnung nicht widersprechen.
 
-#### [E. Erleichterung infolge Konzernrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_3/lvl_E)
+#### [E. Erleichterung infolge Konzernrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_3/lvl_E)
 
 [**Art. 961***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_961_d) 
 
@@ -13423,10 +13426,10 @@ Die Geldflussrechnung stellt die Veränderung der flüssigen Mittel aus der Gesc
 |    2. 10 Prozent der Genossenschafter oder 20 Prozent der Vereins­mitglieder;  
 |    3. jeder Gesellschafter oder jedes Mitglied, das einer persönlichen Haftung oder einer Nachschusspflicht unterliegt.
 
-### [Vierter Abschnitt: Abschluss nach anerkanntem Standard zur Rechnungslegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_4)
+### [Vierter Abschnitt: Abschluss nach anerkanntem Standard zur Rechnungslegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_4)
 
 
-#### [A. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_4/lvl_A)
+#### [A. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_4/lvl_A)
 
 [**Art. 962**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_962) 
 
@@ -13448,7 +13451,7 @@ Die Geldflussrechnung stellt die Veränderung der flüssigen Mittel aus der Gesc
 
 [4] Das oberste Leitungs- oder Verwaltungsorgan ist für die Wahl des anerkannten Standards zuständig, sofern die Statuten, der Gesellschaftsvertrag oder die Stiftungsurkunde keine anderslautenden Vorgaben enthalten oder das oberste Organ den anerkannten Standard nicht festlegt.
 
-#### [B. Anerkannte Standards zur Rechnungs­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_4/lvl_B)
+#### [B. Anerkannte Standards zur Rechnungs­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_4/lvl_B)
 
 [**Art. 962***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_962_a) 
 
@@ -13462,9 +13465,9 @@ Die Geldflussrechnung stellt die Veränderung der flüssigen Mittel aus der Gesc
 
 [5] Der Bundesrat bezeichnet die anerkannten Standards. Er kann die Voraussetzungen festlegen, die für die Wahl eines Standards oder den Wechsel von einem Standard zum andern erfüllt sein müssen.
 
-### [Fünfter Abschnitt: Konzernrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_5)
+### [Fünfter Abschnitt: Konzernrechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_5)
 
-#### [A. Pflicht zur Erstellung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_5/lvl_A)
+#### [A. Pflicht zur Erstellung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_5/lvl_A)
 
 [**Art. 963**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_963) 
 
@@ -13481,7 +13484,7 @@ Die Geldflussrechnung stellt die Veränderung der flüssigen Mittel aus der Gesc
 
 [4] Vereine, Stiftungen und Genossenschaften können die Pflicht zur Erstellung einer Konzernrechnung an ein kontrolliertes Unternehmen übertragen, wenn das betreffende kontrollierte Unternehmen durch Stimmenmehrheit oder auf andere Weise sämtliche weiteren Unternehmen unter einheitlicher Leitung zusammenfasst und nachweist, dass es die Beherrschung tatsächlich ausübt.
 
-#### [B. Befreiung von der Pflicht zur Erstellung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_5/lvl_B)
+#### [B. Befreiung von der Pflicht zur Erstellung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_5/lvl_B)
 
 
 [**Art. 963***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_963_a) 
@@ -13508,7 +13511,7 @@ Die Geldflussrechnung stellt die Veränderung der flüssigen Mittel aus der Gesc
 
 [3] Verzichtet eine juristische Person gemäss Absatz 1 Ziffer 2 auf die Erstellung der Konzernrechnung für den Unterkonzern, so muss sie die Konzernrechnung des Oberkonzerns nach den Vorschriften für die eigene Jahresrechnung bekannt machen.
 
-#### [C. Anerkannte Standards zur Rechnungs­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_5/lvl_C)
+#### [C. Anerkannte Standards zur Rechnungs­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_5/lvl_C)
 
 
 [**Art. 963***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_963_b) 
@@ -13527,32 +13530,97 @@ Die Geldflussrechnung stellt die Veränderung der flüssigen Mittel aus der Gesc
 [4] Eine Konzernrechnung ist dennoch nach einem anerkannten Standard zur Rechnungslegung zu erstellen, wenn:
 
 
-|    1. Gesellschafter, die mindestens 20 Prozent des Grundkapitals vertreten oder 10 Prozent der Genossenschafter oder 20 Prozent der Vereinsmitglieder dies verlangen;   
+|    1. Gesellschafter, die mindestens 20 Prozent des Grundkapitals vertreten oder 10 Prozent der Genossenschafter oder 20 Prozent der Vereinsmitglieder dies verlangen;  
 |    2. ein Gesellschafter oder ein Vereinsmitglied, der oder das einer persönlichen Haftung oder einer Nachschusspflicht unterliegt, dies verlangt; oder  
 |    3. die Stiftungsaufsichtsbehörde dies verlangt.
 
 [**Art. 964**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964)
 
-### [Sechster Abschnitt:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_6) [Transparenz bei Rohstoffunternehmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_6)
+### [Sechster Abschnitt:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_6) [Transparenz über nichtfinanzielle Belange](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_6)
 
 
-#### [A. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_6/lvl_A)
+#### [A. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_6/lvl_A)
 
 [**Art. 964***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_a) 
+
+[1] Unternehmen erstatten jährlich einen Bericht über nichtfinanzielle Belange, wenn sie:
+
+
+|    1. Gesellschaften des öffentlichen Interesses im Sinne von Artikel 2 Buchstabe c des Revisionsaufsichtsgesetzes vom 16. De­zember 2005 sind;   
+|    2. zusammen mit den von ihnen kontrollierten in- oder ausländischen Unternehmen, in zwei aufeinanderfolgenden Geschäftsjahren mindestens 500 Vollzeitstellen im Jahresdurchschnitt haben; und   
+|    3. zusammen mit den von ihnen kontrollierten in- oder ausländischen Unternehmen, mindestens eine der nachstehenden Grössen in zwei aufeinanderfolgenden Geschäftsjahren überschreiten:   
+|    a. Bilanzsumme von 20 Millionen Franken,  
+|    b. Umsatzerlös von 40 Millionen Franken.
+
+
+
+[2] Von dieser Pflicht befreit sind Unternehmen, die von einem anderen Unternehmen kontrolliert werden:
+
+
+|    1. für welches Absatz 1 anwendbar ist; oder  
+|    2. das einen gleichwertigen Bericht nach ausländischem Recht erstellen muss.
+
+#### [B. Zweck und Inhalt des Berichts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_6/lvl_B)
+
+[**Art. 964***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_b) 
+
+[1] Der Bericht über nichtfinanzielle Belange gibt Rechenschaft über Umweltbelange, insbesondere die CO2-Ziele, über Sozialbelange, Arbeitnehmerbelange, die Achtung der Menschenrechte sowie die Bekämpfung der Korruption. Der Bericht enthält diejenigen Angaben, welche zum Verständnis des Geschäftsverlaufs, des Geschäftsergebnisses, der Lage des Unternehmens sowie der Auswirkungen seiner Tätigkeit auf diese Belange erforderlich sind.
+
+[2] Der Bericht umfasst insbesondere:
+
+
+|    1. eine Beschreibung des Geschäftsmodells;  
+|    2. eine Beschreibung der in Bezug auf die Belange gemäss Absatz 1 verfolgten Konzepte, einschliesslich der angewandten Sorgfaltsprüfung;  
+|    3. eine Darstellung der zur Umsetzung dieser Konzepte ergriffenen Massnahmen sowie eine Bewertung der Wirksamkeit dieser Massnahmen;  
+|    4. eine Beschreibung der wesentlichen Risiken im Zusammenhang mit den Belangen gemäss Absatz 1 sowie der Handhabung dieser Risiken durch das Unternehmen; massgebend sind Risiken:  
+|    a. die sich aus der eigenen Geschäftstätigkeit des Unternehmens ergeben, und  
+|    b. wenn dies relevant und verhältnismässig ist, die sich aus seinen Geschäftsbeziehungen, seinen Erzeugnissen oder seinen Dienstleistungen ergeben;
+
+
+|    5. die für die Unternehmenstätigkeit wesentlichen Leistungsindikatoren in Bezug auf die Belange gemäss Absatz 1.
+
+[3] Stützt sich der Bericht auf nationale, europäische oder internationale Regelwerke, wie insbesondere die Leitsätze der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD), so ist das angewandte Regelwerk im Bericht zu nennen. Bei der Anwendung solcher Regelwerke ist sicherzustellen, dass alle Vorgaben dieses Artikels erfüllt sind. Nötigenfalls ist ein ergänzender Bericht zu verfassen.
+
+[4] Kontrolliert ein Unternehmen allein oder zusammen mit anderen Unternehmen ein oder mehrere andere in- oder ausländische Unternehmen, so umfasst der Bericht alle diese Unternehmen.
+
+[5] Verfolgt das Unternehmen in Bezug auf einen oder mehrere Belange gemäss Absatz 1 kein Konzept, so hat es dies im Bericht klar und begründet zu erläutern.
+
+[6] Der Bericht ist in einer Landessprache oder auf Englisch abzufassen.
+
+#### [C. Genehmigung, Veröffentlichung, Führung und Aufbewahrung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_6/lvl_C)
+
+[**Art. 964***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_c) 
+
+[1] Der Bericht über nichtfinanzielle Belange bedarf der Genehmigung und Unterzeichnung durch das oberste Leitungs- oder Verwaltungsorgan sowie der Genehmigung des für die Genehmigung der Jahresrechnung zuständigen Organs.
+
+[2] Das oberste Leitungs- oder Verwaltungsorgan stellt sicher, dass der Bericht:
+
+
+|    1. umgehend nach der Genehmigung elektronisch veröffentlicht wird;  
+|    2. mindestens zehn Jahre lang öffentlich zugänglich bleibt.
+
+[3] Für die Führung und Aufbewahrung der Berichte gilt Artikel 958*f* sinngemäss.
+
+### [Siebter Abschnitt:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_7) [Transparenz bei Rohstoffunternehmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_7)
+
+
+#### [A. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_7/lvl_A)
+
+[**Art. 964***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_d) 
 
 [1] Unternehmen, die von Gesetzes wegen zu einer ordentlichen Revi­sion verpflichtet und selber oder durch ein von ihnen kontrolliertes Unternehmen im Bereich der Gewinnung von Mineralien, Erdöl oder Erdgas oder des Einschlags von Holz in Primärwäldern tätig sind, müssen jährlich einen Bericht über die Zahlungen an staatliche Stellen verfassen.
 
 [2] Hat das Unternehmen eine konsolidierte Jahresrechnung zu erstellen, so muss es einen konsolidierten Bericht über Zahlungen an staatliche Stellen verfassen (Konzernzahlungsbericht); dieser ersetzt die Berichterstattung der einzelnen Gesellschaften.
 
-[3] Ist das Unternehmen mit Sitz in der Schweiz in den von ihm oder einem anderen Unternehmen mit Sitz im Ausland nach schweizerischen oder gleichwerti­gen Vorschriften erstellten Konzernzah­lungsbericht einbezogen, so muss es keinen separaten Bericht über Zahlungen an staatliche Stellen verfassen. Es muss jedoch im Anhang der Jahresrechnung angeben, bei welchem anderen Unter­nehmen es in den Bericht einbezogen wurde, und diesen Bericht ver­öffentlichen.
+[3] Ist das Unternehmen mit Sitz in der Schweiz in den von ihm oder einem anderen Unternehmen mit Sitz im Ausland nach schweizerischen oder gleichwerti­gen Vorschriften erstellten Konzernzah­lungs­bericht einbezogen, so muss es keinen separaten Bericht über Zahlungen an staatliche Stellen verfassen. Es muss jedoch im Anhang der Jahresrechnung angeben, bei welchem anderen Unter­nehmen es in den Bericht einbezogen wurde, und diesen Bericht ver­öffentlichen.
 
 [4] Die Gewinnung umfasst alle Unternehmenstätigkeiten auf den Gebieten der Exploration, Prospektion, Entdeckung, Erschliessung und Förderung von Mineralien, Erdöl- und Erdgasvorkommen und des Einschlags von Holz in Primärwäldern.
 
 [5] Als staatliche Stellen gelten nationale, regionale oder kommunale Behörden eines Drittlandes sowie von diesen Behörden kontrollierte Abteilungen oder Unternehmen.
 
-#### [B. Arten von Leistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_6/lvl_B)
+#### [B. Arten von Leistungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_7/lvl_B)
 
-[**Art. 964***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_b) 
+[**Art. 964***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_e) 
 
 [1] Die Zahlungen an staatliche Stellen können in Geld- oder Sachleistungen bestehen. Sie umfassen insbesondere folgende Arten von Leistungen:
 
@@ -13567,9 +13635,9 @@ Die Geldflussrechnung stellt die Veränderung der flüssigen Mittel aus der Gesc
 
 [2] Bei Sachleistungen sind Gegenstand, Wert, Bewertungsmethode und gegebenenfalls Umfang anzugeben.
 
-#### [C. Form und Inhalt des Berichts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_6/lvl_C)
+#### [C. Form und Inhalt des Berichts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_7/lvl_C)
 
-[**Art. 964***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_c) 
+[**Art. 964***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_f) 
 
 [1] Der Bericht über Zahlungen an staatliche Stellen erstreckt sich nur auf Zahlungen, die sich aus der Geschäftstätigkeit in der mineral-, erdöl- oder erdgasgewinnenden Industrie oder auf dem Gebiet des Holzeinschlags in Primärwäldern ergeben.
 
@@ -13579,43 +13647,97 @@ Die Geldflussrechnung stellt die Veränderung der flüssigen Mittel aus der Gesc
 
 [4] Der Bericht ist schriftlich in einer Landessprache oder in Englisch abzufassen und vom obersten Leitungs- oder Verwaltungsorgan zu genehmigen.
 
-#### [D. Veröffent­lichung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_6/lvl_D)
+#### [D. Veröffent­lichung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_7/lvl_D)
 
-[**Art. 964***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_d) 
+[**Art. 964***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_g) 
 
-[1] Der Bericht über Zahlungen an staatliche Stellen ist innerhalb von sechs Monaten nach Ablauf des Geschäftsjahres elektronisch zu veröffentlichen. 
+[1] Der Bericht über Zahlungen an staatliche Stellen ist innerhalb von sechs Monaten nach Ablauf des Geschäftsjahres elektronisch zu veröffentlichen.
 
 [2] Er muss mindestens zehn Jahre lang öffentlich zugänglich sein.
 
 [3] Der Bundesrat kann Vorschriften zur Struktur der im Bericht verlangten Daten erlassen.
 
-#### [E. Führung und Aufbewahrung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_6/lvl_E)
+#### [E. Führung und Aufbewahrung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_7/lvl_E)
 
-[**Art. 964***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_e) 
+[**Art. 964***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_h) 
 
 Für die Führung und die Aufbewahrung des Berichts über Zahlungen an staatliche Stellen gilt Artikel 958*f* entsprechend.
 
-#### [F. Ausdehnung des Anwendungsbereichs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/sec_6/lvl_F)
+#### [F. Ausdehnung des Anwendungsbereichs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_7/lvl_F)
 
-[**Art. 964***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_f) 
+[**Art. 964***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_i) 
 
-Der Bundesrat kann im Rahmen eines international abgestimmten Vorgehens festlegen, dass die Verpflichtungen nach den Artikeln 964*a*–964*e* auch auf Un­ternehmen Anwendung finden, die mit Rohstoffen handeln.
+Der Bundesrat kann im Rahmen eines international abgestimmten Vorgehens festlegen, dass die Verpflichtungen nach den Artikeln 964*d*–964*h* auch auf Un­ternehmen Anwendung finden, die mit Rohstoffen handeln.
+
+### [Achter Abschnitt:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_8) [Sorgfaltspflichten und Transparenz bezüglich Mineralien und Metallen aus Konfliktgebieten und Kinderarbeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_8)
+
+
+#### [A. Grundsatz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_8/lvl_A)
+
+[**Art. 964***j*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_j) 
+
+[1] Unternehmen, deren Sitz, Hauptverwaltung oder Hauptniederlassung sich in der Schweiz befindet, müssen in der Lieferkette Sorgfaltspflichten einhalten und darüber Bericht erstatten, wenn sie:
+
+
+|    1. Zinn, Tantal, Wolfram oder Gold enthaltende Mineralien oder Metalle aus Konflikt- und Hochri­sikogebieten in den freien Verkehr der Schweiz über­führen oder in der Schweiz bearbeiten; oder  
+|    2. Produkte oder Dienstleistungen anbieten, bei denen ein begründeter Verdacht besteht, dass sie unter Einsatz von Kinderarbeit hergestellt oder erbracht wurden.
+
+[2] Der Bundesrat legt jährliche Einfuhrmengen von Mineralien und Metallen fest, bis zu denen ein Unternehmen von der Sorgfalts- und Berichterstattungspflicht befreit ist.
+
+[3] Er legt fest, unter welchen Voraussetzungen kleine und mittlere Unternehmen sowie Unternehmen mit geringen Risiken im Bereich Kinderarbeit nicht prüfen müssen, ob ein begründeter Verdacht auf Kinderarbeit besteht.
+
+[4] Er legt fest, unter welchen Voraussetzungen die Unternehmen von den Sorgfalts- und Berichterstattungspflichten ausge­nommen sind, die sich an ein international anerkanntes gleichwer­tiges Regelwerk, wie insbesondere die Leitsätze der OECD, halten.
+
+#### [B. Sorgfaltspflichten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_8/lvl_B)
+
+[**Art. 964***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_k) 
+
+[1] Die Unternehmen führen ein Managementsystem und legen darin Folgendes fest:
+
+
+|    1. die Lieferkettenpolitik für möglicherweise aus Konflikt- und Hochrisikogebieten stammende Mineralien und Metalle;  
+|    2. die Lieferkettenpolitik für Produkte oder Dienstleistungen, bei denen ein begründeter Verdacht auf Kinderarbeit besteht;  
+|    3. ein System, mit dem die Lieferkette zurückverfolgt werden kann.
+
+[2] Sie ermitteln und bewerten die Risiken schädlicher Auswirkungen in ihrer Lieferkette. Sie erstellen einen Risikomanagementplan und treffen Massnahmen zur Minimierung der festgestellten Risiken.
+
+[3] Sie lassen die Einhaltung der Sorgfaltspflichten bezüglich der Mineralien und Metalle durch eine unabhängige Fachperson prüfen.
+
+[4] Der Bundesrat erlässt die näheren Vorschriften; er orientiert sich dabei an international anerkannten Regelwerken, wie insbesondere den Leitsätzen der OECD.
+
+#### [C. Bericht­erstattung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_4/tit_32/chap_8/lvl_C)
+
+[**Art. 964***l*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_964_l) 
+
+[1] Das oberste Leitungs- oder Verwaltungsorgan erstattet jährlich Bericht über die Erfüllung der Sorgfaltspflichten.
+
+[2] Der Bericht ist in einer Landessprache oder auf Englisch abzufassen.
+
+[3] Das oberste Leitungs- oder Verwaltungsorgan stellt sicher, dass der Bericht:
+
+
+|    1. innerhalb von sechs Monaten seit Ablauf des Geschäftsjahres elektronisch veröffentlicht wird;  
+|    2. mindestens zehn Jahre lang öffentlich zugänglich bleibt.
+
+[4] Für die Führung und Aufbewahrung der Berichte gilt Artikel 958*f* sinngemäss.
+
+[5] Unternehmen, die Produkte und Dienstleistungen von Unternehmen anbieten, die einen Bericht verfasst haben, müssen für diese Produkte und Dienstleistungen selber keinen Bericht erstellen.
 
 # [Fünfte Abteilung:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5) [Die Wertpapiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5)
 
 ## [Dreiunddreissigster Titel: Die Namen-, Inhaber- und Or­drepapie­re](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33)
 
 
-### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1)
+### [Erster Abschnitt: Allgemeine Bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1)
 
-#### [A. Begriff des Wert­papiers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_A)
+#### [A. Begriff des Wert­papiers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_A)
 
 
 [**Art. 965**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_965) 
 
 Wertpapier ist jede Urkunde, mit der ein Recht derart verknüpft ist, dass es ohne die Urkunde weder geltend gemacht noch auf andere übertragen werden kann.
 
-#### [B. Verpflich­tung aus dem Wert­papier](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_B)
+#### [B. Verpflich­tung aus dem Wert­papier](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_B)
 
 [**Art. 966**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_966) 
 
@@ -13623,9 +13745,9 @@ Wertpapier ist jede Urkunde, mit der ein Recht derart verknüpft ist, dass es oh
 
 [2] Der Schuldner wird durch eine bei Verfall erfolgte Leistung an den durch die Urkunde ausgewiesenen Gläubiger befreit, wenn ihm nicht Arglist oder grobe Fahrlässigkeit zur Last fällt.
 
-#### [C. Übertragung des Wert­papiers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_C)
+#### [C. Übertragung des Wert­papiers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_C)
 
-##### [I. Allgemeine Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_C/lvl_I)
+##### [I. Allgemeine Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_C/lvl_I)
 
 [**Art. 967**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_967) 
 
@@ -13635,9 +13757,9 @@ Wertpapier ist jede Urkunde, mit der ein Recht derart verknüpft ist, dass es oh
 
 [3] Durch Gesetz oder Vertrag kann für die Übertragung die Mitwir­kung anderer Personen, wie namentlich des Schuldners, vorgeschrie­ben werden.
 
-##### [II. In­dossierung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_C/lvl_I_I)
+##### [II. In­dossierung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_C/lvl_I_I)
 
-###### [1. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_C/lvl_I_I/lvl_1)
+###### [1. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_C/lvl_I_I/lvl_1)
 
 [**Art. 968**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_968) 
 
@@ -13645,13 +13767,13 @@ Wertpapier ist jede Urkunde, mit der ein Recht derart verknüpft ist, dass es oh
 
 [2] Das ausgefüllte Indossament gilt in Verbindung mit der Übergabe der Urkunde als genügende Form der Übertragung.
 
-###### [2. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_C/lvl_I_I/lvl_2)
+###### [2. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_C/lvl_I_I/lvl_2)
 
 [**Art. 969**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_969) 
 
 Mit der Indossierung und der Übergabe der indossierten Urkunde gehen bei allen übertragbaren Wertpapieren, soweit sich aus dem Inhalt oder der Natur der Urkunde nicht etwas anderes ergibt, die Rechte des Indossanten auf den Erwerber über.
 
-#### [D. Um­wand­lung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_D)
+#### [D. Um­wand­lung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_D)
 
 [**Art. 970**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_970) 
 
@@ -13659,9 +13781,9 @@ Mit der Indossierung und der Übergabe der indossierten Urkunde gehen bei allen 
 
 [2] Der gleiche Grundsatz gilt für die Umwandlung von Inhaberpapie­ren in Namen- oder Ordrepapiere. Fehlt in diesem Falle die Zustimm­ung einer der berechtigten oder verpflichteten Personen, so ist die Umwandlung wirksam, jedoch nur zwischen dem Gläubiger, der sie vor­genommen hat, und seinem unmittelbaren Rechtsnachfolger.
 
-#### [E. Kraftlos­er­klärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_E)
+#### [E. Kraftlos­er­klärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_E)
 
-##### [I. Geltend­machung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_E/lvl_I)
+##### [I. Geltend­machung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_E/lvl_I)
 
 [**Art. 971**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_971) 
 
@@ -13669,7 +13791,7 @@ Mit der Indossierung und der Übergabe der indossierten Urkunde gehen bei allen 
 
 [2] Die Kraftloserklärung kann verlangen, wer zur Zeit des Verlustes oder der Entdeckung des Verlustes an dem Papier berechtigt ist.
 
-##### [II. Verfahren. Wir­kung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_E/lvl_I_I)
+##### [II. Verfahren. Wir­kung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_E/lvl_I_I)
 
 [**Art. 972**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_972) 
 
@@ -13677,16 +13799,16 @@ Mit der Indossierung und der Übergabe der indossierten Urkunde gehen bei allen 
 
 [2] Im übrigen kommen für das Verfahren und die Wirkung der Kraft­loserklärung die bei den einzelnen Arten von Wertpapieren aufgeste­ll­ten Bestimmungen zur Anwendung.
 
-#### [F. Besondere Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_F)
+#### [F. Besondere Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_F)
 
 [**Art. 973**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_973) 
 
 Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechsel, den Check und die Pfandtitel, bleiben vorbehalten.
 
-#### [G. Sammel­verwahrung, Globalurkunde und einfache Wertrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_G)
+#### [G. Sammel­verwahrung, Globalurkunde und einfache Wertrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_G)
 
 
-##### [I. Sammel­verwahrung von Wert­papieren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_G/lvl_I)
+##### [I. Sammel­verwahrung von Wert­papieren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_G/lvl_I)
 
 [**Art. 973***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_973_a)
 
@@ -13696,7 +13818,7 @@ Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechs
 
 [3] Der Hinterleger hat einen jederzeitigen, von der Mitwirkung oder Zustimmung der anderen Hinterleger unabhängigen Anspruch auf Herausgabe von Wertpapieren aus dem Sammelbestand im Umfang seines Bruchteils.
 
-##### [II. Global­urkunde](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_G/lvl_I_I)
+##### [II. Global­urkunde](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_G/lvl_I_I)
 
 [**Art. 973***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_973_b)
 
@@ -13704,7 +13826,7 @@ Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechs
 
 [2] Die Globalurkunde ist ein Wertpapier gleicher Art wie die durch sie verkörperten Einzelrechte. Sie steht im Miteigentum der daran beteiligten Hinterleger, und zwar im Verhältnis ihrer Beteiligung. Für die Stellung und die Rechte der Miteigentümer an der Global­urkunde gilt Artikel 973*a* Absatz 2 sinngemäss.
 
-##### [III. Einfache Wertrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_G/lvl_II_I)
+##### [III. Einfache Wertrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_G/lvl_II_I)
 
 [**Art. 973***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_973_c)
 
@@ -13716,9 +13838,9 @@ Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechs
 
 [4] Zur Übertragung von Wertrechten bedarf es einer schriftlichen Abtretungserklärung. Ihre Verpfändung richtet sich nach den Vorschriften über das Pfandrecht an Forderungen.
 
-#### [H. Register­wertrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_H)
+#### [H. Register­wertrechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_H)
 
-##### [I. Errichtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_H/lvl_I)
+##### [I. Errichtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_H/lvl_I)
 
 [**Art. 973***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_973_d)
 
@@ -13738,7 +13860,7 @@ Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechs
 
 [3] Der Schuldner hat sicherzustellen, dass das Wertrechteregister dessen Zweck entsprechend organisiert ist. Insbesondere ist sicherzustellen, dass das Register jederzeit gemäss Registrierungsvereinbarung funktioniert.
 
-##### [II. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_H/lvl_I_I)
+##### [II. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_H/lvl_I_I)
 
 [**Art. 973***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_973_e)
 
@@ -13755,7 +13877,7 @@ Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechs
 |    2. ihm persönlich gegen den aktuellen Gläubiger des Registerwertrechts zustehen; oder  
 |    3. sich auf die unmittelbare Beziehung des Schuldners zu einem früheren Gläubiger des Registerwertrechts gründen, wenn der aktuelle Gläubiger bei dem Erwerb des Registerwertrechts bewusst zum Nachteil des Schuldners gehandelt hat.
 
-##### [III. Übertragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_H/lvl_II_I)
+##### [III. Übertragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_H/lvl_II_I)
 
 [**Art. 973***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_973_f)
 
@@ -13770,7 +13892,7 @@ Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechs
 
 [3] Steht in Bezug auf dasselbe Recht dem gutgläubigen Empfänger eines Wertpapiers ein gutgläubiger Empfänger des Registerwertrechts gegenüber, so geht der Erste dem Letzteren vor.
 
-##### [IV. Sicherheiten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_H/lvl_I_V)
+##### [IV. Sicherheiten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_H/lvl_I_V)
 
 [**Art. 973***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_973_g)
 
@@ -13786,7 +13908,7 @@ Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechs
 |    1. das Retentionsrecht an Registerwertrechten nach den für Wertpapiere geltenden Bestimmungen über das Retentionsrecht (Art. 895–898 ZGB);  
 |    2. das Pfandrecht an Registerwertrechten nach den für Wertpapiere geltenden Bestimmungen über das Pfandrecht an Forderungen und anderen Rechten (Art. 899–906 ZGB).
 
-##### [V. Kraftlos­erklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_H/lvl_V)
+##### [V. Kraftlos­erklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_H/lvl_V)
 
 [**Art. 973***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_973_h)
 
@@ -13794,31 +13916,31 @@ Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechs
 
 [2] Die Parteien können eine vereinfachte Kraftloserklärung durch Herabsetzung der Zahl der öffentlichen Aufforderungen oder durch Verkürzung der Fristen vorsehen.
 
-##### [VI. Information und Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_1/lvl_H/lvl_V_I)
+##### [VI. Information und Haftung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_1/lvl_H/lvl_V_I)
 
 [**Art. 973***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_973_i)
 
 [1] Der Schuldner aus einem Registerwertrecht oder einem Recht, das als solches angeboten wird, hat jedem Erwerber bekannt zu geben:
 
 
-|    1. den Inhalt des Wertrechts;  
+|    1. den Inhalt des Wertrechts;   
 |    2. die Funktionsweise des Wertrechteregisters sowie die Massnahmen zum Schutz des Funktionierens und der Integrität des Wertrechteregisters nach Artikel 973*d* Absätze 2 und 3.
 
 [2] Er haftet für den Schaden, der dem Erwerber durch unrichtige, irreführende oder den gesetzlichen Anforderungen nicht entsprechende Angaben entsteht, sofern er nicht nachweist, dass er die erforderliche Sorgfalt angewendet hat.
 
 [3] Vereinbarungen, welche diese Haftung beschränken oder wegbedingen, sind nichtig.
 
-### [Zweiter Abschnitt: Die Namenpapiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_2)
+### [Zweiter Abschnitt: Die Namenpapiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_2)
 
-#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_2/lvl_A)
+#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_2/lvl_A)
 
 [**Art. 974**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_974) 
 
 Ein Wertpapier gilt als Namenpapier, wenn es auf einen bestimmten Namen lautet und weder an Ordre gestellt noch gesetzlich als Ordre­papier erklärt ist.
 
-#### [B. Ausweis über das Gläubiger­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_2/lvl_B)
+#### [B. Ausweis über das Gläubiger­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_2/lvl_B)
 
-##### [I. In der Regel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_2/lvl_B/lvl_I)
+##### [I. In der Regel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_2/lvl_B/lvl_I)
 
 [**Art. 975**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_975) 
 
@@ -13826,7 +13948,7 @@ Ein Wertpapier gilt als Namenpapier, wenn es auf einen bestimmten Namen lautet u
 
 [2] Leistet der Schuldner ohne diesen Ausweis, so wird er gegenüber einem Dritten, der seine Berechtigung nachweist, nicht befreit.
 
-##### [II. Beim hinkenden Inha­berpapier](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_2/lvl_B/lvl_I_I)
+##### [II. Beim hinkenden Inha­berpapier](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_2/lvl_B/lvl_I_I)
 
 
 
@@ -13834,7 +13956,7 @@ Ein Wertpapier gilt als Namenpapier, wenn es auf einen bestimmten Namen lautet u
 
 Hat sich der Schuldner im Namenpapier das Recht vorbehalten, jedem Inhaber der Urkunde leisten zu dürfen, so wird er durch die in gutem Glauben erfolgte Leistung an den Inhaber befreit, auch wenn er den Ausweis über das Gläubigerrecht nicht verlangt hat; er ist indessen nicht verpflichtet, an den Inhaber zu leisten.
 
-#### [C. Kraftlos­erklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_2/lvl_C)
+#### [C. Kraftlos­erklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_2/lvl_C)
 
 [**Art. 977**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_977) 
 
@@ -13842,9 +13964,9 @@ Hat sich der Schuldner im Namenpapier das Recht vorbehalten, jedem Inhaber der U
 
 [2] Der Schuldner kann in der Urkunde eine vereinfachte Kraftloserklä­rung durch Herabsetzung der Zahl der öffentlichen Aufforderungen oder durch Verkürzung der Fristen vorsehen, oder sich das Recht vor­behalten, auch ohne Vorweisung der Urkunde und ohne Kraftloserklä­rung gültig zu leisten, wenn der Gläubiger die Entkräftung des Schuld­scheins und die Tilgung der Schuld in einer öffentlichen oder beglau­bigten Urkunde ausspricht.
 
-### [Dritter Abschnitt: Die Inhaberpapiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3)
+### [Dritter Abschnitt: Die Inhaberpapiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3)
 
-#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_A)
+#### [A. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_A)
 
 [**Art. 978**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_978) 
 
@@ -13852,10 +13974,10 @@ Hat sich der Schuldner im Namenpapier das Recht vorbehalten, jedem Inhaber der U
 
 [2] Der Schuldner darf jedoch nicht mehr bezahlen, wenn ein gericht­liches oder polizeiliches Zahlungsverbot an ihn erlassen worden ist.
 
-#### [B. Einreden des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_B)
+#### [B. Einreden des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_B)
 
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_B/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_B/lvl_I)
 
 
 [**Art. 979**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_979) 
@@ -13866,7 +13988,7 @@ Hat sich der Schuldner im Namenpapier das Recht vorbehalten, jedem Inhaber der U
 
 [3] Ausgeschlossen ist die Einrede, dass die Urkunde wider den Willen des Schuldners in den Verkehr gelangt sei.
 
-##### [II. Bei In­haber­zins­coupons](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_B/lvl_I_I)
+##### [II. Bei In­haber­zins­coupons](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_B/lvl_I_I)
 
 [**Art. 980**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_980) 
 
@@ -13874,24 +13996,24 @@ Hat sich der Schuldner im Namenpapier das Recht vorbehalten, jedem Inhaber der U
 
 [2] Der Schuldner ist aber berechtigt, bei Bezahlung der Kapitalschuld den Betrag der erst in Zukunft verfallenden Inhaberzinscoupons, die ihm nicht mit dem Haupttitel abgeliefert werden, bis nach Ablauf der für diese Coupons geltenden Verjährungsfrist zurückzubehalten, es sei denn, dass die nicht abgelieferten Coupons kraftlos erklärt worden sind oder dass deren Betrag sichergestellt wird.
 
-#### [C. Kraftlos­erklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C)
+#### [C. Kraftlos­erklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C/lvl_I)
 
 
-###### [1. Be­gehren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C/lvl_I/lvl_1)
+###### [1. Be­gehren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C/lvl_I/lvl_1)
 
 [**Art. 981**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_981) 
 
 [1] Inhaberpapiere, wie Aktien, Obligationen, Genussscheine, Coupons­bogen, Bezugsscheine für Couponsbogen, jedoch mit Ausschluss ein­zelner Coupons, werden auf Begehren des Berechtigten durch den Richter kraftlos erklärt.
 
-[2] ...
+[2] …
 
 [3] Der Gesuchsteller hat den Besitz und Verlust der Urkunde glaubhaft zu machen.
 
 [4] Ist dem Inhaber eines mit Couponsbogen oder Bezugsschein ver­sehenen Papiers bloss der Couponsbogen oder Bezugsschein abhanden gekommen, so genügt zur Begründung des Begehrens die Vorzeigung des Haupttitels.
 
-###### [2. Zahlungs­verbot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C/lvl_I/lvl_2)
+###### [2. Zahlungs­verbot](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C/lvl_I/lvl_2)
 
 [**Art. 982**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_982) 
 
@@ -13899,14 +14021,14 @@ Hat sich der Schuldner im Namenpapier das Recht vorbehalten, jedem Inhaber der U
 
 [2] Soll ein Couponsbogen kraftlos erklärt werden, so findet auf die während des Verfahrens verfallenden einzelnen Coupons die Bestim­mung über die Kraftloserklärung der Zinscoupons entsprechende Anwendung.
 
-###### [3. Aufgebot, An­meldungsfrist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C/lvl_I/lvl_3)
+###### [3. Aufgebot, An­meldungsfrist](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C/lvl_I/lvl_3)
 
 
 [**Art. 983**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_983) 
 
 Erachtet der Richter die Darstellung des Gesuchstellers über seinen frühern Besitz und über den Verlust der Urkunde für glaubhaft, so for­dert er durch öffentliche Bekanntmachung den unbekannten Inha­ber auf, das Wertpapier innerhalb bestimmter Frist vorzulegen, widri­gen­falls die Kraftloserklärung ausgesprochen werde. Die Frist ist auf min­destens sechs Monate festzusetzen; sie läuft vom Tage der ersten Bekanntmachung an.
 
-###### [4. Art der Be­kannt­machung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C/lvl_I/lvl_4)
+###### [4. Art der Be­kannt­machung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C/lvl_I/lvl_4)
 
 
 [**Art. 984**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_984) 
@@ -13915,9 +14037,9 @@ Erachtet der Richter die Darstellung des Gesuchstellers über seinen frühern Be
 
 [2] In besonderen Fällen kann der Richter noch in anderer Weise für angemessene Veröffentlichung sorgen.
 
-###### [5. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C/lvl_I/lvl_5)
+###### [5. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C/lvl_I/lvl_5)
 
-###### [a. Bei Vor­le­gung der Urkun­de](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C/lvl_I/lvl_5/lvl_a)
+###### [a. Bei Vor­le­gung der Urkun­de](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C/lvl_I/lvl_5/lvl_a)
 
 [**Art. 985**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_985) 
 
@@ -13925,7 +14047,7 @@ Erachtet der Richter die Darstellung des Gesuchstellers über seinen frühern Be
 
 [2] Klagt der Gesuchsteller nicht binnen dieser Frist, so gibt der Richter die Urkunde zurück und hebt das Zahlungsverbot auf.
 
-###### [b. Bei Nicht­vor­le­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C/lvl_I/lvl_5/lvl_b)
+###### [b. Bei Nicht­vor­le­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C/lvl_I/lvl_5/lvl_b)
 
 [**Art. 986**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_986) 
 
@@ -13935,7 +14057,7 @@ Erachtet der Richter die Darstellung des Gesuchstellers über seinen frühern Be
 
 [3] Nach der Kraftloserklärung ist der Gesuchsteller berechtigt, auf seine Kosten die Ausfertigung einer neuen Urkunde oder die Erfül­lung der fälligen Leistung zu fordern.
 
-##### [II. Bei Coupons im besondern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C/lvl_I_I)
+##### [II. Bei Coupons im besondern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C/lvl_I_I)
 
 [**Art. 987**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_987) 
 
@@ -13943,7 +14065,7 @@ Erachtet der Richter die Darstellung des Gesuchstellers über seinen frühern Be
 
 [2] Nach Ablauf von drei Jahren seit dem Verfalltage ist, wenn sich inzwischen kein Berechtigter gemeldet hat, der Betrag nach Verfügung des Richters an den Gesuchsteller herauszugeben.
 
-##### [III. Bei Bank­noten und ähnli­chen Papie­ren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_C/lvl_II_I)
+##### [III. Bei Bank­noten und ähnli­chen Papie­ren](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_C/lvl_II_I)
 
 
 
@@ -13951,25 +14073,25 @@ Erachtet der Richter die Darstellung des Gesuchstellers über seinen frühern Be
 
 Bei Banknoten und andern in grösserer Anzahl ausgegebenen, auf Sicht zahlbaren Inhaberpapieren, die zum Umlauf als Ersatzmittel für Geld bestimmt sind und auf feste Beträge lauten, findet eine Kraftlo­s­erklärung nicht statt.
 
-#### [D. Schuld­brief](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_3/lvl_D)
+#### [D. Schuld­brief](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_3/lvl_D)
 
 [**Art. 989**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_989)
 
 Vorbehalten bleiben die besondern Bestimmungen über den Schuld­brief, der auf den Inhaber lautet.
 
-### [Vierter Abschnitt: Der Wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4)
+### [Vierter Abschnitt: Der Wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4)
 
-#### [A. Wechselfähigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_A)
+#### [A. Wechselfähigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_A)
 
 [**Art. 990**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_990) 
 
 Wer sich durch Verträge verpflichten kann, ist wechselfähig.
 
-#### [B. Gezogener Wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_B)
+#### [B. Gezogener Wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_B)
 
-#### [I. Ausstellung und Form des gezogenen Wechsels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I)
+#### [I. Ausstellung und Form des gezogenen Wechsels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I)
 
-##### [1. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I/lvl_1)
+##### [1. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I/lvl_1)
 
 [**Art. 991**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_991) 
 
@@ -13985,7 +14107,7 @@ Der gezogene Wechsel enthält:
 |    7. die Angabe des Tages und des Ortes der Ausstellung;  
 |    8. die Unterschrift des Ausstellers.
 
-##### [2. Fehlen von Erfor­der­nissen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I/lvl_2)
+##### [2. Fehlen von Erfor­der­nissen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I/lvl_2)
 
 [**Art. 992**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_992) 
 
@@ -13997,7 +14119,7 @@ Der gezogene Wechsel enthält:
 
 [4] Ein Wechsel ohne Angabe des Ausstellungsortes gilt als ausgestellt an dem Orte, der bei dem Namen des Ausstellers angegeben ist.
 
-##### [3. Arten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I/lvl_3)
+##### [3. Arten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I/lvl_3)
 
 [**Art. 993**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_993) 
 
@@ -14007,13 +14129,13 @@ Der gezogene Wechsel enthält:
 
 [3] Er kann für Rechnung eines Dritten gezogen werden.
 
-##### [4. Zahlstellen. Do­mizil­wech­sel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I/lvl_4)
+##### [4. Zahlstellen. Do­mizil­wech­sel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I/lvl_4)
 
 [**Art. 994**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_994) 
 
 Der Wechsel kann bei einem Dritten, am Wohnorte des Bezogenen oder an einem anderen Orte zahlbar gestellt werden.
 
-##### [5. Zins­versprechen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I/lvl_5)
+##### [5. Zins­versprechen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I/lvl_5)
 
 [**Art. 995**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_995) 
 
@@ -14023,7 +14145,7 @@ Der Wechsel kann bei einem Dritten, am Wohnorte des Bezogenen oder an einem ande
 
 [3] Die Zinsen laufen vom Tage der Ausstellung des Wechsels, sofern nicht ein anderer Tag bestimmt ist.
 
-##### [6. Ver­schiedene Bezeichnung der Wechsel­summe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I/lvl_6)
+##### [6. Ver­schiedene Bezeichnung der Wechsel­summe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I/lvl_6)
 
 [**Art. 996**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_996) 
 
@@ -14031,19 +14153,19 @@ Der Wechsel kann bei einem Dritten, am Wohnorte des Bezogenen oder an einem ande
 
 [2] Ist die Wechselsumme mehrmals in Buchstaben oder mehrmals in Ziffern angegeben, so gilt bei Abweichungen die geringste Summe.
 
-##### [7. Unter­schrif­ten von Wechse­l­unfä­higen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I/lvl_7)
+##### [7. Unter­schrif­ten von Wechse­l­unfä­higen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I/lvl_7)
 
 [**Art. 997**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_997) 
 
 Trägt ein Wechsel Unterschriften von Personen, die eine Wechsel­ver­bindlichkeit nicht eingehen können, gefälschte Unterschriften, Unter­schriften erdichteter Personen oder Unterschriften, die aus ir­gend­einem anderen Grunde für die Personen, die unterschrieben ha­ben oder mit deren Namen unterschrieben worden ist, keine Verbind­lichkeit begründen, so hat dies auf die Gültigkeit der übrigen Unter­schriften kei­nen Einfluss.
 
-##### [8. Unterschrift ohne Er­mächti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I/lvl_8)
+##### [8. Unterschrift ohne Er­mächti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I/lvl_8)
 
 [**Art. 998**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_998) 
 
 Wer auf einem Wechsel seine Unterschrift als Vertreter eines anderen setzt, ohne hierzu ermächtigt zu sein, haftet selbst wechselmässig und hat, wenn er den Wechsel einlöst, dieselben Rechte, die der angeblich Vertretene haben würde. Das gleiche gilt von einem Vertreter, der seine Vertretungsbefugnis überschritten hat.
 
-##### [9. Haftung des Ausstellers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I/lvl_9)
+##### [9. Haftung des Ausstellers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I/lvl_9)
 
 
 [**Art. 999**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_999) 
@@ -14052,15 +14174,15 @@ Wer auf einem Wechsel seine Unterschrift als Vertreter eines anderen setzt, ohne
 
 [2] Er kann die Haftung für die Annahme ausschliessen; jeder Vermerk, durch den er die Haftung für die Zahlung ausschliesst, gilt als nicht geschrieben.
 
-##### [10. Blanko­wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I/lvl_10)
+##### [10. Blanko­wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I/lvl_10)
 
 [**Art. 1000**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1000) 
 
 Wenn ein Wechsel, der bei der Begebung unvollständig war, den ge­troffenen Vereinbarungen zuwider ausgefüllt worden ist, so kann die Nichteinhaltung dieser Vereinbarungen dem Inhaber nicht entgegen­gesetzt werden, es sei denn, dass er den Wechsel in bösem Glauben erworben hat oder ihm beim Erwerb eine grobe Fahrlässigkeit zur Last fällt.
 
-#### [II. Indossament](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I)
+#### [II. Indossament](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I)
 
-##### [1. Übertragbar­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_1)
+##### [1. Übertragbar­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_1)
 
 [**Art. 1001**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1001) 
 
@@ -14070,7 +14192,7 @@ Wenn ein Wechsel, der bei der Begebung unvollständig war, den ge­troffenen Ver
 
 [3] Das Indossament kann auch auf den Bezogenen, gleichviel ob er den Wechsel angenommen hat oder nicht, auf den Aussteller oder auf jeden anderen Wechselverpflichteten lauten. Diese Personen können den Wechsel weiter indossieren.
 
-##### [2. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_2)
+##### [2. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_2)
 
 [**Art. 1002**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1002) 
 
@@ -14080,7 +14202,7 @@ Wenn ein Wechsel, der bei der Begebung unvollständig war, den ge­troffenen Ver
 
 [3] Ein Indossament an den Inhaber gilt als Blankoindossament.
 
-##### [3. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_3)
+##### [3. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_3)
 
 [**Art. 1003**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1003) 
 
@@ -14088,9 +14210,9 @@ Wenn ein Wechsel, der bei der Begebung unvollständig war, den ge­troffenen Ver
 
 [2] Das Indossament braucht den Indossatar nicht zu bezeichnen und kann selbst in der blossen Unterschrift des Indossanten bestehen (Blankoindossament). In diesem letzteren Falle muss das Indossa­ment, um gültig zu sein, auf die Rückseite des Wechsels oder auf den Anhang gesetzt werden.
 
-##### [4. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_4)
+##### [4. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_4)
 
-###### [a. Über­tra­gungs­funktion](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_4/lvl_a)
+###### [a. Über­tra­gungs­funktion](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_4/lvl_a)
 
 [**Art. 1004**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1004) 
 
@@ -14103,7 +14225,7 @@ Wenn ein Wechsel, der bei der Begebung unvollständig war, den ge­troffenen Ver
 |    2. den Wechsel durch ein Blankoindossament oder an eine bestimmte Person weiter indossieren;  
 |    3. den Wechsel weiter begeben, ohne das Blankoindossament aus­zufüllen und ohne ihn zu indossieren.
 
-###### [b. Garantie­funktion](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_4/lvl_b)
+###### [b. Garantie­funktion](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_4/lvl_b)
 
 [**Art. 1005**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1005) 
 
@@ -14111,7 +14233,7 @@ Wenn ein Wechsel, der bei der Begebung unvollständig war, den ge­troffenen Ver
 
 [2] Er kann untersagen, dass der Wechsel weiter indossiert wird; in die­sem Falle haftet er denen nicht, an die der Wechsel weiter indossiert wird.
 
-###### [c. Legiti­mation des Inhabers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_4/lvl_c)
+###### [c. Legiti­mation des Inhabers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_4/lvl_c)
 
 [**Art. 1006**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1006) 
 
@@ -14119,13 +14241,13 @@ Wenn ein Wechsel, der bei der Begebung unvollständig war, den ge­troffenen Ver
 
 [2] Ist der Wechsel einem früheren Inhaber irgendwie abhanden ge­kom­men, so ist der neue Inhaber, der sein Recht nach den Vorschrif­ten des vorstehenden Absatzes nachweist, zur Herausgabe des Wech­sels nur verpflichtet, wenn er ihn in bösem Glauben erworben hat oder ihm beim Erwerb eine grobe Fahrlässigkeit zur Last fällt.
 
-##### [5. Einreden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_5)
+##### [5. Einreden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_5)
 
 [**Art. 1007**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1007) 
 
 Wer aus dem Wechsel in Anspruch genommen wird, kann dem Inha­ber keine Einwendungen entgegensetzen, die sich auf seine unmittel­baren Beziehungen zu dem Aussteller oder zu einem früheren Inhaber gründen, es sei denn, dass der Inhaber bei dem Erwerb des Wechsels bewusst zum Nachteil des Schuldners gehandelt hat.
 
-##### [6. Vollmacht­s­indos­sament](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_6)
+##### [6. Vollmacht­s­indos­sament](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_6)
 
 [**Art. 1008**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1008) 
 
@@ -14135,7 +14257,7 @@ Wer aus dem Wechsel in Anspruch genommen wird, kann dem Inha­ber keine Einwendu
 
 [3] Die in dem Vollmachtsindossament enthaltene Vollmacht erlischt weder mit dem Tod noch mit dem Eintritt der Handlungsunfähigkeit des Vollmachtgebers.
 
-##### [7. Offenes Pfan­d­indossament](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_7)
+##### [7. Offenes Pfan­d­indossament](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_7)
 
 
 [**Art. 1009**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1009) 
@@ -14144,7 +14266,7 @@ Wer aus dem Wechsel in Anspruch genommen wird, kann dem Inha­ber keine Einwendu
 
 [2] Die Wechselverpflichteten können dem Inhaber keine Einwendun­gen entgegensetzen, die sich auf ihre unmittelbaren Beziehungen zu dem Indossanten gründen, es sei denn, dass der Inhaber bei dem Er­werb des Wechsels bewusst zum Nachteil des Schuldners gehandelt hat.
 
-##### [8. Nach­indossament](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_I/lvl_8)
+##### [8. Nach­indossament](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_I/lvl_8)
 
 [**Art. 1010**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1010) 
 
@@ -14152,15 +14274,15 @@ Wer aus dem Wechsel in Anspruch genommen wird, kann dem Inha­ber keine Einwendu
 
 [2] Bis zum Beweis des Gegenteils wird vermutet, dass ein nicht datier­tes Indossament vor Ablauf der für die Erhebung des Protestes bestimmten Frist auf den Wechsel gesetzt worden ist.
 
-#### [III. Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I)
+#### [III. Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I)
 
-##### [1. Recht zur Vorle­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I/lvl_1)
+##### [1. Recht zur Vorle­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I/lvl_1)
 
 [**Art. 1011**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1011) 
 
 Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Händen hat, bis zum Verfall dem Bezogenen an seinem Wohnorte zur Annahme vorgelegt werden.
 
-##### [2. Gebot und Verbot der Vorlegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I/lvl_2)
+##### [2. Gebot und Verbot der Vorlegung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I/lvl_2)
 
 
 
@@ -14174,7 +14296,7 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [4] Jeder Indossant kann, wenn nicht der Aussteller die Vorlegung zur Annahme untersagt hat, mit oder ohne Bestimmung einer Frist vor­schreiben, dass der Wechsel zur Annahme vorgelegt werden muss.
 
-##### [3. Pflicht zur Vorle­gung bei Nachsicht­wechseln](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I/lvl_3)
+##### [3. Pflicht zur Vorle­gung bei Nachsicht­wechseln](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I/lvl_3)
 
 [**Art. 1013**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1013) 
 
@@ -14184,7 +14306,7 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [3] Die Indossanten können die Vorlegungsfristen abkürzen.
 
-##### [4. Nochmalige Vor­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I/lvl_4)
+##### [4. Nochmalige Vor­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I/lvl_4)
 
 [**Art. 1014**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1014) 
 
@@ -14192,7 +14314,7 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [2] Der Inhaber ist nicht verpflichtet, den zur Annahme vorgelegten Wechsel in der Hand des Bezogenen zu lassen.
 
-##### [5. Form der Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I/lvl_5)
+##### [5. Form der Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I/lvl_5)
 
 
 [**Art. 1015**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1015) 
@@ -14201,7 +14323,7 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [2] Lautet der Wechsel auf eine bestimmte Zeit nach Sicht oder ist er infolge eines besonderen Vermerks innerhalb einer bestimmten Frist zur Annahme vorzulegen, so muss die Annahmeerklärung den Tag bezeichnen, an dem sie erfolgt ist, sofern nicht der Inhaber die Angabe des Tages der Vorlegung verlangt. Ist kein Tag angegeben, so muss der Inhaber, um seine Rückgriffsrechte gegen die Indossanten und den Aussteller zu wahren, diese Unterlassung rechtzeitig durch einen Pro­test feststellen lassen.
 
-##### [6. Ein­schränkungen der An­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I/lvl_6)
+##### [6. Ein­schränkungen der An­nahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I/lvl_6)
 
 [**Art. 1016**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1016) 
 
@@ -14209,7 +14331,7 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [2] Wenn die Annahmeerklärung irgendeine andere Abweichung von den Bestimmungen des Wechsels enthält, so gilt die Annahme als verweigert. Der Annehmende haftet jedoch nach dem Inhalte seiner Annahmeerklärung.
 
-##### [7. Domiziliat und Zahlstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I/lvl_7)
+##### [7. Domiziliat und Zahlstelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I/lvl_7)
 
 [**Art. 1017**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1017) 
 
@@ -14217,10 +14339,10 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [2] Ist der Wechsel beim Bezogenen selbst zahlbar, so kann dieser in der Annahmeerklärung eine am Zahlungsorte befindliche Stelle be­zeich­nen, wo die Zahlung geleistet werden soll.
 
-##### [8. Wirkung der Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I/lvl_8)
+##### [8. Wirkung der Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I/lvl_8)
 
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I/lvl_8/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I/lvl_8/lvl_a)
 
 
 [**Art. 1018**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1018) 
@@ -14229,7 +14351,7 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [2] Mangels Zahlung hat der Inhaber, auch wenn er der Aussteller ist, gegen den Annehmer einen unmittelbaren Anspruch aus dem Wechsel auf alles, was auf Grund der Artikel 1045 und 1046 gefordert werden kann.
 
-###### [b. Bei Streichung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_II_I/lvl_8/lvl_b)
+###### [b. Bei Streichung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_II_I/lvl_8/lvl_b)
 
 
 [**Art. 1019**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1019) 
@@ -14238,9 +14360,9 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [2] Hat der Bezogene jedoch dem Inhaber oder einer Person, deren Unterschrift sich auf dem Wechsel befindet, die Annahme schriftlich mit­geteilt, so haftet er diesen nach dem Inhalt seiner Annahmeerklä­rung.
 
-#### [IV. Wechselbürgschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_V)
+#### [IV. Wechselbürgschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_V)
 
-##### [1. Wechsel­bürgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_V/lvl_1)
+##### [1. Wechsel­bürgen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_V/lvl_1)
 
 [**Art. 1020**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1020) 
 
@@ -14248,7 +14370,7 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [2] Diese Sicherheit kann von einem Dritten oder auch von einer Person geleistet werden, deren Unterschrift sich schon auf dem Wechsel befindet.
 
-##### [2. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_V/lvl_2)
+##### [2. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_V/lvl_2)
 
 [**Art. 1021**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1021) 
 
@@ -14260,7 +14382,7 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [4] In der Erklärung ist anzugeben, für wen die Bürgschaft geleistet wird; mangels einer solchen Angabe gilt sie für den Aussteller.
 
-##### [3. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_V/lvl_3)
+##### [3. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_V/lvl_3)
 
 [**Art. 1022**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1022) 
 
@@ -14270,9 +14392,9 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 [3] Der Wechselbürge, der den Wechsel bezahlt, erwirbt die Rechte aus dem Wechsel gegen denjenigen, für den er sich verbürgt hat, und gegen alle, die diesem wechselmässig haften.
 
-#### [V. Verfall](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V)
+#### [V. Verfall](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V)
 
-##### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V/lvl_1)
+##### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V/lvl_1)
 
 
 [**Art. 1023**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1023) 
@@ -14285,7 +14407,7 @@ auf einen bestimmten Tag.
 
 [2] Wechsel mit anderen oder mit mehreren aufeinander folgenden Ver­fallzeiten sind nichtig.
 
-##### [2. Bei Sicht­wech­seln](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V/lvl_2)
+##### [2. Bei Sicht­wech­seln](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V/lvl_2)
 
 [**Art. 1024**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1024) 
 
@@ -14293,7 +14415,7 @@ auf einen bestimmten Tag.
 
 [2] Der Aussteller kann vorschreiben, dass der Sichtwechsel nicht vor einem bestimmten Tage zur Zahlung vorgelegt werden darf. In diesem Fall beginnt die Vorlegungsfrist mit diesem Tage.
 
-##### [3. Bei Nach­sicht­wechseln](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V/lvl_3)
+##### [3. Bei Nach­sicht­wechseln](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V/lvl_3)
 
 [**Art. 1025**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1025) 
 
@@ -14301,7 +14423,7 @@ auf einen bestimmten Tag.
 
 [2] Ist in der Annahmeerklärung ein Tag nicht angegeben und ein Pro­test nicht erhoben worden, so gilt dem Annehmer gegenüber der Wechsel als am letzten Tage der für die Vorlegung zur Annahme vor­gesehenen Frist angenommen.
 
-##### [4. Fristen­berechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V/lvl_4)
+##### [4. Fristen­berechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V/lvl_4)
 
 [**Art. 1026**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1026) 
 
@@ -14315,7 +14437,7 @@ auf einen bestimmten Tag.
 
 [5] Der Ausdruck «halber Monat» bedeutet fünfzehn Tage.
 
-##### [5. Zeit­berechnung nach altem Stil](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V/lvl_5)
+##### [5. Zeit­berechnung nach altem Stil](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V/lvl_5)
 
 
 [**Art. 1027**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1027) 
@@ -14328,9 +14450,9 @@ auf einen bestimmten Tag.
 
 [4] Die Vorschriften dieses Artikels finden keine Anwendung wenn sich aus einem Vermerk im Wechsel oder sonst aus dessen Inhalt ergibt, dass etwas anderes beabsichtigt war.
 
-#### [VI. Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V_I)
+#### [VI. Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V_I)
 
-##### [1. Vorlegung zur Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V_I/lvl_1)
+##### [1. Vorlegung zur Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V_I/lvl_1)
 
 
 [**Art. 1028**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1028) 
@@ -14339,7 +14461,7 @@ auf einen bestimmten Tag.
 
 [2] Die Einlieferung in eine von der Schweizerischen Nationalbank anerkannte Abrechnungsstelle steht der Vorlegung zur Zahlung gleich.
 
-##### [2. Recht auf Quit­tung. Teilzahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V_I/lvl_2)
+##### [2. Recht auf Quit­tung. Teilzahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V_I/lvl_2)
 
 
 [**Art. 1029**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1029) 
@@ -14350,7 +14472,7 @@ auf einen bestimmten Tag.
 
 [3] Im Falle der Teilzahlung kann der Bezogene verlangen, dass sie auf dem Wechsel vermerkt und ihm eine Quittung erteilt wird.
 
-##### [3. Zahlung vor und bei Verfall](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V_I/lvl_3)
+##### [3. Zahlung vor und bei Verfall](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V_I/lvl_3)
 
 [**Art. 1030**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1030) 
 
@@ -14360,7 +14482,7 @@ auf einen bestimmten Tag.
 
 [3] Wer bei Verfall zahlt, wird von seiner Verbindlichkeit befreit, wenn ihm nicht Arglist oder grobe Fahrlässigkeit zur Last fällt. Er ist ver­pflichtet, die Ordnungsmässigkeit der Reihe der Indossamente, aber nicht die Unterschriften der Indossanten zu prüfen.
 
-##### [4. Zahlung in frem­der Wäh­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V_I/lvl_4)
+##### [4. Zahlung in frem­der Wäh­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V_I/lvl_4)
 
 
 
@@ -14374,15 +14496,15 @@ auf einen bestimmten Tag.
 
 [4] Lautet der Wechsel auf eine Geldsorte, die im Lande der Ausstel­lung dieselbe Bezeichnung, aber einen anderen Wert hat als in dem der Zahlung, so wird vermutet, dass die Geldsorte des Zahlungsortes gemeint ist.
 
-##### [5. Hinter­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_V_I/lvl_5)
+##### [5. Hinter­legung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_V_I/lvl_5)
 
 [**Art. 1032**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1032) 
 
 Wird der Wechsel nicht innerhalb der im Artikel 1028 bestimmten Frist zur Zahlung vorgelegt, so kann der Schuldner die Wechselsum­me bei der zuständigen Behörde auf Gefahr und Kosten des Inhabers hinterlegen.
 
-#### [VII. Rückgriff mangels Annahme und mangels Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I)
+#### [VII. Rückgriff mangels Annahme und mangels Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I)
 
-##### [1. Rückgriff des Inhabers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_1)
+##### [1. Rückgriff des Inhabers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_1)
 
 
 [**Art. 1033**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1033)
@@ -14396,9 +14518,9 @@ Wird der Wechsel nicht innerhalb der im Artikel 1028 bestimmten Frist zur Zahlun
 |    2. wenn über das Vermögen des Bezogenen, gleichviel ob er den Wechsel angenommen hat oder nicht, der Konkurs eröffnet wor­den ist oder wenn der Bezogene auch nur seine Zahlungen ein­gestellt hat oder wenn eine Zwangsvollstreckung in sein Vermö­gen fruchtlos verlaufen ist;  
 |    3. wenn über das Vermögen des Ausstellers eines Wechsels, des­sen Vorlegung zur Annahme untersagt ist, der Konkurs eröff­net wor­den ist.
 
-##### [2. Protest](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_2)
+##### [2. Protest](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_2)
 
-###### [a. Fristen und Erfor­dernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_2/lvl_a)
+###### [a. Fristen und Erfor­dernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_2/lvl_a)
 
 [**Art. 1034**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1034) 
 
@@ -14414,13 +14536,13 @@ Wird der Wechsel nicht innerhalb der im Artikel 1028 bestimmten Frist zur Zahlun
 
 [6] Ist über das Vermögen des Bezogenen, gleichviel ob er den Wechsel angenommen hat oder nicht, oder über das Vermögen des Ausstellers eines Wechsels, dessen Vorlegung zur Annahme untersagt ist, Kon­kurs eröffnet worden, so genügt es zur Ausübung des Rückgriffs­rechts, dass der gerichtliche Beschluss über die Eröffnung des Kon­kurses vorgelegt wird.
 
-###### [b. Zuständig­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_2/lvl_b)
+###### [b. Zuständig­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_2/lvl_b)
 
 [**Art. 1035**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1035) 
 
 Der Protest muss durch eine hierzu ermächtigte Urkundsperson oder Amtsstelle erhoben werden.
 
-###### [c. Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_2/lvl_c)
+###### [c. Inhalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_2/lvl_c)
 
 [**Art. 1036**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1036) 
 
@@ -14436,7 +14558,7 @@ Der Protest muss durch eine hierzu ermächtigte Urkundsperson oder Amtsstelle er
 
 [3] Verlangt der Bezogene, dem der Wechsel zur Annahme vorgelegt worden ist, die nochmalige Vorlegung am nächsten Tage, so ist auch dies im Protest zu vermerken.
 
-###### [d. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_2/lvl_d)
+###### [d. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_2/lvl_d)
 
 [**Art. 1037**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1037) 
 
@@ -14446,19 +14568,19 @@ Der Protest muss durch eine hierzu ermächtigte Urkundsperson oder Amtsstelle er
 
 [3] Auf den anderen Ausfertigungen oder der Abschrift ist zu vermer­ken, dass sich der Protest auf einer der übrigen Ausfertigungen oder auf der Urschrift befindet.
 
-###### [e. Bei Teil­annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_2/lvl_e)
+###### [e. Bei Teil­annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_2/lvl_e)
 
 [**Art. 1038**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1038) 
 
 Ist der Wechsel nur zu einem Teil der Wechselsumme ange­nom­men worden und wird deshalb Protest erhoben, so ist eine Ab­schrift des Wechsels auszufertigen und der Protest auf diese Ab­schrift zu setzen.
 
-###### [f. Gegen meh­rere Personen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_2/lvl_f)
+###### [f. Gegen meh­rere Personen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_2/lvl_f)
 
 [**Art. 1039**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1039) 
 
 Muss eine wechselrechtliche Leistung von mehreren Verpflichteten verlangt werden, so ist über die Proteste nur eine Urkunde erforder­lich.
 
-###### [g. Abschrift der Protest­urkunde](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_2/lvl_g)
+###### [g. Abschrift der Protest­urkunde](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_2/lvl_g)
 
 [**Art. 1040**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1040) 
 
@@ -14476,13 +14598,13 @@ Muss eine wechselrechtliche Leistung von mehreren Verpflichteten verlangt werden
 
 [3] Die Abschriften der Protesturkunden sind durch die den Protest erhebende Urkundsperson oder Amtsstelle in der Zeitfolge geordnet auf­zubewahren.
 
-###### [h. Mangel­hafter Protest](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_2/lvl_h)
+###### [h. Mangel­hafter Protest](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_2/lvl_h)
 
 [**Art. 1041**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1041) 
 
 Ist der Protest von einer zuständigen Urkundsperson oder Amtsstelle unterschrieben worden, so ist er auch dann gültig, wenn er nicht vor­schriftsgemäss erhoben worden ist oder wenn die darin enthaltenen Angaben unrichtig sind.
 
-##### [3. Benach­richti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_3)
+##### [3. Benach­richti­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_3)
 
 [**Art. 1042**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1042) 
 
@@ -14498,7 +14620,7 @@ Ist der Protest von einer zuständigen Urkundsperson oder Amtsstelle unterschrie
 
 [6] Wer die rechtzeitige Benachrichtigung versäumt, verliert nicht den Rückgriff; er haftet für den etwa durch seine Nachlässigkeit entstan­de­nen Schaden, jedoch nur bis zur Höhe der Wechselsumme.
 
-##### [4. Protest­erlass](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_4)
+##### [4. Protest­erlass](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_4)
 
 [**Art. 1043**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1043) 
 
@@ -14508,7 +14630,7 @@ Ist der Protest von einer zuständigen Urkundsperson oder Amtsstelle unterschrie
 
 [3] Ist der Vermerk vom Aussteller beigefügt, so wirkt er gegenüber allen Wechselverpflichteten; ist er von einem Indossanten oder einem Wechselbürgen beigefügt, so wirkt er nur diesen gegenüber. Lässt der Inhaber ungeachtet des vom Aussteller beigefügten Vermerks Protest erheben, so fallen ihm die Kosten zur Last. Ist der Vermerk von einem Indossanten oder einem Wechselbürgen beigefügt, so sind alle Wech­selverpflichteten zum Ersatze der Kosten eines dennoch erhobenen Protestes verpflichtet.
 
-##### [5. Solidarische Haf­tung der Wechsel­ver­pflichteten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_5)
+##### [5. Solidarische Haf­tung der Wechsel­ver­pflichteten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_5)
 
 [**Art. 1044**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1044) 
 
@@ -14520,9 +14642,9 @@ Ist der Protest von einer zuständigen Urkundsperson oder Amtsstelle unterschrie
 
 [4] Durch die Geltendmachung des Anspruches gegen einen Wechsel­verpflichteten verliert der Inhaber nicht seine Rechte gegen die ande­ren Wechselverpflichteten, auch nicht gegen die Nachmänner desjeni­gen, der zuerst in Anspruch genommen worden ist.
 
-##### [6. Inhalt des Rück­griffs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_6)
+##### [6. Inhalt des Rück­griffs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_6)
 
-###### [a. Des Inhabers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_6/lvl_a)
+###### [a. Des Inhabers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_6/lvl_a)
 
 [**Art. 1045**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1045) 
 
@@ -14536,7 +14658,7 @@ Ist der Protest von einer zuständigen Urkundsperson oder Amtsstelle unterschrie
 
 [2] Wird der Rückgriff vor Verfall genommen, so werden von der Wech­selsumme Zinsen abgezogen. Diese Zinsen werden auf Grund des öffentlich bekanntgemachten Diskontsatzes (Satz der Schweizeri­schen Nationalbank) berechnet, der am Tage des Rückgriffs am Wohnorte des Inhabers gilt.
 
-###### [b. Des Einlösers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_6/lvl_b)
+###### [b. Des Einlösers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_6/lvl_b)
 
 [**Art. 1046**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1046) 
 
@@ -14548,7 +14670,7 @@ Wer den Wechsel eingelöst hat, kann von seinen Vormännern verlan­gen:
 |    3. seine Auslagen;  
 |    4. eine Provision von höchstens 2 Promille.
 
-###### [c. Recht auf Aus­händigung von Wechsel, Protest und Quit­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_6/lvl_c)
+###### [c. Recht auf Aus­händigung von Wechsel, Protest und Quit­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_6/lvl_c)
 
 
 [**Art. 1047**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1047) 
@@ -14557,13 +14679,13 @@ Wer den Wechsel eingelöst hat, kann von seinen Vormännern verlan­gen:
 
 [2] Jeder Indossant, der den Wechsel eingelöst hat, kann sein Indossa­ment und die Indossamente seiner Nachmänner ausstreichen.
 
-###### [d. Bei Teil­annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_6/lvl_d)
+###### [d. Bei Teil­annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_6/lvl_d)
 
 [**Art. 1048**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1048) 
 
 Bei dem Rückgriff nach einer Teilannahme kann derjenige, der den nicht angenommenen Teil der Wechselsumme entrichtet, verlangen, dass dies auf dem Wechsel vermerkt und ihm darüber Quittung erteilt wird. Der Inhaber muss ihm ferner eine beglaubigte Abschrift des Wechsels und den Protest aushändigen, um den weiteren Rückgriff zu ermöglichen.
 
-###### [e. Rück­wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_6/lvl_e)
+###### [e. Rück­wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_6/lvl_e)
 
 [**Art. 1049**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1049) 
 
@@ -14573,9 +14695,9 @@ Bei dem Rückgriff nach einer Teilannahme kann derjenige, der den nicht angenomm
 
 [3] Wird der Rückwechsel vom Inhaber gezogen, so richtet sich die Höhe der Wechselsumme nach dem Kurse, den ein vom Zahlungsorte des ursprünglichen Wechsels auf den Wohnort des Vormannes gezo­gener Sichtwechsel hat. Wird der Rückwechsel von einem Indossan­ten gezo­gen, so richtet sich die Höhe der Wechselsumme nach dem Kurse, den ein vom Wohnorte des Ausstellers des Rückwechsels auf den Wohnort des Vormannes gezogener Sichtwechsel hat.
 
-##### [7. Präjudi­zie­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_7)
+##### [7. Präjudi­zie­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_7)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_7/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_7/lvl_a)
 
 
 [**Art. 1050**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1050) 
@@ -14594,7 +14716,7 @@ verliert der Inhaber seine Rechte gegen die Indossanten, den Ausstel­ler und al
 
 [3] Ist die Frist für die Vorlegung in einem Indossament enthalten, so kann sich nur der Indossant darauf berufen.
 
-###### [b. Höhere Ge­walt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_7/lvl_b)
+###### [b. Höhere Ge­walt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_7/lvl_b)
 
 
 [**Art. 1051**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1051) 
@@ -14611,7 +14733,7 @@ verliert der Inhaber seine Rechte gegen die Indossanten, den Ausstel­ler und al
 
 [6] Tatsachen, die rein persönlich den Inhaber oder denjenigen betref­fen, den er mit der Vorlegung des Wechsels oder mit der Protesterhe­bung beauftragt hat, gelten nicht als Fälle höherer Gewalt.
 
-###### [c. Ungerecht­fertigte Berei­che­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VI_I/lvl_7/lvl_c)
+###### [c. Ungerecht­fertigte Berei­che­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VI_I/lvl_7/lvl_c)
 
 
 [**Art. 1052**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1052) 
@@ -14622,7 +14744,7 @@ verliert der Inhaber seine Rechte gegen die Indossanten, den Ausstel­ler und al
 
 [3] Ein solcher Anspruch besteht dagegen nicht gegen die Indossanten, deren wechselmässige Verbindlichkeit erloschen ist.
 
-#### [VIII­. Übergang der Deckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_VII_I)
+#### [VIII­. Übergang der Deckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_VII_I)
 
 [**Art. 1053**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1053) 
 
@@ -14632,9 +14754,9 @@ verliert der Inhaber seine Rechte gegen die Indossanten, den Ausstel­ler und al
 
 [3] Der Bezogene darf, sobald der Konkurs veröffentlicht oder ihm die Abtretung angezeigt ist, nur an den gehörig ausgewiesenen Inhaber gegen Rückgabe des Wechsels Zahlung leisten.
 
-#### [IX. Ehreneintritt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X)
+#### [IX. Ehreneintritt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X)
 
-##### [1. Allgemeine Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_1)
+##### [1. Allgemeine Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_1)
 
 [**Art. 1054**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1054) 
 
@@ -14646,9 +14768,9 @@ verliert der Inhaber seine Rechte gegen die Indossanten, den Ausstel­ler und al
 
 [4] Wer zu Ehren annimmt oder zahlt, ist verpflichtet, den Wechselver­pflichteten, für den er eintritt, innerhalb zweier Werktage hiervon zu benachrichtigen. Hält er die Frist nicht ein, so haftet er für den etwa durch seine Nachlässigkeit entstandenen Schaden, jedoch nur bis zur Höhe der Wechselsumme.
 
-##### [2. Ehren­annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_2)
+##### [2. Ehren­annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_2)
 
-###### [a. Voraus­set­zungen. Stel­lung des In­ha­bers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_2/lvl_a)
+###### [a. Voraus­set­zungen. Stel­lung des In­ha­bers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_2/lvl_a)
 
 [**Art. 1055**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1055) 
 
@@ -14658,13 +14780,13 @@ verliert der Inhaber seine Rechte gegen die Indossanten, den Ausstel­ler und al
 
 [3] In den anderen Fällen des Ehreneintritts kann der Inhaber die Ehren­annahme zurückweisen. Lässt er sie aber zu, so verliert er den Rück­griff vor Verfall gegen denjenigen, zu dessen Ehren die Annahme erklärt worden ist, und gegen dessen Nachmänner.
 
-###### [b. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_2/lvl_b)
+###### [b. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_2/lvl_b)
 
 [**Art. 1056**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1056) 
 
 Die Ehrenannahme wird auf dem Wechsel vermerkt; sie ist von dem­jenigen, der zu Ehren annimmt, zu unterschreiben. In der Annahme­erklärung ist anzugeben, für wen die Ehrenannahme stattfindet; man­gels einer solchen Angabe gilt sie für den Aussteller.
 
-###### [c. Haftung des Eh­ren­anneh­men­den. Wir­kung auf das Rück­griffsrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_2/lvl_c)
+###### [c. Haftung des Eh­ren­anneh­men­den. Wir­kung auf das Rück­griffsrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_2/lvl_c)
 
 [**Art. 1057**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1057) 
 
@@ -14672,9 +14794,9 @@ Die Ehrenannahme wird auf dem Wechsel vermerkt; sie ist von dem­jenigen, der zu
 
 [2] Trotz der Ehrenannahme können der Wechselverpflichtete, zu des­sen Ehren der Wechsel angenommen worden ist, und seine Vormän­ner vom Inhaber gegen Erstattung des im Artikel 1045 angegebenen Betrags die Aushändigung des Wechsels und gegebenenfalls des erhobe­nen Protestes sowie einer quittierten Rechnung verlangen.
 
-##### [3. Ehren­zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_3)
+##### [3. Ehren­zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_3)
 
-###### [a. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_3/lvl_a)
+###### [a. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_3/lvl_a)
 
 [**Art. 1058**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1058) 
 
@@ -14684,7 +14806,7 @@ Die Ehrenannahme wird auf dem Wechsel vermerkt; sie ist von dem­jenigen, der zu
 
 [3] Sie muss spätestens am Tage nach Ablauf der Frist für die Erhebung des Protestes mangels Zahlung stattfinden.
 
-###### [b. Ver­pflich­tung des Inha­bers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_3/lvl_b)
+###### [b. Ver­pflich­tung des Inha­bers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_3/lvl_b)
 
 [**Art. 1059**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1059) 
 
@@ -14692,14 +14814,14 @@ Die Ehrenannahme wird auf dem Wechsel vermerkt; sie ist von dem­jenigen, der zu
 
 [2] Wird der Protest nicht rechtzeitig erhoben, so werden derjenige, der die Notadresse angegeben hat oder zu dessen Ehren der Wechsel angenommen worden ist, und die Nachmänner frei.
 
-###### [c. Folge der Zu­rück­weisung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_3/lvl_c)
+###### [c. Folge der Zu­rück­weisung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_3/lvl_c)
 
 
 [**Art. 1060**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1060) 
 
 Weist der Inhaber die Ehrenzahlung zurück, so verliert er den Rück­griff gegen diejenigen, die frei geworden wären.
 
-###### [d. Recht auf Aus­händigung von Wechsel, Protest und Quit­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_3/lvl_d)
+###### [d. Recht auf Aus­händigung von Wechsel, Protest und Quit­tung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_3/lvl_d)
 
 
 [**Art. 1061**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1061) 
@@ -14708,7 +14830,7 @@ Weist der Inhaber die Ehrenzahlung zurück, so verliert er den Rück­griff gege
 
 [2] Der Wechsel und der etwa erhobene Protest sind dem Ehrenzahler auszuhändigen.
 
-###### [e. Übergang der Inhaberrechte. Meh­rere Ehren­zahlun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_I_X/lvl_3/lvl_e)
+###### [e. Übergang der Inhaberrechte. Meh­rere Ehren­zahlun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_I_X/lvl_3/lvl_e)
 
 [**Art. 1062**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1062) 
 
@@ -14718,12 +14840,12 @@ Weist der Inhaber die Ehrenzahlung zurück, so verliert er den Rück­griff gege
 
 [3] Sind mehrere Ehrenzahlungen angeboten, so gebührt derjenigen der Vorzug, durch welche die meisten Wechselverpflichteten frei werden. Wer entgegen dieser Vorschrift in Kenntnis der Sachlage zu Ehren zahlt, verliert den Rückgriff gegen diejenigen, die sonst frei geworden wären.
 
-#### [X. Ausfertigung mehrerer Stücke eines Wechsels (Duplikate), Wechselabschriften (Wechselkopien)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X)
+#### [X. Ausfertigung mehrerer Stücke eines Wechsels (Duplikate), Wechselabschriften (Wechselkopien)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X)
 
 
-##### [1. Aus­fertigungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X/lvl_1)
+##### [1. Aus­fertigungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X/lvl_1)
 
-###### [a. Recht auf mehrere Aus­fer­tigungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X/lvl_1/lvl_a)
+###### [a. Recht auf mehrere Aus­fer­tigungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X/lvl_1/lvl_a)
 
 
 [**Art. 1063**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1063) 
@@ -14734,7 +14856,7 @@ Weist der Inhaber die Ehrenzahlung zurück, so verliert er den Rück­griff gege
 
 [3] Jeder Inhaber eines Wechsels kann auf seine Kosten die Übergabe mehrerer Ausfertigungen verlangen, sofern nicht aus dem Wechsel zu ersehen ist, dass er in einer einzigen Ausfertigung ausgestellt worden ist. Zu diesem Zwecke hat sich der Inhaber an seinen unmittelbaren Vormann zu wenden, der wieder an seinen Vormann zurückgehen muss, und so weiter in der Reihenfolge bis zum Aussteller. Die Indossanten sind verpflichtet, ihre Indossamente auf den neuen Ausfer­ti­gungen zu wiederholen.
 
-###### [b. Verhältnis der Aus­fertigungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X/lvl_1/lvl_b)
+###### [b. Verhältnis der Aus­fertigungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X/lvl_1/lvl_b)
 
 [**Art. 1064**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1064) 
 
@@ -14742,7 +14864,7 @@ Weist der Inhaber die Ehrenzahlung zurück, so verliert er den Rück­griff gege
 
 [2] Hat ein Indossant die Ausfertigungen an verschiedene Personen über­tragen, so haften er und seine Nachmänner aus allen Ausfertigun­gen, die ihre Unterschrift tragen und nicht herausgegeben worden sind.
 
-###### [c. Annahme­vermerk](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X/lvl_1/lvl_c)
+###### [c. Annahme­vermerk](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X/lvl_1/lvl_c)
 
 [**Art. 1065**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1065) 
 
@@ -14754,9 +14876,9 @@ Weist der Inhaber die Ehrenzahlung zurück, so verliert er den Rück­griff gege
 |    1. dass ihm die zur Annahme versendete Ausfertigung auf sein Verlangen nicht ausgehändigt worden ist;  
 |    2. dass die Annahme oder die Zahlung auch nicht auf eine andere Ausfertigung zu erlangen war.
 
-##### [2. Abschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X/lvl_2)
+##### [2. Abschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X/lvl_2)
 
-###### [a. Form und Wir­kung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X/lvl_2/lvl_a)
+###### [a. Form und Wir­kung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X/lvl_2/lvl_a)
 
 [**Art. 1066**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1066) 
 
@@ -14766,7 +14888,7 @@ Weist der Inhaber die Ehrenzahlung zurück, so verliert er den Rück­griff gege
 
 [3] Die Abschrift kann auf dieselbe Weise und mit denselben Wirkun­gen indossiert und mit einer Bürgschaftserklärung versehen werden wie die Urschrift.
 
-###### [b. Aus­lieferung der Urschrift](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X/lvl_2/lvl_b)
+###### [b. Aus­lieferung der Urschrift](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X/lvl_2/lvl_b)
 
 [**Art. 1067**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1067) 
 
@@ -14776,15 +14898,15 @@ Weist der Inhaber die Ehrenzahlung zurück, so verliert er den Rück­griff gege
 
 [3] Enthält die Urschrift nach dem letzten, vor Anfertigung der Ab­schrift daraufgesetzten Indossament den Vermerk «von hier ab gelten Indos­samente nur noch auf der Abschrift» oder einen gleichbedeuten­den Vermerk, so ist ein später auf die Urschrift gesetztes Indossament nichtig.
 
-#### [XI. Änderungen des Wechsels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_I)
+#### [XI. Änderungen des Wechsels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_I)
 
 [**Art. 1068**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1068) 
 
 Wird der Text eines Wechsels geändert, so haften diejenigen, die nach der Änderung ihre Unterschrift auf den Wechsel gesetzt haben, ent­sprechend dem geänderten Text. Wer früher unterschrieben hat, haftet nach dem ursprünglichen Text.
 
-#### [XII. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_I)
+#### [XII. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_I)
 
-##### [1. Fristen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_I/lvl_1)
+##### [1. Fristen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_I/lvl_1)
 
 [**Art. 1069**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1069) 
 
@@ -14794,15 +14916,15 @@ Wird der Text eines Wechsels geändert, so haften diejenigen, die nach der Ände
 
 [3] Die Ansprüche eines Indossanten gegen andere Indossanten und gegen den Aussteller verjähren in sechs Monaten von dem Tage, an dem der Wechsel vom Indossanten eingelöst oder ihm gegenüber gericht­lich geltend gemacht worden ist.
 
-##### [2. Unter­brechung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_I/lvl_2)
+##### [2. Unter­brechung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_I/lvl_2)
 
-###### [a. Gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_I/lvl_2/lvl_a)
+###### [a. Gründe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_I/lvl_2/lvl_a)
 
 [**Art. 1070**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1070) 
 
 Die Verjährung wird durch Anhebung der Klage, durch Einreichung des Betreibungsbegehrens, durch Streitverkündung oder durch Ein­gabe im Konkurse unterbrochen.
 
-###### [b. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_I/lvl_2/lvl_b)
+###### [b. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_I/lvl_2/lvl_b)
 
 [**Art. 1071**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1071) 
 
@@ -14810,9 +14932,9 @@ Die Verjährung wird durch Anhebung der Klage, durch Einreichung des Betreibungs
 
 [2] Mit der Unterbrechung der Verjährung beginnt eine neue Verjäh­rungsfrist von gleicher Dauer zu laufen.
 
-#### [XIII. Kraftloserklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I)
+#### [XIII. Kraftloserklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I)
 
-##### [1. Vor­sorgliche Massnahmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_1)
+##### [1. Vor­sorgliche Massnahmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_1)
 
 [**Art. 1072**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1072) 
 
@@ -14820,7 +14942,7 @@ Die Verjährung wird durch Anhebung der Klage, durch Einreichung des Betreibungs
 
 [2] Der Richter ermächtigt mit dem Zahlungsverbot den Bezogenen, am Verfalltage den Wechselbetrag zu hinterlegen, und bestimmt den Ort der Hinterlegung.
 
-##### [2. Bekannter In­haber](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_2)
+##### [2. Bekannter In­haber](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_2)
 
 
 [**Art. 1073**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1073) 
@@ -14829,9 +14951,9 @@ Die Verjährung wird durch Anhebung der Klage, durch Einreichung des Betreibungs
 
 [2] Klagt der Gesuchsteller nicht binnen dieser Frist, so hebt der Richter das dem Bezogenen auferlegte Zahlungsverbot auf.
 
-##### [3. Unbekann­ter In­haber](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_3)
+##### [3. Unbekann­ter In­haber](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_3)
 
-###### [a. Pflichten des Ge­such­stellers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_3/lvl_a)
+###### [a. Pflichten des Ge­such­stellers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_3/lvl_a)
 
 [**Art. 1074**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1074) 
 
@@ -14839,14 +14961,14 @@ Die Verjährung wird durch Anhebung der Klage, durch Einreichung des Betreibungs
 
 [2] Wer die Kraftloserklärung begehrt, hat den Besitz und Verlust des Wechsels glaubhaft zu machen und entweder eine Abschrift des Wechsels oder Angaben über dessen wesentlichen Inhalt beizubrin­gen.
 
-###### [b. Einleitung des Aufgebots](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_3/lvl_b)
+###### [b. Einleitung des Aufgebots](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_3/lvl_b)
 
 
 [**Art. 1075**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1075) 
 
 Erachtet der Richter die Darstellung des Gesuchstellers über den frü­hern Besitz und über den Verlust des Wechsels für glaubhaft, so for­dert er durch öffentliche Bekanntmachung den Inhaber auf, innerhalb bestimmter Frist den Wechsel vorzulegen, widrigenfalls die Kraftlo­s­erklärung ausgesprochen werde.
 
-###### [c. Fristen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_3/lvl_c)
+###### [c. Fristen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_3/lvl_c)
 
 [**Art. 1076**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1076) 
 
@@ -14856,7 +14978,7 @@ Erachtet der Richter die Darstellung des Gesuchstellers über den frü­hern Bes
 
 [3] Die Frist läuft bei verfallenen Wechseln vom Tage der ersten öffent­lichen Bekanntmachung, bei noch nicht verfallenen Wechseln vom Verfall an.
 
-###### [d. Veröffent­lichung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_3/lvl_d)
+###### [d. Veröffent­lichung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_3/lvl_d)
 
 [**Art. 1077**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1077) 
 
@@ -14864,9 +14986,9 @@ Erachtet der Richter die Darstellung des Gesuchstellers über den frü­hern Bes
 
 [2] In besondern Fällen kann der Richter noch in anderer Weise für angemessene Veröffentlichung sorgen.
 
-##### [4. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_4)
+##### [4. Wirkung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_4)
 
-###### [a. Bei Vor­le­gung des Wech­sels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_4/lvl_a)
+###### [a. Bei Vor­le­gung des Wech­sels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_4/lvl_a)
 
 [**Art. 1078**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1078) 
 
@@ -14874,7 +14996,7 @@ Erachtet der Richter die Darstellung des Gesuchstellers über den frü­hern Bes
 
 [2] Klagt der Gesuchsteller nicht binnen dieser Frist, so gibt der Richter den Wechsel zurück und hebt das dem Bezogenen auferlegte Zah­lungsverbot auf.
 
-###### [b. Bei Nicht­vorle­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_4/lvl_b)
+###### [b. Bei Nicht­vorle­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_4/lvl_b)
 
 [**Art. 1079**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1079) 
 
@@ -14882,7 +15004,7 @@ Erachtet der Richter die Darstellung des Gesuchstellers über den frü­hern Bes
 
 [2] Nach der Kraftloserklärung des Wechsels kann der Gesuchsteller sei­nen wechselmässigen Anspruch noch gegen den Annehmenden gel­tend machen.
 
-##### [5. Richterliche Ver­fügungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XII_I/lvl_5)
+##### [5. Richterliche Ver­fügungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XII_I/lvl_5)
 
 [**Art. 1080**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1080) 
 
@@ -14890,11 +15012,11 @@ Erachtet der Richter die Darstellung des Gesuchstellers über den frü­hern Bes
 
 [2] Die Sicherheit haftet dem gutgläubigen Erwerber des Wechsels. Sie wird frei, wenn der Wechsel kraftlos erklärt wird oder die Ansprüche aus ihm sonst erlöschen.
 
-#### [XIV. Allgemeine Vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_V)
+#### [XIV. Allgemeine Vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_V)
 
-##### [1. Frist­bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_V/lvl_1)
+##### [1. Frist­bestimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_V/lvl_1)
 
-###### [a. Feiertage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_V/lvl_1/lvl_a)
+###### [a. Feiertage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_V/lvl_1/lvl_a)
 
 [**Art. 1081**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1081) 
 
@@ -14902,19 +15024,19 @@ Erachtet der Richter die Darstellung des Gesuchstellers über den frü­hern Bes
 
 [2] Fällt der letzte Tag einer Frist, innerhalb deren eine dieser Handlun­gen vorgenommen werden muss, auf einen Sonntag oder einen ande­ren staatlich anerkannten Feiertag, so wird die Frist bis zum näch­s­ten Werktage verlängert. Feiertage, die in den Lauf einer Frist fallen, wer­den bei der Berechnung der Frist mitgezählt.
 
-###### [b. Frist­berechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_V/lvl_1/lvl_b)
+###### [b. Frist­berechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_V/lvl_1/lvl_b)
 
 [**Art. 1082**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1082) 
 
 Bei der Berechnung der gesetzlichen oder im Wechsel bestimmten Fris­ten wird der Tag, von dem sie zu laufen beginnen, nicht mit­gezählt.
 
-###### [c. Ausschluss von Respekt­tagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_V/lvl_1/lvl_c)
+###### [c. Ausschluss von Respekt­tagen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_V/lvl_1/lvl_c)
 
 [**Art. 1083**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1083) 
 
 Weder gesetzliche noch richterliche Respekttage werden anerkannt.
 
-##### [2. Ort der Vor­nah­me wechsel­rechtli­cher Handlungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_V/lvl_2)
+##### [2. Ort der Vor­nah­me wechsel­rechtli­cher Handlungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_V/lvl_2)
 
 [**Art. 1084**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1084) 
 
@@ -14924,7 +15046,7 @@ Weder gesetzliche noch richterliche Respekttage werden anerkannt.
 
 [3] Ist jedoch eine Nachfrage bei der Polizeibehörde oder Post stelle des Ortes ohne Erfolg geblieben, so bedarf es keiner weiteren Nachfor­schungen.
 
-##### [3. Eigen­händige Unterschrift. Un­ter­schrift des Blinden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_XI_V/lvl_3)
+##### [3. Eigen­händige Unterschrift. Un­ter­schrift des Blinden](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_XI_V/lvl_3)
 
 
 [**Art. 1085**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1085) 
@@ -14935,9 +15057,9 @@ Weder gesetzliche noch richterliche Respekttage werden anerkannt.
 
 [3] Die Unterschrift des Blinden muss beglaubigt sein.
 
-#### [XV. Geltungsbereich der Gesetze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V)
+#### [XV. Geltungsbereich der Gesetze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V)
 
-##### [1. Wechsel­fä­hig­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_1)
+##### [1. Wechsel­fä­hig­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_1)
 
 [**Art. 1086**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1086) 
 
@@ -14945,10 +15067,10 @@ Weder gesetzliche noch richterliche Respekttage werden anerkannt.
 
 [2] Wer nach dem im vorstehenden Absatz bezeichneten Recht nicht wechselfähig ist, wird gleichwohl gültig verpflichtet, wenn die Unter­schrift in dem Gebiet eines Landes abgegeben worden ist, nach dessen Recht er wechselfähig wäre.
 
-##### [2. Form und Fri­sten der Wech­sel­erklärungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_2)
+##### [2. Form und Fri­sten der Wech­sel­erklärungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_2)
 
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_2/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_2/lvl_a)
 
 
 [**Art. 1087**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1087) 
@@ -14959,23 +15081,23 @@ Weder gesetzliche noch richterliche Respekttage werden anerkannt.
 
 [3] Ebenso ist eine Wechselerklärung, die ein Schweizer im Ausland abgegeben hat, in der Schweiz gegenüber einem anderen Schweizer gül­tig, wenn sie den Formerfordernissen des schweizerischen Rechtes ge­nügt.
 
-###### [b. Handlungen zur Ausübung und Er­haltung des Wech­sel­rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_2/lvl_b)
+###### [b. Handlungen zur Ausübung und Er­haltung des Wech­sel­rechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_2/lvl_b)
 
 [**Art. 1088**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1088) 
 
 Die Form des Protestes und die Fristen für die Protesterhebung sowie die Form der übrigen Handlungen, die zur Ausübung oder Erhaltung der Wechselrechte erforderlich sind, bestimmen sich nach dem Recht des Landes, in dessen Gebiet der Protest zu erheben oder die Hand­lung vorzunehmen ist.
 
-###### [c. Ausübung des Rückgriffs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_2/lvl_c)
+###### [c. Ausübung des Rückgriffs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_2/lvl_c)
 
 
 [**Art. 1089**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1089) 
 
 Die Fristen für die Ausübung der Rückgriffsrechte werden für alle Wechselverpflichteten durch das Recht des Ortes bestimmt, an dem der Wechsel ausgestellt worden ist.
 
-##### [3. Wirkung der Wechsel­erklä­run­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_3)
+##### [3. Wirkung der Wechsel­erklä­run­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_3)
 
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_3/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_3/lvl_a)
 
 
 [**Art. 1090**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1090) 
@@ -14984,40 +15106,40 @@ Die Fristen für die Ausübung der Rückgriffsrechte werden für alle Wechselver
 
 [2] Die Wirkungen der übrigen Wechselerklärungen bestimmen sich nach dem Recht des Landes, in dessen Gebiete die Erklärungen unter­schrieben worden sind.
 
-###### [b. Teilannahme und Teil­zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_3/lvl_b)
+###### [b. Teilannahme und Teil­zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_3/lvl_b)
 
 [**Art. 1091**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1091) 
 
 Das Recht des Zahlungsortes bestimmt, ob die Annahme eines gezo­genen Wechsels auf einen Teil der Summe beschränkt werden kann und ob der Inhaber verpflichtet oder nicht verpflichtet ist, eine Teil­zahlung anzunehmen.
 
-###### [c. Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_3/lvl_c)
+###### [c. Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_3/lvl_c)
 
 [**Art. 1092**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1092) 
 
 Die Zahlung des Wechsels bei Verfall, insbesondere die Berechnung des Verfalltages und des Zahlungstages sowie die Zahlung von Wech­seln, die auf eine fremde Währung lauten, bestimmen sich nach dem Recht des Landes, in dessen Gebiete der Wechsel zahlbar ist.
 
-###### [d. Bereiche­rungs­anspruch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_3/lvl_d)
+###### [d. Bereiche­rungs­anspruch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_3/lvl_d)
 
 [**Art. 1093**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1093) 
 
 Der Bereicherungsanspruch gegen den Bezogenen, den Domiziliaten und die Person oder Firma, für deren Rechnung der Aussteller den Wechsel gezogen hat, bestimmt sich nach dem Recht des Landes, in dessen Gebiet diese Personen ihren Wohnsitz haben.
 
-###### [e. Übergang der Deckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_3/lvl_e)
+###### [e. Übergang der Deckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_3/lvl_e)
 
 
 [**Art. 1094**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1094) 
 
 Das Recht des Ausstellungsortes bestimmt, ob der Inhaber eines ge­zo­genen Wechsels die seiner Ausstellung zugrunde liegende Forde­rung erwirbt.
 
-###### [f. Kraftlos­erklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_X_V/lvl_3/lvl_f)
+###### [f. Kraftlos­erklärung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_X_V/lvl_3/lvl_f)
 
 [**Art. 1095**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1095) 
 
 Das Recht des Zahlungsortes bestimmt die Massnahmen, die bei Ver­lust oder Diebstahl eines Wechsels zu ergreifen sind.
 
-#### [C. Eigener Wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_C)
+#### [C. Eigener Wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_C)
 
-##### [1. Erfordernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_C/lvl_1)
+##### [1. Erfordernisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_C/lvl_1)
 
 [**Art. 1096**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1096) 
 
@@ -15032,7 +15154,7 @@ Der eigene Wechsel enthält:
 |    6. die Angabe des Tages und des Ortes der Ausstellung;  
 |    7. die Unterschrift des Ausstellers.
 
-##### [2. Fehlen von Erfor­der­nissen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_C/lvl_2)
+##### [2. Fehlen von Erfor­der­nissen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_C/lvl_2)
 
 [**Art. 1097**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1097) 
 
@@ -15044,7 +15166,7 @@ Der eigene Wechsel enthält:
 
 [4] Ein eigener Wechsel ohne Angabe des Ausstellungsortes gilt als aus­ge­stellt an dem Orte, der bei dem Namen des Ausstellers angege­ben ist.
 
-##### [3. Verweisung auf den ge­zoge­nen Wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_C/lvl_3)
+##### [3. Verweisung auf den ge­zoge­nen Wechsel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_C/lvl_3)
 
 
 [**Art. 1098**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1098) 
@@ -15065,7 +15187,7 @@ die Feiertage, die Fristenberechnung, das Verbot der Respekttage, den Ort der Vo
 
 [3] Ebenso finden auf den eigenen Wechsel die Vorschriften über die Wechselbürgschaft Anwendung (Art. 1020–1022); im Falle des Arti­kels 1021 Absatz 4 gilt die Wechselbürgschaft, wenn die Erklärung nicht angibt, für wen sie geleistet wird, für den Aussteller des eigenen Wechsels.
 
-##### [4. Haftung des Aus­stellers. Vorlegung zur Sichtnahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_4/lvl_C/lvl_4)
+##### [4. Haftung des Aus­stellers. Vorlegung zur Sichtnahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_4/lvl_C/lvl_4)
 
 [**Art. 1099**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1099) 
 
@@ -15073,11 +15195,11 @@ die Feiertage, die Fristenberechnung, das Verbot der Respekttage, den Ort der Vo
 
 [2] Eigene Wechsel, die auf eine bestimmte Zeit nach Sicht lauten, müs­sen dem Aussteller innerhalb der im Artikel 1013 bezeichneten Fri­sten zur Sicht vorgelegt werden. Die Sicht ist von dem Aussteller auf dem Wechsel unter Angabe des Tages und Beifügung der Unterschrift zu bestätigen. Die Nachsichtfrist läuft vom Tage des Sichtvermerks. Wei­gert sich der Aussteller, die Sicht unter Angabe des Tages zu be­stäti­gen, so ist dies durch einen Protest festzustellen (Art. 1015); die Nach­sichtfrist läuft dann vom Tage des Protestes.
 
-### [Fünfter Abschnitt: Der Check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5)
+### [Fünfter Abschnitt: Der Check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5)
 
-#### [I. Ausstellung und Form des Checks](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I)
+#### [I. Ausstellung und Form des Checks](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I)
 
-##### [1. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I/lvl_1)
+##### [1. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I/lvl_1)
 
 [**Art. 1100**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1100) 
 
@@ -15091,7 +15213,7 @@ Der Check enthält:
 |    5. die Angabe des Tages und des Ortes der Ausstellung;  
 |    6. die Unterschrift des Ausstellers.
 
-##### [2. Fehlen von Erfor­der­nissen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I/lvl_2)
+##### [2. Fehlen von Erfor­der­nissen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I/lvl_2)
 
 [**Art. 1101**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1101) 
 
@@ -15103,7 +15225,7 @@ Der Check enthält:
 
 [4] Ein Check ohne Angabe des Ausstellungsortes gilt als ausgestellt an dem Orte, der bei dem Namen des Ausstellers angegeben ist.
 
-##### [3. Passive Checkfä­hig­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I/lvl_3)
+##### [3. Passive Checkfä­hig­keit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I/lvl_3)
 
 [**Art. 1102**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1102) 
 
@@ -15111,7 +15233,7 @@ Der Check enthält:
 
 [2] Ein auf eine andere Person gezogener Check gilt nur als Anweisung.
 
-##### [4. Deckungs­erfor­dernis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I/lvl_4)
+##### [4. Deckungs­erfor­dernis](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I/lvl_4)
 
 [**Art. 1103**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1103) 
 
@@ -15121,13 +15243,13 @@ Der Check enthält:
 
 [3] Wer einen Check ausstellt, ohne bei dem Bezogenen für den ange­wiesenen Betrag verfügungsberechtigt zu sein, hat dem Inhaber des Checks ausser dem verursachten Schaden fünf vom Hundert des nicht gedeckten Betrages der angewiesenen Summe zu vergüten.
 
-##### [5. Ausschluss der Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I/lvl_5)
+##### [5. Ausschluss der Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I/lvl_5)
 
 [**Art. 1104**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1104) 
 
 Der Check kann nicht angenommen werden. Ein auf den Check gesetzter Annahmevermerk gilt als nicht geschrieben.
 
-##### [6. Bezeichnung des Remit­tenten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I/lvl_6)
+##### [6. Bezeichnung des Remit­tenten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I/lvl_6)
 
 [**Art. 1105**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1105) 
 
@@ -15140,21 +15262,21 @@ an den Inhaber.
 
 [3] Ein Check ohne Angabe des Nehmers gilt als zahlbar an den Inha­ber.
 
-##### [7. Zinsvermerk](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I/lvl_7)
+##### [7. Zinsvermerk](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I/lvl_7)
 
 [**Art. 1106**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1106) 
 
 Ein in den Check aufgenommener Zinsvermerk gilt als nicht ge­schrie­ben.
 
-##### [8. Zahlstellen. Do­mizilcheck](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I/lvl_8)
+##### [8. Zahlstellen. Do­mizilcheck](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I/lvl_8)
 
 [**Art. 1107**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1107) 
 
 Der Check kann bei einem Dritten, am Wohnort des Bezogenen oder an einem andern Orte zahlbar gestellt werden, sofern der Dritte Bankier ist.
 
-#### [II. Übertragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_I)
+#### [II. Übertragung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_I)
 
-##### [1. Übertrag­barkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_I/lvl_1)
+##### [1. Übertrag­barkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_I/lvl_1)
 
 [**Art. 1108**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1108) 
 
@@ -15164,7 +15286,7 @@ Der Check kann bei einem Dritten, am Wohnort des Bezogenen oder an einem andern 
 
 [3] Das Indossament kann auch auf den Aussteller oder jeden anderen Checkverpflichteten lauten. Diese Personen können den Check weiter indossieren.
 
-##### [2. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_I/lvl_2)
+##### [2. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_I/lvl_2)
 
 [**Art. 1109**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1109) 
 
@@ -15178,25 +15300,25 @@ Der Check kann bei einem Dritten, am Wohnort des Bezogenen oder an einem andern 
 
 [5] Das Indossament an den Bezogenen gilt nur als Quittung, es sei denn, dass der Bezogene mehrere Niederlassungen hat und das Indos­sament auf eine andere Niederlassung lautet als diejenige, auf die der Check gezogen worden ist.
 
-##### [3. Legiti­mation des Inhabers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_I/lvl_3)
+##### [3. Legiti­mation des Inhabers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_I/lvl_3)
 
 [**Art. 1110**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1110) 
 
 Wer einen durch Indossament übertragbaren Check in Händen hat, gilt als rechtmässiger Inhaber, sofern er sein Recht durch eine unun­ter­bro­chene Reihe von Indossamenten nachweist, und zwar auch dann, wenn das letzte ein Blankoindossament ist. Ausgestrichene In­dossa­mente gelten hiebei als nicht geschrieben. Folgt auf ein Blanko­indos­sament ein weiteres Indossament, so wird angenommen, dass der Aussteller dieses Indossaments den Check durch das Blankoindossa­ment erwor­ben hat.
 
-##### [4. Inhaber­check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_I/lvl_4)
+##### [4. Inhaber­check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_I/lvl_4)
 
 [**Art. 1111**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1111) 
 
 Ein Indossament auf einem Inhabercheck macht den Indossanten nach den Vorschriften über den Rückgriff haftbar, ohne aber die Urkunde in einen Ordrecheck umzuwandeln.
 
-##### [5. Abhanden­gekommener Check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_I/lvl_5)
+##### [5. Abhanden­gekommener Check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_I/lvl_5)
 
 [**Art. 1112**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1112) 
 
 Ist der Check einem früheren Inhaber irgendwie abhanden gekom­men, so ist der Inhaber, in dessen Hände der Check gelangt ist – sei es, dass es sich um einen Inhabercheck handelt, sei es, dass es sich um einen durch Indossament übertragbaren Check handelt und der Inha­ber sein Recht gemäss Artikel 1110 nachweist –, zur Herausgabe des Checks nur verpflichtet, wenn er ihn in bösem Glauben erworben hat oder ihm beim Erwerb eine grobe Fahrlässigkeit zur Last fällt.
 
-##### [6. Rechte aus dem Nach­indossament](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_I/lvl_6)
+##### [6. Rechte aus dem Nach­indossament](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_I/lvl_6)
 
 [**Art. 1113**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1113) 
 
@@ -15204,7 +15326,7 @@ Ist der Check einem früheren Inhaber irgendwie abhanden gekom­men, so ist der 
 
 [2] Bis zum Beweis des Gegenteils wird vermutet, dass ein nicht datier­tes Indossament vor Erhebung des Protests oder vor der Vornahme einer gleichbedeutenden Feststellung oder vor Ablauf der Vorlegungs­frist auf den Check gesetzt worden ist.
 
-#### [III. Checkbürgschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_II_I)
+#### [III. Checkbürgschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_II_I)
 
 [**Art. 1114**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1114) 
 
@@ -15212,9 +15334,9 @@ Ist der Check einem früheren Inhaber irgendwie abhanden gekom­men, so ist der 
 
 [2] Diese Sicherheit kann von einem Dritten, mit Ausnahme des Bezo­genen, oder auch von einer Person geleistet werden, deren Unter­schrift sich schon auf dem Check befindet.
 
-#### [IV. Vorlegung und Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_V)
+#### [IV. Vorlegung und Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_V)
 
-##### [1. Verfallzeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_V/lvl_1)
+##### [1. Verfallzeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_V/lvl_1)
 
 [**Art. 1115**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1115) 
 
@@ -15222,7 +15344,7 @@ Ist der Check einem früheren Inhaber irgendwie abhanden gekom­men, so ist der 
 
 [2] Ein Check, der vor Eintritt des auf ihm angegebenen Ausstellungs­tages zur Zahlung vorgelegt wird, ist am Tage der Vorlegung zahlbar.
 
-##### [2. Vorlegung zur Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_V/lvl_2)
+##### [2. Vorlegung zur Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_V/lvl_2)
 
 
 [**Art. 1116**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1116) 
@@ -15235,23 +15357,23 @@ Ist der Check einem früheren Inhaber irgendwie abhanden gekom­men, so ist der 
 
 [4] Die vorstehend erwähnten Fristen beginnen an dem Tage zu laufen, der in dem Check als Ausstellungstag angegeben ist.
 
-##### [3. Zeit­berechnung nach altem Stil](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_V/lvl_3)
+##### [3. Zeit­berechnung nach altem Stil](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_V/lvl_3)
 
 
 [**Art. 1117**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1117) 
 
 Ist ein Check auf einen Ort gezogen, dessen Kalender von dem des Ausstellungsortes abweicht, so wird der Tag der Ausstellung in den nach dem Kalender des Zahlungsortes entsprechenden Tag umge­rech­net.
 
-##### [4. Einlieferung in ei­ne Ab­rech­nungs­stelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_V/lvl_4)
+##### [4. Einlieferung in ei­ne Ab­rech­nungs­stelle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_V/lvl_4)
 
 
 [**Art. 1118**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1118) 
 
 Die Einlieferung in eine von der Schweizerischen Nationalbank anerkannte Abrechnungsstelle steht der Vorlegung zur Zahlung gleich.
 
-##### [5. Widerruf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_V/lvl_5)
+##### [5. Widerruf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_V/lvl_5)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_V/lvl_5/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_V/lvl_5/lvl_a)
 
 
 [**Art. 1119**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1119) 
@@ -15262,19 +15384,19 @@ Die Einlieferung in eine von der Schweizerischen Nationalbank anerkannte Abrechn
 
 [3] Behauptet der Aussteller, dass der Check ihm oder einem Dritten abhanden gekommen sei, so kann er dem Bezogenen die Einlösung ver­bieten.
 
-###### [b. Bei Tod, Hand­lungs­unfähigkeit, Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_V/lvl_5/lvl_b)
+###### [b. Bei Tod, Hand­lungs­unfähigkeit, Konkurs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_V/lvl_5/lvl_b)
 
 [**Art. 1120**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1120) 
 
 Auf die Wirksamkeit des Checks ist es ohne Einfluss, wenn nach der Begebung des Checks der Aussteller stirbt oder handlungsunfähig wird oder wenn über sein Vermögen der Konkurs eröffnet wird.
 
-##### [6. Prüfung der In­dossamente](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_V/lvl_6)
+##### [6. Prüfung der In­dossamente](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_V/lvl_6)
 
 [**Art. 1121**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1121) 
 
 Der Bezogene, der einen durch Indossament übertragbaren Check einlöst, ist verpflichtet, die Ordnungsmässigkeit der Reihe der Indos­samente, aber nicht die Unterschriften der Indossanten, zu prüfen.
 
-##### [7. Zahlung in frem­der Wäh­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_V/lvl_7)
+##### [7. Zahlung in frem­der Wäh­rung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_V/lvl_7)
 
 
 
@@ -15288,11 +15410,11 @@ Der Bezogene, der einen durch Indossament übertragbaren Check einlöst, ist ver
 
 [4] Lautet der Check auf eine Geldsorte, die im Lande der Ausstellung dieselbe Bezeichnung, aber einen andern Wert hat als in dem der Zahlung, so wird vermutet, dass die Geldsorte des Zahlungsortes gemeint ist.
 
-#### [V. Gekreuzter Check und Verrechnungscheck](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V)
+#### [V. Gekreuzter Check und Verrechnungscheck](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V)
 
-##### [1. Gekreuzter Check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V/lvl_1)
+##### [1. Gekreuzter Check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V/lvl_1)
 
-###### [a. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V/lvl_1/lvl_a)
+###### [a. Begriff](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V/lvl_1/lvl_a)
 
 [**Art. 1123**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1123) 
 
@@ -15306,7 +15428,7 @@ Der Bezogene, der einen durch Indossament übertragbaren Check einlöst, ist ver
 
 [5] Die Streichung der Kreuzung oder des Namens des bezeichneten Bankiers gilt als nicht erfolgt.
 
-###### [b. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V/lvl_1/lvl_b)
+###### [b. Wirkungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V/lvl_1/lvl_b)
 
 [**Art. 1124**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1124) 
 
@@ -15320,9 +15442,9 @@ Der Bezogene, der einen durch Indossament übertragbaren Check einlöst, ist ver
 
 [5] Der Bezogene oder der Bankier, der den vorstehenden Vorschriften zuwiderhandelt, haftet für den entstandenen Schaden, jedoch nur bis zur Höhe der Checksumme.
 
-##### [2. Ver­rechnung­s­check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V/lvl_2)
+##### [2. Ver­rechnung­s­check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V/lvl_2)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V/lvl_2/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V/lvl_2/lvl_a)
 
 
 [**Art. 1125**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1125) 
@@ -15335,7 +15457,7 @@ Der Bezogene, der einen durch Indossament übertragbaren Check einlöst, ist ver
 
 [4] Der Bezogene, der den vorstehenden Vorschriften zuwiderhandelt, haftet für den entstandenen Schaden, jedoch nur bis zur Höhe der Checksumme.
 
-###### [b. Rechte des In­ha­bers bei Kon­kurs, Zah­lungs­einstellung, Zwangs­voll­streckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V/lvl_2/lvl_b)
+###### [b. Rechte des In­ha­bers bei Kon­kurs, Zah­lungs­einstellung, Zwangs­voll­streckung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V/lvl_2/lvl_b)
 
 
 
@@ -15345,16 +15467,16 @@ Der Bezogene, der einen durch Indossament übertragbaren Check einlöst, ist ver
 
 [2] Dasselbe gilt, wenn der Inhaber infolge von Massnahmen, die auf Grund des Bankengesetzes vom 8. November 1934 getroffen worden sind, über die Gut­schrift beim Bezogenen nicht verfügen kann.
 
-###### [c. Rechte des In­ha­bers bei Ver­weige­rung der Gutschrift oder der Aus­glei­chung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V/lvl_2/lvl_c)
+###### [c. Rechte des In­ha­bers bei Ver­weige­rung der Gutschrift oder der Aus­glei­chung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V/lvl_2/lvl_c)
 
 
 [**Art. 1127**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1127) 
 
 Der Inhaber eines Verrechnungschecks ist ferner berechtigt, Rückgriff zu nehmen, wenn er nachweist, dass der Bezogene die bedingungslose Gutschrift ablehnt oder dass der Check von der Abrechnungsstelle des Zahlungsortes als zur Ausgleichung von Verbindlichkeiten des Inha­bers ungeeignet erklärt worden ist.
 
-#### [VI. Rückgriff mangels Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V_I)
+#### [VI. Rückgriff mangels Zahlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V_I)
 
-##### [1. Rückgriffs­rechte des Inha­bers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V_I/lvl_1)
+##### [1. Rückgriffs­rechte des Inha­bers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V_I/lvl_1)
 
 
 [**Art. 1128**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1128) 
@@ -15366,7 +15488,7 @@ Der Inhaber kann gegen die Indossanten, den Aussteller und die ande­ren Checkve
 |    2. durch eine schriftliche, datierte Erklärung des Bezogenen auf dem Check, die den Tag der Vorlegung angibt, oder  
 |    3. durch eine datierte Erklärung einer Abrechnungsstelle, dass der Check rechtzeitig eingeliefert und nicht bezahlt worden ist.
 
-##### [2. Protest­erhebung. Fristen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V_I/lvl_2)
+##### [2. Protest­erhebung. Fristen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V_I/lvl_2)
 
 [**Art. 1129**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1129) 
 
@@ -15374,7 +15496,7 @@ Der Inhaber kann gegen die Indossanten, den Aussteller und die ande­ren Checkve
 
 [2] Ist die Vorlegung am letzten Tage der Frist erfolgt, so kann der Pro­test oder die gleichbedeutende Feststellung auch noch an dem folgen­den Werktage vorgenommen werden.
 
-##### [3. Inhalt der Rückgriffs­forderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V_I/lvl_3)
+##### [3. Inhalt der Rückgriffs­forderung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V_I/lvl_3)
 
 [**Art. 1130**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1130) 
 
@@ -15386,7 +15508,7 @@ Der Inhaber kann im Wege des Rückgriffs verlangen:
 |    3. die Kosten des Protestes oder der gleichbedeutenden Feststel­lung und der Nachrichten sowie die anderen Auslagen;  
 |    4. eine Provision von höchstens einem Drittel Prozent.
 
-##### [4. Vorbehalt der hö­heren Gewalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_V_I/lvl_4)
+##### [4. Vorbehalt der hö­heren Gewalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_V_I/lvl_4)
 
 [**Art. 1131**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1131) 
 
@@ -15400,19 +15522,19 @@ Der Inhaber kann im Wege des Rückgriffs verlangen:
 
 [5] Tatsachen, die rein persönlich den Inhaber oder denjenigen betref­fen, den er mit der Vorlegung des Checks oder mit der Erhebung des Pro­testes oder mit der Herbeiführung einer gleichbedeutenden Fest­stel­lung beauftragt hat, gelten nicht als Fälle höherer Gewalt.
 
-#### [VII. Gefälschter Check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_VI_I)
+#### [VII. Gefälschter Check](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_VI_I)
 
 [**Art. 1132**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1132) 
 
 Der aus der Einlösung eines falschen oder verfälschten Checks sich ergebende Schaden trifft den Bezogenen, sofern nicht dem in dem Check genannten Aussteller ein Verschulden zur Last fällt, wie namentlich eine nachlässige Verwahrung der ihm überlassenen Check­formulare.
 
-#### [VIII. Ausfertigung mehrerer Stücke eines Checks](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_VII_I)
+#### [VIII. Ausfertigung mehrerer Stücke eines Checks](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_VII_I)
 
 [**Art. 1133**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1133) 
 
 Checks, die nicht auf den Inhaber gestellt sind und in einem anderen Lande als dem der Ausstellung oder in einem überseeischen Gebiete des Landes der Ausstellung zahlbar sind, und umgekehrt, oder in dem überseeischen Gebiete eines Landes ausgestellt und zahlbar sind, oder in dem überseeischen Gebiete eines Landes ausgestellt und in einem anderen überseeischen Gebiete desselben Landes zahlbar sind, kön­nen in mehreren gleichen Ausfertigungen ausgestellt werden. Diese Aus­fertigungen müssen im Texte der Urkunde mit fortlaufenden Num­mern versehen sein; andernfalls gilt jede Ausfertigung als beson­derer Check.
 
-#### [IX. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_I_X)
+#### [IX. Verjährung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_I_X)
 
 [**Art. 1134**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1134) 
 
@@ -15420,17 +15542,17 @@ Checks, die nicht auf den Inhaber gestellt sind und in einem anderen Lande als d
 
 [2] Die Rückgriffsansprüche eines Verpflichteten gegen einen andern Checkverpflichteten verjähren in sechs Monaten von dem Tage, an dem der Check von dem Verpflichteten eingelöst oder ihm gegenüber gerichtlich geltend gemacht worden ist.
 
-#### [X. Allgemeine Vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X)
+#### [X. Allgemeine Vorschriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X)
 
-##### [1. Begriff des «Bankiers»](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X/lvl_1)
+##### [1. Begriff des «Bankiers»](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X/lvl_1)
 
 [**Art. 1135**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1135) 
 
 In diesem Abschnitt sind unter der Bezeichnung «Bankier» Firmen zu verstehen, die dem Bankengesetz vom 8. November 1934 unterstehen.
 
-##### [2. Frist­bestimmun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X/lvl_2)
+##### [2. Frist­bestimmun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X/lvl_2)
 
-###### [a. Feiertage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X/lvl_2/lvl_a)
+###### [a. Feiertage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X/lvl_2/lvl_a)
 
 [**Art. 1136**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1136) 
 
@@ -15440,15 +15562,15 @@ In diesem Abschnitt sind unter der Bezeichnung «Bankier» Firmen zu verstehen, 
 
 Feiertage, die in den Lauf einer Frist fallen, werden bei der Berech­nung der Frist mitgezählt.
 
-###### [b. Frist­berechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X/lvl_2/lvl_b)
+###### [b. Frist­berechnung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X/lvl_2/lvl_b)
 
 [**Art. 1137**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1137) 
 
 Bei der Berechnung der in diesem Gesetz vorgesehenen Fristen wird der Tag, an dem sie zu laufen beginnen, nicht mitgezählt.
 
-#### [XI. Geltungsbereich der Gesetze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X_I)
+#### [XI. Geltungsbereich der Gesetze](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X_I)
 
-##### [1. Passive Check­fähigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X_I/lvl_1)
+##### [1. Passive Check­fähigkeit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X_I/lvl_1)
 
 [**Art. 1138**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1138) 
 
@@ -15456,7 +15578,7 @@ Bei der Berechnung der in diesem Gesetz vorgesehenen Fristen wird der Tag, an de
 
 [2] Ist nach diesem Recht der Check im Hinblick auf die Person des Bezogenen nichtig, so sind gleichwohl die Verpflichtungen aus Unter­schriften gültig, die in Ländern auf den Check gesetzt worden sind, deren Recht die Nichtigkeit aus einem solchen Grunde nicht vorsieht.
 
-##### [2. Form und Fri­sten der Check­erklärungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X_I/lvl_2)
+##### [2. Form und Fri­sten der Check­erklärungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X_I/lvl_2)
 
 
 [**Art. 1139**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1139) 
@@ -15467,15 +15589,15 @@ Bei der Berechnung der in diesem Gesetz vorgesehenen Fristen wird der Tag, an de
 
 [3] Ebenso ist eine Checkerklärung, die ein Schweizer im Ausland ab­ge­geben hat, in der Schweiz gegenüber einem anderen Schweizer gül­tig, wenn sie den Formerfordernissen des schweizerischen Rechts ge­nügt.
 
-##### [3. Wirkung der Check­­erklärungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X_I/lvl_3)
+##### [3. Wirkung der Check­­erklärungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X_I/lvl_3)
 
-###### [a. Recht des Ausstel­lungs­ortes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X_I/lvl_3/lvl_a)
+###### [a. Recht des Ausstel­lungs­ortes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X_I/lvl_3/lvl_a)
 
 [**Art. 1140**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1140) 
 
 Die Wirkungen der Checkerklärungen bestimmen sich nach dem Recht des Landes, in dessen Gebiete die Erklärungen unterschrieben worden sind.
 
-###### [b. Recht des Zah­lungs­ortes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X_I/lvl_3/lvl_b)
+###### [b. Recht des Zah­lungs­ortes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X_I/lvl_3/lvl_b)
 
 [**Art. 1141**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1141) 
 
@@ -15492,13 +15614,13 @@ Das Recht des Landes, in dessen Gebiet der Check zahlbar ist, bestimmt:
 |    8. die Massnahmen, die im Falle des Verlustes oder des Dieb­stahls des Checks zu ergreifen sind;  
 |    9. ob ein Protest oder eine gleichbedeutende Feststellung zur Erhal­tung des Rückgriffs gegen die Indossanten, den Ausstel­ler und die anderen Checkverpflichteten notwendig ist.
 
-###### [c. Recht des Wohn­sitzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_X_I/lvl_3/lvl_c)
+###### [c. Recht des Wohn­sitzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_X_I/lvl_3/lvl_c)
 
 [**Art. 1142**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1142) 
 
 Der Bereicherungsanspruch gegen den Bezogenen oder den Domizi­liaten bestimmt sich nach dem Recht des Landes, in dessen Gebiet diese Personen ihren Wohnsitz haben.
 
-#### [XII. Anwendbarkeit des Wechselrechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_XI_I)
+#### [XII. Anwendbarkeit des Wechselrechts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_XI_I)
 
 [**Art. 1143**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1143) 
 
@@ -15531,25 +15653,25 @@ Der Bereicherungsanspruch gegen den Bezogenen oder den Domizi­liaten bestimmt s
 
 [3] Die Artikel 1042 Absatz 1, 1043 Absätze 1 und 3 und 1047 werden für die Anwendung auf den Check in dem Sinne ergänzt, dass an die Stelle des Protestes die gleichbedeutende Feststellung nach Artikel 1128 Ziffern 2 und 3 treten kann.
 
-#### [XIII. Vorbehalt besondern Rechtes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_5/lvl_XII_I)
+#### [XIII. Vorbehalt besondern Rechtes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_5/lvl_XII_I)
 
 [**Art. 1144**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1144) 
 
 Vorbehalten bleiben die besondern Bestimmungen über den Post­check.
 
-### [Sechster Abschnitt: Wechselähnliche und andere Ordre­papiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6)
+### [Sechster Abschnitt: Wechselähnliche und andere Ordre­papiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6)
 
 
-#### [A. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_A)
+#### [A. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_A)
 
 
-##### [I. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_A/lvl_I)
+##### [I. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_A/lvl_I)
 
 [**Art. 1145**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1145) 
 
 Ein Wertpapier gilt als Ordrepapier, wenn es an Ordre lautet oder vom Gesetze als Ordrepapier erklärt ist.
 
-##### [II. Einreden des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_A/lvl_I_I)
+##### [II. Einreden des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_A/lvl_I_I)
 
 
 [**Art. 1146**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1146) 
@@ -15558,18 +15680,18 @@ Ein Wertpapier gilt als Ordrepapier, wenn es an Ordre lautet oder vom Gesetze al
 
 [2] Einreden, die sich auf die unmittelbaren Beziehungen des Schuld­ners zum Aussteller oder zu einem frühern Inhaber gründen, sind zu­lässig, wenn der Inhaber bei dem Erwerb des Ordrepapiers bewusst zum Nachteil des Schuldners gehandelt hat.
 
-#### [B. Wechsel­ähnliche Papiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_B)
+#### [B. Wechsel­ähnliche Papiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_B)
 
-##### [I. An­weisungen an Ordre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_B/lvl_I)
+##### [I. An­weisungen an Ordre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_B/lvl_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_B/lvl_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_B/lvl_I/lvl_1)
 
 
 [**Art. 1147**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1147) 
 
 Anweisungen, die im Texte der Urkunde nicht als Wechsel bezeichnet sind, aber ausdrücklich an Ordre lauten und im übrigen den Erforder­nissen des gezogenen Wechsels entsprechen, stehen den gezogenen Wechseln gleich.
 
-###### [2. Keine An­nahme­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_B/lvl_I/lvl_2)
+###### [2. Keine An­nahme­pflicht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_B/lvl_I/lvl_2)
 
 
 [**Art. 1148**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1148) 
@@ -15578,7 +15700,7 @@ Anweisungen, die im Texte der Urkunde nicht als Wechsel bezeichnet sind, aber au
 
 [2] Wird sie trotzdem vorgelegt, aber ihre Annahme verweigert, so steht dem Inhaber ein Rückgriffsrecht aus diesem Grunde nicht zu.
 
-###### [3. Folgen der Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_B/lvl_I/lvl_3)
+###### [3. Folgen der Annahme](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_B/lvl_I/lvl_3)
 
 
 [**Art. 1149**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1149) 
@@ -15589,14 +15711,14 @@ Anweisungen, die im Texte der Urkunde nicht als Wechsel bezeichnet sind, aber au
 
 [3] Ebenso steht dem Inhaber der Rückgriff vor Verfall nicht zu, wenn über den Anweisenden der Konkurs eröffnet worden ist.
 
-###### [4. Keine Wech­sel­betreibung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_B/lvl_I/lvl_4)
+###### [4. Keine Wech­sel­betreibung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_B/lvl_I/lvl_4)
 
 
 [**Art. 1150**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1150) 
 
 Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889 betreffend die Wechselbetreibung finden auf die Anweisung an Ordre keine Anwendung.
 
-##### [II. Zahlungs­ver­sprechen an Or­dre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_B/lvl_I_I)
+##### [II. Zahlungs­ver­sprechen an Or­dre](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_B/lvl_I_I)
 
 
 [**Art. 1151**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1151) 
@@ -15607,7 +15729,7 @@ Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889 b
 
 [3] Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889 betreffend die Wechselbetreibung finden auf das Zahlungsverspre­chen an Ordre keine Anwendung.
 
-#### [C. Andere in­dossier­bare Pa­piere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_6/lvl_C)
+#### [C. Andere in­dossier­bare Pa­piere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_6/lvl_C)
 
 
 
@@ -15619,11 +15741,11 @@ Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889 b
 
 [3] Dagegen sind die Bestimmungen über den Wechselrückgriff auf sol­che Papiere nicht anwendbar.
 
-### [Siebenter Abschnitt: Die Warenpapiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_7)
+### [Siebenter Abschnitt: Die Warenpapiere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_7)
 
-#### [A. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_7/lvl_A)
+#### [A. Erforder­nisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_7/lvl_A)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_7/lvl_A/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_7/lvl_A/lvl_I)
 
 [**Art. 1153**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1153) 
 
@@ -15639,7 +15761,7 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 |    7. die Zahl der Ausfertigungen des Warenpapiers;  
 |    8. die Angabe des Verfügungsberechtigten mit Namen oder an Or­dre oder als Inhaber.
 
-##### [II. Gleichwertige Titel in Wert­rechteregistern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_7/lvl_A/lvl_I_I)
+##### [II. Gleichwertige Titel in Wert­rechteregistern](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_7/lvl_A/lvl_I_I)
 
 [**Art. 1153***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1153_a)
 
@@ -15647,7 +15769,7 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 [2] Die Unterschrift des Ausstellers kann entfallen, wenn der Titel ihm auf andere Weise eindeutig zugeordnet werden kann. Der weitere Inhalt des Titels samt dessen Lasten muss im Wertrechteregister selbst oder in damit verknüpften Begleitdaten festgehalten werden.
 
-#### [B. Der Pfand­schein](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_7/lvl_B)
+#### [B. Der Pfand­schein](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_7/lvl_B)
 
 [**Art. 1154**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1154) 
 
@@ -15655,7 +15777,7 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 [2] Auf den andern Ausfertigungen ist die Ausstellung des Pfandschei­nes anzugeben und jede vorgenommene Verpfändung mit Forde­rungs­betrag und Verfalltag einzutragen.
 
-#### [C. Bedeutung der Form­vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/sec_7/lvl_C)
+#### [C. Bedeutung der Form­vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_33/chap_7/lvl_C)
 
 [**Art. 1155**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1155) 
 
@@ -15665,14 +15787,14 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 ## [Vierunddreissigster Titel: Anleihensobligationen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34)
 
-### [Erster Abschnitt: ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_1)
+### [Erster Abschnitt: …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_1)
 
 [**Art. 1156**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1156)
 
-### [Zweiter Abschnitt:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2) [Gläubigergemeinschaft bei Anleihens­obli­gationen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2)
+### [Zweiter Abschnitt:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2) [Gläubigergemeinschaft bei Anleihens­obli­gationen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2)
 
 
-#### [A. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_A)
+#### [A. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_A)
 
 [**Art. 1157**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1157) 
 
@@ -15682,9 +15804,9 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 [3] Die Vorschriften dieses Abschnittes sind nicht anwendbar auf An­lei­hen des Bundes, der Kantone, der Gemeinden und anderer Körper­schaften und Anstalten des öffentlichen Rechts.
 
-#### [B. Anleihens­vertre­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_B)
+#### [B. Anleihens­vertre­ter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_B)
 
-##### [I. Bestellung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_B/lvl_I)
+##### [I. Bestellung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_B/lvl_I)
 
 [**Art. 1158**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1158) 
 
@@ -15694,9 +15816,9 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 [3] Mehrere Vertreter üben, wenn es nicht anders bestimmt ist, die Ver­tretung gemeinsam aus.
 
-##### [II. Befugnisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_B/lvl_I_I)
+##### [II. Befugnisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_B/lvl_I_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_B/lvl_I_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_B/lvl_I_I/lvl_1)
 
 
 [**Art. 1159**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1159) 
@@ -15707,7 +15829,7 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 [3] Soweit der Vertreter zur Geltendmachung von Rechten der Gläubi­ger ermächtigt ist, sind die einzelnen Gläubiger zur selbständigen Aus­übung ihrer Rechte nicht befugt.
 
-###### [2. Kontrolle des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_B/lvl_I_I/lvl_2)
+###### [2. Kontrolle des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_B/lvl_I_I/lvl_2)
 
 
 [**Art. 1160**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1160) 
@@ -15718,7 +15840,7 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 [3] Der Vertreter ist zu solchen Verhandlungen einzuladen und hat Anspruch auf rechtzeitige Mitteilung der für die Verhandlungen massge­benden Grundlagen.
 
-###### [3. Bei pfand­gesicherten Anlei­hen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_B/lvl_I_I/lvl_3)
+###### [3. Bei pfand­gesicherten Anlei­hen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_B/lvl_I_I/lvl_3)
 
 
 [**Art. 1161**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1161) 
@@ -15727,7 +15849,7 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 [2] Der Vertreter hat die Rechte der Gläubiger, des Schuldners und des Eigentümers der Pfandsache mit aller Sorgfalt und Unparteilichkeit zu wahren.
 
-##### [III. Dahin­fallen der Vollmacht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_B/lvl_II_I)
+##### [III. Dahin­fallen der Vollmacht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_B/lvl_II_I)
 
 [**Art. 1162**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1162) 
 
@@ -15739,7 +15861,7 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 [4] Fällt die Vollmacht aus irgendeinem Grunde dahin, so trifft auf Ver­langen eines Anleihensgläubigers oder des Schuldners der Richter die zum Schutze der Anleihensgläubiger und des Schuldners notwen­digen Anordnungen.
 
-##### [IV. Kosten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_B/lvl_I_V)
+##### [IV. Kosten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_B/lvl_I_V)
 
 [**Art. 1163**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1163) 
 
@@ -15747,9 +15869,9 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 [2] Die Kosten einer von der Gläubigergemeinschaft gewählten Vertre­tung werden aus den Leistungen des Anleihensschuldners gedeckt und allen Anleihensgläubigern nach Massgabe des Nennwertes der Obli­gationen, die sie besitzen, in Abzug gebracht.
 
-#### [C. Gläubiger­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_C)
+#### [C. Gläubiger­versammlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_C)
 
-##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_C/lvl_I)
+##### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_C/lvl_I)
 
 
 [**Art. 1164**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1164) 
@@ -15762,9 +15884,9 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wert­papier ausg
 
 [4] Die Kosten der Einberufung und der Abhaltung der Gläubigerver­sammlung trägt der Schuldner.
 
-##### [II. Ein­berufung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_C/lvl_I_I)
+##### [II. Ein­berufung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_C/lvl_I_I)
 
-###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_C/lvl_I_I/lvl_1)
+###### [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_C/lvl_I_I/lvl_1)
 
 
 [**Art. 1165**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1165) 
@@ -15778,7 +15900,7 @@ Gericht die Gesuchsteller ermächtigen, von sich aus eine Gläubiger­versammlun
 
 [4] Hat oder hatte der Schuldner nur eine Niederlassung in der Schweiz, so ist das Gericht am Ort dieser Niederlassung zwingend zuständig.
 
-###### [2. Stundung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_C/lvl_I_I/lvl_2)
+###### [2. Stundung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_C/lvl_I_I/lvl_2)
 
 [**Art. 1166**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1166) 
 
@@ -15790,9 +15912,9 @@ Gericht die Gesuchsteller ermächtigen, von sich aus eine Gläubiger­versammlun
 
 [4] Missbraucht der Schuldner das Recht auf Stundung, so kann sie von der oberen kantonalen Nachlassbehörde auf Begehren eines Anlei­hensgläubigers aufgehoben werden.
 
-##### [III. Abhaltung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_C/lvl_II_I)
+##### [III. Abhaltung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_C/lvl_II_I)
 
-###### [1. Stimmrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_C/lvl_II_I/lvl_1)
+###### [1. Stimmrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_C/lvl_II_I/lvl_1)
 
 [**Art. 1167**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1167) 
 
@@ -15802,7 +15924,7 @@ Gericht die Gesuchsteller ermächtigen, von sich aus eine Gläubiger­versammlun
 
 [3] Ein dem Schuldner an Obligationen zustehendes Pfandrecht oder Retentionsrecht schliesst das Stimmrecht ihres Eigentümers nicht aus.
 
-###### [2. Vertretung einzel­ner An­lei­hens­gläubiger](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_C/lvl_II_I/lvl_2)
+###### [2. Vertretung einzel­ner An­lei­hens­gläubiger](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_C/lvl_II_I/lvl_2)
 
 
 [**Art. 1168**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1168) 
@@ -15811,19 +15933,19 @@ Gericht die Gesuchsteller ermächtigen, von sich aus eine Gläubiger­versammlun
 
 [2] Die Ausübung der Vertretung der stimmberechtigten Anleihens­gläu­biger durch den Schuldner ist ausgeschlossen.
 
-##### [IV. Ver­fahrens­vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_C/lvl_I_V)
+##### [IV. Ver­fahrens­vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_C/lvl_I_V)
 
 [**Art. 1169**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1169) 
 
 Der Bundesrat erlässt die Vorschriften über die Einberufung der Gläu­bigerversammlung, die Mitteilung der Tagesordnung, die Aus­weise zur Teilnahme an der Gläubigerversammlung, die Leitung der Ver­sammlung, die Beurkundung und die Mitteilung der Beschlüsse.
 
-#### [D. Gemein­schafts­beschlüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D)
+#### [D. Gemein­schafts­beschlüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D)
 
-##### [I. Eingriffe in die Gläubiger­rechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I)
+##### [I. Eingriffe in die Gläubiger­rechte](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I)
 
-###### [1. Zulässig­keit und er­forderli­che Mehr­heit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_1)
+###### [1. Zulässig­keit und er­forderli­che Mehr­heit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_1)
 
-###### [a. Bei nur einer Ge­meinschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_1/lvl_a)
+###### [a. Bei nur einer Ge­meinschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_1/lvl_a)
 
 [**Art. 1170**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1170) 
 
@@ -15842,7 +15964,7 @@ Der Bundesrat erlässt die Vorschriften über die Einberufung der Gläu­bigerve
 
 [2] Diese Massnahmen können miteinander verbunden werden.
 
-###### [b. Bei mehreren Ge­meinschaften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_1/lvl_b)
+###### [b. Bei mehreren Ge­meinschaften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_1/lvl_b)
 
 [**Art. 1171**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1171) 
 
@@ -15850,7 +15972,7 @@ Der Bundesrat erlässt die Vorschriften über die Einberufung der Gläu­bigerve
 
 [2] Die Vorschläge gelten als angenommen, wenn sie die Zustimmung der Vertretung von mindestens zwei Dritteln des im Umlauf befind­lichen Kapitals aller dieser Gläubigergemeinschaften zusammen gefun­den haben, gleichzeitig von der Mehrheit der Gemeinschaften ange­nommen worden sind und in jeder Gemeinschaft mindestens die ein­fache Mehrheit des vertretenen Kapitals zugestimmt hat.
 
-###### [c. Feststellung der Mehrheit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_1/lvl_c)
+###### [c. Feststellung der Mehrheit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_1/lvl_c)
 
 [**Art. 1172**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1172) 
 
@@ -15858,9 +15980,9 @@ Der Bundesrat erlässt die Vorschriften über die Einberufung der Gläu­bigerve
 
 [2] Erreicht ein Antrag in der Gläubigerversammlung nicht die erfor­der­liche Stimmenzahl, so kann der Schuldner die fehlenden Stimmen durch schriftliche und beglaubigte Erklärungen binnen zwei Monaten nach dem Versammlungstage beim Leiter der Versammlung beibrin­gen und dadurch einen gültigen Beschluss herstellen.
 
-###### [2. Beschrän­kun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_2)
+###### [2. Beschrän­kun­gen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_2)
 
-###### [a. Im Allgemei­nen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_2/lvl_a)
+###### [a. Im Allgemei­nen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_2/lvl_a)
 
 
 [**Art. 1173**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1173) 
@@ -15869,7 +15991,7 @@ Der Bundesrat erlässt die Vorschriften über die Einberufung der Gläu­bigerve
 
 [2] Zu einer Vermehrung der Gläubigerrechte ist die Gläubigergemein­schaft ohne Zustimmung des Schuldners nicht befugt.
 
-###### [b. Gleich­behandlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_2/lvl_b)
+###### [b. Gleich­behandlung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_2/lvl_b)
 
 [**Art. 1174**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1174) 
 
@@ -15879,16 +16001,16 @@ Der Bundesrat erlässt die Vorschriften über die Einberufung der Gläu­bigerve
 
 [3] Zusicherungen oder Zuwendungen an einzelne Gläubiger, durch die sie gegenüber andern der Gemeinschaft angehörenden Gläubigern begünstigt werden, sind ungültig.
 
-###### [c. Status und Bilanz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_2/lvl_c)
+###### [c. Status und Bilanz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_2/lvl_c)
 
 
 [**Art. 1175**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1175)
 
 Ein Antrag auf Ergreifung der in Artikel 1170 genannten Massnahmen darf vom Schuldner nur eingebracht und von der Gläubigerver­sammlung nur in Beratung gezogen werden auf Grund eines auf den Tag der Gläubigerversammlung aufgestellten Status oder einer ordnungsgemäss errichteten und gegebenenfalls von der Revisions­stelle als richtig bescheinigten Bilanz, die auf einen höchstens sechs Monate zurückliegenden Zeitpunkt abgeschlossen ist.
 
-###### [3. Genehmi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_3)
+###### [3. Genehmi­gung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_3)
 
-###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_3/lvl_a)
+###### [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_3/lvl_a)
 
 
 [**Art. 1176**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1176) 
@@ -15901,7 +16023,7 @@ Ein Antrag auf Ergreifung der in Artikel 1170 genannten Massnahmen darf vom Sch
 
 [4] Die Kosten des Genehmigungsverfahrens trägt der Schuldner.
 
-###### [b. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_3/lvl_b)
+###### [b. Voraus­setzungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_3/lvl_b)
 
 [**Art. 1177**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1177) 
 
@@ -15913,7 +16035,7 @@ Die Genehmigung darf nur verweigert werden:
 |    3. wenn die gemeinsamen Interessen der Anleihensgläubiger nicht genügend gewahrt sind;  
 |    4. wenn der Beschluss auf unredliche Weise zustande gekommen ist.
 
-###### [c. Weiterzug](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_3/lvl_c)
+###### [c. Weiterzug](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_3/lvl_c)
 
 [**Art. 1178**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1178) 
 
@@ -15921,7 +16043,7 @@ Die Genehmigung darf nur verweigert werden:
 
 [2] Ebenso kann der Entscheid, mit dem die Genehmigung verweigert wird, von einem Anleihensgläubiger, der dem Beschluss zugestimmt hat, oder vom Schuldner angefochten werden.
 
-###### [d. Widerruf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I/lvl_3/lvl_d)
+###### [d. Widerruf](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_3/lvl_d)
 
 [**Art. 1179**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1179) 
 
@@ -15931,10 +16053,10 @@ Die Genehmigung darf nur verweigert werden:
 
 [3] Der Widerruf kann vom Schuldner und von jedem Anleihensgläubi­ger innerhalb 30 Tagen beim Bundesgericht wegen Gesetzesverlet­zung oder Unangemessenheit in dem für die Rechtspflege in Schuldbetrei­bungs- und Konkurssachen vorgesehenen Verfahren angefoch­ten wer­den. Ebenso kann die Verweigerung des Widerrufs von jedem Anlei­hensgläubiger, der den Widerruf verlangt hat, angefochten wer­den.
 
-##### [II. Andere Be­schlüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I_I)
+##### [II. Andere Be­schlüsse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I_I)
 
 
-###### [1. Vollmacht des Anleihens­vertre­ters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I_I/lvl_1)
+###### [1. Vollmacht des Anleihens­vertre­ters](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I_I/lvl_1)
 
 
 [**Art. 1180**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1180) 
@@ -15943,7 +16065,7 @@ Die Genehmigung darf nur verweigert werden:
 
 [2] Der gleichen Mehrheit bedarf ein Beschluss, durch welchen einem Anleihensvertreter Vollmacht zur einheitlichen Wahrung der Rechte der Anleihensgläubiger im Konkurs erteilt wird.
 
-###### [2. Die übrigen Fälle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I_I/lvl_2)
+###### [2. Die übrigen Fälle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I_I/lvl_2)
 
 [**Art. 1181**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1181) 
 
@@ -15951,15 +16073,15 @@ Die Genehmigung darf nur verweigert werden:
 
 [2] Diese Mehrheit berechnet sich in allen Fällen nach dem Nennwert des in der Versammlung vertretenen stimmberechtigten Kapitals.
 
-###### [3. Anfechtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_D/lvl_I_I/lvl_3)
+###### [3. Anfechtung](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_D/lvl_I_I/lvl_3)
 
 [**Art. 1182**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1182) 
 
 Beschlüsse im Sinne der Artikel 1180 und 1181, die das Gesetz oder vertragliche Vereinbarungen verletzen, können von jedem Anlei­hens­gläubiger der Gemeinschaft, der nicht zugestimmt hat, binnen 30 Tagen, nachdem er von ihnen Kenntnis erhalten hat, beim Richter an­ge­fochten werden.
 
-#### [E. Besondere An­wen­dungs­fälle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_E)
+#### [E. Besondere An­wen­dungs­fälle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_E)
 
-##### [I. Konkurs des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_E/lvl_I)
+##### [I. Konkurs des Schuldners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_E/lvl_I)
 
 
 [**Art. 1183**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1183) 
@@ -15968,7 +16090,7 @@ Beschlüsse im Sinne der Artikel 1180 und 1181, die das Gesetz oder vertragliche
 
 [2] Kommt kein Beschluss über die Erteilung einer Vollmacht zustande, so vertritt jeder Anleihensgläubiger seine Rechte selbständig.
 
-##### [II. Nachlass­vertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_E/lvl_I_I)
+##### [II. Nachlass­vertrag](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_E/lvl_I_I)
 
 [**Art. 1184**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1184) 
 
@@ -15976,7 +16098,7 @@ Beschlüsse im Sinne der Artikel 1180 und 1181, die das Gesetz oder vertragliche
 
 [2] Auf die pfandversicherten Anleihensgläubiger kommen, soweit eine über die Wirkungen des Nachlassverfahrens hinausgehende Ein­schrän­kung ihrer Gläubigerrechte stattfinden soll, die Bestimmungen über die Gläubigergemeinschaft zur Anwendung.
 
-##### [III. Anleihen von Ei­sen­bahn- oder Schiffahrts­unter­nehmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_E/lvl_II_I)
+##### [III. Anleihen von Ei­sen­bahn- oder Schiffahrts­unter­nehmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_E/lvl_II_I)
 
 [**Art. 1185**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1185) 
 
@@ -15988,7 +16110,7 @@ Beschlüsse im Sinne der Artikel 1180 und 1181, die das Gesetz oder vertragliche
 
 [4] Das Bundesgericht kann nach Eingang des Gesuches um Einberu­fung einer Gläubigerversammlung eine Stundung mit den in Artikel 1166 vorgesehenen Wirkungen anordnen.
 
-#### [F. Zwingendes Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/sec_2/lvl_F)
+#### [F. Zwingendes Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_5/tit_34/chap_2/lvl_F)
 
 [**Art. 1186**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_1186) 
 
@@ -16001,7 +16123,7 @@ Beschlüsse im Sinne der Artikel 1180 und 1181, die das Gesetz oder vertragliche
 
 I. Der Schlusstitel des Zivilgesetzbuches wird abgeändert wie folgt:
 
-...
+…
 
 II. Dieses Gesetz tritt mit dem 1. Januar 1912 in Kraft.
 
@@ -16014,13 +16136,13 @@ Der Bundesrat ist beauftragt, auf Grundlage der Bestimmungen des Bundesgesetzes 
 
 [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_2/art_1) 
 
-...
+…
 
 ## [B. Unlauterer Wettbewerb](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_2/lvl_B)
 
 [**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_2/art_2) 
 
-...
+…
 
 ## [C. Übergangs­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_2/lvl_C)
 
@@ -16300,7 +16422,7 @@ Die Artikel 4–8 gelten für Gesellschaften, die keine Beteiligungs­papiere an
 # [Übergangsbestimmungen zur Änderung vom 19. Juni 2020](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_10)
 
 
-## [A.–C. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_10/lvl_d4083e4037)
+## [A.–C. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_10/lvl_d4e4052)
 
 [**Art. 1–3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_10/art_1__3_)
 
@@ -16312,7 +16434,7 @@ Die Artikel 4–8 gelten für Gesellschaften, die keine Beteiligungs­papiere an
 
 [2] Die Pflicht zur Berichterstattung im Vergütungsbericht gemäss Artikel 734*f* gilt für die Geschäftsleitung spätestens ab dem Geschäftsjahr, das zehn Jahre nach Inkrafttreten des neuen Rechts beginnt.
 
-## [E. und F. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_10/lvl_E)
+## [E. und F. …](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_10/lvl_E)
 
 [**Art. 5** und **6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_10/art_5)
 
@@ -16320,69 +16442,73 @@ Die Artikel 4–8 gelten für Gesellschaften, die keine Beteiligungs­papiere an
 
 [**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_10/art_7) 
 
-Die Artikel 964*a*–964*e* finden erstmals Anwendung auf das Geschäftsjahr, das ein Jahr nach Inkrafttreten des neuen Rechts beginnt.
+Die Artikel 964*d*–964*h* finden erstmals Anwendung auf das Geschäftsjahr, das ein Jahr nach Inkrafttreten des neuen Rechts beginnt.
 
-# [Schlussbestimmungen zum VIII. Titel und zum VIII[bis]. Titel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_11)
+# [Übergangsbestimmung zur Änderung vom 19. Juni 2020](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_11)
+
+Die Vorschriften des 6. Abschnitts und des 7. Abschnitts des 32. Titels finden erstmals Anwendung auf das Geschäftsjahr, das ein Jahr nach Inkrafttreten der Änderung vom 19. Juni 2020 beginnt.
+
+# [Schlussbestimmungen zum VIII. Titel und zum VIII[bis]. Titel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12)
 
 
-[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_11/art_1) 
+[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_1) 
 
 Der Bundesbeschluss vom 30. Juni 1972 über Massnahmen gegen Missbräuche im Mietwesen wird aufgehoben.
 
-[**Art. 2**–**4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_11/art_2__4_) 
+[**Art. 2**–**4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_2__4_) 
 
-...
+…
 
-[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_11/art_5) 
+[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_5) 
 
 [1] Die Vorschriften über den Kündigungsschutz bei Miete und Pacht von Wohn- und Geschäftsräumen sind auf alle Miet- und Pachtver­hältnisse anwendbar, die nach dem Inkrafttreten dieses Gesetzes gekündigt werden.
 
 [2] Wurde jedoch ein Miet- oder Pachtverhältnis vor dem Inkrafttreten dieses Gesetzes, aber mit Wirkung auf einen Zeitpunkt danach ge­kün­digt, so beginnen die Fristen für die Anfechtung der Kündigung und das Erstreckungsbegehren (Art. 273) mit dem Inkrafttreten des Geset­zes.
 
-[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_11/art_6) 
+[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_6) 
 
 [1] Dieses Gesetz untersteht dem fakultativen Referendum.
 
 [2] Der Bundesrat bestimmt das Inkrafttreten.
 
-# [Schluss- und Übergangsbestimmungen zum X. Titel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12)
+# [Schluss- und Übergangsbestimmungen zum X. Titel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13)
 
-## [Änderung des OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/lvl_d4083e4052)
-
-
-[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_1) 
-
-...
-
-## [Änderung des ZGB](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/lvl_d4083e4054)
+## [Änderung des OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_d4e4068)
 
 
-[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_2) 
+[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_1) 
 
-...
+…
 
-## [Änderung des Versi­cherungs­vertragsgeset­zes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/lvl_d4083e4056)
-
-[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_3) 
-
-...
-
-## [Änderung des Landwirt­schafts­ge­setzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/lvl_d4083e4059)
-
-[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_4) 
-
-...
-
-## [Änderung des Ar­beits­gesetzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/lvl_d4083e4061)
-
-[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_5) 
-
-...
-
-## [Aufhebung eid­ge­nössi­scher Vor­schrif­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/lvl_d4083e4063)
+## [Änderung des ZGB](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_d4e4071)
 
 
-[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_6) 
+[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_2) 
+
+…
+
+## [Änderung des Versi­cherungs­vertragsgeset­zes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_d4e4073)
+
+[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_3) 
+
+…
+
+## [Änderung des Landwirt­schafts­ge­setzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_d4e4075)
+
+[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_4) 
+
+…
+
+## [Änderung des Ar­beits­gesetzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_d4e4077)
+
+[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_5) 
+
+…
+
+## [Aufhebung eid­ge­nössi­scher Vor­schrif­ten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_d4e4079)
+
+
+[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_6) 
 
 Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 
@@ -16400,27 +16526,27 @@ Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 |    11. Artikel 20 Absatz 2 und 59 des Bundesgesetzes vom 20. Sep­tem­ber 1963 über die Berufsbildung,  
 |    12. Artikel 64 und 72 Absatz 2 Buchstabe *a* des Arbeits­geset­zes vom 13. März 1964.
 
-## [Anpassung altrecht­licher Verhältnisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/lvl_d4083e4065)
+## [Anpassung altrecht­licher Verhältnisse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_d4e4081)
 
-[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_7) 
+[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_7) 
 
 [1] Die im Zeitpunkt des Inkrafttretens dieses Gesetzes bestehenden Arbeitsverträge (Einzelarbeitsverträge, Normalarbeitsverträge und Gesamtarbeitsverträge) sind innert der Frist von einem Jahr seinen Vor­schriften anzupassen; nach Ablauf dieser Frist sind seine Vorschriften auf alle Arbeitsverträge anwendbar.
 
 [2] Die im Zeitpunkt des Inkrafttretens bestehenden Personalfürsor­ge­einrichtungen haben bis spätestens zum 1. Januar 1977 ihre Statuten oder Reglemente unter Beachtung der für die Änderung geltenden Formvorschriften den Artikeln 331*a*, 331*b* und 331*c* anzupassen; ab 1. Januar 1977 sind diese Bestimmungen auf alle Personalfürsorge­einrichtungen anwendbar.
 
-## [Inkrafttreten des Ge­setzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/lvl_d4083e4067)
+## [Inkrafttreten des Ge­setzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_d4e4084)
 
 
-[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12/art_8) 
+[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_8) 
 
 Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Ge­set­zes.
 
-# [Schlussbestimmungen zum vierten Abschnitt des XIII. Titels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13)
+# [Schlussbestimmungen zum vierten Abschnitt des XIII. Titels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_14)
 
 
-## [A. Übergangs­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_A)
+## [A. Übergangs­recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_14/lvl_A)
 
-[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_1) 
+[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_14/art_1) 
 
 [1] Auf die beim Inkrafttreten des neuen Rechts bereits bestehenden Agenturverträge finden die Artikel 418*d* Absatz 1, 418*f* Absatz 1, 418*k* Absatz 2, 418*o*, 418*p*, 418*r* und 418*s* sofort Anwendung.
 
@@ -16428,19 +16554,19 @@ Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Ge­set­zes.
 
 [3] Auf die beim Inkrafttreten des neuen Rechts bestehenden Agentur­verträge von Agenten, die als solche bloss im Nebenberuf tätig sind, finden die Vorschriften dieses Abschnittes mangels gegenteiliger Abrede nach Ablauf von zwei Jahren ebenfalls Anwendung.
 
-## [B. Konkurs­privileg](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_B)
+## [B. Konkurs­privileg](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_14/lvl_B)
 
-[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_2) 
+[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_14/art_2) 
 
-*...*
+…
 
-## [C. Inkraft­treten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/lvl_C)
+## [C. Inkraft­treten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_14/lvl_C)
 
-[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_13/art_3) 
+[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_14/art_3) 
 
 Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Ge­set­zes.
 
-# [Übergangsbestimmungen zum XX. Titel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_14)
+# [Übergangsbestimmungen zum XX. Titel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15)
 
 [1] Die Bestimmungen des neuen Rechts finden Anwendung auf alle Bürgschaften, die nach dem Inkrafttreten dieses Gesetzes eingegangen worden sind.
 
@@ -16458,22 +16584,22 @@ Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Ge­set­zes.
 
 [4] Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
-# [Schluss- und Übergangsbestimmungen zu den Titeln XXIV–XXXIII](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15)
+# [Schluss- und Übergangsbestimmungen zu den Titeln XXIV–XXXIII](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16)
 
 
-## [A. Anwend­bar­keit des Schlus­s­titels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_A)
+## [A. Anwend­bar­keit des Schlus­s­titels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_A)
 
-[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_1) 
+[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_1) 
 
 Die Vorschriften des Schlusstitels des Zivilgesetzbuches finden auch Anwendung auf dieses Gesetz.
 
-## [B. Anpassung al­ter Gesell­schaf­ten an das neue Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_B)
+## [B. Anpassung al­ter Gesell­schaf­ten an das neue Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_B)
 
 
-### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_B/lvl_I)
+### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_B/lvl_I)
 
 
-[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_2) 
+[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_2) 
 
 [1] Aktiengesellschaften, Kommanditaktiengesellschaften und Genos­senschaften, die im Zeitpunkte des Inkrafttretens dieses Gesetzes im Handelsregister eingetragen sind, jedoch den gesetzlichen Vorschrif­ten nicht entsprechen, haben binnen einer Frist von fünf Jahren ihre Statuten den neuen Bestimmungen anzupassen.
 
@@ -16483,32 +16609,32 @@ Die Vorschriften des Schlusstitels des Zivilgesetzbuches finden auch Anwendung a
 
 [4] Für Versicherungs- und Kreditgenossenschaften kann der Bundesrat im einzelnen Fall die Anwendbarkeit des alten Rechts verlängern. Der Antrag hierzu muss vor Ablauf von drei Jahren seit Inkrafttreten des Gesetzes gestellt werden.
 
-### [II. Wohlfahrts­fonds](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_B/lvl_I_I)
+### [II. Wohlfahrts­fonds](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_B/lvl_I_I)
 
-[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_3) 
+[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_3) 
 
 Haben Aktiengesellschaften, Kommanditaktiengesellschaften und Genossen­schaften vor dem Inkrafttreten dieses Gesetzes Vermögens­teile zur Gründung und Unterstützung von Wohlfahrtseinrichtungen für Angestellte und Arbeiter sowie für Genossenschafter erkennbar gewidmet, so haben sie diese Fonds binnen fünf Jahren den Bestim­mun­gen der Artikel 673 und 862 anzupassen.
 
-[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_4)
+[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_4)
 
-## [C. Bilanz­vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_C)
+## [C. Bilanz­vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_C)
 
-### [I. Vorbehalt aus­serordent­li­cher Verhältnis­se](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_C/lvl_I)
+### [I. Vorbehalt aus­serordent­li­cher Verhältnis­se](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_C/lvl_I)
 
-[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_5) 
+[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_5) 
 
 [1] Der Bundesrat ist berechtigt, wenn ausserordentliche wirtschaftliche Verhältnisse es erfordern, Bestimmungen zu erlassen, die den Bilanz­pflichtigen Abweichungen von den in diesem Gesetz aufgestellten Bilanzierungsvorschriften gestatten. Ein solcher Beschluss des Bun­des­rates ist zu veröffentlichen.
 
 [2] Wenn bei der Aufstellung einer Bilanz ein solcher Bundesrats­beschluss zur Anwendung gekommen ist, ist dies in der Bilanz zu ver­merken.
 
-### [II. *...*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_C/lvl_I_I)
+### [II. *…*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_C/lvl_I_I)
 
-[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_6)
+[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_6)
 
-## [D. Haftungs­verhältnisse der Ge­nossen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_D)
+## [D. Haftungs­verhältnisse der Ge­nossen­schafter](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_D)
 
 
-[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_7) 
+[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_7) 
 
 [1] Durch Veränderungen, die nach den Vorschriften dieses Gesetzes in den Haftungsverhältnissen der Genossenschafter eintreten, werden die Rechte der im Zeitpunkte des Inkrafttretens vorhandenen Gläubiger nicht beeinträchtigt.
 
@@ -16516,27 +16642,27 @@ Haben Aktiengesellschaften, Kommanditaktiengesellschaften und Genossen­schaften
 
 [3] Während dieser Frist können Beschlüsse über ganze oder teilweise Ausschliessung der persönlichen Haftung oder über ausdrückliche Feststellung der Haftung in der Generalversammlung mit absoluter Mehrheit der Stimmen gefasst werden. Die Vorschrift des Artikels 889 Absatz 2 über den Austritt findet keine Anwendung.
 
-## [E. Geschäfts­firmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_E)
+## [E. Geschäfts­firmen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_E)
 
-[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_8) 
+[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_8) 
 
 [1] Die beim Inkrafttreten dieses Gesetzes bestehenden Firmen, die des­sen Vorschriften nicht entsprechen, dürfen während zwei Jahren von diesem Zeitpunkte an unverändert fortbestehen.
 
 [2] Bei irgendwelcher Änderung vor Ablauf dieser Frist sind sie jedoch mit gegenwärtigem Gesetze in Einklang zu bringen.
 
-## [F. Früher aus­gegebene Wertpa­piere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_F)
+## [F. Früher aus­gegebene Wertpa­piere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_F)
 
-### [I. Namen­papie­re](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_F/lvl_I)
+### [I. Namen­papie­re](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_F/lvl_I)
 
-[**Art. 9**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_9) 
+[**Art. 9**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_9) 
 
 Die vor dem Inkrafttreten dieses Gesetzes als Namenpapiere ausge­stellten Sparkassen- und Depositenhefte, Spareinlage- und Depositen­scheine unterstehen den Vorschriften von Artikel 977 über Kraftlo­s­erklärung von Schuldurkunden auch dann, wenn der Schuldner in der Urkunde sich nicht ausdrücklich vorbehalten hat, ohne Vorweisung der Schuldurkunde und ohne Kraftloserklärung zu leisten.
 
-### [II. Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_F/lvl_I_I)
+### [II. Aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_F/lvl_I_I)
 
-#### [1. Nennwert](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_F/lvl_I_I/lvl_1)
+#### [1. Nennwert](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_F/lvl_I_I/lvl_1)
 
-[**Art. 10**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_10) 
+[**Art. 10**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_10) 
 
 Aktien, die vor dem Inkrafttreten des Gesetzes ausgegeben worden sind, können
 
@@ -16544,61 +16670,61 @@ Aktien, die vor dem Inkrafttreten des Gesetzes ausgegeben worden sind, können
 |    1. einen Nennwert unter 100 Franken beibehalten;  
 |    2. innerhalb dreier Jahre seit dem Inkrafttreten des Gesetzes bei ei­ner Herabsetzung des Grundkapitals auf einen Nennwert unter 100 Franken gebracht werden.
 
-#### [2. Nicht voll einbezahlte In­haberaktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_F/lvl_I_I/lvl_2)
+#### [2. Nicht voll einbezahlte In­haberaktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_F/lvl_I_I/lvl_2)
 
 
-[**Art. 11**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_11) 
+[**Art. 11**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_11) 
 
 [1] Auf den Inhaber lautende Aktien und Interimsscheine, die vor dem Inkrafttreten des Gesetzes ausgegeben worden sind, unterstehen den Bestimmungen der Artikel 683 und 688 Absätze 1 und 3 nicht.
 
 [2] Das Rechtsverhältnis der Zeichner und Erwerber dieser Aktien rich­tet sich nach dem bisherigen Rechte.
 
-### [III. Wechsel und Checks](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_F/lvl_II_I)
+### [III. Wechsel und Checks](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_F/lvl_II_I)
 
-[**Art. 12**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_12) 
+[**Art. 12**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_12) 
 
 Vor dem Inkrafttreten dieses Gesetzes ausgestellte Wechsel und Checks unterstehen in allen Beziehungen dem bisherigen Rechte.
 
-## [G. Gläubiger­gemeinschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_G)
+## [G. Gläubiger­gemeinschaft](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_G)
 
-[**Art. 13**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_13) 
+[**Art. 13**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_13) 
 
 Für Fälle, auf die die Bestimmungen der Verordnung vom 20. Februar 1918 betreffend die Gläubigergemeinschaft bei Anleihensobligatio­nen und der ergänzenden Bundesratsbeschlüsse angewendet worden sind, gelten diese Vorschriften auch fernerhin.
 
-## [H. *...*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_H)
+## [H. *…*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_H)
 
-[**Art. 14**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_14)
+[**Art. 14**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_14)
 
-## [J. Abänderung des Schuldbetreibungs- und Konkurs­ge­set­zes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_J)
+## [J. Abänderung des Schuldbetreibungs- und Konkurs­ge­set­zes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_J)
 
-[**Art. 15**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_15) 
+[**Art. 15**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_15) 
 
-*...*
+…
 
-## [K. Verhältnis zum Banken­gesetz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_K)
+## [K. Verhältnis zum Banken­gesetz](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_K)
 
-### [I. Allgemeiner Vorbehalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_K/lvl_I)
+### [I. Allgemeiner Vorbehalt](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_K/lvl_I)
 
-[**Art. 16**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_16) 
+[**Art. 16**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_16) 
 
 Die Vorschriften des Bankengesetzes vom 8. November 1934 blei­ben vorbehalten.
 
-### [II. Ab­änderung einzelner Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_K/lvl_I_I)
+### [II. Ab­änderung einzelner Vor­schriften](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_K/lvl_I_I)
 
 
-[**Art. 17**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_17) 
+[**Art. 17**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_17) 
 
-*...*
+…
 
-## [L. Aufhebung von Bundes­zivilrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_L)
+## [L. Aufhebung von Bundes­zivilrecht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_L)
 
-[**Art. 18**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_18) 
+[**Art. 18**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_18) 
 
 Mit dem Inkrafttreten dieses Gesetzes sind die damit im Widerspruch stehenden zivilrechtlichen Bestimmungen des Bundes, insbesondere die dritte Abteilung des Obligationenrechts, betitelt: «Die Handels­gesellschaften, Wertpapiere und Geschäftsfirmen» (BG vom 14. Juni 1881 über das Obligationenrecht, Art. 552–715 und 720–880), auf­gehoben.
 
-## [M. Inkraft­treten dieses Gesetzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/lvl_M)
+## [M. Inkraft­treten dieses Gesetzes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_M)
 
-[**Art. 19**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_15/art_19) 
+[**Art. 19**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_19) 
 
 [1] Dieses Gesetz tritt mit dem 1. Juli 1937 in Kraft.
 
@@ -16606,20 +16732,20 @@ Mit dem Inkrafttreten dieses Gesetzes sind die damit im Widerspruch stehenden zi
 
 [3] Der Bundesrat wird mit dem Vollzug dieses Gesetzes beauftragt.
 
-# [Schlussbestimmungen zum XXVI. Titel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16)
+# [Schlussbestimmungen zum XXVI. Titel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17)
 
-## [A. Schlusstitel des Zivilgesetz­buches](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_A)
+## [A. Schlusstitel des Zivilgesetz­buches](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_A)
 
-[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_1) 
+[**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/art_1) 
 
 Der Schlusstitel des Zivilgesetzbuches gilt für dieses Gesetz.
 
-## [B. Anpassung an das neue Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_B)
+## [B. Anpassung an das neue Recht](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_B)
 
-### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_B/lvl_I)
+### [I. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_B/lvl_I)
 
 
-[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_2) 
+[**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/art_2) 
 
 [1] Aktiengesellschaften und Kommanditaktiengesellschaften, die im Zeitpunkt des Inkrafttretens dieses Gesetzes im Handelsregister einge­tragen sind, jedoch den neuen gesetzlichen Vorschriften nicht ent­spre­chen, müssen innert fünf Jahren ihre Statuten den neuen Bestim­mun­gen anpassen.
 
@@ -16627,12 +16753,12 @@ Der Schlusstitel des Zivilgesetzbuches gilt für dieses Gesetz.
 
 [3] Andere statutarische Bestimmungen, die mit dem neuen Recht unvereinbar sind, bleiben bis zur Anpassung, längstens aber noch fünf Jahre, in Kraft.
 
-### [II. Einzelne Be­stimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_B/lvl_I_I)
+### [II. Einzelne Be­stimmungen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_B/lvl_I_I)
 
 
-#### [1. Partizipa­tions- und Ge­nuss­scheine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_B/lvl_I_I/lvl_1)
+#### [1. Partizipa­tions- und Ge­nuss­scheine](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_B/lvl_I_I/lvl_1)
 
-[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_3) 
+[**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/art_3) 
 
 [1] Die Artikel 656*a*, 656*b* Absätze 2 und 3, 656*c* und 656*d* sowie 656*g* gelten für bestehende Gesellschaften mit dem Inkrafttreten dieses Gesetzes, auch wenn ihnen die Statuten oder Ausgabebedingungen widersprechen. Sie gelten für Titel, die als Partizipationsscheine oder Genussscheine bezeichnet sind, einen Nennwert haben und in den Pas­siven der Bilanz ausgewiesen sind.
 
@@ -16640,48 +16766,48 @@ Der Schlusstitel des Zivilgesetzbuches gilt für dieses Gesetz.
 
 [3] Für andere als in Absatz 1 genannte Titel gelten die neuen Vorschrif­ten über die Genussscheine, auch wenn sie als Partizipati­onsscheine bezeichnet sind. Innert fünf Jahren müssen sie nach dem neuen Recht bezeichnet werden und dürfen keinen Nennwert mehr angeben. Die Statuten sind entsprechend abzuändern. Vorbehalten bleibt die Umwandlung in Partizipationsscheine.
 
-#### [2. Ablehnung von Namen­aktionären](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_B/lvl_I_I/lvl_2)
+#### [2. Ablehnung von Namen­aktionären](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_B/lvl_I_I/lvl_2)
 
-[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_4) 
+[**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/art_4) 
 
 In Ergänzung zu Artikel 685*d* Absatz 1 kann die Gesellschaft, auf­grund statutarischer Bestimmung, Personen als Erwerber börsenko­tier­ter Namenaktien ablehnen, soweit und solange deren Anerken­nung die Gesellschaft daran hindern könnte, durch Bundesgesetze ge­for­derte Nachweise über die Zusammensetzung des Kreises der Ak­tio­näre zu erbringen.
 
-#### [3. Stimmrechts­aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_B/lvl_I_I/lvl_3)
+#### [3. Stimmrechts­aktien](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_B/lvl_I_I/lvl_3)
 
-[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_5) 
+[**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/art_5) 
 
 Gesellschaften, die in Anwendung von Artikel 10 der Schluss- und Übergangsbestimmungen des Bundesgesetzes vom 18. Dezember 1936 über die Revision der Titel 24–33 des Obligationenrechtes Stimm­rechtsaktien mit einem Nennwert von unter zehn Franken bei­behalten haben, sowie Gesellschaften, bei denen der Nennwert der grösseren Aktien mehr als das Zehnfache des Nennwertes der kleine­ren Aktien beträgt, müssen ihre Statuten dem Artikel 693 Absatz 2 zweiter Satz nicht anpassen. Sie dürfen jedoch keine neuen Aktien mehr ausgeben, deren Nennwert mehr als das Zehnfache des Nenn­wertes der kleineren Aktien oder weniger als zehn Prozent des Nenn­wertes der grösseren Aktien beträgt.
 
-#### [4. Qualifizierte Mehrheiten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_B/lvl_I_I/lvl_4)
+#### [4. Qualifizierte Mehrheiten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_B/lvl_I_I/lvl_4)
 
-[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_6) 
+[**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/art_6) 
 
 Hat eine Gesellschaft durch blosse Wiedergabe von Bestimmungen des bisherigen Rechts für bestimmte Beschlüsse Vorschriften über qualifi­zierte Mehrheiten in die Statuten übernommen, so kann binnen eines Jahres seit dem Inkrafttreten dieses Gesetzes mit absoluter Mehrheit aller an einer Generalversammlung vertretenen Aktienstim­men die Anpassung an das neue Recht beschlossen werden.
 
-## [C. Änderung von Bundes­ge­setzen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_C)
+## [C. Änderung von Bundes­ge­setzen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_C)
 
-[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_7) 
+[**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/art_7) 
 
-*...*
+…
 
-## [D. Referendum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_D)
+## [D. Referendum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_D)
 
-[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_8) 
+[**Art. 8**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/art_8) 
 
 Dieses Gesetz untersteht dem fakultativen Referendum.
 
-## [E. Inkrafttreten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/lvl_E)
+## [E. Inkrafttreten](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/lvl_E)
 
-[**Art. 9**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_16/art_9) 
+[**Art. 9**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17/art_9) 
 
 Der Bundesrat bestimmt das Inkrafttreten.
 
-# [Schlussbestimmungen zum zweiten Abschnitt des XXXIV. Titels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_17)
+# [Schlussbestimmungen zum zweiten Abschnitt des XXXIV. Titels](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_18)
 
 
 
-|    1. *...*  
-|    2. *...*  
+|    1. …  
+|    2. …  
 |    3. Die unter dem bisherigen Recht gefassten Gemeinschafts­beschlüsse behalten ihre Gültigkeit unter dem neuen Recht.  
 |     Für Beschlüsse, die nach Inkrafttreten dieses Gesetzes gefasst werden, sind die Vorschriften des neuen Rechts massgebend.  
 |     Sind indessen einem Schuldner schon unter dem bisherigen Recht durch Gläubigergemeinschaftsbeschlüsse Erleichterun­gen gewährt worden, die den in Artikel 1170 vorgesehenen gleich oder entsprechend sind, so müssen sie bei der Anwen­dung dieser Vorschrift angemessen berücksichtigt werden.  

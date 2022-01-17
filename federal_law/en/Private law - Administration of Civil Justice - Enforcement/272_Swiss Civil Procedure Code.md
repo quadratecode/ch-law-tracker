@@ -27,7 +27,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 ## (Civil Procedure Code, CPC)
 
-of 19 December 2008 (Status as of 1 January 2021)
+of 19 December 2008 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -926,13 +926,13 @@ In litigation proceedings, no court costs are charged in disputes:
 |    c. relating to an employment contract or the Recruitment Act of 6 October 1989 up to an amount in dispute of 30,000 francs;  
 |    d. relating to the Participation Act of 17 December 1993;  
 |    e. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994 on Health Insurance;  
-|    f. because of violence, threats or harassment under Article 28*b* SCC or relating to electronic surveillance under Article 28*c* SCC.
+|    f. because of violence, threats or harassment under Article 28*b* CC or relating to electronic monitoring under Article 28*c* CC.
 
 [**Art. 115** Obligation to bear costs](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_115) 
 
 [1] Court costs may also be charged in cost-free proceedings to a party who proceeds in a vexatious manner or in bad faith.
 
-[2] In the case of litigation relating to Article 114 letter f, court costs may also be charged to the unsuccessful party if a prohibition pursuant to Article 28*b* SCC or electronic surveillance pursuant to Article 28*c* SCC is ordered against them.
+[2] In the case of litigation relating to Article 114 letter f, court costs may also be charged to the unsuccessful party if an injunction pursuant to Article 28*b* CC or electronic monitoring pursuant to Article 28*c* CC is ordered against them.
 
 [**Art. 116** Exemption under cantonal law](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_116) 
 
@@ -1365,7 +1365,7 @@ If a party refuses to cooperate without valid reasons, the court shall take this
 
 
 |    a. in establishing facts that would expose him or her or a close associate as defined in Article 165 to criminal prosecution or civil liability;  
-|    b. to the extent that the revelation of a secret would be punishable by virtue of Article 321 SCC; auditors excepted; however, with the exception of lawyers and clerics, third parties must cooperate if they are subject to a disclosure duty or if they have been released from duty of secrecy, unless they show credibly that the interest in keeping the secret takes precedence over the interest in finding the truth;  
+|    b. to the extent that the revelation of a secret would be an offence by virtue of Article 321 SCC; auditors excepted; however, with the exception of lawyers and clerics, third parties must cooperate if they are subject to a disclosure duty or if they have been released from duty of secrecy, unless they show credibly that the interest in keeping the secret takes precedence over the interest in finding the truth;  
 |    c. in establishing facts that have been confided in him or her in his or her official capacity as public official as defined in Article 110 paragraph 3 SCC or as a member of a public authority, or facts that have come to his or her attention in exercising his or her office; he or she must cooperate if he or she is subject to a disclosure duty or if he or she has been authorised to testify by his or her superior authority;  
 |    d. when asked to testify as an ombudsperson, marriage or family counsellor or mediator on facts that have come to his or her attention in the course of his or her activities;  
 |    e. when asked in his or her capacity as professional or auxiliary person engaged in the publication of information in the editorial part of a periodical to reveal the identity of the author or the content or source of his or her information.
@@ -1616,7 +1616,7 @@ Conciliation proceedings are not held:
 
 
 |    in summary proceedings;   
-|    a[bis]. in proceedings on violence, threats or harassment relating to Arti­cle 28*b* SCC or on electronic surveillance relating to Article 28*c* SCC;  
+|    a[bis]. in proceedings on violence, threats or harassment pursuant to Arti­cle 28*b* CC or on electronic monitoring pursuant to Article 28*c* CC;  
 |    b. in proceedings on civil status;  
 |    b[bis]. in proceedings on child maintenance and other child-related issues if a parent has requested the child protection authority to intervene before the proceedings (Art. 298*b*and 298*d*CC);  
 |    c. in divorce proceedings;  
@@ -2051,7 +2051,7 @@ If for any other reasons the proceedings end without a decision, the proceedings
 
 
 |    a. disputes under the Gender Equality Act of 24 March 1995;  
-|    b. disputes concerning violence, threats or stalking under Article 28*b* SCC or concerning electronic surveillance in relation to Article 28*c* SCC;  
+|    b. disputes concerning violence, threats or stalking pursuant to Article 28*b* CC or concerning electronic monitoring pursuant to Article 28*c* CC;  
 |    c. disputes concerning the tenancy and lease of residential and business property or the lease of agricultural property if they concern the deposit of rent, protection against abusive rent, protection against termination, or the extension of the rental relationship;  
 |    d. disputes concerning the right of access to personal data provided by the Federal Act of 19 June 1992 on Data Protection;  
 |    e. disputes concerning the Participation Act of 17 December 1993;  
@@ -2186,15 +2186,15 @@ Summary proceedings may be brought in particular in the following cases:
 |    3. appointment, dismissal and replacement of liquidators (Art. 583 para. 2, 619, 740, 741, 770, 826 para. 2 and 913 CO),  
 |    4. sale at an overall sale price and modalities of sale of immovable property (Art. 585 para. 3 and 619 CO),  
 |    5. appointment of an expert to verify the profit and loss account and the balance sheet of the limited partnership (Art. 600 para. 3 CO),  
-|    6.[96](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d151531e5629) allowing a period of time in the case of insufficient number of members or lack of corporate bodies (Art. 731*b*, 819, 908 and 941*a* CO),  
-|    7.[97](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d151531e5652) disclosure of information to shareholders and creditors of a company limited by shares, the members of a limited liability company and members of a cooperative (Art. 697 para. 4, 802 para. 4, 857 para. 3 and 958*e* CO),  
+|    6.[96](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d6e7142) allowing a period of time in the case of insufficient number of members or lack of corporate bodies (Art. 731*b*, 819, 908 and 941*a* CO),  
+|    7.[97](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d6e7170) disclosure of information to shareholders and creditors of a company limited by shares, the members of a limited liability company and members of a cooperative (Art. 697 para. 4, 802 para. 4, 857 para. 3 and 958*e* CO),  
 |    8. special audit of a company limited by shares (Art. 697*a* to 697*g* CO),  
 |    9. convening a general meeting of the shareholders of a company limited by shares or the members of a cooperative, putting an item on the agenda and calling the assembly of the members of a limited liability company (Art. 699 para. 4, 805 para. 5 sec. 2 and 881 para. 3 CO),  
 |    10. designation of a representative of the company or the cooperative in the event of a resolution of the general meeting being challenged by the management (Art. 706*a* para. 2, 808*c* and 891 para. 1 CO),  
 |    11. appointment and removal of the auditors (Art. 731*b* CO),  
 |    12. deposit of amounts of claims in case of liquidation (Art. 744, 770, 826 para. 2 and 913 CO),  
-|    13.[98](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d151531e5702) removal of the directors and auditors of a cooperative (Art. 890 para. 2 CO);  
-|    14.[99](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d151531e5720) reinstatement of a deleted legal entity in the commercial register (Art. 935 CO);
+|    13.[98](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d6e7236) removal of the directors and auditors of a cooperative (Art. 890 para. 2 CO);  
+|    14.[99](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d6e7258) reinstatement of a deleted legal entity in the commercial register (Art. 935 CO);
 
 
 |    d. Securities law:  
@@ -2634,7 +2634,7 @@ Independent actions are decided in simplified proceedings.
 
 |    b. the child protection authority or one of the parents so requests;  
 |    c. based on hearing with the parents or the child or based on other reasons, the court:  
-|    1.[131](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d151531e7094) has serious doubts about the parents' joint applications relating to the issues listed under letter a, or  
+|    1.[131](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d6e8991) has serious doubts about the parents' joint applications relating to the issues listed under letter a, or  
 |    2. is considering ordering measures for the protection of the child.
 
 
@@ -3087,6 +3087,8 @@ Decisions providing for conditional performance or performance that is subject t
 |    c. impose a disciplinary fine not exceeding 1,000 francs for each day of non-compliance;  
 |    d. order a compulsory measure such as taking away a movable item or vacating immovable property; or   
 |    e. order performance by a third party.
+
+[1bis] If the decision contains an injunction under Article 28*b* CC, the enforcement court may at the request of the applicant order electronic monitoring in accordance with Article 28*c* CC.
 
 [2] The unsuccessful party and third parties must provide the required information and tolerate the required searches.
 
@@ -3674,13 +3676,13 @@ Commencement Date: 1 January 2011
 
 (Art. 402)
 
-## [Repeal and Amendment of Current Legislation](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_1/lvl_d4067e599)
+## [Repeal and Amendment of Current Legislation](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_1/lvl_d4e599)
 
-### [I. Repeal of current legislation](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_1/lvl_d4067e599/lvl_I)
+### [I. Repeal of current legislation](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_1/lvl_d4e599/lvl_I)
 
 The Civil Jurisdiction Act of 24 March 2000 is repealed.
 
-### [II. Amendment of current legislation](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_1/lvl_d4067e599/lvl_I_I)
+### [II. Amendment of current legislation](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_1/lvl_d4e599/lvl_I_I)
 
 The federal acts below are amended as follows:
 
@@ -3690,9 +3692,9 @@ The federal acts below are amended as follows:
 
 (Art. 403)
 
-## [Coordination Provisions](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4067e604)
+## [Coordination Provisions](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4e604)
 
-### [1. Coordination of the Civil Procedure Code with the new Nuclear Energy Public Liability Act](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4067e604/lvl_1)
+### [1. Coordination of the Civil Procedure Code with the new Nuclear Energy Public Liability Act](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4e604/lvl_1)
 
 *Irrespective of whether the Nuclear Energy Public Liability Act of 13 June 2008* *(new NEPLA) or the Civil Procedure Code of 19 December 2008 (CPC) comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as fo**l**lows:* 
 
@@ -3711,11 +3713,11 @@ Art. 38a Nuclear damage
 
 [3] If two or more courts have jurisdiction in accordance with these rules, the court in the canton that is most closely linked to the incident and which is most seriously affected by it has mandatory jurisdiction. 
 
-### [2. Coordination of Number 19 of Annex 1 with the new NEPLA](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4067e604/lvl_2)
+### [2. Coordination of Number 19 of Annex 1 with the new NEPLA](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4e604/lvl_2)
 
 *Irrespective of whether the new NEPLA**or the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, Number 19 of Annex 1 of the CPC ceases to apply and the new NEPLA shall be amended in accordance with Number 20 of A**n**nex 1 of the CPC.*
 
-### [3. Coordination with the Amendment of the Civil Code (CC) of 19 December 2008 (Protection of Adults, Law of Persons and Law on Children)](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4067e604/lvl_3)
+### [3. Coordination with the Amendment of the Civil Code (CC) of 19 December 2008 (Protection of Adults, Law of Persons and Law on Children)](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4e604/lvl_3)
 
 *Irrespective of whether the amendment of the CC of 19 December 2008* *(prote**c**tion of adults, law of persons and law on children) of the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as follows:*
 

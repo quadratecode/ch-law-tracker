@@ -27,7 +27,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 ## (NCHA)
 
-of 1 July 1966 (Status as of 1 April 2020)
+of 1 July 1966 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -37,7 +37,7 @@ and having considered the Federal Council Dispatch dated 12 November 1965,
 
 decrees:
 
-###### [Aim](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3)
+###### [Aim](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3)
 
 [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_1)
 
@@ -51,10 +51,10 @@ The aim of this Act, subject to the authority of the Confederation under Article
 |    d[bis]. to promote the conservation of biological diversity and the sustainable use of its components through the fair and equitable sharing of benefits arising from genetic resources;  
 |    e. to promote science and research and the education and training of experts in the fields of nature protection, cultural heritage protection and monument preservation.
 
-####### [Section 1 Nature Protection, Cultural Heritage Protection and Monument Preservation in the Fulfilment of Federal Tasks](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1)
+####### [Section 1 Nature Protection, Cultural Heritage Protection and Monument Preservation in the Fulfilment of Federal Tasks](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1)
 
 
-###### [Fulfilment of federal tasks](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e6)
+###### [Fulfilment of federal tasks](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e6)
 
 [**Art. 2**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_2) 
 
@@ -67,7 +67,7 @@ The aim of this Act, subject to the authority of the Confederation under Article
 
 [2] Decisions of cantonal authorities concerning projects that can presumably be carried out only with subsidies as specified in paragraph 1*c* above shall be regarded as equivalent to the fulfilment of federal tasks.
 
-###### [Obligations of the Confederation and cantons](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e8)
+###### [Obligations of the Confederation and cantons](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e8)
 
 [**Art. 3**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_3) 
 
@@ -84,7 +84,7 @@ The aim of this Act, subject to the authority of the Confederation under Article
 
 [4] ...
 
-###### [Classification of sites](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e10)
+###### [Classification of sites](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e10)
 
 [**Art. 4**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_4) 
 
@@ -94,7 +94,7 @@ With regard to heritage landscapes and sites of local character, historical site
 |    a. sites of national importance;  
 |    b. sites of regional and local importance.
 
-###### [Federal inventories of sites of national importance](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e12)
+###### [Federal inventories of sites of national importance](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e12)
 
 [**Art. 5**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_5) 
 
@@ -110,7 +110,7 @@ With regard to heritage landscapes and sites of local character, historical site
 
 [2] The inventories need not be exhaustive. They must be reviewed and updated at regular intervals. Decisions on the inclusion, revision or deletion of sites shall be taken by the Federal Council after consultation with the cantons. The cantons may request a review on their own initiative.
 
-###### [Importance of inclusion in an inventory](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e15)
+###### [Importance of inclusion in an inventory](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e15)
 
 [**Art. 6**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_6) 
 
@@ -118,7 +118,7 @@ With regard to heritage landscapes and sites of local character, historical site
 
 [2] In fulfilling a federal task, departures from the principle that sites are to be preserved undiminished, as specified in the inventories, may only be considered if opposing interests, also of national importance, carry equal or greater weight.
 
-###### [Expert report prepared by commission](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e17)
+###### [Expert report prepared by commission](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e17)
 
 [**Art. 7**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_7)
 
@@ -128,33 +128,33 @@ With regard to heritage landscapes and sites of local character, historical site
 
 [3] The expert report shall be one of the factors considered by the decision-making authority when weighing up all the interests.
 
-###### [Optional expert report](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e19)
+###### [Optional expert report](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e19)
 
 [**Art. 8**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_8)
 
 In important cases, a commission may, on its own initiative, at any stage of the procedure, submit an expert report concerning the protection of sites or their preservation in an undiminished form. However, reports shall be submitted as early as possible. All necessary documentation shall be made available to the commission on request.
 
-###### [Other expert reports](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e21)
+###### [Other expert reports](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e21)
 
 [**Art. 9**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_9)
 
 The competent federal body may also request the cantonal expert body (Art. 25 Para. 2), the cantonal commission responsible for nature protection, cultural heritage protection or monument preservation, or another body designated by the canton to prepare an expert report. In addition, it may request organisations active in the fields of nature protection, cultural heritage protection or monument preservation to submit their comments.
 
-###### [Consultation of cantons](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e23)
+###### [Consultation of cantons](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e23)
 
 [**Art. 10**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_10)
 
 In all the cases specified in Articles 7, 8 and 9, the cantonal governments shall also be consulted. The cantons shall invite the communes concerned to state their position.
 
-###### [Exception for military installations](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e25)
+###### [Exception for military installations](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e25)
 
 [**Art. 11**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_11) 
 
 In the case of military buildings and installations not subject to approval in accordance with Article 126 paragraph 4 of the Armed Forces Act of 3 February 1995, the competent federal authority shall not be required to commission an expert report, nor is it obliged to provide documentation for the optional expert report.
 
-###### [Right of appeal of communes and organi­sa­tions](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e28)
+###### [Right of appeal of communes and organi­sa­tions](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e28)
 
-###### [1. Entitlement to appeal](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e28/lvl_1)
+###### [1. Entitlement to appeal](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e28/lvl_1)
 
 [**Art. 12**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_12)
 
@@ -176,13 +176,13 @@ In the case of military buildings and installations not subject to approval in a
 
 [5] The organisations may give general authorisation to their legally independent cantonal and supra-cantonal sub-organisations to raise general objections or to file appeals in specific cases that relate to their local area of activity.
 
-###### [2. Inadmissible appeals against decisions on providing a federal subsidy](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e28/lvl_2)
+###### [2. Inadmissible appeals against decisions on providing a federal subsidy](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e28/lvl_2)
 
 [**Art. 12***a*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_12_a)
 
 An appeal against a decision on providing a federal subsidy shall be inadmissible if a decision has already be taken elsewhere by means of a ruling under Article 12 paragraph 1 on the planning, the works or the installation in fulfilment of a federal task.
 
-###### [3. Notification of the ruling](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e28/lvl_3)
+###### [3. Notification of the ruling](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e28/lvl_3)
 
 [**Art. 12***b*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_12_b)
 
@@ -190,7 +190,7 @@ An appeal against a decision on providing a federal subsidy shall be inadmissibl
 
 [2] If federal or cantonal law provides for an objection procedure, notice must also be given of applications in accordance with paragraph 1.
 
-###### [4. Loss of right to appeal](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e28/lvl_4)
+###### [4. Loss of right to appeal](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e28/lvl_4)
 
 [**Art. 12***c*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_12_c)
 
@@ -202,7 +202,7 @@ An appeal against a decision on providing a federal subsidy shall be inadmissibl
 
 [4] Paragraphs 2 and 3 also apply to objections and appeals under cantonal law against land use plans.
 
-###### [5. Agreements between applicants and organisations](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e28/lvl_5)
+###### [5. Agreements between applicants and organisations](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e28/lvl_5)
 
 [**Art. 12***d*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_12_d)
 
@@ -217,19 +217,19 @@ An appeal against a decision on providing a federal subsidy shall be inadmissibl
 
 [3] The appeal authority shall dismiss an appeal if it is an abuse of legal process or the organisation has demanded unlawful payments in terms of paragraph 2.
 
-###### [6. Early start to construction work](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e28/lvl_6)
+###### [6. Early start to construction work](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e28/lvl_6)
 
 [**Art. 12***e*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_12_e)
 
 Construction work may be start before the conclusion of the proceedings provided the outcome of the proceedings can have no repercussions on the work done.
 
-###### [7. Procedural costs](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e28/lvl_7)
+###### [7. Procedural costs](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e28/lvl_7)
 
 [**Art. 12***f*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_12_f) 
 
 If the organisation is unsuccessful in the proceedings, it shall bear the costs of the appeal before the federal authorities.
 
-###### [Right of appeal of the cantons and the Federal Office concerned](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_1/lvl_d1638e44)
+###### [Right of appeal of the cantons and the Federal Office concerned](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_1/lvl_d4e44)
 
 [**Art. 12***g*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_12_g)
 
@@ -237,10 +237,10 @@ If the organisation is unsuccessful in the proceedings, it shall bear the costs 
 
 [2] The Federal Office concerned shall have a right of appeal against cantonal rulings under Article 12 paragraph 1; it may make use of the rights of recourse under federal and cantonal law.
 
-####### [Section 2 Federal Support for Nature Protection, Cultural Heritage Protection and Monument Preservation, and Independent Federal Measures](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_2)
+####### [Section 2 Federal Support for Nature Protection, Cultural Heritage Protection and Monument Preservation, and Independent Federal Measures](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_2)
 
 
-###### [Financial assistance for the preservation of sites deserving protection](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_2/lvl_d1638e47)
+###### [Financial assistance for the preservation of sites deserving protection](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_2/lvl_d4e47)
 
 [**Art. 13**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_13)
 
@@ -254,13 +254,13 @@ If the organisation is unsuccessful in the proceedings, it shall bear the costs 
 
 5 The protection and upkeep measures ordered constitute public-law restrictions on the use of property (Art. 702 Civil Code). They are binding on the landowner concerned and must be recorded in the land register on application by the canton. Exemptions from this obligation are determined by the Federal Council.
 
-###### [Subsidies for organisations](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_2/lvl_d1638e49)
+###### [Subsidies for organisations](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_2/lvl_d4e49)
 
 [**Art. 14**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_14)
 
 The Confederation may provide subsidies to national organisations involved in nature protection, cultural heritage protection and monument preservation towards the costs of their activities serving the public interest.
 
-###### [Research, training, public relations](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_2/lvl_d1638e52)
+###### [Research, training, public relations](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_2/lvl_d4e52)
 
 [**Art. 14***a*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_14_a)
 
@@ -273,7 +273,7 @@ The Confederation may provide subsidies to national organisations involved in na
 
 [2] Insofar as it is in the national interest, it may either carry out these activities itself or arrange for them to be carried out by third parties at its expense.
 
-###### [Purchase and safeguarding of sites deserving protection](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_2/lvl_d1638e54)
+###### [Purchase and safeguarding of sites deserving protection](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_2/lvl_d4e54)
 
 [**Art. 15**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_15) 
 
@@ -281,35 +281,35 @@ The Confederation may provide subsidies to national organisations involved in na
 
 [2] The Compulsory Purchase Act applies.
 
-###### [Precautionary measures](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_2/lvl_d1638e56)
+###### [Precautionary measures](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_2/lvl_d4e56)
 
 [**Art. 16**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_16) 
 
 In cases where a natural landscape as defined in Article 15, a historical site, or a cultural monument of national importance is in immediate danger, the Federal Department of the Environment, Transport, Energy and Communications or the Federal Department of Home Affairs may take temporary measures to place the site in question under federal protection and order any safeguards necessary for its preservation.
 
-###### [Provision of subsidies](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_2/lvl_d1638e58)
+###### [Provision of subsidies](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_2/lvl_d4e58)
 
 [**Art. 16***a*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_16_a)
 
-[1] The Federal Assembly shall approve by simple federal decree temporary framework credits to guarantee the provision of subsidies.
+[1] The Federal Assembly shall approve by simple federal decree temporary guarantee credits to guarantee the provision of subsidies.
 
 [2]The financing of the areas of cultural heritage protection and monument preservation is governed by Article 27 of the Culture Promotion Act of 11 December 2009.
 
-###### [Repayment of subsidies](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_2/lvl_d1638e60)
+###### [Repayment of subsidies](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_2/lvl_d4e60)
 
 [**Art. 17**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_17)
 
 If a site is no longer deemed worthy of protection, repayment of all or part of the subsidy provided may be requested.
 
-###### [Special reports](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_2/lvl_d1638e63)
+###### [Special reports](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_2/lvl_d4e63)
 
 [**Art. 17***a*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_17_a)
 
 The Federal Council shall define those cases where, with the approval of the canton, a commission may prepare an expert report either on its own initiative or at the request of third parties.
 
-####### [Section 3 Protection of Indigenous Flora and Fauna](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3)
+####### [Section 3 Protection of Indigenous Flora and Fauna](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3)
 
-###### [Protection of animal and plant species](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3/lvl_d1638e66)
+###### [Protection of animal and plant species](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3/lvl_d4e66)
 
 [**Art. 18**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_18) 
 
@@ -325,7 +325,7 @@ The Federal Council shall define those cases where, with the approval of the can
 
 [4] The federal legislation on hunting and the protection of birds and on fisheries is reserved.
 
-###### [Biotopes of national importance](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3/lvl_d1638e68)
+###### [Biotopes of national importance](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3/lvl_d4e68)
 
 [**Art. 18***a*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_18_a)
 
@@ -335,7 +335,7 @@ The Federal Council shall define those cases where, with the approval of the can
 
 [3] The Federal Council may, after consulting the cantons, set time limits for arranging protection measures. Should a canton fail, despite a reminder, to arrange protection measures within the set period, the Federal Department of the Environment, Transport, Energy and Communications may carry out the measures required and pass an appropriate proportion of the costs incurred on to the canton.
 
-###### [Biotopes of regional and local importance and ecological compensation](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3/lvl_d1638e70)
+###### [Biotopes of regional and local importance and ecological compensation](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3/lvl_d4e70)
 
 [**Art. 18***b*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_18_b)
 
@@ -343,7 +343,7 @@ The Federal Council shall define those cases where, with the approval of the can
 
 [2] In intensively used areas within and outside residential areas, the cantons shall ensure ecological compensation by means of thickets, hedgerows, riparian tree plantations, or other near-natural vegetation adapted to the site. In doing so, due consideration must be given to agricultural requirements.
 
-###### [Position of land owners and operators](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3/lvl_d1638e72)
+###### [Position of land owners and operators](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3/lvl_d4e72)
 
 [**Art. 18***c*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_18_c)
 
@@ -355,7 +355,7 @@ The Federal Council shall define those cases where, with the approval of the can
 
 [4] If land must be acquired for the protection objectives to be achieved, the cantons shall have a power of compulsory purchase. In their implementation regulations, they may declare the Compulsory Purchase Act to be applicable, whereby the cantonal government shall rule on any objections that remain in dispute. If the site to be protected extends over the territory of more than one canton, the Compulsory Purchase Act applies.
 
-###### [Financing](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3/lvl_d1638e75)
+###### [Financing](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3/lvl_d4e75)
 
 [**Art. 18***d*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_18_d)
 
@@ -369,13 +369,13 @@ The Federal Council shall define those cases where, with the approval of the can
 
 [5] The Confederation shall bear the costs of designating biotopes of national importance.
 
-###### [Gathering of wild plants and capturing of animals; obligatory approval](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3/lvl_d1638e77)
+###### [Gathering of wild plants and capturing of animals; obligatory approval](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3/lvl_d4e77)
 
 [**Art. 19**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_19) 
 
 The gathering of wild plants and capturing of animals living in the wild for commercial purposes are subject to approval by the competent cantonal authority. Such approval may be restricted to particular species, areas, seasons and quantities or numbers, or in other ways, and organised gathering or capturing activities and the promotion thereof may be prohibited. The foregoing does not apply to normal agricultural and forestry exploitation, or to the collection of conventional amounts of fungi, berries, and herbs used in teas and for medicinal purposes, unless the species in question are protected.
 
-###### [Protection of rare plants and animals](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3/lvl_d1638e79)
+###### [Protection of rare plants and animals](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3/lvl_d4e79)
 
 [**Art. 20**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_20) 
 
@@ -385,7 +385,7 @@ The gathering of wild plants and capturing of animals living in the wild for com
 
 [3] For the purposes of species protection, the Federal Council may also impose conditions on, restrict or prohibit the production, placing on the market, import, export and transit of plants or plant products.
 
-###### [Riparian vegetation](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3/lvl_d1638e81)
+###### [Riparian vegetation](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3/lvl_d4e81)
 
 [**Art. 21**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_21)
 
@@ -393,7 +393,7 @@ The gathering of wild plants and capturing of animals living in the wild for com
 
 [2] Where conditions permit, the cantons shall ensure that riparian vegetation is established if none is present, or at least that conditions favourable to its development are created.
 
-###### [Exceptional approval](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3/lvl_d1638e83)
+###### [Exceptional approval](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3/lvl_d4e83)
 
 [**Art. 22**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_22) 
 
@@ -403,22 +403,22 @@ The gathering of wild plants and capturing of animals living in the wild for com
 
 [3] If on the basis of a different enactment a federal authority is competent to decide on a project, this authority shall grant the exceptional approval. .... 
 
-###### [Foreign animal and plant species: obligatory approval](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3/lvl_d1638e85)
+###### [Foreign animal and plant species: obligatory approval](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3/lvl_d4e85)
 
 [**Art. 23**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23)
 
 The establishment of animals and plants of species, subspecies and breeds not native to the country or site shall be subject to approval by the Federal Council. The foregoing does not apply to enclosures, gardens and parks, or to agricultural and forestry enterprises.
 
-####### [Section 3*a*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_a) [Mires and Mire Landscapes of Outstanding Beauty and National Importance](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_a)
+####### [Section 3*a*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_a) [Mires and Mire Landscapes of Outstanding Beauty and National Importance](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_a)
 
 
-###### [Protection of mires](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_a/lvl_d1638e89)
+###### [Protection of mires](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_a/lvl_d4e89)
 
 [**Art. 23***a*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_a) 
 
 Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding beauty and national importance.
 
-###### [Definition and demarcation of mire landscapes](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_a/lvl_d1638e91)
+###### [Definition and demarcation of mire landscapes](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_a/lvl_d4e91)
 
 [**Art. 23***b*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_b) 
 
@@ -434,7 +434,7 @@ Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding
 
 [4] The Confederation shall finance the work of designating mire landscapes of outstanding beauty and national importance.
 
-###### [Protection of mire landscapes](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_a/lvl_d1638e93)
+###### [Protection of mire landscapes](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_a/lvl_d4e93)
 
 [**Art. 23***c*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_c) 
 
@@ -450,7 +450,7 @@ Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding
 
 [6] Compensatory payments shall be provided only if the measures are cost-effective and are carried out professionally.
 
-###### [Remodelling and use of mire landscapes](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_a/lvl_d1638e95)
+###### [Remodelling and use of mire landscapes](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_a/lvl_d4e95)
 
 [**Art. 23***d*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_d) 
 
@@ -464,9 +464,9 @@ Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding
 |    c. measures designed to protect people against natural disasters;  
 |    d. infrastructure required for the application of letters a–c above.
 
-####### [Section 3*b*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b) [Parks of National Importance](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b)
+####### [Section 3*b*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b) [Parks of National Importance](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b)
 
-###### [Definition and categories](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b/lvl_d1638e99)
+###### [Definition and categories](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b/lvl_d4e99)
 
 [**Art. 23***e*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_e) 
 
@@ -479,7 +479,7 @@ Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding
 |    b. regional nature parks;  
 |    c. nature discovery parks.
 
-###### [National parks](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b/lvl_d1638e101)
+###### [National parks](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b/lvl_d4e101)
 
 [**Art. 23***f*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_f) 
 
@@ -498,7 +498,7 @@ Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding
 |    a. a core zone where nature is allowed to develop freely and to which the general public has only limited access;  
 |    b. a buffer zone where the cultural landscape is managed in a near-natural manner and is protected against detrimental interventions.
 
-###### [Regional nature parks](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b/lvl_d1638e103)
+###### [Regional nature parks](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b/lvl_d4e103)
 
 [**Art. 23***g*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_g) 
 
@@ -510,7 +510,7 @@ Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding
 |    a. the quality of nature and the landscape shall be maintained and enhanced;  
 |    b. sustainable business activities shall be encouraged and the marketing of the resultant goods and services promoted.
 
-###### [Nature discovery parks](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b/lvl_d1638e105)
+###### [Nature discovery parks](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b/lvl_d4e105)
 
 [**Art. 23***h*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_h) 
 
@@ -524,7 +524,7 @@ Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding
 |    a. a core zone where nature is allowed to develop freely and to which the general public has only limited access;  
 |    b. a transition zone where nature can be experienced and which acts as a buffer against harmful intrusions into the core zone.
 
-###### [Support for regional initiatives](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b/lvl_d1638e107)
+###### [Support for regional initiatives](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b/lvl_d4e107)
 
 [**Art. 23***i*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_i) 
 
@@ -532,7 +532,7 @@ Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding
 
 [2] They shall ensure that the residents in the communes concerned can play their part in a suitable manner.
 
-###### [Park label and product label](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b/lvl_d1638e109)
+###### [Park label and product label](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b/lvl_d4e109)
 
 [**Art. 23***j*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_j) 
 
@@ -546,7 +546,7 @@ Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding
 
 [3] The park label and product label are awarded for a limited period.
 
-###### [Financial assistance](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b/lvl_d1638e112)
+###### [Financial assistance](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b/lvl_d4e112)
 
 [**Art. 23***k*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_k) 
 
@@ -559,7 +559,7 @@ Articles 18*a*, 18*c* and 18*d* apply to the protection of mires of outstanding
 
 [2] The amount of financial assistance is determined by the effectiveness of the measures.
 
-###### [Federal Council regulations](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b/lvl_d1638e114)
+###### [Federal Council regulations](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b/lvl_d4e114)
 
 [**Art. 23***l*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_l) 
 
@@ -571,7 +571,7 @@ The Federal Council shall issue regulations on:
 |    c. the conclusion of programme agreements and the verification of the effectiveness of the global financial assistance from the Confederation;  
 |    d. support for scientific research on parks of national importance.
 
-###### [Existing National Park in Canton Graubünden](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_b/lvl_d1638e116)
+###### [Existing National Park in Canton Graubünden](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_b/lvl_d4e116)
 
 [**Art. 23***m*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_m) 
 
@@ -581,9 +581,9 @@ The Federal Council shall issue regulations on:
 
 [3] Any expansion by means of a buffer zone shall be promoted in accordance with Article 23*k*.
 
-####### [Section 3*c*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_c) [Genetic Resources](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_c)
+####### [Section 3*c*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_c) [Genetic Resources](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_c)
 
-###### [Due diligence requirement](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_c/lvl_d1638e119)
+###### [Due diligence requirement](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_c/lvl_d4e119)
 
 [**Art. 23***n*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_n)
 
@@ -611,7 +611,7 @@ The Federal Council shall issue regulations on:
 
 [6] The Federal Council shall regulate what information on utilised genetic resources must be recorded and passed on to subsequent users.
 
-###### [Notification requirement](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_c/lvl_d1638e121)
+###### [Notification requirement](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_c/lvl_d4e121)
 
 [**Art. 23***o*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_o)
 
@@ -621,13 +621,13 @@ The Federal Council shall issue regulations on:
 
 [3] The Federal Council shall designate the authorities responsible for verifying compliance with the notification requirement. It may provide for exemptions to the notification requirement if the verification of compliance with the due diligence requirement is ensured by other means.
 
-###### [Traditional knowledge](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_c/lvl_d1638e124)
+###### [Traditional knowledge](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_c/lvl_d4e124)
 
 [**Art. 23***p*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_p) 
 
 Articles 23*n* and 23*o* also apply to traditional knowledge of indigenous and local communities associated with genetic resources unless such traditional knowledge is already freely available to the public.
 
-###### [Genetic resources in Switzerland](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_3_c/lvl_d1638e126)
+###### [Genetic resources in Switzerland](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_3_c/lvl_d4e126)
 
 [**Art. 23***q*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_23_q) 
 
@@ -635,9 +635,9 @@ Articles 23*n* and 23*o* also apply to traditional knowledge of indigenous and l
 
 [2] The Confederation may support the conservation and sustainable use of genetic resources.
 
-####### [Section 4 Criminal Law Provisions](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_4)
+####### [Section 4 Criminal Law Provisions](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_4)
 
-###### [Misdemeanours](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_4/lvl_d1638e129)
+###### [Misdemeanours](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_4/lvl_d4e129)
 
 [**Art. 24**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_24)
 
@@ -653,7 +653,7 @@ shall be liable to a term of imprisonment not exceeding one year or to a monetar
 
 [2] In cases of negligence, the penalty shall be a fine not exceeding 40,000 Swiss francs.
 
-###### [Contraventions](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_4/lvl_d1638e131)
+###### [Contraventions](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_4/lvl_d4e131)
 
 [**Art. 24***a*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_24_a)
 
@@ -668,19 +668,19 @@ shall be liable to a fine not exceeding 20,000 Swiss francs.
 
 [2] Any person who wilfully fails to provide information or provides false information under Article 23*o* shall be liable to a fine not exceeding 100,000 Swiss francs; in cases of negligence, the penalty shall be a fine not exceeding 40,000 Swiss francs. The court may order the publication of the judgment.
 
-###### [Application to legal entities and commercial companies](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_4/lvl_d1638e133)
+###### [Application to legal entities and commercial companies](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_4/lvl_d4e133)
 
 [**Art. 24***b*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_24_b)
 
 Articles 6 and 7 of the Federal Act of 22 March 1974 on Administrative Criminal Law apply.
 
-###### [Forfeiture](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_4/lvl_d1638e136)
+###### [Forfeiture](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_4/lvl_d4e136)
 
 [**Art. 24***c*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_24_c)
 
 Article 69 of the Criminal Code relating to the forfeiture of unlawfully acquired items and pecuniary benefits applies.
 
-###### [Prosecution](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_4/lvl_d1638e138)
+###### [Prosecution](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_4/lvl_d4e138)
 
 [**Art. 24***d*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_24_d)
 
@@ -688,7 +688,7 @@ Article 69 of the Criminal Code relating to the forfeiture of unlawfully acquire
 
 [2] ... 
 
-###### [Restitution](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_4/lvl_d1638e140)
+###### [Restitution](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_4/lvl_d4e140)
 
 [**Art. 24***e*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_24_e)
 
@@ -699,16 +699,16 @@ Any person who damages a natural or cultural monument protected under this Act, 
 |    b. to pay the costs of remedying the damage;  
 |    c. to take appropriate compensatory measures if the damage is irreparable.
 
-####### [Section 5 Implementation, Organisation and Information](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_5)
+####### [Section 5 Implementation, Organisation and Information](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_5)
 
 
-###### [Implementing powers of the cantons](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_5/lvl_d1638e143)
+###### [Implementing powers of the cantons](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_5/lvl_d4e143)
 
 [**Art. 24***f*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_24_f)
 
 The cantons shall implement this Act unless implementation is assigned to the Confederation. They shall issue the required regulations.
 
-###### [Supervision and coordination by the Confederation](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_5/lvl_d1638e145)
+###### [Supervision and coordination by the Confederation](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_5/lvl_d4e145)
 
 [**Art. 24***g*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_24_g)
 
@@ -716,7 +716,7 @@ The cantons shall implement this Act unless implementation is assigned to the Co
 
 2 It coordinates the implementing measures carried out by the cantons and the relevant federal authorities.
 
-###### [Implementing powers of the Confederation](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_5/lvl_d1638e148)
+###### [Implementing powers of the Confederation](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_5/lvl_d4e148)
 
 [**Art. 24***h*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_24_h)
 
@@ -728,7 +728,7 @@ The cantons shall implement this Act unless implementation is assigned to the Co
 
 [4] The federal implementing authorities shall take account of cantonal nature and cultural heritage protection measures.
 
-###### [Organisation](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_5/lvl_d1638e150)
+###### [Organisation](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_5/lvl_d4e150)
 
 [**Art. 25**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_25)
 
@@ -736,7 +736,7 @@ The cantons shall implement this Act unless implementation is assigned to the Co
 
 [2] The cantons shall designate expert bodies for nature protection, cultural heritage protection and monument preservation.
 
-###### [Information and advice](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_5/lvl_d1638e152)
+###### [Information and advice](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_5/lvl_d4e152)
 
 [**Art. 25***a*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_25_a)
 
@@ -744,9 +744,9 @@ The cantons shall implement this Act unless implementation is assigned to the Co
 
 [2] They shall recommend appropriate measures for protection and upkeep.
 
-####### [Section 6 Final Provisions](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_6)
+####### [Section 6 Final Provisions](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_6)
 
-###### [Restoration of mires and mire landscapes](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_6/lvl_d1638e155)
+###### [Restoration of mires and mire landscapes](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_6/lvl_d4e155)
 
 [**Art. 25***b*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_25_b)
 
@@ -758,13 +758,13 @@ The cantons shall implement this Act unless implementation is assigned to the Co
 
 [**Art. 25***c*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_25_c)
 
-###### [Transition provision to the amendment of 21 March 2014](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_6/lvl_d1638e159)
+###### [Transition provision to the amendment of 21 March 2014](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_6/lvl_d4e159)
 
 [**Art. 25***d*](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_25_d)
 
 Articles 23*n* and 23*o* apply to cases relating to access to genetic resources that occurs after the said provisions come into force.
 
-###### [Commencement](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d1638e3/chap_6/lvl_d1638e161)
+###### [Commencement](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#lvl_d4e3/chap_6/lvl_d4e161)
 
 [**Art. 26**](https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/en#art_26) 
 

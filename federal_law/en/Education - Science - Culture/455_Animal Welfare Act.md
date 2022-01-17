@@ -27,7 +27,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 ## (AniWA)
 
-of 16 December 2005 (Status as of 1 May 2017)
+of 16 December 2005 (Status as of 1 January 2022) 
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -66,7 +66,7 @@ In this Act:
 |    1. testing a scientific hypothesis,  
 |    2. observing the effect of a particular procedure in the animal,  
 |    3. testing a substance,  
-|    4. obtaining or testing cells, organs or bodily fluids, except when this is in the context of agricultural production, diagnostic or curative activities involving the animal or to determine the health status of animal populations,  
+|    4.  obtaining or testing cells, organs or bodily fluids, except when this is in the context of agricultural production, diagnostic or curative activities involving the animal or to determine the health status of animal populations,  
 |    5. obtaining or replicating organisms alien to the species in question,  
 |    6. teaching or training.
 
@@ -386,9 +386,9 @@ Article 6 of the Federal Act of 22 March 1974 on Administrative Criminal Law app
 
 [1] The prosecution and adjudication of offences is a matter for the cantons.
 
-[2] The FSVO shall investigate and judge contraventions as defined in Article 27 paragraph 2 that come to light in the context of the import, transit or export of animals and animal products at the authorised border inspection points. If, at the same time, there has been a contravention of the Customs Act of 18 March 2005 or the Value Added Tax Act of 12 June 2009, the Federal Customs Administration shall investigate and judge the contraventions. 
+[2] The FSVO shall investigate and judge contraventions as defined in Article 27 paragraph 2 that come to light in the context of the import, transit or export of animals and animal products at the authorised border inspection points. If, at the same time, there has been a contravention of the Customs Act of 18 March 2005 or the Value Added Tax Act of 12 June 2009, the Federal Office for Customs and Border Security (FOCBS) shall investigate and judge the contraventions.
 
-[3] If, in the import, transit or export of animals and animal products outside of the authorised border inspection points, there is at the same time a contravention of the Customs Act of 18 March 2005 or the Value Added Tax Act of 12 June 2009, the Federal Customs Administration shall investigate and judge the contraventions.
+[3] If, in the import, transit or export of animals and animal products outside of the authorised border inspection points, there is at the same time a contravention of the Customs Act of 18 March 2005 or the Value Added Tax Act of 12 June 2009, the FOCBS shall investigate and judge the contraventions.
 
 [4] If any contravention as defined in paragraph 1, 2 or 3 simultaneously constitutes a contravention to be prosecuted by the same federal authority under the Federal Act of 16 March 2012 on Trade in Protected Animal and Plant Species, the Customs Act of 18 March 2005, the Value Added Tax Act of 12 June 2009, the Foodstuffs Act of 20 June 2014, the Epizootic Diseases Act of 1 July 1966, the Hunting Act of 20 June 1986 or the Federal Act of 21 June 1991 on Fishing, then the penalty for the most serious contravention applies; it may be increased commensurately.
 

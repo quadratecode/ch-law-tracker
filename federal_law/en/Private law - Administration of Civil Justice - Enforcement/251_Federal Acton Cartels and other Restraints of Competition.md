@@ -27,7 +27,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 ## (Cartel Act, CartA)
 
-of 6 October 1995 (Status as of 1 December 2014)
+of 6 October 1995 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation
 
@@ -69,6 +69,8 @@ The purpose of this Act is to prevent the harmful economic or social effects of 
 1 Agreements affecting competition are binding or non-binding agreements and concerted practices between undertakings operating at the same or at different levels of production which have a restraint of competition as their object or effect.
 
 2 Dominant undertakings are one or more undertakings in a specific market that are able, as suppliers or consumers, to behave to an appreciable extent independently of the other participants (competitors, suppliers or consumers) in the market.
+
+[2bis] An undertaking with relative market power is an undertaking on which other undertakings are dependent for the supply of or demand for goods or services in such a way that there are no adequate and reasonable opportunities for switching to other undertakings.
 
 3 Concentration of undertakings are:
 
@@ -114,9 +116,9 @@ The purpose of this Act is to prevent the harmful economic or social effects of 
 
 3 General notices are published by the Competition Commission in the Federal Gazette. Ordinances within the meaning of paragraphs. 1 and 2 above shall be issued by the Federal Council.
 
-[**Art. 7** Unlawful practices by dominant undertakings](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#art_7) 
+[**Art. 7** Unlawful practices by dominant undertakings and undertakings with relative market power](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#art_7)
 
-1 Dominant undertakings behave unlawfully if they, by abusing their position in the market, hinder other undertakings from starting or continuing to compete, or disadvantage trading partners.
+1 Dominant undertakings and undertakings with relative market power behave unlawfully if, by abusing their position in the market, they hinder other undertakings from starting or continuing to compete, or disadvantage trading partners. 
 
 2 The following behaviour is in particular considered unlawful:
 
@@ -126,7 +128,8 @@ The purpose of this Act is to prevent the harmful economic or social effects of 
 |    c. any imposition of unfair prices or other unfair conditions of trade;  
 |    d. any under-cutting of prices or other conditions directed against a specific competitor;  
 |    e. any limitation of production, supply or technical development;  
-|    f. any conclusion of contracts on the condition that the other contracting party agrees to accept or deliver additional goods or services.
+|    f. any conclusion of contracts on the condition that the other contracting party agrees to accept or deliver additional goods or services;  
+|    g. the restriction of the opportunity for buyers to purchase goods or services offered both in Switzerland and abroad at the market prices and conditions customary in the industry in the foreign country concerned.
 
 [**Art. 8** Exceptional authorisation for compelling public interest reasons](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#art_8) 
 
@@ -408,7 +411,7 @@ Federal and cantonal government offices are required to co-operate with the comp
 
 |    a. the behaviour under investigation in the recipient state is also unlawful under Swiss law;   
 |    b. both competition authorities are investigating the same or related behaviour or transactions;   
-|    c. foreign competition authority uses the data only for the purpose of applying provisions of competition law or as evidence in relation to the subject matter of the investigation for which the competition authority requested the information;   
+|    c. foreign competition authority uses the data only for the purpose of applyingprovisions of competition law or as evidence in relation to the subject matter of the investigation for which the competition authority requested the information;   
 |    d. the data is not used in criminal or civil proceedings;  
 |    e. the foreign procedural law safeguards party rights and official secrecy; and  
 |    f. the confidential data is not disclosed to the foreign competition authority in the context of an amicable settlement (Art. 29) or when assisting in the discovery and elimination of the restraint of competition (Art. 49*a*para. 2).
@@ -468,7 +471,7 @@ Federal and cantonal government offices are required to co-operate with the comp
 
 [**Art. 49***a*](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#art_49_a) [Sanction for unlawful restraints of competition](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#art_49_a) 
 
-1 Any undertaking that participates in an unlawful agreement pursuant to Article 5 paragraphs 3 and 4 or that behaves unlawfully pursuant to Article 7 shall be charged up to 10 per cent of the turnover that it achieved in Switzerland in the preceding three financial years. Article 9 paragraph 3 applies by analogy. The amount is dependent on the duration and severity of the unlawful behaviour. Due account shall be taken of the likely profit that resulted from the unlawful behaviour.
+1 Any undertaking that participates in an unlawful agreement pursuant to Article 5 paragraphs 3 and 4 or that has relative market power and behaves unlawfully pursuant to Article 7 shall be charged up to 10 per cent of the turnover that it achieved in Switzerland in the preceding three financial years. Article 9 paragraph 3 applies by analogy. The amount is dependent on the duration and severity of the unlawful behaviour. Due account shall be taken of the likely profit that resulted from the unlawful behaviour.
 
 2 If the undertaking assists in the discovery and elimination of the restraint of competition, a charge may be waived in whole or in part.
 
@@ -590,9 +593,9 @@ Commencement date:
 Articles 18–25 on 1 February 1996  
 all other provisions on 1 July 1996
 
-# [Annex](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#lvl_d385e95)
+# [Annex](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#lvl_d4e95)
 
-## [Amendment of Federal Acts](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#lvl_d385e95/lvl_d385e96)
+## [Amendment of Federal Acts](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#lvl_d4e95/lvl_d4e96)
 
 ...
 

@@ -471,7 +471,7 @@ Federal and cantonal government offices are required to co-operate with the comp
 
 [**Art. 49***a*](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#art_49_a) [Sanction for unlawful restraints of competition](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#art_49_a) 
 
-1 Any undertaking that participates in an unlawful agreement pursuant to Article 5 paragraphs 3 and 4 or that has relative market power and behaves unlawfully pursuant to Article 7 shall be charged up to 10 per cent of the turnover that it achieved in Switzerland in the preceding three financial years. Article 9 paragraph 3 applies by analogy. The amount is dependent on the duration and severity of the unlawful behaviour. Due account shall be taken of the likely profit that resulted from the unlawful behaviour.
+1 Any undertaking that participates in an unlawful agreement pursuant to Article 5 paragraphs 3 and 4 or that is dominant and behaves unlawfully pursuant to Article 7 shall be charged up to 10 per cent of the turnover that it achieved in Switzerland in the preceding three financial years. Article 9 paragraph 3 applies by analogy. The amount is dependent on the duration and severity of the unlawful behaviour. Due account shall be taken of the likely profit that resulted from the unlawful behaviour.
 
 2 If the undertaking assists in the discovery and elimination of the restraint of competition, a charge may be waived in whole or in part.
 
@@ -597,5 +597,5 @@ all other provisions on 1 July 1996
 
 ## [Amendment of Federal Acts](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/en#lvl_d4e95/lvl_d4e96)
 
-...
+....
 

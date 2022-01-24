@@ -27,7 +27,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 ## (National Economic Supply Act, NESA)
 
-of 17 June 2016 (Status as of 1 January 2020)
+of 17 June 2016 (Status as of 1 January 2022) 
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -540,9 +540,9 @@ Any person who in times of impending threat or existing severe shortages knowing
 
 [1] The cantons prosecute and judge offences under this Act.
 
-[2] Offences against the provisions of this Act relating to authorisation requirements for the import of goods (Art. 7 para. 3) and on restricting exports (Art. 31 para. 2 let. i) are prosecuted and judged by the Federal Customs Administration (FCA).
+[2] Offences against the provisions of this Act relating to authorisation requirements for the import of goods (Art. 7 para. 3) and on restricting exports (Art. 31 para. 2 let. i) are prosecuted and judged by the Federal Office for Customs and Border Security (FOCBS).
 
-[3] If an offence both contravenes paragraph 2 and constitutes an offence prosecuted by the FCA, the penalty for the more serious offence applies. The FCA may increase the penalty appropriately.
+[3] If an offence both contravenes paragraph 2 and constitutes an offence prosecuted by the FOCBS, the penalty for the more serious offence applies. The FOCBS may increase the penalty appropriately.
 
 [**Art. 56** FONES legal status](https://www.fedlex.admin.ch/eli/cc/2017/308/en#art_56) 
 
@@ -616,7 +616,7 @@ Any person involved in the implementation of this Act is required to preserve pr
 
 [2] Article 169 of the Criminal Procedure Code applies by analogy.
 
-[3] Irrespective of any duty of confidentiality, the FCA shall provide the FONES, the specialist divisions, the private entities managing the guarantee funds and the private-sector organisations with receipts and data, insofar as these are essential for the implementation of the Act.
+[3] Irrespective of any duty of confidentiality, the FOCBS shall provide the FONES, the specialist divisions, the private entities managing the guarantee funds and the private-sector organisations with receipts and data, insofar as these are essential for the implementation of the Act.
 
 # [Chapter 9 Final provisions](https://www.fedlex.admin.ch/eli/cc/2017/308/en#chap_9)
 
@@ -636,7 +636,7 @@ Commencement date: 1 June 2017
 
 (Art. 34 para. 1 and 4)
 
-## [Temporary non-applicability of provisions of other legislation](https://www.fedlex.admin.ch/eli/cc/2017/308/en#annex_1/lvl_d1371e92)
+## [Temporary non-applicability of provisions of other legislation](https://www.fedlex.admin.ch/eli/cc/2017/308/en#annex_1/lvl_d4e92)
 
 The Federal Council may declare the following provisions to be temporarily inapplicable:
 
@@ -647,7 +647,7 @@ The Federal Council may declare the following provisions to be temporarily inapp
 
 (Art. 65)
 
-## [Repeal and amendment of other legislation](https://www.fedlex.admin.ch/eli/cc/2017/308/en#annex_2/lvl_d1371e94)
+## [Repeal and amendment of other legislation](https://www.fedlex.admin.ch/eli/cc/2017/308/en#annex_2/lvl_d4e94)
 
 I
 

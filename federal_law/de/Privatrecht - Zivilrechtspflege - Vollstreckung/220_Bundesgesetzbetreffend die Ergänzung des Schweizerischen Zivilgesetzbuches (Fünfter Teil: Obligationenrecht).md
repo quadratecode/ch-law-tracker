@@ -16446,7 +16446,7 @@ Die Artikel 964*d*–964*h* finden erstmals Anwendung auf das Geschäftsjahr, d
 
 # [Übergangsbestimmung zur Änderung vom 19. Juni 2020](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_11)
 
-Die Vorschriften des 6. Abschnitts und des 7. Abschnitts des 32. Titels finden erstmals Anwendung auf das Geschäftsjahr, das ein Jahr nach Inkrafttreten der Änderung vom 19. Juni 2020 beginnt.
+Die Vorschriften des 6. Abschnitts und des 8. Abschnitts des 32. Titels finden erstmals Anwendung auf das Geschäftsjahr, das ein Jahr nach Inkrafttreten der Änderung vom 19. Juni 2020 beginnt.
 
 # [Schlussbestimmungen zum VIII. Titel und zum VIII[bis]. Titel](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#disp_12)
 

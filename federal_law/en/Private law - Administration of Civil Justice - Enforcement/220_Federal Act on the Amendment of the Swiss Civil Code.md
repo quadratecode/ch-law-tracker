@@ -15917,7 +15917,7 @@ Articles 964*d*–964*h* apply for the first time to the financial year that be
 
 # [Transitional provision to the Amendment of 19 June 2020](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11)
 
-The provisions of Section 6 and Section 7 of Title 32 apply for the first time to the financial year that begins one year after the Amendment of 19 June 2020 comes into force.
+The provisions of Section 6 and Section 8 of Title 32 apply for the first time to the financial year that begins one year after the Amendment of 19 June 2020 comes into force.
 
 # [Final Provisions on Title Eight and Title Eight[bis]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12)
 

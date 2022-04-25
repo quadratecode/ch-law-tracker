@@ -23,7 +23,7 @@ IT: presente documento non è una pubblicazione ufficiale. Fa unicamente fede la
 
 # Bundesverfassung der Schweizerischen Eidgenossenschaft
 
-vom 18. April 1999 (Stand am 7. März 2021)
+vom 18. April 1999 (Stand am 13. Februar 2022)
 
 ##### **Präambel**
 
@@ -115,7 +115,7 @@ Jede Person hat Anspruch darauf, von den staatlichen Organen ohne Willkür und n
 
 [3] Folter und jede andere Art grausamer, unmenschlicher oder erniedrigender Behandlung oder Bestrafung sind verboten.
 
-[**Art. 10***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_10_a) [Verbot der Verhüllung des eigenen Gesichts](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_10_a)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_10_a) 
+[**Art. 10***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_10_a) [Verbot der Verhüllung des eigenen Gesichts](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_10_a)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_10_a) 
 
 [1] Niemand darf sein Gesicht im öffentlichen Raum und an Orten verhüllen, die öffent­lich zugänglich sind oder an denen grundsätzlich von jedermann beanspruchbare Dienstleistungen angeboten werden; das Verbot gilt nicht für Sakralstätten.
 
@@ -352,7 +352,7 @@ Jede Person hat bei Rechtsstreitigkeiten Anspruch auf Beurteilung durch eine ric
 |    d. Erwerbsfähige ihren Lebensunterhalt durch Arbeit zu angemessenen Be­din­gungen bestreiten können;  
 |    e. Wohnungssuchende für sich und ihre Familie eine angemessene Wohnung zu tragbaren Bedingungen finden können;  
 |    f. Kinder und Jugendliche sowie Personen im erwerbsfähigen Alter sich nach ihren Fähigkeiten bilden, aus- und weiterbilden können;  
-|    g. Kinder und Jugendliche in ihrer Entwicklung zu selbstständigen und sozial verantwortlichen Personen gefördert und in ihrer sozialen, kulturellen und politischen Integration unterstützt werden.
+|    g. Kinder und Jugendliche in ihrer Entwicklung zu selbstständigen und sozial verantwortlichen Personen gefördert und in ihrer sozialen, kulturellen und politischen Integration unterstützt werden sowie ihre Gesundheit gefördert wird.
 
 [2] Bund und Kantone setzen sich dafür ein, dass jede Person gegen die wirtschaft­lichen Folgen von Alter, Invalidität, Krankheit, Unfall, Arbeitslosigkeit, Mutterschaft, Verwaisung und Verwitwung gesichert ist.
 
@@ -579,7 +579,7 @@ Die Kantone bestimmen, welche Aufgaben sie im Rahmen ihrer Zuständigkeiten erf�
 
 [3] Sie setzen sich bei der Erfüllung ihrer Aufgaben dafür ein, dass allgemein bildende und berufsbezogene Bildungswege eine gleichwertige gesellschaftliche Anerkennung finden.
 
-[**Art. 62** Schulwesen](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_62)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_62) 
+[**Art. 62** Schulwesen](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_62)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_62) 
 
 [1] Für das Schulwesen sind die Kantone zuständig.
 
@@ -725,7 +725,7 @@ Bund und Kantone streben ein auf Dauer ausgewogenes Verhältnis zwischen der Nat
 
 [3] Er kann Vorschriften erlassen über die Harmonisierung amtlicher Informationen, welche Grund und Boden betreffen.
 
-[**Art. 75***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_75_b) [Zweitwohnungen](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_75_b)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_75_b) 
+[**Art. 75***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_75_b) [Zweitwohnungen](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_75_b)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_75_b) 
 
 [1] Der Anteil von Zweitwohnungen am Gesamtbestand der Wohneinheiten und der für Wohnzwecke genutzten Bruttogeschossfläche einer Gemeinde ist auf höchstens 20 Prozent beschränkt.
 
@@ -811,7 +811,7 @@ Der Bund kann im Interesse des ganzen oder eines grossen Teils des Landes öffen
 
 [2] Der Bund stellt die Errichtung eines Netzes von Nationalstrassen und dessen Benutzbarkeit sicher. Er baut, betreibt und unterhält die Nationalstrassen. Er trägt die Kosten dafür. Er kann die Aufgabe ganz oder teilweise öffentlichen, privaten oder gemischten Trägerschaften übertragen.
 
-[**Art. 84** Alpenquerender Transitverkehr](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_84)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_84) 
+[**Art. 84** Alpenquerender Transitverkehr](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_84)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_84) 
 
 [1] Der Bund schützt das Alpengebiet vor den negativen Auswirkungen des Transit­verkehrs. Er begrenzt die Belastungen durch den Transitverkehr auf ein Mass, das für Menschen, Tiere und Pflanzen sowie ihre Lebensräume nicht schädlich ist.
 
@@ -819,7 +819,7 @@ Der Bund kann im Interesse des ganzen oder eines grossen Teils des Landes öffen
 
 [3] Die Transitstrassen-Kapazität im Alpengebiet darf nicht erhöht werden. Von dieser Beschränkung ausgenommen sind Umfahrungsstrassen, die Ortschaften vom Durch­gangsverkehr entlasten.
 
-[**Art. 85** Schwerverkehrsabgabe](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_85)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_85) 
+[**Art. 85** Schwerverkehrsabgabe](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_85)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_85) 
 
 [1] Der Bund kann auf dem Schwerverkehr eine leistungs- oder verbrauchsabhängige Abgabe erheben, soweit der Schwerverkehr der Allgemeinheit Kosten verursacht, die nicht durch andere Leistungen oder Abgaben gedeckt sind.
 
@@ -831,7 +831,7 @@ Der Bund kann im Interesse des ganzen oder eines grossen Teils des Landes öffen
 
 Der Bund erhebt eine Abgabe für die Benützung der Nationalstrassen durch Motorfahrzeuge und Anhänger, die nicht der Schwerverkehrsabgabe unterstehen.
 
-[**Art. 86**](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_86) [Verwendung von Abgaben für Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_86)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_86) 
+[**Art. 86**](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_86) [Verwendung von Abgaben für Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_86)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_86) 
 
 [1] Die Nationalstrassen sowie die Beiträge an Massnahmen zur Verbesserung der Verkehrsinfrastruktur in Städten und Agglomerationen im Zusammenhang mit dem Strassenverkehr werden über einen Fonds finanziert.
 
@@ -862,11 +862,11 @@ Der Bund erhebt eine Abgabe für die Benützung der Nationalstrassen durch Motor
 
 [5] Ist der Bedarf in der Spezialfinanzierung ausgewiesen und soll in der Spezialfinanzierung eine angemessene Rückstellung gebildet werden, so sind Erträge aus der Verbrauchssteuer nach Artikel 131 Absatz 1 Buchstabe d, statt dem Fonds zuzuweisen, der Spezialfinanzierung gutzuschreiben.
 
-[**Art. 87** Eisenbahnen und weitere Verkehrsträger](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_87)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_87) 
+[**Art. 87** Eisenbahnen und weitere Verkehrsträger](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_87)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_87) 
 
 Die Gesetzgebung über den Eisenbahnverkehr, die Seilbahnen, die Schifffahrt sowie über die Luft- und Raumfahrt ist Sache des Bundes.
 
-[**Art. 87***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_87_a) [Eisenbahninfrastruktur](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_87_a)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_87_a) 
+[**Art. 87***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_87_a) [Eisenbahninfrastruktur](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_87_a)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_87_a) 
 
 [1] Der Bund trägt die Hauptlast der Finanzierung der Eisenbahninfrastruktur.
 
@@ -913,7 +913,7 @@ Für die folgenden Aufgaben und Aufwendungen im Zusammenhang mit dem Luftverkehr
 
 [5] Der Bund trägt in seiner Energiepolitik den Anstrengungen der Kantone und Gemeinden sowie der Wirtschaft Rechnung; er berücksichtigt die Verhältnisse in den einzelnen Landesgegenden und die wirtschaftliche Tragbarkeit.
 
-[**Art. 90** Kernenergie](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_90)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_90) 
+[**Art. 90** Kernenergie](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_90)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_90) 
 
 Die Gesetzgebung auf dem Gebiet der Kernenergie ist Sache des Bundes.
 
@@ -953,7 +953,7 @@ Die Gesetzgebung auf dem Gebiet der Kernenergie ist Sache des Bundes.
 
 [4] Abweichungen vom Grundsatz der Wirtschaftsfreiheit, insbesondere auch Mass­nahmen, die sich gegen den Wettbewerb richten, sind nur zulässig, wenn sie in der Bundesverfassung vorgesehen oder durch kantonale Regalrechte begründet sind.
 
-[**Art. 95** Privatwirtschaftliche Erwerbstätigkeit](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_95)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_95) 
+[**Art. 95** Privatwirtschaftliche Erwerbstätigkeit](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_95)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_95) 
 
 [1] Der Bund kann Vorschriften erlassen über die Ausübung der privatwirtschaftlichen Erwerbstätigkeit.
 
@@ -1023,13 +1023,13 @@ Die Gesetzgebung auf dem Gebiet der Kernenergie ist Sache des Bundes.
 
 [2] In besonderen Fällen kann er Massnahmen treffen zum Schutz der inländischen Wirtschaft. Er kann nötigenfalls vom Grundsatz der Wirtschaftsfreiheit abweichen.
 
-[**Art. 102** Landesversorgung](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_102)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_102) 
+[**Art. 102** Landesversorgung](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_102)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_102) 
 
 [1] Der Bund stellt die Versorgung des Landes mit lebenswichtigen Gütern und Dienstleistungen sicher für den Fall machtpolitischer oder kriegerischer Bedrohun­gen sowie in schweren Mangellagen, denen die Wirtschaft nicht selbst zu begegnen vermag. Er trifft vorsorgliche Massnahmen.
 
 [2] Er kann nötigenfalls vom Grundsatz der Wirtschaftsfreiheit abweichen.
 
-[**Art. 103** Strukturpolitik](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_103)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_103) 
+[**Art. 103** Strukturpolitik](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_103)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_103) 
 
 Der Bund kann wirtschaftlich bedrohte Landesgegenden unterstützen sowie Wirt­schaftszweige und Berufe fördern, wenn zumutbare Selbsthilfemassnahmen zur Sicherung ihrer Existenz nicht ausreichen. Er kann nötigenfalls vom Grundsatz der Wirtschaftsfreiheit abweichen.
 
@@ -1116,7 +1116,7 @@ Die Gesetzgebung über Herstellung, Einfuhr, Reinigung und Verkauf gebrannter Wa
 
 [2] Er kann Vorschriften über die Allgemeinverbindlicherklärung von Rahmenmiet­verträgen erlassen. Solche dürfen nur allgemeinverbindlich erklärt werden, wenn sie begründeten Minderheitsinteressen sowie regionalen Verschiedenheiten angemessen Rechnung tragen und die Rechtsgleichheit nicht beeinträchtigen.
 
-[**Art. 110** Arbeit](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_110)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_110) 
+[**Art. 110** Arbeit](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_110)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_110) 
 
 [1] Der Bund kann Vorschriften erlassen über:
 
@@ -1171,7 +1171,7 @@ Die Gesetzgebung über Herstellung, Einfuhr, Reinigung und Verkauf gebrannter Wa
 
 [2] Das Gesetz legt den Umfang der Ergänzungsleistungen sowie die Aufgaben und Zuständigkeiten von Bund und Kantonen fest.
 
-[**Art. 112***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_b) [Förderung der Eingliederung Invalider](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_b)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_b) 
+[**Art. 112***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_b) [Förderung der Eingliederung Invalider](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_b)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_b) 
 
 [1] Der Bund fördert die Eingliederung Invalider durch die Ausrichtung von Geld- und Sachleistungen. Zu diesem Zweck kann er Mittel der Invalidenversicherung ver­wenden.
 
@@ -1179,13 +1179,13 @@ Die Gesetzgebung über Herstellung, Einfuhr, Reinigung und Verkauf gebrannter Wa
 
 [3] Das Gesetz legt die Ziele der Eingliederung und die Grundsätze und Kriterien fest.
 
-[**Art. 112***c*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_c) [Betagten- und Behindertenhilfe](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_c)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_c) 
+[**Art. 112***c*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_c) [Betagten- und Behindertenhilfe](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_c)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_112_c) 
 
 [1] Die Kantone sorgen für die Hilfe und Pflege von Betagten und Behinderten zu Hause.
 
 [2] Der Bund unterstützt gesamtschweizerische Bestrebungen zu Gunsten Betagter und Behinderter. Zu diesem Zweck kann er Mittel aus der Alters-, Hinterlassenen- und Invalidenversicherung verwenden.
 
-[**Art. 113** Berufliche Vorsorge](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_113)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_113) 
+[**Art. 113** Berufliche Vorsorge](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_113)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_113) 
 
 [1] Der Bund erlässt Vorschriften über die berufliche Vorsorge.
 
@@ -1249,6 +1249,12 @@ Bedürftige werden von ihrem Wohnkanton unterstützt. Der Bund regelt die Aus­n
 |    a. die Aus- und Weiterbildung für Berufe der medizinischen Grundversorgung und über die Anforderungen zur Ausübung dieser Berufe;  
 |    b. die angemessene Abgeltung der Leistungen der Hausarztmedizin.
 
+[**Art. 117***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_117_b) [Pflege](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_117_b)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_117_b) 
+
+[1] Bund und Kantone anerkennen und fördern die Pflege als wichtigen Bestandteil der Gesundheitsversorgung und sorgen für eine ausreichende, allen zugängliche Pflege von hoher Qualität.
+
+[2] Sie stellen sicher, dass eine genügende Anzahl diplomierter Pflegefachpersonen für den zunehmenden Bedarf zur Verfügung steht und dass die in der Pflege tätigen Personen entsprechend ihrer Ausbildung und ihren Kompetenzen eingesetzt werden.
+
 [**Art. 118** Schutz der Gesundheit](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_118) 
 
 [1] Der Bund trifft im Rahmen seiner Zuständigkeiten Massnahmen zum Schutz der Gesundheit.
@@ -1257,7 +1263,7 @@ Bedürftige werden von ihrem Wohnkanton unterstützt. Der Bund regelt die Aus­n
 
 
 |    a. den Umgang mit Lebensmitteln sowie mit Heilmitteln, Betäubungsmitteln, Organismen, Chemikalien und Gegenständen, welche die Gesundheit gefähr­den können;  
-|    b. die Bekämpfung übertragbarer, stark verbreiteter oder bösartiger Krankhei­ten von Menschen und Tieren;  
+|    b. die Bekämpfung übertragbarer, stark verbreiteter oder bösartiger Krankheiten von Menschen und Tieren; er verbietet namentlich jede Art von Werbung für Tabakprodukte, die Kinder und Jugendliche erreicht;\*  
 |    c. den Schutz vor ionisierenden Strahlen.
 
 [**Art. 118***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_118_a) [Komplementärmedizin](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_118_a) 
@@ -1299,7 +1305,7 @@ Bund und Kantone sorgen im Rahmen ihrer Zuständigkeiten für die Berücksichtig
 
 [3] Die Spende von menschlichen Organen, Geweben und Zellen ist unent­geltlich. Der Handel mit menschlichen Organen ist verboten.
 
-[**Art. 120** Gentechnologie im Ausserhumanbereich](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_120)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_120) 
+[**Art. 120** Gentechnologie im Ausserhumanbereich](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_120)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_120) 
 
 [1] Der Mensch und seine Umwelt sind vor Missbräuchen der Gentechnologie geschützt.
 
@@ -1308,7 +1314,7 @@ Bund und Kantone sorgen im Rahmen ihrer Zuständigkeiten für die Berücksichtig
 ### [9. Abschnitt: Aufenthalt und Niederlassung von Ausländerinnen und Ausländern](https://www.fedlex.admin.ch/eli/cc/1999/404/de#tit_3/chap_2/sec_9)
 
 
-[**Art. 121** Gesetzgebung im Ausländer- und Asylbereich](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121) 
+[**Art. 121** Gesetzgebung im Ausländer- und Asylbereich](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121) 
 
 [1] Die Gesetzgebung über die Ein- und Ausreise, den Aufenthalt und die Niederlas­sung von Ausländerinnen und Ausländern sowie über die Gewährung von Asyl ist Sache des Bundes.
 
@@ -1326,7 +1332,7 @@ Bund und Kantone sorgen im Rahmen ihrer Zuständigkeiten für die Berücksichtig
 
 [6] Wer das Einreiseverbot missachtet oder sonstwie illegal in die Schweiz einreist, macht sich strafbar. Der Gesetzgeber erlässt die entsprechenden Bestimmungen.
 
-[**Art. 121***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121_a) [Steuerung der Zuwanderung](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121_a)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121_a) 
+[**Art. 121***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121_a) [Steuerung der Zuwanderung](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121_a)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121_a) 
 
 [1] Die Schweiz steuert die Zuwanderung von Ausländerinnen und Ausländern eigenständig.
 
@@ -1405,7 +1411,7 @@ Die Gesetzgebung über das Messwesen ist Sache des Bundes.
 
 [3] Die interkantonale Doppelbesteuerung ist untersagt. Der Bund trifft die erforder­lichen Massnahmen.
 
-[**Art. 128** Direkte Steuern](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_128)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_128) 
+[**Art. 128** Direkte Steuern](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_128)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_128) 
 
 [1] Der Bund kann eine direkte Steuer erheben:
 
@@ -1428,7 +1434,7 @@ Die Gesetzgebung über das Messwesen ist Sache des Bundes.
 
 [3] Der Bund kann Vorschriften gegen ungerechtfertigte steuerliche Vergünstigungen erlassen.
 
-[**Art. 130**](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_130) [Mehrwertsteuer](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_130)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_130) 
+[**Art. 130**](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_130) [Mehrwertsteuer](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_130)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_130) 
 
 [1] Der Bund kann auf Lieferungen von Gegenständen und auf Dienstleistungen einschliesslich Eigenverbrauch sowie auf Einfuhren eine Mehrwertsteuer mit einem Normalsatz von höchstens 6,5 Prozent und einem reduzierten Satz von mindestens 2,0 Prozent erheben.
 
@@ -1440,7 +1446,7 @@ Die Gesetzgebung über das Messwesen ist Sache des Bundes.
 
 [4] 5 Prozent des nicht zweckgebundenen Ertrags werden für die Prämienverbilligung in der Krankenversicherung zu Gunsten unterer Einkommensschichten verwendet, sofern nicht durch Gesetz eine andere Verwendung zur Entlastung unterer Einkommensschichten festgelegt wird.
 
-[**Art. 131** Besondere Verbrauchssteuern](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_131)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_131) 
+[**Art. 131** Besondere Verbrauchssteuern](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_131)[\*](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_131) 
 
 [1] Der Bund kann besondere Verbrauchssteuern erheben auf:
 
@@ -2044,6 +2050,8 @@ Die Verlagerung des Gütertransitverkehrs auf die Schiene muss zehn Jahre nach d
 
 
 
+|  |  |
+| --- | --- |
 |  | Fr. |
 | |    a. für Lastwagen und Sattelmotorfahrzeuge von | |      |
 | |    – über 3,5 bis 12 t |   650 |
@@ -2195,9 +2203,30 @@ Ist die Ausführungsgesetzgebung zu Artikel 121*a* drei Jahre nach dessen Annahm
 
 Die Ausführungsgesetzgebung zu Artikel 10*a* ist innert zweier Jahre nach dessen Annahme durch Volk und Stände zu erarbeiten.
 
+13. Übergangsbestimmung zu Art. 117b (Pflege)
+
+[1] Der Bund erlässt im Rahmen seiner Zuständigkeiten Ausführungsbestimmungen über:
+
+
+|    a. die Festlegung der Pflegeleistungen, die von Pflegefachpersonen zulasten der Sozialversicherungen erbracht werden:  
+|    1. in eigener Verantwortung,  
+|    2. auf ärztliche Anordnung;
+
+
+|    b. die angemessene Abgeltung der Pflegeleistungen;  
+|    c. anforderungsgerechte Arbeitsbedingungen für die in der Pflege tätigen Personen;  
+|    d. Möglichkeiten der beruflichen Entwicklung von den in der Pflege tätigen Personen.
+
+[2] Die Bundesversammlung verabschiedet die gesetzlichen Ausführungsbestimmungen innert vier Jahren seit Annahme von Artikel 117*b* durch Volk und Stände. Bis zum Inkrafttreten der gesetzlichen Ausführungsbestimmungen trifft der Bundesrat innerhalb von achtzehn Monaten nach Annahme von Artikel 117*b* durch Volk und Stände wirksame Massnahmen zur Behebung des Mangels an diplomierten Pflegefachpersonen.
+
+14. Übergangsbestimmung zu Art. 118 Abs. 2 Bst. b (Schutz der Gesundheit)
+
+Die Bundesversammlung verabschiedet die gesetzlichen Ausführungsbestimmungen innert drei Jahren seit Annahme von Artikel 118 Absatz 2 Buchstabe b durch Volk und Stände.
+
 Datum des Inkrafttretens: 1. Januar 2000
 
 # [Schlussbestimmungen des Bundesbeschlusses vom 18. Dezember 1998](https://www.fedlex.admin.ch/eli/cc/1999/404/de#disp_1)
+
 
 II
 
@@ -2240,13 +2269,14 @@ IV
 
 [2] Die Bundesversammlung bestimmt das Inkrafttreten.
 
-# [Sachverzeichnis](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297)
+# [Sachverzeichnis](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298)
+
 
 Die arabischen Zahlen beziehen sich auf die Artikelnummern, römische Ziffern auf die Schluss­bestimmungen des Bundesbeschlusses vom 18. Dezember 1998.
 
 Die Hinweise sind bloss informell und haben keine rechtliche Verbindlichkeit.
 
-## [A](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_A)
+## [A](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_A)
 
 **Aargau** 1
 
@@ -2502,7 +2532,7 @@ Autonomie
 |    – der Kantone 3, 43, 47  
 |    – in der Programmgestaltung 93
 
-## [B](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_B)
+## [B](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_B)
 
 **Backmehl** 196 Ziff. 6
 
@@ -2776,13 +2806,13 @@ Bundesversammlung
 
 **Bürgerrecht** 37, 38
 
-## [C](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_C)
+## [C](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_C)
 
 **Chancengleichheit** 2
 
 **Chemikalien** 104, 118
 
-## [D](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_D)
+## [D](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_D)
 
 **Dasein**, menschenwürdiges 12
 
@@ -2840,7 +2870,7 @@ Demokratie
 
 **Durchsetzung** des Bundesrechts 49, 173
 
-## [E](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_E)
+## [E](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_E)
 
 **Ehe** 14
 
@@ -3019,7 +3049,7 @@ Erwerbstätigkeit
 
 **Existenzbedarf** 112, 112*a*, 196 Ziff. 10
 
-## [F](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_F)
+## [F](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_F)
 
 **Fahrzeuge,** Energieverbrauch der 89
 
@@ -3128,7 +3158,7 @@ Frieden
 
 **Fusswege** 88
 
-## [G](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_G)
+## [G](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_G)
 
 **Garantien** der Kantone 189
 
@@ -3246,7 +3276,7 @@ Gesetze
 
 **Gestaltungsfreiheit** der Kantone 46
 
-**Gesundheit** 41, 118–120*a*
+**Gesundheit** 41, 118–120*a,* 197 Ziff. 14
 
 **Getränke**, alkoholische 105, 131, 196   
 Ziff. 15, Ziff. II
@@ -3313,7 +3343,7 @@ Grundrechte
 
 **Gütertransitverkehr** 84, 196 Ziff. 1
 
-## [H](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_H)
+## [H](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_H)
 
 **Haft** 31
 
@@ -3376,7 +3406,7 @@ Hilfe
 
 **Humanbereich** der Gentechnologie 119
 
-## [I](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_I)
+## [I](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_I)
 
 **Immunität** 162
 
@@ -3449,7 +3479,7 @@ Inkrafttreten
 
 **Italienisch** 4, 70
 
-## [J](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_J)
+## [J](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_J)
 
 **Ja**, doppeltes 139*b*, Ziff. II
 
@@ -3465,13 +3495,14 @@ Jugendliche
 |    – erzieherische Massnahmen 123  
 |    – musikalische Bildung 67*a*  
 |    – Schutz 11  
-|    – Sozialziele 41
+|    – Sozialziele 41  
+|    – Werbung für Tabakprodukte 118[2b]
 
 **Jugendsport** 68
 
 Jura 1
 
-## [K](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_K)
+## [K](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_L)
 
 **Kammern** 148
 
@@ -3532,7 +3563,8 @@ Kinder
 |    – Schutz 11  
 |    – Sozialziele 41  
 |    – Unverjährbarkeit pornografischer   
-Straftaten an Kindern 123*b*
+Straftaten an Kindern 123*b*  
+|    – Werbung für Tabakprodukte 118[2b]
 
 **Kino** 71
 
@@ -3631,7 +3663,7 @@ Krankheit
 
 **Kursäle** 196 Ziff. 8
 
-## [L](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_L)
+## [L](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_M)
 
 Land
 
@@ -3713,7 +3745,7 @@ Land
 
 **Luzern** 1
 
-## [M](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_M)
+## [M](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_N)
 
 **Mangellagen** 102
 
@@ -3830,7 +3862,7 @@ Mitwirkung
 
 **Mutterschaftsversicherung** 116
 
-## [N](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_N)
+## [N](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_O)
 
 **Nachhaltigkeit** (Präambel), 2, 73
 
@@ -3897,7 +3929,7 @@ Nutzung
 |    – des Wassers 76  
 |    – der Gewässer 76
 
-## [O](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_O)
+## [O](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_P)
 
 Oberaufsicht
 
@@ -3956,7 +3988,7 @@ Organisationen
 
 **Ortsbilder** 78
 
-## [P](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_P)
+## [P](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_P)
 
 **Pädophile** 123*c*
 
@@ -3978,7 +4010,7 @@ Parteien
 
 **Pflanzenarten** 120, 197 Ziff. 7
 
-**Pflege** 41
+**Pflege** 41, 117*b*
 
 **Pflichten**, politische 136
 
@@ -4022,7 +4054,7 @@ Parteien
 |    – Zivilrecht 122  
 |    – Strafrecht 123
 
-## [R](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_R)
+## [R](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_R)
 
 **Rabatte**, konjunkturstabilisierende 100
 
@@ -4164,7 +4196,7 @@ Rücksichtnahme
 |    – allgemein (Präambel)  
 |    – von Bund und Kantonen, gegenseitige 44
 
-## [S](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_S)
+## [S](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_S)
 
 **Sachleistungen** 112
 
@@ -4444,9 +4476,13 @@ Streitwertgrenze
 
 **Suchtprobleme**, Bekämpfung der 131
 
-## [T](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_T)
+## [T](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_T)
 
-**Tabaksteuer** 112, 131
+**Tabak**
+
+
+|    – Tabakprodukte, Werbung für 118[2b]  
+|    – Tabaksteuer 112, 131
 
 **Tarife** im Post- und Fernmeldewesen 92
 
@@ -4516,7 +4552,7 @@ Treibstoffe
 
 **Truppen**, Aufgebot in dringlichen Fällen 185
 
-## [U](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_U)
+## [U](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_U)
 
 **Übergangsbestimmung** 196
 
@@ -4613,14 +4649,14 @@ Unterstützung
 
 **Urteilsverkündung** 30
 
-## [V](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_V)
+## [V](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_V)
 
 **Velowege** 88
 
 Verantwortung
 
 
-|    – allgemein (Präambel), 6  
+|    – allgemein (Präambel) 6  
 |    – Persönliche 41
 
 **Verbilligung** des Wohnungsbaus und der Wohnkosten 108
@@ -4754,7 +4790,7 @@ Verträge
 Vielfalt
 
 
-|    – des Landes (Präambel), 2  
+|    – des Landes (Präambel) 2  
 |    – kulturelle und sprachliche 69  
 |    – genetische 120
 
@@ -4799,7 +4835,7 @@ Vollzug
 
 **Vorsorgeeinrichtung** 113
 
-## [W](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_W)
+## [W](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_W)
 
 **Waadt** 1
 
@@ -4933,7 +4969,7 @@ Wirtschaft
 
 **Würde** 7, 118*b*, 120
 
-## [Z](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d2779e297/lvl_Z)
+## [Z](https://www.fedlex.admin.ch/eli/cc/1999/404/de#lvl_d4e298/lvl_Z)
 
 **Zensur** 17
 

@@ -5509,6 +5509,8 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normal­arbeits­vertr
 
 
 
+|  |  |
+| --- | --- |
 | Artikel 321*c*: | Absatz 1 (Überstunden­arbeit) |
 | Artikel 323: | Absatz 4 (Vorschuss) |
 | Artikel 323*b*: | Absatz 2 (Verrechnung mit Gegenforderungen) |
@@ -5551,6 +5553,8 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normal­arbeits­vertr
 
 
 
+|  |  |
+| --- | --- |
 | Artikel 321*e*: | (Haftung des Arbeitnehmers) |
 | Artikel 322*a*: | Absätze 2 und 3 (Anteil am Geschäftsergebnis) |
 | Artikel 322*b*: | Absätze 1 und 2 (Entstehung des Provisions­anspruchs) |

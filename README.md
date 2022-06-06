@@ -1,3 +1,7 @@
+# IMPORTANT
+
+This repository was archived on 2022-06-06. Due to changes in the source, the scraper does no longer work.
+
 # Disclaimer
 
 Regarding the MD files under `/federal_law/*` or any laws or legal texts present in this repository please observe the following disclaimer:
